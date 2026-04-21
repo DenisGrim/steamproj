@@ -1,0 +1,16 @@
+services:
+  db:
+    image: postgres
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: pass
+    volumes:
+      - ./mydata:/var/lib/postgresql/data
+
+  etl:
+    build: ./etl
+    depends_on:
+      - db
+
+  api:
+    build: ./api
