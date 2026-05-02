@@ -5,12 +5,15 @@ services:
       POSTGRES_USER: user
       POSTGRES_PASSWORD: pass
     volumes:
-      - ./mydata:/var/lib/postgresql/data
+      - ./db/init:/docker-entrypoint-initdb.d
+#      - ./mydata:/var/lib/postgresql/data
 
   etl:
     build: ./etl
     depends_on:
       - db
 
-  api:
-    build: ./api
+#  scrape:
+#    depends_on:
+#      - db
+
