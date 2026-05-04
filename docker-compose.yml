@@ -7,13 +7,19 @@ services:
     volumes:
       - ./db/init:/docker-entrypoint-initdb.d
 #      - ./mydata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U user"]
+      interval: 2s
+      retries: 15
 
   etl:
     build: ./etl
     depends_on:
       - db
 
-#  scrape:
-#    depends_on:
-#      - db
+  scrape:
+    build: ./scrape
+    depends_on:
+      db:
+        condition: service_healthy
 

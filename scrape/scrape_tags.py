@@ -1,4 +1,5 @@
 from requests import get
+import psycopg2
 from json import dumps
 import re
 from bs4 import BeautifulSoup
@@ -24,7 +25,36 @@ def q_get_tags():
     tags = [tag.get_text(strip=True) for tag in soup.select(".glance_tags a.app_tag")]
     return tags
 
+
+def sql_test():
+    conn = psycopg2.connect(
+        host="db",
+        #dbname="user",
+        user="user",
+        password="pass"
+    )
+
+    cur = conn.cursor()
+    cur.execute(
+        "INSERT INTO games (name, id) VALUES (%s, %s);",
+        ("void stranger", 2121980)
+    )
+    tags = q_get_tags()
+
+    cur.executemany(
+        """
+        INSERT INTO game_tags (game_id, tag_id)
+        SELECT %s, id
+        FROM tags
+        WHERE name = %s
+        ON CONFLICT DO NOTHING;
+        """,
+        [(2121980,t) for t in tags]
+    )
+    conn.commit()
+
+    cur.close()
+    conn.close()
+
 if __name__ == "__main__":
-    with open("test.txt", "w") as f:
-        for tag in q_get_tags():
-            f.write(tag + "\n")
+    sql_test()

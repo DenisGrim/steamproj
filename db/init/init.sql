@@ -1,5 +1,5 @@
 CREATE TABLE games (
-    id SERIAL PRIMARY KEY,
+    id INT PRIMARY KEY,
     name TEXT NOT NULL
 );
 
