@@ -1,0 +1,69 @@
+from requests import get
+import time, random
+from pathlib import Path
+import psycopg2
+import csv
+import json
+import pandas as pd
+
+base_path = Path(__file__).resolve().parent
+
+headers = headers = {
+    "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "same-origin",
+    "Sec-Fetch-User": "?1",
+    "Priority": "u=0, i"
+}
+
+def get_reviews(app_id, cursor = "*"):
+    html_url = f"https://store.steampowered.com/appreviews/{app_id}?json=1"
+    params = {"filter": "recent", "language": "all", "cursor": cursor, "num_per_page": "100"}
+
+    # get raw json
+    response = get(html_url, params=params, headers=headers).json()
+    return response
+
+
+def write_review_file(app_id, data):
+    # TODO: Add scores (ewighted helpful, funny, helpful....)
+    filename = f"{app_id}_reviews"
+    with open(base_path / f"../mydata/{filename}.csv", "w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerow(["app_id", "steamid", "review"])  # header
+ 
+        for r in data["reviews"]:
+            steamid = r["author"]["steamid"]
+            review = r["review"]
+            writer.writerow([app_id, steamid, review])
+
+
+def main():
+    data = pd.read_csv(base_path / "../mydata/final_filtered_over10.csv")
+    # DOES HE TAKE EVERY ID AS OFTEN AS IT APPEARS IN CSV??????????
+    for app_id in data["app_id"]:
+        response = get_reviews(app_id)
+
+        # handle rate limitation
+        if response["success"] == 0:
+            for i in range(2,6):
+                delay = i * i * 5
+                print(f"rate limit. Retrying {app_id} in {delay}")
+                time.sleep(delay)
+                response = get_reviews(app_id)
+                if response["success"] == 1:
+                    break
+
+        if response["success"] == 0:
+            return
+
+        write_review_file(app_id, response)
+        print(f"{app_id} reviews written")
+        time.sleep(random.uniform(0.8, 2.0))
+
+if __name__ == "__main__":
+    main()

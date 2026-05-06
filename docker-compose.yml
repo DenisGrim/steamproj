@@ -6,7 +6,7 @@ services:
       POSTGRES_PASSWORD: pass
     volumes:
       - ./db/init:/docker-entrypoint-initdb.d
-      - ./mydata:/var/lib/postgresql/data
+      - pgdata:/var/lib/postgresql
     healthcheck:
       test: ["CMD-SHELL", "pg_isready -U user"]
       interval: 2s
@@ -16,10 +16,16 @@ services:
     build: ./etl
     depends_on:
       - db
+    volumes:
+      - ./mydata:/mydata
 
   scrape:
     build: ./scrape
     depends_on:
       db:
         condition: service_healthy
+    volumes:
+      - ./mydata:/mydata
 
+volumes:
+  pgdata:
