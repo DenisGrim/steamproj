@@ -6,7 +6,7 @@ services:
       POSTGRES_PASSWORD: pass
     volumes:
       - ./db/init:/docker-entrypoint-initdb.d
-#      - ./mydata:/var/lib/postgresql/data
+      - ./mydata:/var/lib/postgresql/data
     healthcheck:
       test: ["CMD-SHELL", "pg_isready -U user"]
       interval: 2s

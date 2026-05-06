@@ -203,7 +203,7 @@ Cinematic
 2.5D
 Isometric
 Abstract
-D Vision
+3D Vision
 Split Screen
 Voxel
 FMV
