@@ -30,22 +30,27 @@ def get_reviews(app_id, cursor = "*"):
 
 
 def write_review_file(app_id, data):
-    # TODO: Add scores (ewighted helpful, funny, helpful....)
     filename = f"{app_id}_reviews"
     with open(base_path / f"../mydata/{filename}.csv", "w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
-        writer.writerow(["app_id", "steamid", "review"])  # header
+        writer.writerow(["app_id", "user_id", "review", "does_recommend", "funny", "helpful", "weight", "playtime_at_review"])  # header
  
         for r in data["reviews"]:
             steamid = r["author"]["steamid"]
             review = r["review"]
-            writer.writerow([app_id, steamid, review])
+            recommend = r["voted_up"]
+            funny = r["votes_funny"]
+            helpful = r["votes_up"]
+            weight = r["weighted_vote_score"]
+            playtime = r["author"]["playtime_at_review"]
+            writer.writerow([app_id, steamid, review, recommend, funny, helpful, weight, playtime])
+        f.close()
+        print(f"done writing {app_id}")
 
 
 def main():
-    data = pd.read_csv(base_path / "../mydata/final_filtered_over10.csv")
-    # DOES HE TAKE EVERY ID AS OFTEN AS IT APPEARS IN CSV??????????
-    for app_id in data["app_id"]:
+    data = pd.read_csv(base_path / "../mydata/poc_data/final_filtered_over10.csv")
+    for app_id in data["app_id"].unique():
         response = get_reviews(app_id)
 
         # handle rate limitation
@@ -62,7 +67,7 @@ def main():
             return
 
         write_review_file(app_id, response)
-        print(f"{app_id} reviews written")
+        print(f"{app_id} reviews written\n")
         time.sleep(random.uniform(0.8, 2.0))
 
 if __name__ == "__main__":

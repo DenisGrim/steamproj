@@ -3,14 +3,14 @@ CREATE TABLE games (
     name TEXT NOT NULL
 );
 
-CREATE TABLE tags (
-    id SERIAL PRIMARY KEY,
-    name TEXT UNIQUE NOT NULL
+CREATE TABLE reviews (
+    game_id INT, -- INT REFERENCES games(id), -- this is a TODO
+    user_id BIGINT NOT NULL, -- user_id == steam_id
+    review TEXT,
+    does_recommend INT NOT NULL,
+    funny INT,
+    helpful INT,
+    weight DECIMAL,
+    playtime_at_review INT, -- in hours I think
+    review_length INT
 );
-
-CREATE TABLE game_tags (
-    game_id INT REFERENCES games(id),
-    tag_id INT REFERENCES tags(id),
-    PRIMARY KEY (game_id, tag_id)
-);
-COPY tags(name) FROM '/docker-entrypoint-initdb.d/tags.txt';

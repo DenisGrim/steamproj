@@ -13,7 +13,7 @@ services:
       retries: 15
 
   etl:
-    build: ./etl
+    build: ./transformer
     depends_on:
       - db
     volumes:
