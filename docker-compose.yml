@@ -1,12 +1,13 @@
 services:
   db:
-    image: postgres
+    image: pgvector/pgvector:pg18-trixie
     environment:
       POSTGRES_USER: user
       POSTGRES_PASSWORD: pass
     volumes:
       - ./db/init:/docker-entrypoint-initdb.d
       - pgdata:/var/lib/postgresql
+      - ./mydata:/mydata # until I let it load all game_ids
     healthcheck:
       test: ["CMD-SHELL", "pg_isready -U user"]
       interval: 2s
