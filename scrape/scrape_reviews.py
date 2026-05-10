@@ -32,10 +32,13 @@ def get_reviews(app_id, cursor = "*"):
 
 def write_review_file(app_id, data):
     filename = f"{app_id}_reviews"
+    # remove all reviews with no review-text (called ["review"])
+    data["reviews"] = [review for review in data["reviews"] if len(review["review"]) > 0]
 
-    # check if no reviews
+    # check if no valid reviews
     if len(data["reviews"]) == 0:
         print(f"reviews for {app_id} don't exist!")
+        return
 
     with open(base_path / f"../mydata/{filename}.csv", "w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)

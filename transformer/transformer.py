@@ -47,14 +47,13 @@ def convert_recommend(df, file):
 
 
 def add_embed_to_game(df):
-    all_reviews = "\n".join(df["review"].dropna())
+    all_reviews = "\n".join(df["review"])
     # all_reviews might be too long at times. TODO
     eb = embed_text(all_reviews)
     l.insert_embedding_to_games(df.at[0, "app_id"], eb)
 
 
 def main():
-    l.db_copy_gameids("/mydata/poc_data/poc_input.csv")
     observer = Observer()
     observer.schedule(Handler(), path="/mydata", recursive=False)
 

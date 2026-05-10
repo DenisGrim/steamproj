@@ -1,28 +1,6 @@
 import psycopg2
 import os
 
-#takes file that is used for scraping. Run via transformer for now. TODO make main.py
-# this maybe in db cause it makes no sense here? TODO
-def db_copy_gameids(file):
-    conn = psycopg2.connect(
-        host="db",
-        user="user",
-        password="pass"
-    )
-    cur = conn.cursor()
-    with open(file, "r") as f:
-        cur.copy_expert("""
-            COPY games(
-                id
-            )
-            FROM STDIN WITH CSV HEADER
-        """, f)
-
-    conn.commit()
-
-    cur.close()
-    conn.close()
-
 
 # TODO make connection just one time
 def db_copy_reviews(file):
@@ -68,7 +46,7 @@ def insert_embedding_to_games(game_id, tensor):
     game_id = int(game_id)
 
     cur.execute(
-            "UPDATE games SET embedding = %s::vector WHERE id = %s",
+            "UPDATE games SET embedding = %s::vector WHERE app_id = %s",
         (tensor_list, game_id)
     )
 
