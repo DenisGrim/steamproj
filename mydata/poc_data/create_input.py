@@ -1,0 +1,7 @@
+import pandas as pd
+
+# takes a tag filtered file and makes proof of concept input csv
+file = input("file: ")
+data = pd.read_csv(file)
+new_data = pd.Series(data["app_id"].unique(), name = "app_id")
+new_data.to_csv("poc_input.csv", index=False)

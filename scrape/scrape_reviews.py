@@ -3,9 +3,11 @@ import time, random
 from pathlib import Path
 import psycopg2
 import csv
+import os
 import json
 import pandas as pd
 
+# TODO idk if I need this. Doesnt just /mydata... work?
 base_path = Path(__file__).resolve().parent
 
 headers = headers = {
@@ -31,6 +33,14 @@ def get_reviews(app_id, cursor = "*"):
 
 def write_review_file(app_id, data):
     filename = f"{app_id}_reviews"
+    # remove all reviews with no review-text (called ["review"])
+    data["reviews"] = [review for review in data["reviews"] if len(review["review"]) > 0]
+
+    # check if no valid reviews
+    if len(data["reviews"]) == 0:
+        print(f"reviews for {app_id} don't exist!")
+        return
+
     with open(base_path / f"../mydata/{filename}.csv", "w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
         writer.writerow(["app_id", "user_id", "review", "does_recommend", "funny", "helpful", "weight", "playtime_at_review"])  # header
@@ -49,7 +59,10 @@ def write_review_file(app_id, data):
 
 
 def main():
-    data = pd.read_csv(base_path / "../mydata/poc_data/final_filtered_over10.csv")
+    # remove file signalling observer is ready
+    os.remove("/mydata/setup-complete")
+
+    data = pd.read_csv(base_path / "../mydata/poc_data/poc_input.csv")
     for app_id in data["app_id"].unique():
         response = get_reviews(app_id)
 

@@ -1,6 +1,9 @@
+CREATE EXTENSION vector;
+
 CREATE TABLE games (
-    id INT PRIMARY KEY,
-    name TEXT NOT NULL
+    app_id INT PRIMARY KEY,
+    name TEXT, -- TEXT NOT NULL, --TODO add names/titles...
+    embedding vector(768)
 );
 
 CREATE TABLE reviews (
@@ -14,3 +17,4 @@ CREATE TABLE reviews (
     playtime_at_review INT, -- in hours I think
     review_length INT
 );
+COPY games (app_id) FROM '/mydata/poc_data/poc_input.csv' WITH (HEADER TRUE);

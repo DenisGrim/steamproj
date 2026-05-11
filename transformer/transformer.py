@@ -3,7 +3,8 @@ from watchdog.events import FileSystemEventHandler
 import time
 import os
 import pandas as pd
-from loader import db_copy
+import loader as l
+from encoder import embed_text
 
 
 class Handler(FileSystemEventHandler):
@@ -14,56 +15,54 @@ class Handler(FileSystemEventHandler):
 
     def on_moved(self, event):
     """
+    # remember all files it handles
     processed = set([])
 
     def on_closed(self, event):
-        if event.src_path.endswith(".csv"):
+        if event.src_path.endswith("reviews.csv"):
             if event.src_path in self.processed:
                 return
-            print("ready: ", event.src_path)
-            #print("transformer will sleep first")
-            #time.sleep(0.5)
-            append_review_length(event.src_path)
-            convert_recommend(event.src_path)
+            file = event.src_path
+            print("ready: ", file)
+            df = pd.read_csv(file)
+            append_review_length(df, file)
+            convert_recommend(df, file)
 
-            db_copy(event.src_path)
+            l.db_copy_reviews(file)
+            add_embed_to_game(df)
             # TODO: os.remove(file)
             # move instead of delete for now
-            os.rename(event.src_path, "/mydata/del/" + event.src_path.lstrip("/mydata/"))
-            self.processed.add(event.src_path)
+            os.rename(file, "/mydata/del/" + file.lstrip("/mydata/"))
+            self.processed.add(file)
 
 
-def append_review_length(filepath):
-    df = pd.read_csv(filepath)
+def append_review_length(df, file):
     df["review_length"] = df["review"].fillna("").str.len().astype(int)
-    df.to_csv(filepath, index=False)
+    df.to_csv(file, index=False)
 
-def convert_recommend(filepath):
-    df = pd.read_csv(filepath)
+
+def convert_recommend(df, file):
     df["does_recommend"] = df["does_recommend"].astype(int)
+    df.to_csv(file, index=False)
 
-    """
-    df["does_recommend"] = (
-        df["does_recommend"]
-        .map({"True": 1, "False": 0})
-    )
-    """
 
-    df.to_csv(filepath, index=False)
+def add_embed_to_game(df):
+    all_reviews = "\n".join(df["review"])
+    # all_reviews might be too long at times. TODO
+    eb = embed_text(all_reviews)
+    l.insert_embedding_to_games(df.at[0, "app_id"], eb)
+
 
 def main():
-    """
-    print("transformer is ready")
-    print(f"Watching directory: /mydata", flush=True)
-    print(f"Directory exists: {os.path.exists('/mydata')}", flush=True)
-    print(f"Directory contents: {os.listdir('/mydata')}", flush=True)
-    """
-    
     observer = Observer()
     observer.schedule(Handler(), path="/mydata", recursive=False)
 
     observer.start()
     print("Observer started!", flush=True)
+
+    # marks service as healthy (see dockercompose)
+    with open("/mydata/setup-complete", "w") as f:
+        f.close()
 
     try:
         while True:
@@ -72,6 +71,7 @@ def main():
         observer.stop()
 
     observer.join()
+
 
 if __name__ == "__main__":
     main()
