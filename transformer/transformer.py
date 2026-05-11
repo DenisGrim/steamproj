@@ -19,7 +19,7 @@ class Handler(FileSystemEventHandler):
     processed = set([])
 
     def on_closed(self, event):
-        if event.src_path.endswith(".csv"):
+        if event.src_path.endswith("reviews.csv"):
             if event.src_path in self.processed:
                 return
             file = event.src_path
@@ -59,6 +59,10 @@ def main():
 
     observer.start()
     print("Observer started!", flush=True)
+
+    # marks service as healthy (see dockercompose)
+    with open("/mydata/setup-complete", "w") as f:
+        f.close()
 
     try:
         while True:

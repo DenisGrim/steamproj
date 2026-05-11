@@ -15,15 +15,19 @@ services:
 
   etl:
     build: ./transformer
-    depends_on:
-      - db
     volumes:
       - ./mydata:/mydata
+    healthcheck:
+      test: ["CMD", "test", "-f", "/mydata/setup-complete"]
+      interval: 4s
+      retries: 50
 
   scrape:
     build: ./scrape
     depends_on:
       db:
+        condition: service_healthy
+      etl:
         condition: service_healthy
     volumes:
       - ./mydata:/mydata

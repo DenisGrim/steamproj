@@ -3,6 +3,7 @@ import time, random
 from pathlib import Path
 import psycopg2
 import csv
+import os
 import json
 import pandas as pd
 
@@ -58,7 +59,9 @@ def write_review_file(app_id, data):
 
 
 def main():
-    # TODO random csv name
+    # remove file signalling observer is ready
+    os.remove("/mydata/setup-complete")
+
     data = pd.read_csv(base_path / "../mydata/poc_data/poc_input.csv")
     for app_id in data["app_id"].unique():
         response = get_reviews(app_id)
