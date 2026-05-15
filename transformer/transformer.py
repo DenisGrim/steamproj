@@ -47,10 +47,13 @@ def convert_recommend(df, file):
 
 
 def add_embed_to_game(df):
-    all_reviews = "\n".join(df["review"])
     # all_reviews might be too long at times. TODO
-    eb = embed_text(all_reviews)
-    l.insert_embedding_to_games(df.at[0, "app_id"], eb)
+    all_reviews = []
+    for review in df["review"]:
+        eb = embed_text(review)
+        all_reviews.append(eb)
+    avg_eb = sum(e / len(all_reviews) for e in all_reviews)
+    l.insert_embedding_to_games(df.at[0, "app_id"], avg_eb)
 
 
 def main():

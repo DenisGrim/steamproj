@@ -1,6 +1,6 @@
 import pandas as pd
 
-# takes a tag filtered file and makes proof of concept input csv
+# takes a csv file with app_id and makes proof of concept input csv
 file = input("file: ")
 data = pd.read_csv(file)
 new_data = pd.Series(data["app_id"].unique(), name = "app_id")

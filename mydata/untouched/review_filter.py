@@ -2,7 +2,7 @@ import pandas as pd
 
 csv = input("file: ")
 tags_df = pd.read_csv(csv)
-reviews_df = pd.read_csv("untouched/reviews.csv", usecols=["app_id", "total"])
+reviews_df = pd.read_csv("reviews.csv", usecols=["app_id", "total"])
 
 reviews_df["total"] = pd.to_numeric(reviews_df["total"], errors="coerce")
 

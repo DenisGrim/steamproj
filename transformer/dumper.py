@@ -21,4 +21,4 @@ def dump_games():
     
     # writing to txt because csvs are in gitignore
     print(f"wriitng output.txt with shape: {df.shape}")
-    df.to_csv("/mydata/poc_data/output.txt", index=False)
+    df.to_csv("/mydata/poc_data/output.csv", index=False)
