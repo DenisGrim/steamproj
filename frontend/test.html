@@ -1,0 +1,17 @@
+<input id="q">
+<button onclick="search()">Search</button>
+
+<div id="results"></div>
+
+<script>
+async function search() {
+    const q = document.getElementById("q").value;
+
+    const response = await fetch("/search?q=" + encodeURIComponent(q));
+
+    const results = await response.json();
+
+    document.getElementById("results").innerHTML =
+        results.map(r => `<p>${r.title}</p>`).join("");
+}
+</script>
