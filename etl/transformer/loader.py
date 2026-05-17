@@ -1,14 +1,13 @@
 import psycopg2
 import os
 
+conn = psycopg2.connect(
+    host="db",
+    user="user",
+    password="pass"
+)
 
-# TODO make connection just one time
 def db_copy_reviews(file):
-    conn = psycopg2.connect(
-        host="db",
-        user="user",
-        password="pass"
-    )
 
     cur = conn.cursor()
     with open(file, "r") as f:
@@ -30,15 +29,9 @@ def db_copy_reviews(file):
     conn.commit()
 
     cur.close()
-    conn.close()
 
 
 def insert_embedding_to_games(game_id, tensor):
-    conn = psycopg2.connect(
-        host="db",
-        user="user",
-        password="pass"
-    )
     cur = conn.cursor()
 
     tensor_list = tensor.tolist()
