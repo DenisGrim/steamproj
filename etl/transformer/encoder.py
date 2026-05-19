@@ -12,6 +12,8 @@ model = SentenceTransformer(
     #config_kwargs={"_attn_implementation": "flash_attention_2"},  # doenst work with my amd lmao
 )
 
+
+# TODO: maybe this gets a lot faster with batching. multiple reviews/games at once
 # TODO might need to split reviews into seperate ones and have it embed those. There was something
 # for this, I'm pretty sure
 def embed_text(text):

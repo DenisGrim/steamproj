@@ -15,7 +15,7 @@ services:
   backend:
     build: ./backend
     ports:
-      - "8000:8000"
+      - "7892:7892"
     depends_on:
       db:
         condition: service_healthy

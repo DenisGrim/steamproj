@@ -1,8 +1,11 @@
 from fastapi import FastAPI
+from fastapi.staticfiles import StaticFiles
+import torch
 from sentence_transformers import SentenceTransformer
 import psycopg2
 
 app = FastAPI()
+app.mount("/static", StaticFiles(directory="static"), name="static")
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -17,22 +20,25 @@ model = SentenceTransformer(
 
 conn = psycopg2.connect(
     host="db",
-    database="mydb",
-    user="postgres",
-    password="password"
+    database="postgres",
+    user="user",
+    password="pass"
 )
 
 @app.get("/search")
 def search(q: str):
-
-    embedding = model.encode(q).tolist()
+    embedding = model.encode(
+            sentences = [q],
+            task = "retrieval",
+            prompt_name="document",
+            ).tolist()[0]
 
     cur = conn.cursor()
 
     cur.execute("""
         SELECT app_id
         FROM games
-        ORDER BY embedding <=> %s
+        ORDER BY 1 - (embedding <=> %s::vector) DESC
         LIMIT 10
     """, (embedding,))
 

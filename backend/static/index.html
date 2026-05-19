@@ -12,6 +12,6 @@ async function search() {
     const results = await response.json();
 
     document.getElementById("results").innerHTML =
-        results.map(r => `<p>${r.title}</p>`).join("");
+        results.map(r => `<p>${r.ID}</p>`).join("");
 }
 </script>
