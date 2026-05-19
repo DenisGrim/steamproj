@@ -3,5 +3,5 @@ set -e
 
 pg_restore \
   -U user \
-  -d mydb \
+  -d postgres \
   /docker-entrypoint-initdb.d/mydb.dump
