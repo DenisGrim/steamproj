@@ -1,0 +1,38 @@
+FROM pgvector/pgvector:pg18-trixie
+
+# Set environment variables
+ENV POSTGRES_USER=user
+ENV POSTGRES_PASSWORD=pass
+ENV PGDATA=/var/lib/postgresql/data
+
+# Install dependencies for ETL and scrape
+RUN apt-get update && apt-get install -y \
+    python3 \
+    python3-pip \
+    python3-venv \
+    curl \
+    && rm -rf /var/lib/apt/lists/*
+
+# Create working directories
+RUN mkdir -p /mydata /etl /scrape
+
+# Copy ETL files
+COPY ./transformer /etl
+WORKDIR /etl
+RUN if [ -f requirements.txt ]; then pip3 install --break-system-packages -r requirements.txt; fi
+
+# Copy scrape files
+COPY ./scrape /scrape
+WORKDIR /scrape
+RUN if [ -f requirements.txt ]; then pip3 install --break-system-packages -r requirements.txt; fi
+
+# Copy database init scripts
+COPY ./db/init /docker-entrypoint-initdb.d
+
+# Expose PostgreSQL port
+EXPOSE 5432
+
+# Use the startup script as entrypoint
+COPY ./startup.sh /startup.sh
+RUN chmod +x /startup.sh
+CMD ["/startup.sh"]

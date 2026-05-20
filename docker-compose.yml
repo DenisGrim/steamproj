@@ -4,18 +4,33 @@ services:
     environment:
       POSTGRES_USER: user
       POSTGRES_PASSWORD: pass
-      POSTGRES_DATABASE: mydb
     volumes:
       - ./db/init:/docker-entrypoint-initdb.d
+      - pgdata:/var/lib/postgresql
+      - ./mydata:/mydata # until I let it load all game_ids
     healthcheck:
       test: ["CMD-SHELL", "pg_isready -U user"]
       interval: 2s
       retries: 15
 
-  backend:
-    build: ./backend
-    ports:
-      - "7892:7892"
+  etl:
+    build: ./transformer
+    volumes:
+      - ./mydata:/mydata
+    healthcheck:
+      test: ["CMD", "test", "-f", "/mydata/setup-complete"]
+      interval: 4s
+      retries: 50
+
+  scrape:
+    build: ./scrape
     depends_on:
       db:
         condition: service_healthy
+      etl:
+        condition: service_healthy
+    volumes:
+      - ./mydata:/mydata
+
+volumes:
+  pgdata:
