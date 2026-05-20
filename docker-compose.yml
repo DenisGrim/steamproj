@@ -2,6 +2,7 @@ services:
   db:
     image: pgvector/pgvector:pg18-trixie
     environment:
+      DB_HOST: db
       POSTGRES_USER: user
       POSTGRES_PASSWORD: pass
     volumes:

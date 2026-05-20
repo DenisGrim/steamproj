@@ -4,6 +4,7 @@ FROM pgvector/pgvector:pg18-trixie
 ENV POSTGRES_USER=user
 ENV POSTGRES_PASSWORD=pass
 ENV PGDATA=/var/lib/postgresql/data
+ENV DB_HOST=localhost
 
 # Install dependencies for ETL and scrape
 RUN apt-get update && apt-get install -y \
@@ -29,8 +30,8 @@ RUN if [ -f requirements.txt ]; then pip3 install --break-system-packages -r req
 # Copy database init scripts
 COPY ./db/init /docker-entrypoint-initdb.d
 
-# Expose PostgreSQL port
-EXPOSE 5432
+RUN mkdir /mydata/poc_data
+COPY ./mydata/poc_data/poc_input.csv /mydata/poc_data/poc_input.csv
 
 # Use the startup script as entrypoint
 COPY ./startup.sh /startup.sh

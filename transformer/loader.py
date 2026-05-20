@@ -2,7 +2,7 @@ import psycopg2
 import os
 
 conn = psycopg2.connect(
-    host="db",
+    host=os.getenv("DB_HOST", "localhost"),
     user="user",
     password="pass"
 )

@@ -1,5 +1,7 @@
 #!/bin/bash
 set -e
+export PYTHONUNBUFFERED=1
+mkdir /mydata/del
 
 echo "Starting PostgreSQL..."
 # Start PostgreSQL in the background
@@ -16,9 +18,9 @@ echo "PostgreSQL is ready!"
 # Run ETL
 echo "Running ETL..."
 cd /etl
-python3 transformer.py
+python3 transformer.py &
 until test -f /mydata/setup-complete; do
-  sleep 2
+ sleep 2
 done
 echo "ETL started!"
 
@@ -28,4 +30,6 @@ cd /scrape
 python3 scrape_reviews.py
 echo "Scrape complete!"
 
-
+until test -f /mydata/completed; do
+  sleep 2
+done
