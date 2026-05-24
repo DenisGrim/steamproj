@@ -32,16 +32,14 @@ def search(q: str):
             task = "retrieval",
             prompt_name="document",
             ).tolist()[0]
-
     cur = conn.cursor()
-
     cur.execute("""
-        SELECT app_id
+        SELECT 
+            app_id,
+            1 - (embedding <=> %s::vector) AS similarity
         FROM games
-        ORDER BY 1 - (embedding <=> %s::vector) DESC
+        ORDER BY similarity DESC
         LIMIT 10
     """, (embedding,))
-
     rows = cur.fetchall()
-
-    return [{"ID": r[0]} for r in rows]
+    return [{"ID": r[0], "similarity": r[1]} for r in rows]
