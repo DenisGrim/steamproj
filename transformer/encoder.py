@@ -3,6 +3,7 @@ import torch
 # from sklearn.metrics.pairwise import cosine_similartiy  # this will compare two embeddings
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+print(f"Using device: {device}")
 
 model = SentenceTransformer(
     "jinaai/jina-embeddings-v5-text-nano",
@@ -23,3 +24,16 @@ def embed_text(text):
             prompt_name="document",
             )
     return embedding[0]
+
+
+def embed_batch(app_texts):
+    app_ids = list(app_texts.keys())
+    texts = list(app_texts.values())
+
+    embeddings = model.encode(
+        sentences=texts,
+        task="retrieval",
+        prompt_name="document",
+    )
+
+    return dict(zip(app_ids, embeddings))

@@ -1,7 +1,12 @@
 #!/bin/bash
 set -e
 export PYTHONUNBUFFERED=1
-mkdir /mydata/del
+/usr/sbin/sshd
+
+until test -f /mydata/poc_data/poc_input.csv; do
+ echo "Waiting for poc_input.csv to appear"
+ sleep 2
+done
 
 echo "Starting PostgreSQL..."
 # Start PostgreSQL in the background
