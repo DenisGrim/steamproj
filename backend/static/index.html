@@ -1,5 +1,8 @@
-<input id="q">
-<button onclick="search()">Search</button>
+<link rel="stylesheet" href="style.css">
+<div class="search-box">
+  <input id="q" maxlength="300" placeholder="Search..." />
+  <button onclick="search()">Search</button>
+</div>
 
 <div id="results"></div>
 
@@ -12,6 +15,7 @@ async function search() {
     const results = await response.json();
 
     document.getElementById("results").innerHTML =
-        results.map(r => `<p>${r.ID}</p>`).join("");
+			results.map(r => `<p><a href="https://store.steampowered.com/app/${r.ID}" target="_blank">${r.ID}</a> - Similarity: ${r.similarity}</p>`)
+			.join("");
 }
 </script>
