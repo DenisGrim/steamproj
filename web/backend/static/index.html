@@ -15,7 +15,7 @@ async function search() {
     const results = await response.json();
 
     document.getElementById("results").innerHTML =
-			results.map(r => `<p><a href="https://store.steampowered.com/app/${r.ID}" target="_blank">${r.ID}</a> - Similarity: ${r.similarity}</p>`)
+			results.map(r => `<p><a href="https://store.steampowered.com/app/${r.ID}" target="_blank">${r.title ?? r.ID}</a> - Similarity: ${r.similarity}</p>`)
 			.join("");
 }
 </script>

@@ -4,7 +4,9 @@ import time
 import os
 import pandas as pd
 import loader as l
-from encoder import embed_text
+from encoder import embed_text, embed_batch
+
+
 
 
 class Handler(FileSystemEventHandler):
@@ -17,6 +19,7 @@ class Handler(FileSystemEventHandler):
     """
     # remember all files it handles
     processed = set([])
+    batch = {}
 
     def on_closed(self, event):
         if event.src_path.endswith("reviews.csv"):
@@ -25,35 +28,47 @@ class Handler(FileSystemEventHandler):
             file = event.src_path
             print("ready: ", file)
             df = pd.read_csv(file)
-            append_review_length(df, file)
-            convert_recommend(df, file)
+            self.append_review_length(df, file)
+            self.convert_recommend(df, file)
 
             l.db_copy_reviews(file)
-            add_embed_to_game(df)
+            self.add_embed_to_game(df)
             # TODO: os.remove(file)
             # move instead of delete for now
             os.rename(file, "/mydata/del/" + file.lstrip("/mydata/"))
             self.processed.add(file)
 
 
-def append_review_length(df, file):
-    df["review_length"] = df["review"].fillna("").str.len().astype(int)
-    df.to_csv(file, index=False)
+    def append_review_length(self, df, file):
+        df["review_length"] = df["review"].fillna("").str.len().astype(int)
+        df.to_csv(file, index=False)
 
 
-def convert_recommend(df, file):
-    df["does_recommend"] = df["does_recommend"].astype(int)
-    df.to_csv(file, index=False)
+    def convert_recommend(self, df, file):
+        df["does_recommend"] = df["does_recommend"].astype(int)
+        df.to_csv(file, index=False)
 
 
-def add_embed_to_game(df):
     # all_reviews might be too long at times. TODO
-    all_reviews = []
-    for review in df["review"]:
-        eb = embed_text(review)
-        all_reviews.append(eb)
-    avg_eb = sum(e / len(all_reviews) for e in all_reviews)
-    l.insert_embedding_to_games(df.at[0, "app_id"], avg_eb)
+    def add_embed_to_game(self, df):
+        all_reviews = "\n".join(str(df["review"]))
+        cur_app_id = df.at[0, "app_id"]
+        if cur_app_id == "stop":
+            self.flush_batch()
+            return
+
+        self.batch[cur_app_id] = all_reviews
+
+        # TODO bath size should 100% be env variable
+        if len(self.batch) >= 2:
+            self.flush_batch()
+
+
+    def flush_batch(self):
+        all_ebs = embed_batch(self.batch)
+        for app_id, eb in all_ebs.items():
+            l.insert_embedding_to_games(app_id, eb)
+        self.batch = {}
 
 
 def main():

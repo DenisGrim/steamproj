@@ -1,0 +1,6 @@
+make random embeddings (random words strung together or just random numbers?)
+and either compare their performance on queries, or compare distance from them to the game reviews
+
+
+tag filter
+

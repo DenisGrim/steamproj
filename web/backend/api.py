@@ -36,10 +36,11 @@ def search(q: str):
     cur.execute("""
         SELECT 
             app_id,
-            1 - (embedding <=> %s::vector) AS similarity
+            1 - (embedding <=> %s::vector) AS similarity,
+            name
         FROM games
         ORDER BY similarity DESC
         LIMIT 10
     """, (embedding,))
     rows = cur.fetchall()
-    return [{"ID": r[0], "similarity": r[1]} for r in rows]
+    return [{"ID": r[0], "similarity": r[1], "title": r[2]} for r in rows]

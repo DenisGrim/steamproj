@@ -1,4 +1,5 @@
 from requests import get
+from requests.exceptions import HTTPError
 import time, random
 from pathlib import Path
 import psycopg2
@@ -29,20 +30,70 @@ def get_reviews(app_id, cursor = "*"):
     params = {"filter": "recent", "language": "all", "cursor": cursor, "num_per_page": "100"}
 
     # get raw json
-    response = get(html_url, params=params, headers=headers).json()
+    response = get(html_url, params=params, headers=headers)
+    #text = response.text.encode('utf-8').decode('utf-8-sig')
+    #response = text.json()
     return response
 
 
-def write_review_file(app_id, data):
+def parser(response):
+    response = response.content.decode('utf-8-sig')
+    return json.loads(response)
+
+# handle if json is broken. Return True if unsalvagable
+# TODO still breaks if review wasn't read as string
+def broken_reviews(data):
+    # make sure reviews exist and in right format. cast is needed & possible
+    if not isinstance(data, dict):
+        return True
+    if "reviews" not in data:
+        return True
+    if not isinstance(data["reviews"], list):
+        return True
+    if len(data["reviews"]) == 0:
+        return True
+
+    req_keys = {"author", "review", "voted_up", "votes_funny", "votes_up", "weighted_vote_score"}
+    req_author_keys = {"steamid", "playtime_at_review"}
+    for review in data["reviews"]:
+        if not isinstance(review, dict):
+            return True
+        if not req_keys.issubset(review.keys()):
+            return True
+        if not isinstance(review["author"], dict):
+            return True
+        if not req_author_keys.issubset(review["author"].keys()):
+            return True
+
+        try:
+            review["author"]["steamid"] = int(review["author"]["steamid"])
+            review["author"]["playtime_at_review"] = int(review["author"]["playtime_at_review"])
+            review["voted_up"] = int(review["voted_up"])
+            review["votes_funny"] = int(review["votes_funny"])
+            review["votes_up"] = int(review["votes_up"])
+            review["weighted_vote_score"] = float(review["weighted_vote_score"])
+        except (ValueError, TypeError, KeyError) as e:
+            return True
+
+    return False
+
+
+def write_review_file(app_id, data, tmp_path = None):
     filename = f"{app_id}_reviews"
-    # remove all reviews with no review-text (called ["review"])
+    if broken_reviews(data):
+        return
+
+    # remove all reviews with no review-text (review text is in ["review"])
     data["reviews"] = [review for review in data["reviews"] if len(review["review"]) > 0]
 
     # check if no valid reviews. Don't write empty files
     if len(data["reviews"]) == 0:
         print(f"reviews for {app_id} don't exist!")
         return
-
+    
+    base = Path(tmp_path) if tmp_path is not None else Path("mydata")
+    path = base / f"{filename}.csv"
+    # TODO figure out how I can use path here so it works in docker and for tests. 
     with open(f"/mydata/{filename}.csv", "w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
         writer.writerow(["app_id", "user_id", "review", "does_recommend", "funny",
@@ -69,6 +120,7 @@ def main():
     data = pd.read_csv ("/mydata/poc_data/poc_input.csv")
     for app_id in data["app_id"].unique():
         response = get_reviews(app_id)
+        response = parser(response)
 
         # handle rate limitation
         if response["success"] == 0:
@@ -80,8 +132,6 @@ def main():
                 if response["success"] == 1:
                     break
 
-        if response["success"] == 0:
-            return
 
         write_review_file(app_id, response)
         time.sleep(random.uniform(0.8, 2.0))
