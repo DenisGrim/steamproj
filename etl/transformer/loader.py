@@ -2,10 +2,12 @@ import psycopg2
 import os
 
 conn = psycopg2.connect(
-    host="db",
+    host=os.getenv("DB_HOST", "localhost"),
     user="user",
     password="pass"
 )
+
+# TODO: maybe extra safeguard here? But tbf, I have that in my scraper I think
 
 def db_copy_reviews(file):
 

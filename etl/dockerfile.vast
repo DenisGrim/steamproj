@@ -1,0 +1,62 @@
+FROM pgvector/pgvector:pg18-trixie
+#FROM vastai/base-image:cuda-12.8.1-cudnn-devel-ubuntu22.04
+
+# Install PostgreSQL 18 and pgvector from packages
+# RUN apt-get update && apt-get install -y \
+#    wget \
+#    gnupg \
+#    lsb-release \
+#    && wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | apt-key add - && \
+#    echo "deb http://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" > /etc/apt/sources.list.d/pgdg.list && \
+##    apt-get update && \
+#    apt-get install -y \
+#        postgresql-18 \
+#        postgresql-18-pgvector \
+#    && rm -rf /var/lib/apt/lists/*
+
+# Set environment variables
+ENV POSTGRES_USER=user
+ENV POSTGRES_PASSWORD=pass
+ENV PGDATA=/var/lib/postgresql/data
+ENV DB_HOST=localhost
+
+# Install dependencies for ETL and scrape
+RUN apt-get update && apt-get install -y \
+    python3 \
+    python3-pip \
+    python3-venv \
+    curl \
+    && rm -rf /var/lib/apt/lists/*
+
+# Install ssh
+RUN apt-get update && apt-get install -y openssh-server 
+RUN mkdir -p /var/run/sshd
+
+# Create working directories
+RUN mkdir -p /mydata /etl /scrape
+
+# Copy ETL files
+COPY ./transformer /etl
+WORKDIR /etl
+RUN pip3 install --break-system-packages -r requirements.txt
+#RUN if [ -f requirements.txt ]; then pip3 install -r requirements.txt; fi
+
+# Copy scrape files
+COPY ./scrape /scrape
+WORKDIR /scrape
+RUN pip3 install --break-system-packages -r requirements.txt
+
+# Copy database init scripts
+COPY ./db/init /docker-entrypoint-initdb.d
+
+# Copy data files
+COPY ./mydata /mydata
+
+RUN apt-get update && apt-get install -y vim
+RUN apt-get update && apt-get install -y openssh-client
+RUN apt-get install -y tmux
+
+# Use the startup script as entrypoint
+COPY ./startup.sh /startup.sh
+RUN chmod +x /startup.sh
+CMD ["/startup.sh"]

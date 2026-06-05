@@ -1,0 +1,94 @@
+app_id,user_id,review,does_recommend,funny,helpful,weight,playtime_at_review,review_length
+2305110,76561197982239699,"This game is great.  No notes.  If you love puzzle games, you owe it to yourself to play this.
+Amazing that it's done by a single dev.  Some of the puzzles are deviously delicious!",1,0,1,0.5,1265,181
+2305110,76561198059576691,"To get the biggest criticisms out of the way first: the game is a bit janky, UI and UX are not particularly smooth and its not the most polished game out there.
+
+What it is instead is a love letter to the first person puzzle genre, paying homage to the laser puzzles of games like Talos Principle and featuring grid-puzzle-panels that are somewhat reminiscent of the Whittiness. 
+But where TP is far more concerned with pretty environments and philosophical musings Photon Engeneer pushes the laster mechanic to its limits, introducing more and more complex elements and increasingly interesting puzzles.
+
+If you can look beyond the lack of polish and like this kind of puzzle mechanic this is definitely a recommendation. 
+
+An kudos to the solo-dev for sticking to their own engine.",1,0,0,0.4761904776096343,33,783
+2305110,76561198076882334,"OK...I just reached level 28 so I don't know anything past this, but:
+>Just based on what I've seen so far---BUY this puzzle game.
+At first, learning how to manipulate the boxes etc., can be a bit confusing (because it is Different from other games).
+The graphics are simple, and the game Runs smooth and without a hitch.
+Here's the only thing that I didn't care for: For the most part, you solve a level and move to the next level (rinse and repeat). However, on occasion, you may need to go back to 'some' level in order to proceed to the next level. I didn't care for this at all, but some people seem to have liked the added complexity.
+IF you are a puzzle junkie<<<Download this immediately as it will give your synapses a light show!
+Keep in mind, this isn't a 'simple' puzzle game. You will REALLY have to put your thinking caps on for this one. For me, it was even more complicated than ""Infinifactory""!
+It was 10 bucks for my purchase, but if you are on the fence, put it on your wish list and wait for a good SALE.
+---The only major negative that I can think of is that: The complexity of this puzzle game will 'turn away' a LOT of people. It's always hard to try and balance a puzzle game that will appeal to the most people. This game, unlike Portal or The Room, doesn't understand that ""balance"".
+-UPDATE- Ok, I hit level 35 and have just completely 'quit'. The puzzle has just become so 'unattached', or off the wall...The kinds of things that ""you are just 'supposed' to know"" have finally just sucked any enjoyment left out of the game for me.
+However: For you more detailed 'die-hards', I'd definitely give this game a run as long as you realize that it is going to be HARD and even HARDER once you reach level 34 or 35<<<Good Luck!",1,0,1,0.5,1688,1749
+2305110,76561198034146831,A well designed puzzle game with some clever puzzles!,1,0,0,0.5,597,53
+2305110,76561198088946812,"Nice portal-esque game, with inspirations from logic circuits. Challenging at times! The engine is open source, and very well written (it deserves a buy just for that!).
+
+Solid Linux build, thank you!",1,0,2,0.5374999642372131,725,202
+2305110,76561198166504039,Great for those who enjoy a good mental workout,1,0,0,0.5,289,47
+2305110,76561197991931622,"I am only about 3/4 in at the time of writing this but I feel I can post my recommendation anyway.
+
+Photon Engineer checks all the boxes regarding stuff I am looking for in a puzzle game: First person perspective, evolving yet consistent mechanics, logic puzzles that (occationally) require you to make use of the environment without having to break said mechanics and the reward of additional puzzles to solve for solving the main puzzles.
+
+Some of the puzzles are quite brutal for my moderate intellect. -But some of them only seem to be, as the solution sometimes turns out to be so simple, I am both surprised and ashamed I didn't think of it right away. In those few cases I say ""well played"" to Grégory Petit (dev) for somehow leading my mind astray so nonchalantly.
+
+The aesthetics are pretty basic but to a true lover of puzzle games, that should not be of any importance as long as the gameplay holds up, which it does. The load times are miniscule for the same reason and I reckon the game would run smoothly on any PC younger than 15 years or so.
+
+The obligatory mystery aspect is present as well but untill I finish the game I can't say how well that plays out.
+
+In conclusion I highly recommend Photon Engineer to all who like the classics of the genre and I will be keeping an eye out for any future projects by the dev, Grégory Petit. Good job.",1,0,2,0.498298168182373,880,1359
+2305110,76561198148620362,"《Photon Engineer》（光子工程师）是一个包含了多种解谜要素的逻辑解谜游戏。
+
+本作中，每个关卡有若干个光源，射出各种颜色的激光，而玩家每关的目标是，通过在场景中摆放各种方块状的装置，来将激光正确地导向可以打开终点大门的开关上。激光传播的方向只能是横平竖直（和网格的边平行）的，所以本作看起来把平常都是2D的光线解谜拓展到3D空间，其实变化并不大。可以使用的装置大多数也算是光线解谜经典，除了普通的反射镜之外，还有合成器、分光器等，激光的颜色也可以用这些装置来合成、分开。
+
+而本作一个比较有创意的地方就在于，时间也是解谜中需要考虑的要素，因为终点大门开关的判定方式是，在按下“开始判定”的按钮后，会进入“判定时段”，这个时段内玩家不能再修改关卡中摆放的装置，整个时段会有6个“检查时刻”，只有当开关在每个检查时刻都接收到正确的光信号时，判定才会成功。不同检查时刻，所要求的信号种类可能不同。所以为了达成这种要求，在可以使用的装置中，也会有一些和时间控制相关的元件，比如能将输入的信号延迟一个时间段后才输出的“延迟器”等。
+
+所以总的来说，本作的解谜感觉像是结合了光线解谜和“时序电路”，还挺有意思的，但是我应该不是第一次见到“光线+电路”这种想法，比如《OCTOPTICOM》就是这样。本作主要是将类似的思路搬到了3D，而且在玩法的侧重上也有不同，下面就会详细解释。
+
+本作中先摆装置，再开始判定的形式，很像是编程解谜游戏中，先编程，再运行的思路，但是我认为本作并不能算是一个编程解谜游戏。我认为，编程解谜游戏所考察的核心包括可重复性、普适性、以及指标优化等。其中，可重复性是指，程序不管运行多少次，都能输出正确的结果，基本所有编程/流水线游戏都重点考察了这一方面；普适性是指，程序在所考虑的一类输入中，不管输入产生怎样的变化，都能输出正确的结果，《人力资源机器》（Human Resource Machine）和其续作《70亿人类》（7 Billion Humans）都重点考察了这个；指标优化中的指标一般就是时间、空间、成本等，这些指标通常不能同时优化，所以想要优化一个，就必须以其它指标为代价，Zachtronics系的编程解谜游戏一般都有这方面的考察。其它更高级的概念，比如多线程或者抽象、封装等，在游戏中见得就比较少了。对于这些方面的考虑，才是编程解谜游戏的特点。
+
+然而在本作的很多谜题当中，考察的点都不是这些。每关的场景是固定的，所以没有对“普适性”的考察；每关中，玩家要制造的一般并不是一个能产生稳定、重复信号的发生器，而是需要用到很多“一次性触发”的要素来对所产生的信号进行单次的改变的一个东西，比如只能推，不能回收的“活塞”等，所以对“可重复性”的考察也比较弱；而在绝大多数谜题当中，唯一的限制就是装置的数量，所以最终可行解几乎是唯一的，也就谈不上什么优化了，只有游戏主体结束之后的两个额外关卡是比较开放式的，优化成本的谜题。
+
+所以综上所述，本作其实更像是一款稍微借用了和编程有关的概念的普通解谜游戏，而非一款真正含有编程思想的编程解谜游戏。这两个之间没有绝对的优劣关系，我只是把本作的这种侧重描述出来，具体还是要看你个人喜好。
+
+单纯从机制上来看，本作所做出的探索也不能说让我满意。首先，从表现上来看，本作基本上每一两关引入一个新机制，基本没有给这些机制留深入探索的时间，我一看就觉得估计设计师是没有这个想法。事实也确实如此，老生常谈的光线机制就不提了，本作也没做出来什么有创意的东西，而在电路这方面，本作也只是浅浅涉及，虽然有个别关卡涉及到了逻辑门，但是那些都是在特定关卡中出现的特殊装置，在很多关卡中都没有这样的东西。而在本作真正有些创意的“时序”这个方面，本作也只是探索了一个“顺序”而已，如之前所说，本作中的许多触发装置都是“一次性”的，因此天然就不能支持制作带有很多“重复性”的机器，所以也没有什么“循环”，也别提什么“分支”了。
+
+本作还有一个比较让我迷惑的设计在于，它的解谜其实不只是上面所述的光线解谜。每解开一关，玩家还需要解决一个题板上的滑块谜题才能来到下一关。这个滑块谜题和光线谜题并没有什么关联，完全是为了增加内容所设计，其数量甚至比光线谜题的数量还多。本作还包含了两种不同的滑块谜题，一种是需要点按方块，让方块自行移动，将关键的东西推到指定位置，而另一种是一次可以将一行或一列内的方块移动一格，需要在指定步数内，将所有方块都移到指定位置。它们之间也没什么关联。和光线谜题一样，设计师在这些滑块谜题中也不断地引入新的要素，也是基本每一两关就有新要素。
+
+这么一大堆说下来，不管是光线谜题，还是滑块谜题，都给我留下了这样一种印象：设计师不太清楚如何设计和探索一套机制集，因而只能通过不断加要素来丰富游戏内容。当然，虽然我个人更喜欢“系统化”的设计方式，这样的设计方式也并不是就一定比那个更差，还是看你主观喜好。
+
+总的来说，虽然本作在我看来有点找不到自己的定位，整个游戏体验并不能说“浑然一体”，而像是在几个不同的游戏之间不停切换，但对于单个谜题设计而言，本作做得还算比较不错。如果你喜欢这样的游戏，还是可以一试的。
+
+结论：[b]推荐[/b]。",1,0,7,0.6003491282463073,643,2152
+2305110,76561197970441397,Great game. The puzzles are challenging but never impossible. Best puzzle game since Talos Principle. I highly recommend it.,1,0,0,0.5,421,124
+2305110,76561198055388601,"Great puzzle game. I like that the whole system is simple to understand and very intuitive. The puzzles get progressively more complicated and I like that it's not too easy as well.
+
+I enjoy playing the game. It's very addictive. I can only recommend it!",1,0,0,0.5,64,254
+2305110,76561197999875125,"FINAL UPDATE:
+
+Let's be real, it's not the next Portal or Talos. Some mechanics or puzzle solutions are wonky and difficulty is not consistent. But from technical side it's superb. Also thanks for the Linux build. I recommend to tolerant puzzle lovers, there isn't much for anyone else.
+
+UPDATE:
+
+Ok, I gave it another try, and I'm more content with the 2D puzzles now. TBH I still did not use a single hint, heh.
+
+The rest of the game is pretty interesting, so I change to thumbs up, although I'm not finished yet.
+
+ORIGINAL:
+
+I kinda don't like giving this a thumbs down, but I just don't enjoy it.
+
+The first 10 or so levels of the 3D puzzles are very simple, and just when they were starting to get interesting, I lost patience with the 2D puzzles. While the 2D puzzles look simple, I'm unable to plan ahead more than 3 steps or so, so they are basically trial and error, which is just not fun. I noticed there are supposed to be some hints now after an update, but I guess I never stared at it for long enough for them to appear.
+
+That said, navigating the 3D environment is also kinda tedious, but at least it's possible to plan ahead, and solving the 3D puzzle feels rewarding. Although it's always followed by the ""ugh, another 2D puzzle"" feeling. Haha.",1,0,0,0.5,89,1261
+2305110,76561198055594967,"[h1] Recommend for puzzle game lovers [/h1]
+Bought it during the ""INTRODUCTORY OFFER"".
+Good indie puzzle game (3D & first person view).
+Difficulty increase over the levels and will satisfy a lot of puzzle solver experts ! 
+First levels are easy and let you understand the game mechanics. 
+In later levels, you will sometimes have to think twice (or a lot more...) to find the good path and pass the level.
+The game easily run on my computer and seems well optimized. 
+It should easily run on any modest laptop.",1,0,1,0.5362318754196166,382,510
+2305110,76561198012154305,"A really nice puzzle game.
+I was afraid it would get repetitive but the puzzles are varied and interesting.
+The difficulty is on point. The solution is never too obvious (even when you think it is), yet I never got stuck for too long.
+Plenty of content, and for those who want an extra challenge, the bonus levels and achievements will keep your brain busy.",1,0,10,0.6648257374763488,648,357

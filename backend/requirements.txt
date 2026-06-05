@@ -1,6 +1,0 @@
-psycopg2
-uvicorn
-torch
-peft
-sentence-transformers
-fastapi

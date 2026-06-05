@@ -1,0 +1,21 @@
+services:
+  db:
+    image: pgvector/pgvector:pg18-trixie
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: pass
+      POSTGRES_DATABASE: mydb
+    volumes:
+      - ./db/init:/docker-entrypoint-initdb.d
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U user"]
+      interval: 2s
+      retries: 15
+
+  backend:
+    build: ./backend
+    ports:
+      - "7892:7892"
+    depends_on:
+      db:
+        condition: service_healthy
