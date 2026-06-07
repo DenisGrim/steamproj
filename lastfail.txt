@@ -1,0 +1,95 @@
+iews.csv
+done writing 335240
+ready:  /mydata/335240_reviews.csv
+2026-06-07 08:10:00.163 UTC [513] ERROR:  value "4294967295" is out of range for type integer
+2026-06-07 08:10:00.163 UTC [513] CONTEXT:  COPY reviews, line 45, column funny: "4294967295"
+2026-06-07 08:10:00.163 UTC [513] STATEMENT:  
+	            COPY reviews(
+	                game_id,
+	                user_id,
+	                review,
+	                does_recommend,
+	                funny,
+	                helpful,
+	                weight,
+	                playtime_at_review,
+	                review_length
+	            )
+	            FROM STDIN WITH CSV HEADER
+	        
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/threading.py", line 1043, in _bootstrap_inner
+    self.run()
+    ~~~~~~~~^^
+  File "/usr/local/lib/python3.13/dist-packages/watchdog/observers/api.py", line 213, in run
+    self.dispatch_events(self.event_queue)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.13/dist-packages/watchdog/observers/api.py", line 391, in dispatch_events
+    handler.dispatch(event)
+    ~~~~~~~~~~~~~~~~^^^^^^^
+  File "/usr/local/lib/python3.13/dist-packages/watchdog/events.py", line 217, in dispatch
+    getattr(self, f"on_{event.event_type}")(event)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "/etl/transformer.py", line 34, in on_closed
+    l.db_copy_reviews(file)
+    ~~~~~~~~~~~~~~~~~^^^^^^
+  File "/etl/loader.py", line 16, in db_copy_reviews
+    cur.copy_expert("""
+    ~~~~~~~~~~~~~~~^^^^
+        COPY reviews(
+        ^^^^^^^^^^^^^
+    ...<10 lines>...
+        FROM STDIN WITH CSV HEADER
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    """, f)
+    ^^^^^^^
+psycopg2.errors.NumericValueOutOfRange: value "4294967295" is out of range for type integer
+CONTEXT:  COPY reviews, line 45, column funny: "4294967295iews.csv
+done writing 335240
+ready:  /mydata/335240_reviews.csv
+2026-06-07 08:10:00.163 UTC [513] ERROR:  value "4294967295" is out of range for type integer
+2026-06-07 08:10:00.163 UTC [513] CONTEXT:  COPY reviews, line 45, column funny: "4294967295"
+2026-06-07 08:10:00.163 UTC [513] STATEMENT:  
+	            COPY reviews(
+	                game_id,
+	                user_id,
+	                review,
+	                does_recommend,
+	                funny,
+	                helpful,
+	                weight,
+	                playtime_at_review,
+	                review_length
+	            )
+	            FROM STDIN WITH CSV HEADER
+	        
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/threading.py", line 1043, in _bootstrap_inner
+    self.run()
+    ~~~~~~~~^^
+  File "/usr/local/lib/python3.13/dist-packages/watchdog/observers/api.py", line 213, in run
+    self.dispatch_events(self.event_queue)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.13/dist-packages/watchdog/observers/api.py", line 391, in dispatch_events
+    handler.dispatch(event)
+    ~~~~~~~~~~~~~~~~^^^^^^^
+  File "/usr/local/lib/python3.13/dist-packages/watchdog/events.py", line 217, in dispatch
+    getattr(self, f"on_{event.event_type}")(event)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "/etl/transformer.py", line 34, in on_closed
+    l.db_copy_reviews(file)
+    ~~~~~~~~~~~~~~~~~^^^^^^
+  File "/etl/loader.py", line 16, in db_copy_reviews
+    cur.copy_expert("""
+    ~~~~~~~~~~~~~~~^^^^
+        COPY reviews(
+        ^^^^^^^^^^^^^
+    ...<10 lines>...
+        FROM STDIN WITH CSV HEADER
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    """, f)
+    ^^^^^^^
+psycopg2.errors.NumericValueOutOfRange: value "4294967295" is out of range for type integer
+CONTEXT:  COPY reviews, line 45, column funny: "4294967295""

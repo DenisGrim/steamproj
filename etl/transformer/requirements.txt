@@ -3,4 +3,3 @@ watchdog
 pandas
 sentence-transformers
 peft
-torch

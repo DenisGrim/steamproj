@@ -8,6 +8,12 @@ until test -f /mydata/poc_data/poc_input.csv; do
  sleep 2
 done
 
+echo "installing pytorch"
+pip install torch torchvision torchaudio \
+  --index-url https://download.pytorch.org/whl/cu121
+  --break-system-packages
+echo "done"
+
 echo "Starting PostgreSQL..."
 # Start PostgreSQL in the background
 docker-entrypoint.sh postgres &
