@@ -51,7 +51,7 @@ class Handler(FileSystemEventHandler):
 
     # all_reviews might be too long at times. TODO
     def add_embed_to_game(self, df):
-        all_reviews = "\n".join(df["review"])
+        all_reviews = "\n".join(str(df["review"]))
         cur_app_id = df.at[0, "app_id"]
         if cur_app_id == "stop":
             self.flush_batch()
