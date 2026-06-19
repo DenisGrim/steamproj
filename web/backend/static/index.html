@@ -4,16 +4,16 @@
   <input id="q" maxlength="300" placeholder="Search..." />
   <button onclick="search()">Search</button>
   <label>
-    <input type="checkbox" id="noNsfw" checked />
-    No NSFW
+    <input type="checkbox" id="NSFW" checked />
+    NSFW
   </label>
 </div>
 <div id="results"></div>
 <script>
 async function search() {
     const q = document.getElementById("q").value;
-    const noNsfw = document.getElementById("noNsfw").checked;
-    const response = await fetch("/search?q=" + encodeURIComponent(q) + "&no_nsfw=" + noNsfw);
+    const Nsfw = document.getElementById("NSFW").checked;
+    const response = await fetch("/search?q=" + encodeURIComponent(q) + "&search_nsfw=" + Nsfw);
     const results = await response.json();
     document.getElementById("results").innerHTML =
 			results.map(r => `<p><a href="https://store.steampowered.com/app/${r.ID}" target="_blank">${r.title ?? r.ID}</a> - Similarity: ${r.similarity}</p>`)
