@@ -26,20 +26,20 @@ conn = psycopg2.connect(
 )
 
 @app.get("/search")
-def search(q: str, no_nsfw: bool = False):
+def search(q: str, search_nsfw: bool = True):
     embedding = model.encode(
             sentences = [q],
             task = "retrieval",
             prompt_name="document",
             ).tolist()[0]
 
-    nsfw = """
+    nsfw = "" if search_nsfw else """
         WHERE NOT EXISTS (
             SELECT 1 FROM game_tags t
             WHERE t.app_id = games.app_id
             AND t.tag = 'Sexual Content'
             )
-        """ if no_nsfw else ""
+        """
     cur = conn.cursor()
     cur.execute(f"""
         SELECT 
