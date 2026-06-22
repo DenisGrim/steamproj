@@ -5,7 +5,7 @@ import os
 import pandas as pd
 import loader as l
 from encoder import embed_text, embed_batch
-
+import tracemalloc
 
 
 
@@ -17,9 +17,12 @@ class Handler(FileSystemEventHandler):
 
     def on_moved(self, event):
     """
-    # remember all files it handles
-    processed = set([])
-    batch = {}
+    def __init__(self):
+        tracemalloc.start()
+        # remember all files it handles
+        self.processed = set([])
+        self.batch = {}
+        self._snapshot = tracemalloc.take_snapshot()
 
     def on_closed(self, event):
         if event.src_path.endswith("reviews.csv"):
@@ -38,6 +41,13 @@ class Handler(FileSystemEventHandler):
             os.rename(file, "/mydata/del/" + file.lstrip("/mydata/"))
             self.processed.add(file)
 
+            snap2 = trace_malloc.take_snapshot()
+            top_stats = snap2.compare_to(self._snapshot, 'lineno')
+            print("[ top 10 diffs ]")
+            for stat in top_stats[:10]:
+                print(stat)
+            self._snapshot = snap2
+
 
     def append_review_length(self, df, file):
         df["review_length"] = df["review"].fillna("").str.len().astype(int)
@@ -51,7 +61,7 @@ class Handler(FileSystemEventHandler):
 
     # all_reviews might be too long at times. TODO
     def add_embed_to_game(self, df):
-        all_reviews = "\n".join(str(df["review"]))
+        all_reviews = "\n".join(df["review"].fillna("").astype(str))
         cur_app_id = df.at[0, "app_id"]
         if cur_app_id == "stop":
             self.flush_batch()
