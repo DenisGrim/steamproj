@@ -41,7 +41,7 @@ class Handler(FileSystemEventHandler):
             os.rename(file, "/mydata/del/" + file.lstrip("/mydata/"))
             self.processed.add(file)
 
-            snap2 = trace_malloc.take_snapshot()
+            snap2 = tracemalloc.take_snapshot()
             top_stats = snap2.compare_to(self._snapshot, 'lineno')
             print("[ top 10 diffs ]")
             for stat in top_stats[:10]:
