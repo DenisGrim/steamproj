@@ -19,6 +19,12 @@ def tag_filter(file="tags.csv")
 
     # filter original dataframe
     filtered = df[df["app_id"].isin(valid_ids)]
+    name = "filtered_"
+    for tag in required_tags:
+        name += tag.replace(" ", "-") + "Q_"
+    for tag in forbidden_tags:
+        name += tag.repplace(" ", "-") + "F_"
+    name += ".csv"
 
-    filtered.to_csv("filtered_easy.csv", index=False)
+    filtered.to_csv(name, index=False)
 

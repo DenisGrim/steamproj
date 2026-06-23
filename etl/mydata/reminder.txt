@@ -1,0 +1,11 @@
+
+1. extract all app_ids that have none-null embedding from psql
+2. esp header is wrong. whitespaces before 'app_id' and '------' seperator
+3. read_csv for the processed from psql and from comparison csv in saved (ten_reviews)
+4. convert processed ids to int
+proc_ids = pd.to_numeric(proc["app_id"], errors="coerce").dropna().astype(int)
+5. filter
+filtered = all[~all["app_id"].isin(proc_ids)]
+6. export to csv with different sorting so newer releases are preferred
+filtered["app_id"].sort_values(ascending=False).to_csv("unprocessed", index=False)
+
