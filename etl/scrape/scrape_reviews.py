@@ -117,7 +117,7 @@ def main():
     # remove file signalling observer is ready
     os.remove("/mydata/setup-complete")
 
-    data = pd.read_csv ("/mydata/poc_data/poc_input.csv")
+    data = pd.read_csv ("/mydata/appid_queue.csv")
     for app_id in data["app_id"].unique():
         response = get_reviews(app_id)
         response = parser(response)

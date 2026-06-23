@@ -3,8 +3,8 @@ set -e
 export PYTHONUNBUFFERED=1
 /usr/sbin/sshd
 
-until test -f /mydata/poc_data/poc_input.csv; do
- echo "Waiting for poc_input.csv to appear"
+until test -f /mydata/appid_queue.csv; do
+ echo "Waiting for /mydata/appid_queue.csv to appear"
  sleep 2
 done
 

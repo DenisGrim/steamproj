@@ -17,4 +17,4 @@ CREATE TABLE reviews (
     playtime_at_review INT, -- in hours I think
     review_length INT
 );
-COPY games (app_id) FROM '/mydata/poc_data/poc_input.csv' WITH (HEADER TRUE);
+COPY games (app_id) FROM '/mydata/appid_queue.csv' WITH (HEADER TRUE);
