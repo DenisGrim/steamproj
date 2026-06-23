@@ -41,12 +41,14 @@ class Handler(FileSystemEventHandler):
             os.rename(file, "/mydata/del/" + file.lstrip("/mydata/"))
             self.processed.add(file)
 
-            snap2 = tracemalloc.take_snapshot()
-            top_stats = snap2.compare_to(self._snapshot, 'lineno')
-            print("[ top 10 diffs ]")
-            for stat in top_stats[:10]:
-                print(stat)
-            self._snapshot = snap2
+            # TODO: this just writes into root directory rn, prob shouldnt always
+            with open("/transformerlogs.txt", "a") as f:
+                 snap2 = tracemalloc.take_snapshot()
+                 top_stats = snap2.compare_to(self._snapshot, 'lineno')
+                 f.write("[ top 10 diffs ]\n")
+                 for stat in top_stats[:10]:
+                     f.write(str(stat) + "\n")
+                 self._snapshot = snap2
 
 
     def append_review_length(self, df, file):

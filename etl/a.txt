@@ -1,0 +1,50 @@
+[ top 10 diffs ]                                                                                                            
+/usr/local/lib/python3.13/dist-packages/pandas/io/parsers/c_parser_wrapper.py:215: size=31.7 KiB (+31.7 KiB), count=43 (+43)
+, average=755 B                                                                                                             
+<frozen abc>:123: size=31.7 KiB (+31.7 KiB), count=416 (+416), average=78 B                                                 
+<frozen importlib._bootstrap_external>:784: size=21.9 KiB (+21.9 KiB), count=183 (+183), average=123 B                      
+/etl/transformer.py:64: size=5304 B (+5304 B), count=1 (+1), average=5304 B                                                 
+/usr/local/lib/python3.13/dist-packages/pandas/io/formats/csvs.py:330: size=3920 B (+3920 B), count=70 (+70), average=56 B  
+/usr/lib/python3.13/threading.py:297: size=3800 B (+3800 B), count=10 (+10), average=380 B                                  
+/usr/local/lib/python3.13/dist-packages/pandas/core/indexes/base.py:5371: size=2946 B (+2946 B), count=10 (+10), average=295
+ B                                                                                                                          
+/usr/local/lib/python3.13/dist-packages/pandas/io/formats/csvs.py:56: size=2760 B (+2760 B), count=7 (+7), average=394 B    
+/usr/local/lib/python3.13/dist-packages/pandas/core/internals/managers.py:1571: size=2368 B (+2368 B), count=10 (+10), avera
+ge=237 B                                                                                                                    
+/usr/local/lib/python3.13/dist-packages/pandas/core/dtypes/concat.py:78: size=2256 B (+2256 B), count=17 (+17), average=133 
+B
+
+
+
+[ top 10 diffs ]
+/usr/local/lib/python3.13/dist-packages/pandas/io/parsers/c_parser_wrapper.py:215: size=31.4 KiB (+28.2 KiB), count=122 (+96
+), average=264 B
+/etl/loader.py:43: size=32.1 KiB (-7254 B), count=672 (-148), average=49 B
+/usr/local/lib/python3.13/dist-packages/pandas/core/dtypes/concat.py:78: size=7184 B (+6144 B), count=17 (+0), average=423 B
+/usr/lib/python3.13/tracemalloc.py:115: size=19.8 KiB (+4720 B), count=254 (+59), average=80 B
+/usr/lib/python3.13/tracemalloc.py:193: size=4608 B (+4608 B), count=96 (+96), average=48 B
+/etl/transformer.py:64: size=8500 B (+2668 B), count=3 (+1), average=2833 B
+/usr/local/lib/python3.13/dist-packages/watchdog/observers/inotify_c.py:339: size=2360 B (+2128 B), count=21 (+19), average=
+112 B
+/usr/local/lib/python3.13/dist-packages/watchdog/observers/inotify.py:188: size=1360 B (-1240 B), count=7 (-5), average=194 
+B
+/usr/local/lib/python3.13/dist-packages/watchdog/utils/delayed_queue.py:27: size=1264 B (+1240 B), count=25 (+24), average=5
+1 B
+<frozen posixpath>:88: size=1260 B (+1140 B), count=21 (+19), average=60 B
+
+
+[ top 10 diffs ]
+/usr/local/lib/python3.13/dist-packages/pandas/io/parsers/c_parser_wrapper.py:215: size=29.1 KiB (-17.2 KiB), count=107 (-13
+), average=278 B
+/etl/loader.py:43: size=35.9 KiB (-6282 B), count=752 (-128), average=49 B
+/usr/lib/python3.13/tracemalloc.py:558: size=5216 B (+3512 B), count=106 (+73), average=49 B
+/etl/transformer.py:64: size=8496 B (+2664 B), count=3 (+1), average=2832 B
+/usr/lib/python3.13/tracemalloc.py:193: size=8304 B (-1728 B), count=173 (-36), average=48 B
+/usr/local/lib/python3.13/dist-packages/watchdog/observers/inotify_c.py:339: size=2024 B (+1568 B), count=18 (+14), average=
+112 B
+/usr/local/lib/python3.13/dist-packages/pandas/core/dtypes/concat.py:78: size=6160 B (-896 B), count=17 (+0), average=362 B
+<frozen posixpath>:88: size=1080 B (+840 B), count=18 (+14), average=60 B
+/usr/local/lib/python3.13/dist-packages/watchdog/observers/inotify_c.py:463: size=992 B (+784 B), count=19 (+15), average=52
+ B
+/usr/lib/python3.13/tracemalloc.py:115: size=22.0 KiB (+720 B), count=281 (+9), average=80 B
+
