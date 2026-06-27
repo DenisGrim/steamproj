@@ -15,8 +15,8 @@ model = SentenceTransformer(
 
 
 # TODO: maybe this gets a lot faster with batching. multiple reviews/games at once
-# TODO might need to split reviews into seperate ones and have it embed those. There was something
-# for this, I'm pretty sure
+# TODO might need to split reviews into seperate ones and have it embed those.
+# There was something for this, I'm pretty sure
 def embed_text(text):
     embedding = model.encode(
             sentences = [text],
@@ -27,6 +27,7 @@ def embed_text(text):
 
 
 def embed_batch(app_texts):
+    log_vram("pre-encode")
     app_ids = list(app_texts.keys())
     texts = list(app_texts.values())
 
@@ -35,5 +36,15 @@ def embed_batch(app_texts):
         task="retrieval",
         prompt_name="document",
     )
+    torch.cuda.empty_cache()
+    log_vram("post-encode")
 
     return dict(zip(app_ids, embeddings))
+
+def log_vram(label=""):
+    if torch.cuda.is_available():
+        with open("/vramlogs.txt", "a") as f:
+            alloc = torch.cuda.memory_allocated() / 1e6
+            reserved = torch.cuda.memory_reserved() / 1e6
+            f.write(f"[VRAM {label}] allocated={alloc:.1f}MB reserved={reserved:.1f}MB\n")
+

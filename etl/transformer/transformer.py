@@ -4,7 +4,7 @@ import time
 import os
 import pandas as pd
 import loader as l
-from encoder import embed_text, embed_batch
+from encoder import embed_text, embed_batch, log_vram
 import tracemalloc
 
 
@@ -77,10 +77,12 @@ class Handler(FileSystemEventHandler):
 
 
     def flush_batch(self):
+        log_vram("pre-batch")
         all_ebs = embed_batch(self.batch)
         for app_id, eb in all_ebs.items():
             l.insert_embedding_to_games(app_id, eb)
         self.batch = {}
+        log_vram("post-batch")
 
 
 def main():
