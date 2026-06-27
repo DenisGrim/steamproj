@@ -1,19 +1,6 @@
 FROM pgvector/pgvector:pg18-trixie
 #FROM vastai/base-image:cuda-12.8.1-cudnn-devel-ubuntu22.04
 
-# Install PostgreSQL 18 and pgvector from packages
-# RUN apt-get update && apt-get install -y \
-#    wget \
-#    gnupg \
-#    lsb-release \
-#    && wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | apt-key add - && \
-#    echo "deb http://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" > /etc/apt/sources.list.d/pgdg.list && \
-##    apt-get update && \
-#    apt-get install -y \
-#        postgresql-18 \
-#        postgresql-18-pgvector \
-#    && rm -rf /var/lib/apt/lists/*
-
 # Set environment variables
 ENV POSTGRES_USER=user
 ENV POSTGRES_PASSWORD=pass
@@ -39,7 +26,6 @@ RUN mkdir -p /mydata /etl /scrape
 COPY ./transformer /etl
 WORKDIR /etl
 RUN pip3 install --no-cache-dir --break-system-packages -r requirements.txt
-#RUN if [ -f requirements.txt ]; then pip3 install -r requirements.txt; fi
 
 # Copy scrape files
 COPY ./scrape /scrape

@@ -8,11 +8,11 @@ until test -f /mydata/appid_queue.csv; do
  sleep 2
 done
 
-echo "installing pytorch"
-pip install torch torchvision torchaudio \
-  --index-url https://download.pytorch.org/whl/cu121
-  --break-system-packages
-echo "done"
+#echo "installing pytorch"
+#pip install torch \
+#  --index-url https://download.pytorch.org/whl/cu121 \
+#  --break-system-packages
+#echo "done"
 
 echo "Starting PostgreSQL..."
 # Start PostgreSQL in the background
