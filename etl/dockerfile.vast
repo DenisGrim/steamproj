@@ -24,7 +24,7 @@ COPY ./transformer/requirements.txt /etl/requirements.txt
 COPY ./scrape/requirements.txt /scrape/requirements.txt
 
 # Install requirements
-RUN pip3 install --no-cache-dir --break-system-packages -r ./transformer/requirements.txt
+RUN pip3 install --no-cache-dir --break-system-packages -r ./etl/requirements.txt
 RUN pip3 install --break-system-packages -r ./scrape/requirements.txt
 RUN apt-get update && apt-get install -y vim
 RUN apt-get update && apt-get install -y openssh-client
