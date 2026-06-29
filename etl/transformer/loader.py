@@ -16,25 +16,31 @@ conn = psycopg2.connect(
 def db_copy_reviews(file):
 
     cur = conn.cursor()
-    with open(file, "r") as f:
-        cur.copy_expert("""
-            COPY reviews(
-                game_id,
-                user_id,
-                review,
-                does_recommend,
-                funny,
-                helpful,
-                weight,
-                playtime_at_review,
-                review_length
-            )
-            FROM STDIN WITH CSV HEADER
-        """, f)
-
-    conn.commit()
-
-    cur.close()
+    cur.execute("SAVEPOINT before_copy")
+    try:
+        with open(file, "r") as f:
+            cur.copy_expert("""
+                COPY reviews(
+                    game_id,
+                    user_id,
+                    review,
+                    does_recommend,
+                    funny,
+                    helpful,
+                    weight,
+                    playtime_at_review,
+                    review_length
+                )
+                FROM STDIN WITH CSV HEADER
+            """, f)
+        conn.commit()
+    except psycopg2.error as e:
+        cur.execute("ROLLBACK TO SAVEPOINT before_copy")
+        conn.commit()
+        with open("/errorfiles.txt", "a") as f:
+            f.write(file)
+    finally:
+        cur.close()
 
 def conn_rollback():
     conn.rollback()

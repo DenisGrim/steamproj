@@ -29,10 +29,10 @@ class Handler(FileSystemEventHandler):
             try:
                 self.process_file(file)
             except psycopg2.Error as e:
+                 l.conn_rollback()
                  print(f"Skipping {file}: {e}")
                  with open("/errorfiles.txt", "a") as f:
                      f.write(file)
-                 l.conn_rollback()
             # TODO: os.remove(file)
             # move instead of delete for now
             os.rename(file, "/mydata/del/" + file.lstrip("/mydata/"))
