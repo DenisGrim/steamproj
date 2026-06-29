@@ -37,7 +37,7 @@ class Handler(FileSystemEventHandler):
             self.processed.add(file)
 
 
-    def process_file(file):
+    def process_file(self, file):
        if event.src_path in self.processed:
            return
        print("ready: ", file)
