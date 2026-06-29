@@ -25,12 +25,12 @@ class Handler(FileSystemEventHandler):
         if event.src_path.endswith("reviews.csv"):
             file = event.src_path
             try:
-                process_file(file)
+                self.process_file(file)
             except psycopg2.Error as e:
                  print(f"Skipping {file}: {e}")
                  with open("/errorfiles.txt", "a") as f:
                      f.write(file)
-                 conn.rollback()
+                 l.conn_rollback()
             # TODO: os.remove(file)
             # move instead of delete for now
             os.rename(file, "/mydata/del/" + file.lstrip("/mydata/"))
