@@ -34,11 +34,12 @@ def db_copy_reviews(file):
                 FROM STDIN WITH CSV HEADER
             """, f)
         conn.commit()
-    except psycopg2.error as e:
+    except psycopg2.Error as e:
         cur.execute("ROLLBACK TO SAVEPOINT before_copy")
         conn.commit()
         with open("/errorfiles.txt", "a") as f:
             f.write(file)
+        raise
     finally:
         cur.close()
 
