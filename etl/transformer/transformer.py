@@ -23,9 +23,9 @@ class Handler(FileSystemEventHandler):
 
     def on_closed(self, event):
         if event.src_path.endswith("reviews.csv"):
+            file = event.src_path
             if file in self.processed:
                 return
-            file = event.src_path
             try:
                 self.process_file(file)
             except psycopg2.Error as e:
