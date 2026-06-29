@@ -38,7 +38,7 @@ class Handler(FileSystemEventHandler):
 
 
     def process_file(self, file):
-       if event.src_path in self.processed:
+       if file in self.processed:
            return
        print("ready: ", file)
        df = pd.read_csv(file)
