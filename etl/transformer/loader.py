@@ -4,10 +4,14 @@ import os
 conn = psycopg2.connect(
     host=os.getenv("DB_HOST", "localhost"),
     user="user",
-    password="pass"
+    password="pass",
+    options="-c client_encoding=UTF8"
 )
 
 # TODO: maybe extra safeguard here? But tbf, I have that in my scraper I think
+# I don't know how many weeks ago I wrote this todo, but i need another safeguard because of
+# artifacts
+
 
 def db_copy_reviews(file):
 
@@ -32,6 +36,8 @@ def db_copy_reviews(file):
 
     cur.close()
 
+def conn_rollback():
+    conn.rollback()
 
 def insert_embedding_to_games(game_id, tensor):
     cur = conn.cursor()

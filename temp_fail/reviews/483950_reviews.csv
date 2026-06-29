@@ -1,0 +1,452 @@
+app_id,user_id,review,does_recommend,funny,helpful,weight,playtime_at_review
+483950,76561199128744081,买了之后才发现这个工具有个致命的问题，就是导出游戏后只能小窗口玩，一放大就严重掉帧。对于现在的系统，这个窗口着实有点小了。本身是个好工具，3d引擎本来就少，这么低门槛的引擎简直是宝藏，可惜官方似乎放弃更新了。,1,0,0,0.5,182
+483950,76561198052482498,"Hier folgt eine detailliertere Aufschlüsselung der wichtigsten Aspekte basierend auf Nutzerfeedback und Funktionen:
+
+✅ Vorteile
+Keine Programmierkenntnisse erforderlich: Nutzt ein benutzerfreundliches Ereignissystem zur Erstellung komplexer Szenen, Dialoge und Interaktionen.
+3D-Fähigkeit: Bietet eine einzigartige 3D-Perspektive für Top-Down-RPGs und hebt sich damit von herkömmlichen 2D-Tools ab.
+Erweiterbare Assets: Sie können Ihre eigenen 3D-Modelle, Texturen und Partikel importieren.
+Alles-in-einem-Paket: Enthält integrierte Elemente (Monster, Gegenstände, Musik, Grafiken), sodass Sie sofort loslegen können.
+Unity Exporter: Spiele können zur Weiterentwicklung nach Unity exportiert werden (dies ist jedoch ein separates, kostenpflichtiges Plugin). 
+
+❌ Nachteile
+Begrenzte benutzerdefinierte Logik: Obwohl sie für Standard-RPGs hervorragend geeignet ist, kann es schwierig sein, von dieser Formel abzuweichen.
+Einschränkungen bei den Assets: Obwohl die Engine anpassbar ist, gestaltet sich die Erstellung völlig einzigartiger Inhalte von Grund auf innerhalb der Engine schwierig.
+Lernkurve für fortgeschrittene Funktionen: Kann anfangs abschreckend wirken, obwohl sie für Anfänger vermarktet werden.
+Probleme mit dem Unity-Exporter: Einige Benutzer berichten, dass der Unity-Exporter enttäuschend sein kann, da er Maps als Binärdateien und nicht als editierbare Szenen behandelt. 
+
+ 
+Fazit
+
+Smile Game Builder wird oft mit dem RPG Maker verglichen , allerdings in 3D. Es ist besonders für Anfänger, Hobbyentwickler und alle, die klassische JRPGs ohne Programmierkenntnisse erstellen möchten, empfehlenswert. Erfahrene Entwickler, die eine tiefgreifende Kontrolle über die Engine benötigen, könnten es jedoch als zu eingeschränkt empfinden. Für seine Nische gilt es als solides und unterhaltsames Werkzeug.",1,0,1,0.523809552192688,652
+483950,76561199082283665,The best of the industry. Automated game development....,1,0,0,0.4545454680919647,15
+483950,76561198871670831,"Cara, gostei muito dessa engine! Acho que dá para criar bastante coisa! Depois que eu descobri que eles também fizeram o Bakin. Acho que tu pega a noção aqui e, depois quando tiver grana, pode migrar para o Bakin. Gostei muito!",1,0,1,0.523809552192688,331
+483950,76561198833112919,fun so far,1,0,0,0.4761904776096344,90
+483950,76561197995896403,"Sadly useless for me, but may be a great introduction for developers to be(and professional devs with projects of a smaller scale.
+
+Unfortunately very rigid and restrictive, but still totally usable to develop full projects within reasonable scale.
+- restricted local variables with no ability to add more.
+- no built in tile editor.
+- requires unity to compile for mobile.
++ very user friendly ui.
++ does not limit complexity necessarily.
++ readable/visual node/link based programming(your branching text can be easier to follow without getting lost, unlike rpgm's wall of text event commands, which makes it difficult to easily find specific parts of your branching text)
++ built in save system...
++ surprisingly customizable and controlable camera(great for cinematic angles and fixed camera systems like resident evil.
+
+I... recommend this at a deep sale, but their are better tools out there... including rpg maker mv.",1,0,0,0.5,5126
+483950,76561198365645834,"Jest bardzo fajne, chociaż szkoda że nie po polsku.",1,0,0,0.5,125
+483950,76561198031574463,"It's basically RPG maker in 3D. I don't understand how this game engine went under the radar because it's great.
+
+Definitely a bit more complicated, especially if you are trying to add your own assets, but still amazing.",1,0,0,0.5,5017
+483950,76561198025596908,"It is a very good rpg game creator. I think it is better that the other rpgmaker for all these reasons (except the price a little too expansive)  : 
+- you can create very nice 3d map
+- you can choose a 2D/3D view
+- the fight interface is better
+- the editor interface is very easy to use.
+- the event editor is powerfull and easy to use
+- two good stories are  inclued in the software and they are opened to modify and are good example to create your own stories.",1,0,0,0.4761904776096344,3566
+483950,76561198168968716,"＞SMILE GAME BUILDERとは、率直に言ってしまえばRPGツクールの3D版である。「なんかゲームみたいなのを作ってみたいけどプログラミングなんてできないし、ゲームエンジンとか起動しただけで卒倒しそうになったわ！」とかいう人が、ツクールシリーズの使い勝手を期待しているなら、望むものが手に入るだろう。
+　なお本作には作成データをUnity用のプロジェクトに変換するDLCが販売されているが、本作そのものはUnity製ではない点に注意。
+
+　グラフィックに関しては、シェーダーにテクスチャフィルタを使っておらず、ピクセル化された見た目になるため、変に拘って豪華な見た目を作ろうとするよりも、いっそレトロ表現に振り切ったものを作るのに向いていると思う。それこそキャラやオブジェクトにスプライトを使い、90年代の2.5Dゲームの再現を狙うのも良いだろう（シェーダー設定で常にカメラを向き続けるビルボードにすることも可能）。
+　標準設定ではボクセル風のMAPにアンビエントオクルージョンみたいな不自然な影が描画されるが、これはVSM(バリアンスシャドウマップ）で、影の角度はMAPの設定から変更可能。これはレトログラフィックの観点からすると不自然にリッチな描画で、設定で変更することもできない。個人的にはあまり好みではない。この影は地形とキャラクターにのみ適用されるので、legacyシェーダーを使用するオブジェクト等に影をつけたい場合、影用テクスチャを貼った板ポリを用意するといった工夫が必要になる（Sims4のModの作成経験があるなら御理解頂けるかと思う）。
+　テクスチャは.PNGのみでミップマップは扱えず、いわずもがな視野外のオブジェクトを描画しないオクルージョンカリングなんてものは実装されていないため、高解像度テクスチャやポリゴン数の多いモデルを何も考えずにブチ込みまくると、早々にパフォーマンスの酷いゴミが出来上がることだろう。
+　3Dモデルは.FBXで、Blender2.79での作成を想定している。公式サイトでサンプルモデルが公開されているが、Blenderの扱いに慣れているならゲーム用のアセットをそのままインポートして参考にしても問題はない。
+　縮尺は凡そBlenderのメートル法を参照しているようで、1マスにつき1平方メートルという解釈で合っていると思われる。オブジェクトをリアルスケールで作り込んだ場合、主観視点時のカメラの高さを1.6あたりに設定することで違和感のない操作が可能になるが、そうするとデフォルメを想定した基本アセットがすべて使い物にならなくなるので、このような変更はアセットをすべて自作する場合でのみ有効だ。
+　パーティクルは自作が可能で、標準的な.TXT形式で書かれているため、公式のマニュアルを読みつつ基本アセットを参考にすれば、思い通りのものが作れるだろう。
+　シェーダーは弄ろうと思えば弄れるのかもしれないが、なにせメジャーなHLSLではなくGLSL（1.20）なので、ちょっと自分では歯が立たなかった。またPS4用のPSSLファイルも部分的に含まれているが、これはおそらく本作をPS4に移植する計画があったのではないかと思われ、実際には使われていないプレイスホルダーの可能性が高い。
+　アセットはテクスチャにPNG、3DモデルにFBXと汎用的なフォーマットを使用するが、完成ゲームとしてエクスポートしたプロジェクトではすべてのアセットが暗号化された単一の圧縮ファイルに纏められるため、「管理が楽なのはいいけど素材を無断転用されるのはイヤだなあ…」と心配する人は安心していい。
+
+　ゲームはWASDによる移動とマウスによるフリールックを備えた主観視点でプレイすることも可能だが、あくまで基本システムは正方形のグリッドベースを念頭に設計されているため、オブジェクトにインタラクトするさい位置や角度を正確に合わせないとアクティベートできないという、根本的なユーザビリティの欠如が露呈することになる。つまりは人や物を調べるとき、ナナメの位置から干渉したり視点が上下にズレていたりすると反応しないのである。これは「調べても反応がなかった」とユーザーに誤解させる原因になり、ゲームの欠点としてはかなり致命的な部類に入る。そのような形でプレイヤーに不便を強いたくない場合、移動やカメラ視点の操作は「マス目移動／3DダンジョンRPG風」にしておくのが無難だ。
+　残念ながら本作のゲームプレイはオプションまわりが完全に欠如しており、解像度やキーマップ、グラフィック設定などが何一つ変更できない前代未聞のシロモノで、それだけでも不特定多数の人間にプレイさせるのが申し訳なくなるレベルである。正常にゲームを終了する方法がなくクライアントを強制的に落とすしかないのもバツ。
+　またリリース当時はパフォーマンスが非常に劣悪で、サンプルシナリオでさえ不定期に原因不明の処理落ちが発生することがあったが、現在はかなり改善されている。
+
+　感想としては、メーカーの想定を無視して妙な工夫するよりも、限られた制限のなかで設計を煮詰めていくのが好きな人向けのツールで、本作で作成できる表現の天井はかなり低いため、正直言ってしまうと、きちんとしたプロジェクトや商用ゲームの作成にはまったく向かないものだということは理解していたほうがいいだろう。なにせコア部分の仕様に根本的な改善が不可能な箇所が多いからだ。
+　とはいえ、ちょっと趣味でイラストや3Dをいじっているとか、簡易なコンセプトモデルを形にしたい場合、あるいは、べつにゲーム制作者を目指してるわけじゃねーよって人が余暇で触るぶんには楽しいツールだと思います。＿",1,0,0,0.4761904776096344,1944
+483950,76561198038776903,"没中文 没成就
+
+《微笑游戏创建者：无需编程的游戏制作神器》
+SMILE GAME BUILDER 是一款游戏制作软件，无需编程技能即可使用！软件内置所有必要素材，包括 3D 模型、图像、音乐等 —— 现在，你只需释放创造力！
+你是否曾梦想制作专属 RPG？
+但苦于不懂编程？
+现在…… 你完全不需要！
+SMILE GAME BUILDER 无需任何编程，就能将你的想象化作游戏世界！如今更升级为3D 版本！
+丰富素材库（超 1000 + 资源）：
+3D 角色 / 2D 角色、怪物图像、角色头像
+地形方块 / 楼梯方块、房屋、喷泉、动物
+魔法特效、音乐、音效
+支持自定义导入：
+3D 设计师和插画师可将原创角色与物体导入引擎，同时软件还提供可下载内容扩展素材库！
+简单制作流程：
+放置角色与物件：在编辑器中拖放角色后，自动弹出交互窗口。
+设置对话与动作：无需代码，直接配置剧情逻辑。
+添加陷阱与特效：用物品设置机关，或添加动态粒子效果（编辑器内实时预览）。
+进阶事件设计：高手可将基础模板转化为复杂事件，打造戏剧性剧情。
+实时测试与发布：
+随时进行试玩测试，调整事件逻辑与游戏平衡，可邀请朋友参与测试。
+完成作品后可全球分发甚至售卖—— 只需用想象力与创造力拓展创意！
+释放你的创作力！
+——《微笑游戏创建者：试用版说明》",1,0,3,0.5467041730880737,375
+483950,76561198306851653,"This software has a LOT of potential to be almost perfect for it's intended purpose, and I was really excited and looking forward to using it, but sadly I don't think it's worth it for the overall cost.
+
+Pros:
+- Pretty easy to use
+- You can add your own models and sprites which is nice
+- There's no additional licensing needed to sell your game if that's what you want to do
+
+Cons:
+- VERY limited customization. Can't even change the font of your game in the standalone software
+- No scripting in the standalone software
+- Basically in order to have ANY adequate versatility to make your game truly your own, you have to buy the Unity exporter DLC, which is more expensive than the actual software (if you buy the software and this DLC during an 80% sale, you're still looking at a $30 total purchase)
+
+My mind would be changed right away if we could have more customization! Even something as simple as fonts and text options. It's been nearly half a decade since the last major update, but I'd still like to think it's possible!",0,0,14,0.6872377991676331,354
+483950,76561198372609640,çok iyi,1,0,0,0.5,204
+483950,76561198296059688,"Me encanta, estoy trabajando en un proyecto y lo encuentro rebueno!!!!
+Me cambie de los RPG Maker MV y MZ a este software y es alucinante de bueno. Recomendado!!!",1,0,0,0.5,941
+483950,76561198254200526,"CANT EXPORT TO UNITY WITHOUT A DLC.
+AND IF U BUY THE DLC, U WILL NOT BE ABLE TO CHANGE THE MAP IN UNITY.
+ITS NOT COMPATIBLE ANYMORE",0,0,3,0.5731707215309143,57
+483950,76561198944801091,使いやすい。,1,0,0,0.4761904776096344,2038
+483950,76561198173969501,Despite lack of scripting it is pretty nice.  Get the Unity exporter!,1,0,4,0.5453967452049255,3065
+483950,76561198451716820,"Program jest totalnie cudowny  💜  Działa znakomicie ze starszymi systemami (używam Windows 8.0), assety są śliczne, dobrze dopracowane, a obsługa tak intuicyjna, że nie potrzebujesz absolutnie żadnych tutoriali, żeby móc zacząć tworzyć plansze  💜  Najlepszy UI jaki widziałam!
+
+Jedyna rzecz, której mi brakuje, to możliwość późniejszego eksportu projektu do Godot Engine :c
+=============================
+The software is so much totally awesome  💜  It works just perfectly with older systems (Windows 8.0 here), assets are purely cute, really ""refined"" I would say. Everything is 100% intuitive, there is no need for any instruction nor tutorials whatsoever - you can start creating things just like that, directly after opening the program your very first time 💜 Best UI I have ever seen!
+
+The only thing I miss really is possibility to export the project to Godot Engine later on :c",1,0,0,0.5,12461
+483950,76561198098275954,"To świetny produkt, ale kiedy go kupowałem, myślałem, że będzie miał system świateł i cieni oraz lepszą grafikę. To był błąd, ponieważ rozpoczęli nowy projekt Rpg Developer bakin so.... stary projekt został spowolniony. Czuję się trochę wykorzystany lub oszukany, ponieważ zainwestowałem w coś, co szybko zostało zmienione na nowe i przestało być rozwijane. I znowu muszę płacić za kolejny produkt bez obniżki ceny. To trochę smutne. Szkoda że konsumenci są w taki sposób wykorzystywani. Nie polecam z uwagi na fakt, iż kto nie kupił jeszcze SGB to niech lepiej już kupi Developer Bakin.",0,0,0,0.5,4040
+483950,76561198063480167,O trailer engana muito o cliente. É um editor BASTANTE limitado mesmo com os DLCs. Arrependi muito de ter comprado.,0,0,1,0.5258620381355286,438
+483950,76561198216617601,Build what you are doing.,1,0,1,0.47826087474823,4077
+483950,76561198017199074,Für ein Game Builder Programm um Einfache Texturen und gebeude zu plazieren kann man mit dem was in der grund version ist auch mit den zusatz gut was bauen allerdings wenn man eigene grafik und eigene bauwerke haben möchte wie ne mine oder auch waffen usw sollte man anfangen mit Unity zu arbeiten Sound musik ist so weit auch da sollte man aber doch etwas anderes haben wollen sollten sie selber Welche zusammen bauen,1,0,0,0.5,1044
+483950,76561198845477535,COOL,1,0,0,0.46204620599746704,93
+483950,76561198078640723,"TLDR: PASS this game 'Company' doesn't know how to make good software, this is a 'tool' that is worse than RPGMaker1995, THEY hype this like its good but its an empty shell with 'events' that have no use.. you cant use them to make things cool (its not like using Tasker where stuff can get complicated but is worth the effort, its cripple-ware that although it has nice ideas and 3D.. it barely makes an RPG never mind anything else due to this company huffing farts).
+
+=======
+
+So i have spent a little time with this ""Builder"" and its ok.. its not brilliant, its more like a V-Tech toy.. it works but not exactly as you would always like.
+
+Whats annoying with this?..
+
+1) there is no script editor (no lua, python, java, cobalt, basic, fortran, c, c++, C#) not even ActionScript which totally limits the possibilities this could of had for being a decent program for novices and non-novices alike. 
+
+2)  The 3D model editor is not great, its like GameMakers but this shows in '3D' which is all-good but the amount of choice is quite limited even with the Devs imaginary count of 3.5000.000 or what-ever it was... its not & theirs no-way of adding our own (that i can find yet) which also limits the Game Building quite a lot.
+
+3) After Spending more time with this 'Engine/Builder' i find that it is majorly lacking in options (thus this 'tool' cant make that many different type/s of games.. they have to be very very basic with near all interactions done with only the very little amount of 'blocks' your given.. any attempt to 'Make Your Own' interactions via the meth-head system.. you will find.. is trash.. you cant define basic game rules at all (you cant have a timer for many events, you cant make a timer for them even.. just interaction so simple that its not useful).
+
+This 'Builder' has less Useful-ness than a pack of used condoms, the event 'editor' is a joke, if you try to make something.. you will manly just give-up.. i thought it would be like writing 'Tasker' commands (Tasker phone app) where you can make really cool but complex things (such as 1 if Tuesday ring Dave then wait 5 end-call.. wait 5 goto 1) but nope.. you get nothing useful.
+
+Whats good with this??..
+
+1) well, if your a kid of 6 years or so... then maybe this is a toy they can use for re-enacting or re-imagining a simple game idea of something simple like ""save the princess frog"" which you could sell for a few rupees.  
+
+2) The 'tools' are easy to find & the gui is very informative which is always great. 
+
+3) Its a fun little Wii-Like game maker with Wii-Me characters, its easy to use.. easy to find-stuff, easy to use most of the time. 
+
+Verdict:
+
+It seems the Devs had a good idea. but somehow instead of thinking out-of-the-box they closed off all the ideas, disregarded the ones the community has had (including adding a scripting language) and also made importing models for use with the 3D model editor not available in an easy manor..
+
+I would say buy this product, support the Devs.. but no.. i would say depending on what you require or want / can afford get something actually a bit more useful (especially for the normal price you would expect an Engine, IDE etc or use a free one)
+
+-------------------
+
+Wouldn't support this company.. they seem Shady (read other reviews).. make software, do little, leave project, make another for money.. then rinse & repeat without fixing the old or helping the community.properly.
+
+---------------------
+
+REVIEW SUBJECT TO CHANGE IN THE POSSIBLE FUTURE",0,1,3,0.4719613790512085,134
+483950,76561199022588527,TUTORIAL LINK,1,0,0,0.5,14
+483950,76561197961324577,"LET US WRITE CUSTOM SCRIPTS ALREADY.
+SGB could be top tier with some minor edits but there's some funky design limitations going on that make no sense at all. I hate RPG maker but it's actually more feature rich and customizable. The ability to have node level coding, user created plugins and enhanced frontends built for specific types of projects would make this product absolutely decimate the other point and click basic game builders. As it is, think of it like the early ps1 ""fighter maker"" ""rpg maker"" type engines, where you can make -something- but it'll still feel like the ingredient box it came out of.",0,0,17,0.6370100378990173,15
+483950,76561198006813891,"This program is one of the easiest to learn and make thing out of nothing. Love this program, wish they made a SMILE GAME BUILDER 2",1,0,0,0.5,29387
+483950,76561199087128901,"35小时了，用起来就像3D版rpgmaker。不过我觉得比RPGmaker更加无脑，新手值得一试，不要幻想自己有能力有毅力能坚持下来学完编程，先试试这个，学会了并能坚持下来完成一个作品，在规划以后，如果你连它都整不明白我劝你还是别幻想了，用它完全可以做出一款成品游戏，他的潜力非常的大。我已经做了打包并安装移动端进行测试，整体能接受，表现还可以。软件弄得很麻烦，但打包过程非常的简便，新手买来试试。
+如果你是新手，我建议你如SGB，如果你是开发老手，直接入Bakin进最新的坑。
+推荐给新手是希望，新手能用最实惠的价格感受下软件，看看适不适应在考虑入最新。
+如果你是新人，这款已经足够你用了，并且有很多价格实惠的素材。
+不要盲目去看大佬和进阶用户的评论，因为你和他不在一个水平，你要认清自己的水平，不要眼高手低，脚踏实地。虽然素材确实不精致，但种类数量多，3d人物编辑器可以编辑色调 发色 脸型。足够萌新使用了。不要脑子弱智的把自己游戏意淫多么高的水平。你要认清自己，先把软件摸明白，把素材利用起来，在考虑那之后的事。
+举个典型的例子比如MZ MV圈子的购买玩家都有一个通病，不沉下心学软件使用方法看教程学案例，刚入手就开始想插件 想素材！！！！！！！！！
+记住！！！！这是大忌！！！！你会被更多进阶功能和插件和素材，消耗光动力。
+以上是给新手的建议
+这软件比mv和mz门槛更低，非常的容易操作易懂，内部带有120多页的pdf教程，涉及方方面面，以图文形式呈现，我个人觉得挺好的，蛮适合新手的。
+给个提示，注意！！！如果你点击运行测试的时候不好使没反应，不弹窗口，记得把软件全部关掉重新进入，或者steam库  选择它右键  所在文件夹  右键sgb图标 设置管理员启动 ，就能正常使用了。 
+好了就说这么多，总之加油吧新人，欢迎来到新的世界！！！！！",1,0,11,0.6694050431251526,362
+483950,76561198809789189,Simple and fun to use!,1,0,0,0.5,263
+483950,76561198111248680,it is to good,1,0,0,0.5,33201
+483950,76561198811384856,"Um software muito bom pelo fato de ser intuitivo e com bons gráficos, o único defeito é que não possui tradução para o português do Brasil e a sua comunidade é muito pouca.",1,0,0,0.5,4415
+483950,76561198340343034,"ระบบเกมทำได้แค่เกมแนวเนื้อเรื่องแบบ Final fantasy เลย
+ไม่สามารถปรับแต่งอะไรมากไปกว่านี้ได้แล้ว ไม่สนับสนุนปลั๊คอิน
+ระบบตัวละครไม่อิสระ เท่ากับ RPG Maker ขออนุญาติเปรียบเทียบ
+
+ข้อดีอย่างเดียวคือ ระบบการจัดการ Asset 3D สะดวกเหมือนทำ mods เกมอีกที",0,0,0,0.5,1916
+483950,76561199152688505,"This is a really good engine, i'm still starting my project but so far, it's very stable and has an easy to use interface",1,0,0,0.5,722
+483950,76561198007226198,There is just not enough asset support for this. Not even close. The assets they do have are all over the place in terms of quality. And they don't even have enough to make anything worth your time. Just wait until its on sale. Or better yet just don't buy this.,0,0,3,0.47295424342155457,3026
+483950,76561198305073824,"e um bom interpreter de Unity, muito compatível, com blender também. Pra quem está comçando com ambiente 3d é bom.
+Prós: intuitivo, tem importação avançada (da liberdade de vc criar seu material no blender e importar), suporte a VR, tem exportador pra Unity, tem o próprio char creator, existe a possibilidade de usar chars ou eventos 2d no ambiente 3d.
+Contra: falta um console de programação ou script interno, o char creator é limitado (falta conteúdo de animações na biblioteca dos editados, e somente os personagens pequenos e quadradinhos podem ser feito), além de não ter o char creator pro conteúdo 2d.",1,0,0,0.5,8215
+483950,76561198446814372,"As a game developer with many years of experience, I have had the pleasure of working with a variety of game development tools and software, but none have impressed me quite as much as SMILE GAME BUILDER. This software is a game-changer for anyone looking to create their own RPG, adventure, or simulation games.
+
+The first thing that stood out to me about SMILE GAME BUILDER was its user-friendly interface. The software is incredibly easy to navigate and understand, even for those with little to no programming experience. The intuitive drag-and-drop feature makes it simple to create and edit maps, characters, and events, saving valuable time and effort for game developers.
+
+One of the most impressive features of SMILE GAME BUILDER is the level of customization it offers. The software allows you to create truly unique and personalized games, with a wide range of tools and options to customize characters, maps, and events. You can even import your own 3D models and animations, giving your games a professional and polished look.
+
+The software also offers a wide range of scripting options, allowing you to create complex and dynamic events. This feature is especially useful for creating RPG and adventure games, as it allows you to create detailed and engaging storylines.
+
+Another great feature of SMILE GAME BUILDER is the community aspect. There is an active community of developers who share their own games, offer support and give feedback to other developers. This community aspect also allows you to discover new and exciting games that you may not have found otherwise.
+
+In conclusion, SMILE GAME BUILDER is a game-changing software for anyone looking to create their own RPG, adventure, or simulation games. The user-friendly interface, level of customization, and scripting options make it a powerful tool for game developers. The active community of developers also offers a great resource for support and discovering new games. I highly recommend this software to any game developer, whether you're a beginner or an experienced professional.",1,0,0,0.5,223
+483950,76561198718214061,Ein guter Maker der zwar noch in den Schuhen steckt aber dennoch ordentlich an Potential besitzt. Für eigene Kreative Köpfe und Leute die vielleicht auf ein 3D Maker wechseln wollen genau das richtige!,1,0,0,0.5,1814
+483950,76561197993269850,"It's pretty similar to rpgmaker but it's in 3d, also including lighting effect and weather effects. Once you get the hang of it some of it feels more organized than rpgmaker, too. Downsides are that there are a lack of assets, and there are things lacking in combat like customizable states (there are only a few such as poison, sleep etc). Would be cool if they added aim-able spell aoe too. Still very good for the money and you can catch it on sale sometimes too.",1,0,4,0.5598610043525696,7635
+483950,76561198877897645,"Hey, is it possible if you can create an AI that can make sprite sheets for this game, that way people won't have to have a hard time with making sprites? I would also like it, because AI is useful for me, plus can you make the addon of AI free? I love the program so far, its just taking a while. Or if possible you can have AI make the game and you don't have to make it from scratch if its too much work. All you need to do is give the AI the title of the game, give it a description of what the game is about, and the characters, then the AI will complete your game within minutes or seconds, depends on how complex the game is.",1,2,1,0.4229728579521179,57
+483950,76561198139181347,"Läuft leider nicht unter Linux obwohl der Plattform Client sie Anzeigt unter Linux Lauffähigen Programmen Spielen.
+Mal wieder Typisch steam mit Falschen Angaben machen die ja zu gerne.
+Ebenso finde ich den Preis für den Unity Exporter mehr als Übertrieben Dreist Frech Teuer, geht gar nicht.
+Und es Fehlen Leider auch Vernünftige Tutorials in allen Sprachen, jeder geht davon aus Englisch zu können, WEIT Gefehlt dem ist NICHT so, aber da scheinen die Entwickler einfach nicht dran Denken zu wollen. traurig so was.
+Ausserdem ist viel zu Wenig Contend vorhanden.",0,0,0,0.5,81
+483950,76561198107597511,"É uma ferramenta muito divertida e incrível de trabalhar, a construção de cenários e personagens são excelente. 
+Por outro lado a interface é um pouco complicada e não existe suporte ou no idioma PT-BR, para uma ferramenta de criação, isso desanima um pouco.",1,0,0,0.5,94
+483950,76561198034395650,ABANDONWARE. Don't bother the company is already going to come out with another software they are going to barely support then abandon.,0,4,6,0.48611998558044434,727
+483950,76561198077832370,"muy buen programa para hacer juegos, supera con creces a la competencia. si no sabes nada sobre como hacer un videojuego el programa te guia bastante bien para realizar un proyecto en 3D, si buscas algo distinto puedes realizar uno en 2D o mezclar ambos (ademas de otros géneros aparte del rpg), ademas de poder realizar las animaciones de los personajes o de las escenas que quieras incluir, puedes hacer algo muy simple o muy complejo ya depende de la habilidad de cada quien y el tiempo que le dediques.",1,0,0,0.5,6686
+483950,76561198160362853,"Este programa tem grande podencial para quem é apaixonado por 3d, ainda pode melhorar, mas a atualização como está agora, é possivel fazer trabalhos incríveis. Recomendo!",1,0,0,0.5,90817
+483950,76561198149757451,"I want to like this, but... I just don't.
+
+Graphical style is awful and it's very limited in terms of the formats you can use in order to import your own graphical assets.
+
+The only thing it does better than RPG Maker is the fact that it is 3D. But that 3D is not good...
+
+Do yourself a favour and get RPG Maker, any one... all of them are better than this.",0,2,3,0.4883390963077545,2150
+483950,76561198284139666,"SMILE Characters Vol.1でやっと角ばってないキャラが大量に追加されて嬉しいです。
+欲を言えばこのタイプのキャラクターエディターができたら最高です。
+
+あと操作で以前から気になっていたのですが、
+パッドでプレイしたときに３人称視点で視点移動（右アナログスティック）の操作が真逆に感じます。
+STEAMのキーコンフィグで調整しても今度は１人称の方が逆になります。
+出来ればゲーム中のコンフィグで調整できるようにして欲しいです。
+
+これからもいろんなDLCを追加してください。
+応援しています。",1,0,2,0.5454545617103577,756
+483950,76561199038611053,"Muito limitado, e bom comstrutor de mapas, mas e impossivel coloca scripts customizado.
+Mapas muito grande gera um lag absurdo, não aguenta modelos com mas do que 50 bones.
+Falaram na comunidade que ia recebe atulzação nas egines com novas coisa, mas o que veio Foi so DLC e lançaram um nova egine so que com graficos melhores um sacanagem.
+
+Recomendo caso queira agiliza algums parte do scripts e inporta para unity, mas para costruir paredes e horrivel.",1,0,0,0.5,305
+483950,76561198265747167,非常不错的3D RPG游戏引擎！推荐一波！,1,0,0,0.5,403
+483950,76561198974009297,有没有群我想入群，一起研发突破,1,0,0,0.5,70
+483950,76561198017363742,Se vc quer criar um jogo no estilo RPG e não sabe nada de programação esse é o programa ideal pra vc!,1,0,0,0.5,6564
+483950,76561198117852996,"I like the program , now I can create the game of my dreams .",1,0,0,0.5,1164
+483950,76561198148330884,Steam workshop pls?,1,0,0,0.5,45
+483950,76561198322739113,fine software,1,0,0,0.5,2664
+483950,76561198121715258,"One of the simplest and best RPG Maker Programs for beginners and devs....!
+
+I LOVE IT! Thx for making this!",1,0,2,0.52173912525177,161
+483950,76561197998621844,"We used Smile Game builder to author amazin' George 2, before we passed it through to Unity for distrubution on Steam, Nintendo Switch and Android, and we can say this, we are very impressed. And when we reached out to customer support for technical support with these processes they were incredibly helpful. We will be using Smile Game Builder again in a future project for sure. It makes it easy to produce quality games without the need to reinvent the wheel, and even better, we can code in CSharp that makes it so easy to us as it's one of our programming languages that we are used to using. Well done SmileBoom, an extremely happy and commited customer!",1,1,1,0.4949495196342468,19208
+483950,76561198973757530,nice to have fun to play with . easy  to learn hard to master.,1,0,0,0.5,1205
+483950,76561198210230403,"I've been using RPG Maker for almost a year now, but since I switched to SGB I have to say I'm really impressed! RPG Maker is just a little bit easier but I managed to get used to this software pretty quickly, my new game can finally be a 3D one!",1,0,6,0.584607720375061,51
+483950,76561198008297288,"Fantastic Software, I've used it for over 1300hrs. Very simple system, my only complaint is the lack of objects. For the start of your time you'll think oh this is perfect I have tons of options. But over time and over several designs you'll realize theres not as much variation as you'd like. Scripting events, animations, etc. Super easy. It might take a little time to get use to where everything is but after a while everything will seem simple. The ability to copy and paste scripts really simplifies things. Things like creating loading screens with useful information can be easily copied an pasted and words adjusted to create variation to areas. The graphics arent ideal, some of the models lack details in their faces and are either a little to simple or silly looking. You can use the character editor but not for full 3D models just the box-y models. Which is alright but when you see the more ""Human"" models it kinda makes you want more. Overall would recommend all things considered they do regular free updates, fixing and adding more you can do or more models.",1,0,6,0.5708501935005188,78851
+483950,76561199052360274,"Semplice da usare, comodo per chi è abituato a rpg maker; consigliato per progetti Rpg.",1,0,0,0.5,92687
+483950,76561198044393007,"This engine is awesome! It's basically RPG maker but in 3D. After just releasing a commercial game using this engine, I highly recommend it. The 3d perspective and camera is a real game changer, it let's the players view your games through a whole bunch of perspectives  which can really help make your game into a more meaningful experience. The DLC resources and tilepacks are pretty good and there's already enough of the assets inside the base game to kickstart your own personal project. It may seem confusing at first but it becomes really easy to pick up on the basics once you know where to navigate and place advanced events.
+
+Overall, pretty solid engine, would recommend",1,0,6,0.5788130164146423,14129
+483950,76561198156132557,Kodlamadan Oyun Yapmak Mı İstiyorsun . O zaman Bu eğitim tam sana göre. Programı nasıl kullanılacağıyla ilgili bedava eğitim serim ile Toplam 6 - 7 saat arası eğitim ile kursun sonunda sende 3 boyutlu oyun yapabileceksin . Bu kodsuz oyun yapma programı ve bu eğitim sayesinde ister oyun yapıp arkadaşlarınıza hava atabilir . İsterseniz Steamde satışa koyup para kazanabilirsiniz. :) Youtubede Ahmet ile Eğitim diye araman yeterli,1,0,4,0.5824766755104065,6637
+483950,76561197987955616,i'm still not get used to the tools. since there's not much help on the youtube or online. Nevertheless the tool have so much options to adjust to your liking. I liked it even though for me this is not as easy as RPG Maker.,1,0,0,0.5,85
+483950,76561198149836772,I would've recommended this for beginner or hobbyist game developers if RPG Developer Bakin didn't outclass it entirely in every way and all within the same pricepoint.,0,0,1,0.5,440
+483950,76561198301139279,快出DLC DLC~~~~~~~~~~~~~~~~~~什么时候出脚本插件，或者出一个触屏功能,1,0,0,0.5,3783
+483950,76561198202964947,"I can't get my Smile Game Builder to Launch. I think it's because of my graphics card. Is there a workaround? I still want the game builder, though
+.",1,0,0,0.46204620599746704,5
+483950,76561199051729658,A great game engine to get into game building..!!!,1,0,0,0.5,5743
+483950,76561199172205402,"HELLO - OK so first off im a bad speller youve been warned lol so here goes ive used a few great RPG making games/softwhere and loved then this one is well hmmm. Ok its nice in alot of ways but saverly lacking in others  I would still however recamend it but heres is what is rong or should i say missing I mean I did pay 70 bucks so i can say something i suppose
+
+1- I understand it was origanily a 2d battle system then converted/upgraded to 3d thank you for this buy the way......How ever im very upset to pay so much for so little Here is what i mean
+
+Every 2d monster should have been converted / gifted with a 3d option as it stands there is like only a hand full that have been i mean come on that's upgrade 101 absoulity the first thing that should have been upgraded with the 3d battle system are the monsters to match 
+
+I totally would of been cool with like 25 or so 3d monsters all with and this is very important very accurate and detailed 2d picture/portraits to match  50 complete monsters^ would be the best number for a descent sized game.
+
+This i my absolute biggest gripe please make this upgrade not as a dlc but as part of what has the potential to be one of the greatest RPG maker software/games ever made- built  right in not every upgrade should cost money some things should be done for the love of this project
+
+2-waaay more item and gear 2d picture options with more animated options as well again only a small hand few to choose from and use a much better balance than the monsters tho lol...
+
+3-At least duble the music library for all sections of the game/soft where what there is is ok but just berly enough to be only slightly diverse in my game and across maps 
+
+4- as with the monsters a large B-Style 3d Hero library with complete and accurate 2d pictures/portrates and B-Style Hero editing system just like A-Typ one. would be awesome.
+
+Ok now for a few complements...
+
+1-Great map making system very well done and fun nice to see what im building as i build it very nice thank you.
+
+2- the balence for preset options are such as camera view and controll are nerly perfect very well done
+
+3-In fact all the content this game/ soft where actually does come with is awsome and very well done 
+
+4- in the end it just need these very few (Built in upgrades) to come stock with the program and would easly be worth 100$ or so and it would of the greatest games/soft where ever made but not otherwise -3 for ps2 had a much better monster and Hero balance. What i ask should be a very simple matter for what is obviously a very smart and talented group of people. please consider putting any other upgrade ideas on hold and do this for everyone you will make people very happy.",1,0,1,0.523809552192688,1227
+483950,76561198255497320,"我们要中文，we need Chinese，
+还有，这软件是不更新了么",1,0,0,0.5,301
+483950,76561198359150731,"This is a very good engine
+It takes output very easily for Unity
+And it is suitable for Android
+Good ideas can be made
+Of course, I hope it develops a lot more and has better rendering and supports advanced 3D models",1,0,3,0.523809552192688,51
+483950,76561198917382132," Recomendo? - SIM
+ Pra qual público? Hobbystas e Indie Devs.
+ Contras Razoáveis: Comunidade BR quase inexistente, poucos conteúdos personalizáveis originais acompanhando o pacote da engine, criador de personagens ( DLC / Recurso comprável ) é muito esquisito e mal explicado apesar de ser útil, pessoalmente também achei que há muito pouco tilesets e objetos.
+
+ Contras CRÍTICOS: NÃO HÁ OPÇÃO DE MAPEAR O CONTROLE!!!!!!!! 
+  EXPORTÁVEL PARA CELULAR SOMENTE USANDO UNITY/UNREAL COMO INTERMEDIARIO
+
+Prós: 3D, Fácil acesso e assimilação, Muitos conteúdos expansivos de graça, fanbase japonesa gigantesca, Database muito bem detalhado e gostoso de mexer
+
+SUPER PRÓS: Páginas de evento MUITO BEM divididas, tendo até uma espécie de ""skilltree"" pra desenvolvedores mais bem familiarizados com a engine.",1,0,0,0.5,7727
+483950,76561198280650493,"Super simple à prendre en main, très complet, on arrive rapidement à faire quelque chose de fonctionnel et unique",1,0,0,0.5,2071
+483950,76561198972476328,"Puedes hacer de todo con esta fantastica aplicacion. Tanto en 2D como en 3D y en primera o tercera persona. El unico punto negativo es que solo esta en ingles, pero por lo demas es perfecto, en mi opinion uno de los mejores programas para diseñar juegos no solo RPG, sino de puzzles, accion,...",1,0,6,0.5778894424438477,6289
+483950,76561198371347552,"I don't know what to write,it's good if you want to build a game real quick but you need to learn to create your own asset or need to pay lots of money.",1,0,1,0.49967053532600403,311
+483950,76561198402836056,"Good old RPG Maker may be the old  ""tried and true"" ; but Smile is the better of the two. Everything from map design to EVENTS (yes Events). It took me all of an hour and a half to make a game with 16 maps with fireworks going off and little glowing blue flames. Character design is simple importing your DLC is literally a 2 clicks (NO FOLDER SWAPPING ETC.). RPG Maker cannot compete with Smile. Some advice: always look at the dates on reviews on Steam, You Tube or anywhere else. Also, check out all recent updates since those reviews. Most user suggestions and complaints are addressed by developers.",1,0,7,0.5840980410575867,274
+483950,76561198215133289,"cool and cute, i wish it was optimized better. sometimes the interface is laggy",1,0,1,0.52173912525177,353
+483950,76561198192263870,Love this Engine. I Still Lerning!,1,0,1,0.48936519026756287,3073
+483950,76561198142037761,"I logged 160 hours during my game development course for level design. One of the objectives was to use a game tool or game engine not normally used by the student. luckily for me the SGB engine launched when i started the course and it has become one of my preferred game engines since. That being said, i have only used it for prototypes for level testing using all of the tools provided by the engine,  When it came to importing my own art for the engine, i found it very frustrating as i followed the instructions to the letter and was unable to appropriately upload my characters, animations, etc. I found that others were able to import so i chalked it up to user error, but due to the extensive regulations and parameters for import, i have abandoned the engine for more favorable ones. The best part of this Engine is its simplistic programming. It is a great engine for Designers, and unless you can figure out the import process, artist as well. During my 160 hour usage, i was very focused on the design portion of the project for the course i was taking. If i have more free time and the art import process becomes less extensive, i will be happy to create games using SGB.",1,0,4,0.568018913269043,9660
+483950,76561198040859614,"NOTE: I have not take a thorough look through any option, addon, or feature of this program yet. This program IS going to be compared to the RPG Maker software to hell, so take note. I am not using any custom models or scripts, barring the character generator, take note.
+
+PROS:
++ ""RPG Maker"" [b]IN 3D![/b]
++ Corpse Party DLC is okay, I guess.
++ VR Mode(?!?) 
++ Easy to make cheap Horror RPG games with its First person view.
+
+Cons:
+- MV Is better.
+- ""Advanced Scripting"" is not simple like RPG Maker's event menus.
+- No Dialogue format/previews. This does not count going through the playtest and view the dialogue yourself.
+- Lack of Spears.
+- Better get it when it's in the double digits on a sale.
+- Features are behind a paywall. (Character Generator)
+- Interface(?) is odd. Things such as Right clicking when world building doesnt copy the selected tile into the tile brush for a quick edits. 
+- Character Generator (DLC) is limited.  Palette.
+- Character Generator (DLC) does not have ""Detailed"" model generator. Well of course.
+- The price for the Deluxe Edition. Wait for a sale when it drops to double digits.
+- There hasn't been an update since Oct 2020.
+
+Overall: 4/5 (or 7/10)
+
+Despite the overall Cons...
+This fits as a ""3D RPG Maker"", but is a few steps away. If the RPG Maker Devs would've made a 3D RPG Maker instead of a mess MZ is, I would've said ""SIGN ME UP"". Instead, I said it to Smile Game Builder instead. 
+
+Expanded Thoughts:
+
+3D - It's fun to recreate the maps I made in RPG Maker in 3D. Unfortunately, I'm limited in what objects I can place. MV/VX/VXACE has many objects I can use to decorate my rooms. In Smile?  Not much. Palettes are limited, so I can't make many ""dungeons"" without them looking like copypaste maps. But hey, I can make a 3D Ao Oni clone ^.^
+
+Dialogue - Creating dialogue is a nightmare. As of this writing, I do not see any option to preview my dialogue I written, most of the time it gets cut off and bumped into an unnecessary text box.
+Example*: ""You know you can move that crate box to block the enemy..."" - The text ingame displays ""You know you can move that crate box to block (Skips to another dialogue box) the enemy.""
+*This example obviously is short enough to fit in the dialogue, just giving an example when it doesn't* In RPG Maker, while it doesn't have the problem, the program is kind enough (most of the time) to give an indicator where text would cut off if not formatted correctly.
+
+The Price? Oh god, the Price of the Deluxe Edition is 280.15 USD. I got the thing for 55(ish) USD during a sale. The program at its bare minimum is at 69.99 while MV costs for 79.99. Even with the 9.99 USD for the character generator DLC, MV is superior. That 69.99 price, like any maker, is NOT worth the cost.
+
+Final Thoughts - Between RPG Maker and this? I rather stick onto RPG Maker... MV.  It's more simple, more friendly, but if you want to take a spin on Smile, go on ahead. Smile maps makes great for RP maps.
+
+
+
+",1,0,7,0.5618603825569153,590
+483950,76561198045403516,It is fun and worth it when it is on sale! Buy the dlcs for more content! You will be confused at the begin. But when you learn and clicking around the demos of building. Click on a door and learn things! Easy to use! Just took me 4 hours of playing around!,1,0,0,0.5,267
+483950,76561198049040522,"I wouldn't really say i would recommend since at one point in time it was over a hundred bucks worth just the stand alone software and it should have been a very promising game engine. Sadly like mostly everything that gets added to steam lately it too seems to have been abandoned since they have been having the same resources packs (dlc) since their first few months after launch. I won't lie and say they have done nothing to improve the software itself, because for atleast 6 or 7 months they always seemed to release some update or patch. The only good aspect is it full 3D game editing. IT was they only thing that kept me hanging around. I also say in my opinion the #D part was also its bad aspect, if that makes any sense. I would recommend only to purchase this when its like %75 off. Should also say that it does put a bit more of a strain on my computer compared to rpg maker.",1,0,0,0.5,2337
+483950,76561198967670602,"Estou editando a minha analise.
+Comprei no começo por 200 Reais. Nunca ganhou suporte para linux. Foi abandona agora tem um software mais atual. 
+Gostaria de ver alguem que conseguiu fazer um jogo nesse programa, imaginava que conseguiria fazer um jogo nesse programa mais sempre acabo desistindo. Boa sorte pra quem quiser fazer um jogo com esse programa aqui.",0,0,0,0.5,30393
+483950,76561198351484940,"非常好用的软件，对于喜欢3D RPG游戏的开发者非常有用，不需要编程基础，大大缩减了开发周期，我做的小游戏《龙血树》在苹果 APP Store上线了，喜欢的可以下载：）
+Very easy-to-use software, very useful for developers who like 3D RPG games. No programming foundation is required, which greatly reduces the development cycle. The little game I made ""Dracaena"" is online in the Apple App Store. You can download if you like: )",1,0,4,0.5662460327148438,30229
+483950,76561198267524451,"Well, the program itself is not that bad. It's mostly RPG Maker for 3D graphics. However, it's is REALLY limited in every single aspect if you want to do ANY professional game: Polycount, textures and animations that can be applied to the models, you can't code nor script (which would help to improve this A LOT), no multilanguage support (you can only export one but not change it in runtime), no customization for shaders nor lighting, controls are unintuitive af, no support for most 3D formats, and the worst part:
+
+They did a really bad implementation of Unity's exporter. Once you export your project to unity engine, you say: ""Okay, now I can code and configure everything to my needs"" ahahahaha, no. This uses deprecated stuff like IMGUI FOR RENDERING and old methods that need to be replaced even in Unity LTS. They instance things in runtime instead of creating the objects in the scene, so it's hard af to modify things. Also, they use tons of Find, GetComponent and loop methods that should not be used like that. You can't modify their code in most of scripts bc they are hidden and there's no editor in Unity for their maps. There's no support at all for Universal Render Pipeline nor HD Render Pipeline (for their custom shaders).
+
+To be honest, I'm VERY glad for not spending more than 30 bucks on this.",0,1,11,0.5988233089447021,28
+483950,76561198048164779,"What makes SGB stand out for me is the 3d aspect, first person view option, and VR capability. I can also smooth-rotate the maps 360 degrees and change my horizontal view. The views make for interesting terrain and event placement opportunities. In this genre I believe SGB stands out based on the points I mention here. Happy game making. 
+",1,0,0,0.5,513
+483950,76561198083394973,"UPDATE 20/03/2021 - ANYONE considering buying this product, don't bother.. it has really bad lack of features and bad developers that has the community begging for updates with hundreds of suggestions to make the engine better but they just choose to ignore the user base and instead give us crappy additional extras like a cat model inside a chest, crap that the engine can do without when it is so featureless. As you can see I have spent many hours using this product, spent a LOT of money on my game I WAS making but now have decided to shelve the project because of what the engine is missing. Did I enjoy making what I have for my game so far..? YES! but way too often I hit walls because of lack of features it has that I know my game could have IF the engine was MUCH better. but nothing.
+
+------------------------------------------
+
+OKAY so rather than carry on and on I will bullet-point the good and bad. This review ain't going to be good so STOP reading now SGB fans IF you are offended easily. I've used SGB for a few months now and making a game with it, so I can see it's limitations, interacted with the community, and have learned by now what is entailed in using this Engine.
+
+
+
+THE GOOD
+
+-Easy to use!
+-Can choose 3D view or 1st person view with a single press of a key, the 1st person view can be disabled if you don't want people to play your game like a Doom style game.
+-Can alter the camera angles freely, so you could make a side-scrolling game if you wish. (without jump though, which sucks, see The Bad.)
+-The standard graphics packaged with the engine are quite nice looking.
+
+
+THE BAD
+
+-The Event Menu where all your functions are located is a complete mess.
+-Not enough free assets packaged with the engine, it has a bare minimum, I mean it don't even have a bucket ffs! characters that come free.. only a very small few have character portrait art with them so you are left once again to hunt for someone to do custom art for you.. that you will probably have to pay for unless you can draw yourself.
+-IF your maps are too big the area when playing will jitter slightly so the engine don't manage too well with large maps using animated objects like grass, trees, windmills, etc.
+-NO Jump function. (which is ridiculous.) you can't jump in game and there is NO function to make an event jump either.. how fk'n archaic is that..?
+-NO scripting possible (like RGSS in RPGmaker, which I believe is this engines killer.)
+-IF you want something that would usually require a script and you cant figure it out by using pictures, variables, and events then forget about what you want to do.
+-Extremely small community.
+-If you want assets then you will need to learn 3D modelling, like Blender yourself.
+-If you want some form of scripting (for whats possible in SGB) you will need to learn extensively all about variables, etc for the system, people simply won't do things for you.
+-(with possible shunning from the discord I say this) Don't expect 90% of anyone to make anything for you in terms of demo or assets for something custom, it just don't happen. There are the slight few who WILL however go out of their way to try to help.. but rarely.
+-The eventing options are limited compared to RPGmaker.
+-The devs hardly add anything that the community requests, as evident by looking on a discord page and the few hundred requests on there that haven't been implemented. So requesting additional stuff is pointless cos it just falls into a blackhole of ""NO FK OFF"".
+-IF you make huge maps and place too much stuff on it your maps zoomed out will make things clip and disappear, only way to see what's there is either zoom in, OR click and hold a mouse button over an object on the map so it reveals everything.
+-Be prepared to spend a lot of cash on this engine for assets/functions/music/etc unless you find the minor few people that will help for cheaper or free.
+
+
+There's probably more but I can't think of any right now. Even with all it's bad and not enough good it's still a great engine with many possibilities.. just expect to spend cash, have to learn 3D modelling, and be prepared to spend HOURS trying to learn variables to actually be able to make anything extremely fantastic in a game. This engines downfall is the fact there is NO scripting available, like RGSS for RPGmaker.. IF this engine had scripting possibilities then it would kick @ss off RPGmaker.",1,0,11,0.614342212677002,3015
+483950,76561198071287452,I don't smile at all. I need compensation for this.,1,2,1,0.4883720874786377,259
+483950,76561198176741795,"If you're a fan of RPG Maker and would like to see one in 3d, then you've found the product for you.
+I've been an avid RPG Maker user and after I've started using this engine, I was left very impressed.
+The developers have been consistently updating this product and the result is astounding. Download the trial and see if it's something you'd like.
+
+Pro's
+Very easy to learn
+3d engine runs smoothly
+Can export games to Unity
+Can make games in 2d or a style similar to the 2d/3d Octopath Traveller
+Assets are great
+
+Cons
+No scripting support as of this review
+
+P.s. The trial version does not include all assets.",1,0,3,0.5363765954971313,181
+483950,76561198024152277,"SGB est un logiciel d'aide à la création de jeux de type RPG. Comme tant d'autres penserez-vous. Oui et non. Ce logiciel est axé uniquement RPG japonais en 3D, avec des graphismes épurés lowpoly d'esthétique ""chibi"". On obtient donc des jeux colorés aux personnages tout mignons dans des décors cartoon aux textures qui pixélisent type ""old-school"".
+
+SGB possède tout un système automatisé qui permet de gérer la construction de cartes, l'ajout de personnages, d'objets, ... et dispose d'un système de combat très bien conçu. L'ensemble est personnalisable facilement et rapidement, pour peu qu'on ne cherche pas à sortir du concept RPG pour lequel SGB a été créé. Les DLC sont sympathiques et proposent une variété de créatures, d'images, de musiques et autres ojets. Un outil pour modifier les textures des personnages proposés est aussi proposé, afin de personnaliser encore plus l'expérience.
+
+On regrettera cependant que l'import de ses propres fichiers graphiques (notamment ses modèles 3D avec textures, taille et disposition au sol) ne soit pas très intuitif, voire littéralement désastreux. De même, aucun moyen de désactiver les menus RPG, ce qui est fort malheureux lorsqu'on n'a pas prévu de combat ou de gestion de sorts/capacités pour le héros incarné. Il est certain qu'avec la possibilité de désactiver un tel menu, ou de le personnaliser au point de ne proposer que les fonctions de base (sauvegarder, reprendre et quitter le jeu), cet outil s'ouvrirait à de plus grandes possibilités, et donc offrirait plus d'intérêt pour les développeurs indépendants.
+
+Reste que SGB demeure un excellent outil pour s'amuser à tester un scénario, concevoir des RPG facilement (et de bonne qualité, au point de pouvoir être vendus), et propose deux modes de caméra (isométrique et FPS) et divers effets graphiques qui peuvent motiver les développeurs à se pencher sur ce logiel. Au prix très attractif, SGB est vraiment une excellente acquisition.
+
+Positif :
+- facile, intuitif
+- efficace pour les RPG
+- résultat mignon
+- 2 types de caméra
+- effets, objets pré-programmés, personnages animés,  ... beaucoup de choses sont déjà incluses
+- personnalisation facile pour scripter un jeu plus complexe
+
+Négatif :
+- menu RPG non-désactivable
+- grosses difficultés (voire impossibilité) pour importer correctement ses propres modèles 3D
+
+Bilan : SGB est excellent pour faire ce pour quoi il a été prévu : des RPG mignons, en 3D, personnalisables pour donner vie à son scénario. Sans hésiter, je ne peux dans ce cas-là que très très chaudement recommander l'achat de ce logiciel ! Le résultat est suffisamment réussi pour pouvoir le proposer en vente (attention au DLC horrifique où les personnages ne sont pas libres de droits et proposés seulement pour des jeux non-vendus). Mais méfiance si vous désirez aller plus loin dans la personnalisation : on se heurte très vite aux limitations imposées par les développeurs. Chose particulièrement dommage qu'il est sûrement assez simple pour eux d'y remédier (notamment pour tout le menu et système de combat qui pourrait être désactivé/desonnalisé/non-affiché).",1,0,6,0.6075894832611084,2605
+483950,76561198127864926,"Intuitivo e com bom desenvolvimento/suporte. Para quem já usou outras plataformas de criação de jogo, esta é realmente muito boa e vem se atualizando bem!",1,0,0,0.5,191
+483950,76561197993222729,Importing custom objects is borderline imposible,0,0,0,0.5,9880
+483950,76561199033214954,功能不完善！ugui无法使用！,1,0,0,0.5,282
+483950,76561198982382033,重い,0,0,0,0.3641035854816437,648
+483950,76561198255782167,"Totally a nube at game making, but this software really gave me the push to learn. I think what beginners would really get out of this is the simplicity of drag and drop while introducing event making. Allows your to get used to game making concepts without feeling overwhelmed.",1,0,2,0.5210728049278259,784
+483950,76561198068177668,"Ele é um ótimo programa pra quem não manja muito de programação e quer criar um jogo ""simples"" graficamente e tals, achei ele mais complexo que o RPG Maker MV",1,0,0,0.5,305
+483950,76561198020220511,웃으며 게임 만들수있음. 아주 쉬움.,1,0,4,0.561228334903717,801
+483950,76561198142787733,"very cool, thank you",1,0,1,0.460624098777771,7087
+483950,76561198279825309,打了汉化包还是不错的，就是除了主要角色，其他都是方的,1,2,1,0.4444444179534912,322
+483950,76561198088511449,"Too bad buying the software was not enough
+you even have to spend money on the unity export dlc
+i dont want to pay an 70$ DLC just to use my HD 3D Models",0,2,11,0.6180275082588196,13821
+483950,76561198366653797,"la versatilità, volendo uno potrebbe usarlo persino per fare una visual novel. offre tutto ciò che si può desiderare per  lo sviluppo di giochi rpg, ecc. Unica pecca è non poter modificare i modelli 3D facilmente, poiché serve un può d'esperienza in ambito, ma per il resto nulla è impossibile in questo gioco... lo chiamo gioco perché l'interfaccia e gli eventi e molti altre applicazioni sono molto intuitive. A differenza di molti altri prodotti concorrenti qui se sei inesperto e alle prime armi nella programmazione, nei codici, e in tutto ciò che serve per fare un gioco. SGB ti fa diventare capace di tutto!...",1,0,2,0.548872172832489,62289
+483950,76561198068966233,"A great tool for creating RPG and Adventure style games, though its not limited to those genres. In fact you could use this to make educational and training tools with a bit of planning. It's very powerful and with integrated editors for just about every aspect of design.
+
+The Unity exporter is certainly a must if you plan on making anything cross platform and the exported project opens seamlessly in Unity (I've tested this). 
+
+Getting your projects to work on platforms other than Windows might require a bit of tweaking in Unity, but the process is still very painless. There's lots of information online and even a few good YouTube Channels with tutorials for this application. If you're a fan of RPG maker, then I'd recommend this. There's no scripting as of yet, but that can be accomplished with the use of the Unity exporter.",1,0,2,0.5,133

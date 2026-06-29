@@ -1,0 +1,388 @@
+app_id,user_id,review,does_recommend,funny,helpful,weight,playtime_at_review
+450440,76561198818346509,"---{Сюжет}---
+☐ Это заменит тебе жизнь!
+☐ Запоминающийся
+☑ Относительно интересный
+☐ Скучный
+☐ Сюжет?
+
+---{Графика}---
+☐ Полезно для глаз!
+☑ Не важна/необычная
+☐ Хорошая
+☐ Приемлемо
+☐ Плохая
+☐ Опасно для глаз!
+
+---{Геймплей}---
+☐ Этим можно заниматься вечно!
+☐ Интересен
+☑ Ничего необычного
+☐ Крайне скучно
+☐ Ужасный...
+
+---{Аудио}---
+☐ Экстаз!
+☐ Отлично
+☑ Хорошо
+☐ Сойдет
+☐ Кровь из ушей...
+------------------------------------------------
+Финальный вердикт: Интересно, но не прям залипательно, чисто марио в другом стиле и смысле. За секретную колабу с фнафом респект. 6/10",1,0,1,0.5025380849838257,3622
+450440,76561199103493427,These castles sure seem... Creepy,1,1,1,0.47963204979896545,467
+450440,76561198013541173,"Эта игра не похожа на то, чем кажется: думал, будет простенький платформер с мотыльком, а получил какой-то сюрреалистичный RPG-квест с атмосферой старого ZX Spectrum и кучей мини-игр вместо обычных боёв. Самое забавное - тут целых пять сценариев, и после прохождения первого с мотыльком открываются новые кампании за других персонажей, и каждая играется по-своему, а одна вообще превращается в исследование пещер в духе Dark Souls без лечения. Боевая система через мини-игры поначалу кажется прикольной фишкой, но после сотого повторения одной и той же ""нажми кнопку вовремя"" начинает подбешивать, особенно когда у босса здоровья как у танка. Зато стиль и музыка - отдельный кайф: пиксельная графика с фильтрами под Game Boy, саундтрек цепляет, а диалоги такие странные и милые, что хочется читать каждую реплику. В общем, если вы любите экспериментальные RPG с нестандартной механикой и готовы простить игре некоторую затянутость и повторяемость - залетайте, а если хотите экшена и динамики - лучше проходите мимо, тут всё для терпеливых и фанатов старых ZX-игр.
+
+⣿⣿⡿⠋⠄⡀⣿⣿⣿⣿⣿⣿⣿⠿⠛⠋⣉⣉⣉⡉⠙⠻
+⣿⣿⣇⠔⠈⣿⣿⣿⣿⡿⠛⢉⣤⣶⣾⣿⣿⣿⣿⣿⣿⣦
+⣿⠃⠄⢠⣾⣿⣿⠟⢁⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⠟⢁⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⡟⠁⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⠋⢠⣾⣿⣿⣿⣿⣿⣿⡿⠿⠿⠿⠿⣿⣿⣿⣿⣿⣿
+⡿⠁⣰⣿⣿⣿⣿⣿⣿⣿⣿⠗⠄⠄⠄⠄⣿⣿⣿⣿⣿⣿
+⠁⣼⣿⣿⣿⣿⣿⣿⡿⠋⠄⠄⠄⣠⣄⢰⣿⣿⣿⣿⣿⣿
+⣼⣿⣿⣿⣿⣿⣿⡇⠄⢀⡴⠚⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⢰⣿⣿⣿⣿⣿⡿⣿⣿⠴⠋⠄⠄⢸⣿⣿⣿⣿⣿⣿⣿⡟
+⣿⣿⣿⣿⣿⣿⠃⠈⠁⠄⠄⢀⣴⣿⣿⣿⣿⣿⣿⣿⡟⢀
+⣿⣿⣿⣿⣿⣿⠄⠄⠄⠄⢶⣿⣿⣿⣿⣿⣿⣿⣿⠏⢀⣾
+⣿⣿⣿⣿⣿⣷⣶⣶⣶⣶⣶⣿⣿⣿⣿⣿⣿⣿⠋⣠⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢁⣼⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢁⣴⣿⣿⣿⣿⣿
+⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⢁⣴⣿⣿⣿⠗⠄⠄⣿
+⠈⠻⣿⣿⣿⣿⣿⣿⠿⠛⣉⣤⣾⣿⣿⣿⣿⣇⠠⠺⣷⣿
+⣦⣄⣈⣉⣉⣉⣡⣤⣶⣿⣿⣿⣿⣿⣿⣿⠉⠁⣀⣼⣿⣿",1,1,16,0.6008057594299316,1048
+450440,76561198367471798,"Creepy Castle, developed by Dopterra and published by Nicalis, Inc., is the kind of indie project that feels unapologetically experimental, combining several genres and ideas into a single experience that doesn’t always aim for cohesion as much as it does individuality. At its core, it follows Moth, a small insect adventurer navigating a mysterious, interconnected castle filled with peculiar characters, hidden mechanisms, and fragments of a larger narrative. Right away, the game establishes a tone that is equal parts eerie and whimsical, leaning into its strangeness rather than trying to smooth it into something more conventional.
+
+The structure of the game is rooted in exploration, with the castle acting as a layered environment that gradually opens up as new abilities and items are acquired. There’s a clear influence from Metroidvania design here, with backtracking playing a significant role in uncovering secrets and progressing through the map. Movement is straightforward but effective, allowing players to traverse rooms, interact with objects, and uncover hidden paths at a steady pace. However, the game complicates this familiar structure by introducing turn-based encounters that interrupt the flow of exploration. These battles unfold through small, timing-based or reaction-driven sequences that vary depending on the enemy, creating moments that feel closer to mini-games than traditional RPG combat.
+
+This hybrid approach is one of the game’s defining features, but also one of its more divisive aspects. On one hand, the variety in combat keeps encounters from becoming repetitive, forcing players to stay attentive and adapt to new mechanics. On the other, the transition between freeform exploration and structured battle sequences can feel jarring, breaking immersion and momentum. The systems never fully settle into a seamless rhythm, which can make the experience feel fragmented at times, as though multiple design ideas are competing for attention rather than complementing one another.
+
+Visually, Creepy Castle embraces a deliberately retro style that draws inspiration from early generations of gaming. The presentation is simple but expressive, with pixel art that captures a sense of charm despite its minimalism. One of the more interesting touches is the ability to customize visual filters and display settings, allowing players to tweak the aesthetic to resemble different eras of gaming hardware. This feature goes beyond nostalgia and becomes part of the game’s identity, reinforcing its experimental nature. The soundtrack follows suit with chiptune-inspired compositions that effectively set the mood, often standing out as one of the more polished aspects of the experience.
+
+Narratively, the game takes a subtle and somewhat fragmented approach. Rather than delivering a clearly defined storyline, it presents bits of lore through environmental details, scattered dialogue, and optional discoveries. The central mystery unfolds gradually, rewarding players who are willing to explore thoroughly and piece together its elements. Multiple playable scenarios and perspectives add depth and replay value, offering different angles on the same world. However, this storytelling style can also feel vague, and players who prefer a more direct or guided narrative may find it difficult to fully grasp the larger picture without significant effort.
+
+The game’s rough edges become more apparent over time. Navigation can be confusing due to the lack of a detailed mapping system, especially in later areas where the castle’s layout becomes more complex. Some mechanical elements feel underdeveloped, and the overall pacing can fluctuate depending on how often combat interrupts exploration. These issues don’t necessarily ruin the experience, but they do prevent it from reaching the level of refinement seen in more polished titles within the same genre.
+
+What ultimately defines Creepy Castle is its personality. It is a game that feels handcrafted, full of unconventional ideas and a clear willingness to take risks. Even when its systems don’t fully align, there is a sense of creativity that carries the experience forward. It doesn’t try to appeal to everyone, and that works both for and against it—players who enjoy experimental design and retro-inspired aesthetics will likely appreciate what it offers, while others may struggle with its lack of cohesion.
+
+In the end, Creepy Castle stands as a memorable but uneven indie title that succeeds through originality and charm more than technical precision. It offers a distinctive blend of exploration, combat experimentation, and nostalgic presentation, even if its ideas don’t always come together seamlessly. For those willing to embrace its quirks, it provides a unique journey that feels unlike most other games on the platform.
+
+Rating: 8/10",1,0,2,0.48205405473709106,903
+450440,76561198015483969,"Графика 1983-го года, если не раньше (в настройках обязательно убрать попиксельное передвижение), можно решить, что игра явно не для тех кто родился после. Но в это интересно играть наверно даже будет и им. Разраб постарался и разнообразил сражения (обычные клики, на реакцию, на скорость, на правильные нажатия), исследовать локации по поиску всего на уровне в целом интересно, история в диалогах читается бодренько. Драгоценный камень в десятках мегабайт",1,0,3,0.5389589667320251,65
+450440,76561197974101766,Walked through a castle ghosts started critiquing my taste in horror films now I’m stuck in a sequel.,1,2,0,0.47963204979896545,243
+450440,76561197982225800,"This game does not respect your time, because moving your character around the map takes forever.
+
+Any good game should have you *constantly* making interesting decisions (be it a precise action game, or a 4X game where you have to spend a good minute contemplating your strategy). But here, you're just holding Left or Right for 10-45 seconds at a time before you can find something new to interact with, or a branching path.
+
+I'd like to play more because it has an interesting premise and has that typical Nicalis polish, but I'm really tired of mindlessly holding my D-Pad down.",0,1,0,0.4770173132419586,57
+450440,76561198335629590,музяка норм а так уныло,0,0,1,0.5308496356010437,1468
+450440,76561199022270991,Play this game or i will come to your house and burn you alive,1,1,1,0.5,355
+450440,76561198355752399,💋,1,2,2,0.5021834373474121,682
+450440,76561199121862882,"This game is alright.
+it sure don't age well",1,0,0,0.4761904776096344,2470
+450440,76561198211472693,Good,1,0,1,0.46137651801109314,4948
+450440,76561198014914035,Интересная игра в стиле древних PC игр. Музыка очень понравилась и сама пиксельная графика оч красивая,1,0,1,0.5028408765792847,293
+450440,76561198302082317,dopterra,1,2,5,0.520046055316925,1311
+450440,76561198024984781,"HEADS UP: There's a slowdown bug that has to be manually fixed by the user (I don't think the devs even exist at this point sadly). It's perfectly playable without fixing it but trust me, there's a whole lotta walking and this'll make things a little snappier. Follow this guide: https://steamcommunity.com/sharedfiles/filedetails/?id=2370481885
+
+For the review? I might be a little obsessed with this game lol. It's definitely not for everyone (if the story, world and characters don't do much for you, the gameplay will most likely not hold up well enough for you), but this was super charming and damn it, the game caught me in its web. It's pretty sobering seeing the plans this game had for the future that never came to be simply because the game just wasn't successful enough. Nevertheless if Creepy Castle interests you at all, I'd absolutely recommend trying it.
+
+Hope you're doing well Dopterra, thanks for making this game and for making them silly lil bugs that I love. <3",1,0,4,0.5263869762420654,1117
+450440,76561198055347389,"I didn't finish this game, but I liked what I saw so far! It's an upgrade to an old-style RPG, with modern levels of dialogue and whatnot. Very cute!",1,0,0,0.5,69
+450440,76561198376155653,It's so sad that Tyrone Rodriguez had the entire development team for this game executed after it didn't end up making as much money as Undertale,1,6,8,0.6124401092529297,650
+450440,76561199058527240,noice,1,1,0,0.5,54
+450440,76561198007752732,El gameplay es pasable pero gana puntos por el diseño.,1,0,1,0.48246893286705017,192
+450440,76561198396568231,"Quería recomendar este juego pero no puedo, la narrativa está bien pero el gameplay llega un punto en el que es tedioso y se siente como una perdida de tiempo, derrotar un enemigo, curarte, leer un texto, y repetir.
+Pensé que el gameplay cambiaría en los siguientes capítulos, pues el propio juego los trata como juegos distintos, pero por lo que yo he probado no es así, y sinceramente, me niego a continuar.
+Tal vez al que lea esto le pueda gustar, pero yo no soy capaz de recomendarlo.",0,0,0,0.49715906381607056,223
+450440,76561198264390900,"Fun game!, even years later it's great!",1,0,1,0.5028408765792847,213
+450440,76561198395136360,"이거 정말 재밌고 브금도 좋은 초갓겜임 진짜 진심으로 갓겜
+근데 내 세이브 파일이 날아간 걸 알게 된 순간 너무 충격받아서 여태 단 한번도 키지 않음(4년 됨ㅋㅋ)
+아니 근데 진짜 재밌다니까? 브금도 진짜 좋음",1,0,0,0.5,905
+450440,76561199587409404,"the creepy castle, its so frightening! whooooooooo!",1,0,0,0.49715906381607056,491
+450440,76561198040023375,"Finally finished this game and I gotta say, it's been an interesting and delightful ride. My only regret is putting Creepy Castle aside for so long. Found out a season 2 had been slated, but unfortunately that was canceled. It's really too bad because I'd have loved to have seen where the devs went with these characters next.",1,0,1,0.5028408765792847,1497
+450440,76561198111877115,"ОЦЕНКА: 2,5 / 5
+
+Про эту игру можно сказать так - в неё не хочется возвращаться. Она неудобная, некрасивая, неприятная и непонятная.
+Мультяшный трейлер может показаться  симпатичным, но он врёт - в крохотном игровом окошке вы ничего, кроме пиксельной мазни не увидите. У меня всё.",0,0,1,0.4921160936355591,91
+450440,76561199161605783,Fun little RPG,1,0,0,0.5,177
+450440,76561198090548196,"the fact that the game is enough of a financial failure to not have a season 2 despite being confirmed like almost eight years ago is so tragic. show some love to this game, it's a lost diamond in the rough.
+
+do keep in mind that this game is a lot more about having enough health to survive than surviving unscathed. keep a good hoard of food, and if you have a lot of +9 heals, don't be afraid to waste it if you need the inventory space.",1,0,7,0.5727458596229553,1618
+450440,76561198001408368,"Very creepy, much castle, and has Chica from FNAF in it.",1,1,4,0.5063925385475159,366
+450440,76561198024276702,"Didn’t play, just farmed for cards.",1,2,2,0.49221864342689514,124
+450440,76561199264818597,"Amazing game, quickly become one of my most favorite games of all time... but kinda sad that this game is very underrated and there's still no season 2 tho. Recommend to read this guide to fix slowdown. https://steamcommunity.com/sharedfiles/filedetails/?id=2370481885
+
+... Man, Creepy Castle really changed my life a lot, I see... And that's thanks to FNaF. Like really, I found out about this game because there's Chica in this game",1,0,4,0.5205744504928589,948
+450440,76561198881827557,I have the world record speedrun so that means its good or something,1,1,3,0.545735239982605,1629
+450440,76561198117219305,"I am currently urging all of my friends to play this. THIS GAME IS SO GOOD RAAAAAAAAAAAH
+Amazing art style and use of pixel art, wonderful chiptune music, charming gameplay, insane amount of content, great character designs, references to old CDI games and YTPs
+
+Also it's one of the only games to ever have an official crossover with Five Nights at Freddy's and that is genuinely hilarious",1,0,1,0.5028408765792847,807
+450440,76561198930736851,"I love Creepy Castle and it's genuinely one of my favorite games ever. After beating Scenario 2B I was convinced and beating the whole thing was just confirmation so.... what's Creepy Castle?
+
+Tbh, when I first played the game, I had difficulty adjusting to the whole flow of the game which led me to put it on hold for the better part of a year, maybe that was a good thing, I did pick it up at a time where I really needed something that would speak to me in times that can be stressful and anxiety inducing. Creepy Castle is a sidescrolling Metroidvania RPG but it's at its core, vastly unique and different from either Metroidvanias or RPGs. How so? Well, it takes a vastly more retro approach to either genres. For example the movement is vastly moresimplistic than in any other metroidvania and we can't even jump (at first), not only that but we don't get experience from fights and the exp we need to level up can only be found through exploration by finding specific items.
+
+Combat wise, the game uses a duel system, which only means that when fighting an enemy while attacking them, there's a random chance for a minigame to appear in which if you win, you get to attack the enemy without receiving damage to them. That's all cool and dandy but how do the minigames play in the overall flow of the game? They play fine. I don't think that the duels in the game are anything extraordinary, they are good and get the job done and sometimes the duel system is used really creatively! I couldn't help but smile in Scenario 4 when the game used the duel system to do some really creative and funny things.
+
+I think where Creepy Castle really shines though is in its storytelling and just overall CHARM. This is on of the most charming games I've ever played, I LOVE every character here, I LOVE Moth, I LOVE Buttlerfly, I ADORE Ant Queen, this game just scratches a very specific itch for me character design wise that I just can't get enough of and just the character interactions here, they are so fun! Specially in Scenario 4 where the game takes a more adventurous approach and there are far more NPCs to talk with and keep you company along the way.
+
+OH YEAH SCENARIOS! This game is divided in various scenarios that all together compose Season 1, Just think of each scenario as its own game in a way with its own twist in the game's formula. In a way it almost feels like an anthology series where everything is connected. Scenario 1 is a pretty straightforward Metroidvania that slowly unravels its story and lore, Scenario 2 is way more linear and small leaving us with something that's more action oriented, Scenario 3 is HUGE, it  has a gigantic map and it's all about exploration and Scenario 4 is a galactic adventure in space  with a bigger narrative component (and personally my favorite). All of these scenario keep the gameplay loop of the game from really going stale with each scenario having its own mood  and ughhh the overall narrative build throughout all these scenarios.
+
+I LOVE THIS GAME'S STORY, when you first play this game you might expect a lil retro throwback novelty game without much to say but you are so wrong because the game is far more than that! Without spoiling much but the way the narrative builds and the way we learn more and more about the characters throughout the story, none of the characters in the game are really evil and they all have understandable motives or are fun in their own way or just have some level of depth that makes you appreciate them far more, the way the game talks about a lot of themes such as grief, anxiety or dread it's  just so heartfelt. I'm not the type of person who easily gets emotional but there were several parts in this game where I just felt my heartstrings getting pulled which is a sensation I haven't felt in a long time and I just couldn't stop playing after some of the most emotional moments of the game, I just had to know what happened next and I just couldn't stop thinking about the way the story would wrap up.
+
+I'm a game developer, or rather, I'm someone studying hard to become a game dev. I already participated in the development of quite a few games and I have plans of making my own games and releasing them someday. Even though this game was technically a ""flop"" and even though nowadays it's really obscure and not many people are aware of its existence, a game that was a ""flop"" still reached deep inside and touched my heart, it made me feel so many emotions that I have long forgotten and this is what I wish for someone, anyone in the world, to feel with my own creations, this is the type of game I wish to create and this is the game that reignited my love for videogames after a big slump the same way Undertale did that for me years back and the same way Sonic CD and Mario 64 did years before that. 
+
+I know Creepy Castle isn't a perfect game and I understand if some people might have issues with it but I IMPLORE YOU, please give it a try because maybe, you might play this game and finish it with emotions similar to mine and that's a joy I wish to share with everyone. 
+
+Dopterra, if you are still out there and reading this, I just want you to know that I truly love this game with all my heart and I would easily consider it one of my favorite games ever, perhaps it's even my favorite game right now. I just want you to know that your game was truly special and there are people who even after all these years are still finding it and loving it. Wherever you are and whatever you are working on nowadays, I wish you guys a great day and you forever have my respect and interest on anything you make.",1,0,5,0.5485169291496277,1439
+450440,76561198281175891,"The game is small, but has a lot of content.",1,0,1,0.5028408765792847,337
+450440,76561198007618693,"Si es recomendable este juego. A ver... tiene cosas que no me gustaron, pero en general me parece un gran Indie. Artísticamente está bien, musicalmente hay pistas que son geniales. En jugabilidad es entretenido realmente, aunque a veces ir de un lado a otro es sumamente tedioso por la forma del juego en sí, y eso lo destaco porque en otros juegos como los final fantasy de la nes me parece menos tedioso y eso que a veces das 2 pasos y te salta un enemigo en esos juegos. 
+
+Este juego tiene Personajes muy entrañables, cada capítulo tiene su estilo de juego, muchos easters eggs, se le nota el cariño que tiene detrás.",1,0,0,0.5,1457
+450440,76561198010983183,eepy creepy,1,0,0,0.5,121
+450440,76561198427628652,underrated game,1,1,0,0.5,359
+450440,76561198070684290,"fun to explore and read lots of lore, the dueling mechanic is good fun and the vibes are IMMACULATE",1,0,0,0.5,489
+450440,76561198268443782,"Criminally underrated, I feel terrible for Dopterra/lazymoth, as they stated they couldn't even brake even due to low sales in some tumblr posts a while ago.
+
+The soundtrack is all bangers, the duel mini-games make turn based combat reflex based (my favorite types were parry and precision strike), plus this game has so much charm it's unbelievable (it's rare for me to have a dopey smile on my face for an entire play-through); a fun and engaging romp throughout... besides Scenario 3 - Depth.
+
+And if by any chance you read this, I sincerely hope you return someday to update this game with Season 2/3, or maybe even just Brotherhood or a Scenario for Bee.",1,0,0,0.5,2252
+450440,76561197992382631,"Great Music, great retro-style graphics. Combat is 95% mini-games, that change based on the enemy (not my favorite, but it is certainly well done). As far as characters go, if you liked Undertale, you'll probably like these.  Exploration works metroidvania style, which is usually a big sell for me, but the environments are so simple that I end up wandering around a lot just trying to find my way back after I've gotten the McGuffin/key. The map helps, but it is also rudimentary. This also discourages further exploration. It might just be me. I am playing this exclusively after work and late at night, so maybe I'm just tired.
+
+Yeah, for ten bucks, or whatever, this game is more than worth it. Definitely recommend.",1,0,0,0.5,235
+450440,76561198291523954,love this game so much eagerly waiting more from dopterra nicalis poopy though,1,0,0,0.5,6066
+450440,76561197968658621,"I didn't enjoy the game all that much.  I know its going for retro, but I would like a larger screen, and more QOL features.  I don't know what it would take exactly to push this game into the fun zone for me, but that would be a start.  
+
+I did however appreciate the writing and music, they were both very striking.
+
+This has some of the best almost gameboy-style music that I've heard.",0,0,1,0.4841979146003723,113
+450440,76561197966906695,"A heads up, I'm writing this fresh after finishing scenario 1.
+
+I was honestly blown away by this. Lo Fi retro styled adventure RPG. Lots of wandering, very fun ""duels"" in combat, and a story that was so much better written than I would have ever imagined for a little indie title.
+
+Then, after 4 hours and finishing Scenario 1 I was SHOCKED there was more game. I just assumed the ""Creepy Castle"" segment was the entire game and I was extremely mistaken. I'm not even 1/5th of the way through this content. There's a whole pile of unlockable characters and a ton of scenarios. The value is astronomical.
+
+I know what we have is Season 1 and allegedly there's a Season 2 coming. But even if a season 2 never releases this game is an incredible value and worth playing. Truly a hidden gem that flew under the radar.",1,0,1,0.5336787700653076,271
+450440,76561199268465521,"good game, that all i can say",1,0,0,0.5,225
+450440,76561198881543434,Worth a play if you like cute bugs and retro adventure games :>,1,0,0,0.5,246
+450440,76561198047474483,"""Creepy Castle"" is definetly an unique experience, being some kind of 2D-dungeon crawl-adventure about quick-time-event-mini-game-battles, exploration and inventory management; with cute characters and an emotional and at times dark story and lore in a nice and low-poly pixelated presentation and with a great soundtrack. The narration is presented in chapters or campaigns, with recurring main protagonists.
+While I played the ""main chapters"" there is still a lot to offer and secrets to find. But there are some minor setbacks: The game, which was said before, plays very slowly, the orientation is confusing at times and the UI is not the best.
+
+Still a work of heart that definetly deserves a wider audience!",1,0,0,0.5,398
+450440,76561198801505019,♥♥♥♥♥♥♥ Adorable AND with Pretty damn decent lore and music.,1,0,4,0.5635842680931091,1758
+450440,76561198006232106,와! 캐릭터들이 지들끼리아는얘기만해요,1,0,0,0.5,975
+450440,76561198396981630,"very fun, why not recommending it",1,0,2,0.50600665807724,328
+450440,76561198047324742,"Короче игра мимикрирует под старую пк игру с ужасным скроллом. Но в отличие от них эта игра - приятная и удобная. А какой здесь чиптюн - уххх! 
+В целом это приключенческая игра с боями в виде многочисленных миниигр. Очень приятно. И не очень сложно.",1,0,2,0.530761182308197,30
+450440,76561199075280304,"A curious gem that flew under the radar well worthy of your time!
+
+This game oozes charm the further in I go, which surprised me as many indie games tend to front load their charm in the early game. You might have seen the game has some issues with the combat and exploration, and it does (slow/clunky exploration, some minigame duels last too long), however let me say that this game more than makes up for it. 
+
+Creep Castle is what I would affectionately call a feel-good ""podcast"" game. Put on a podcast on something you want to learn about, and go on a classy retro romp through the world of Creepy Castle, and pause when you get to the meat of this game: It's charming cast and characters. As simplistic as this games cast may appear, I promise you'll relate to at least one or two of these characters on an emotional level before you're done. This game definitely has some of my favorite interactions in all of indie game history, and that's high praise for such an underrated gem. 
+
+If you want to support a charming indie game that you can play in short bursts between projects, you should absolutely add this to your library.",1,0,1,0.5064102411270142,357
+450440,76561198239891400,"Underrated gem. It would have done better if Dopterra didn't have it published by Nicalis.
+
+Nitro Rad needs to review this game. Who's with me?",1,0,1,0.4727075695991516,274
+450440,76561198085349744,"Милая лайтовая типа-рпг-метроидвания с няшными жуками в героях, которые дерутся няшными атаками с няшными злодеями. Там есть босс котогусеничка и собака по кличке ПАЛОЧНИК! Был бы полный чил и расслабон вообще, если бы в игре не было страшно неудобной карты, по которой нужно в какой-то момент игры по-черному бектречить. 
+Ну и так-то ругать проще чем хвалить :Т В игре ограниченный набор атак и они немного притомляют уже к 3 эпизоду. Некоторые еще и выглядят откровенно нечестными - просят ультануть какой-то нечеловеческой реакцией. 
+Еще, как по мне, в игре многовато злодейских злодеев со своей злодейской правдой, по которой ну очень много диалогов. При этом сам сюжет совсем незатейливый, хоть и кидается время от время роялями из кустов. 
+
+[spoiler]Спойлерно могу признаться в любви к выживачу в пещерах. Если бы каждый эпизод выдавал новые способности, челленджи и геймплейные вотэтоповороты, было бы очень круто, но к сожалению, такой эпизод только один (самый грустный бэктрекинг, кстати, был в нем).[/spoiler]
+
+А так, игра определенно рождена в любви! В ней приятно проводить время, ковырять пасхалки, умиляться нелепым героям и врагам, слушать милый восьмибитный саундтрек и восхищаться няшной рисовкой :3",1,0,2,0.530761182308197,1514
+450440,76561198040756820,"[h1]More like 'Sleepy' Castle[/h1]
+
+This game intentionally looks like an more colorful ZX Spectrum game and to be honest, it kinda plays like one too.
+The whole movement is tile based. every single step takes approximately a 3/4 second, which means if you just want to move across a corridor you have to adapt your senses to the extremely slow and tedious walking routine where the screen slowly scrolls every single step which can be headache inducing. So simply spoken, just moving around the environment alone simply isn't fun, it's cumbersome, despite of that, the game is heavily reliant on navigation and backtracking, ironically that's basically the only redeeming quality I can see in its core-gameplay-loop at times, but more to that later.
+
+So basically you walk around a huge castle (or other areas depending on scenario) in Metroidvania fashion with lots of different paths, biomes, items and so on. Unique to the game is the battle system. When you stand in front of an enemy you exchange your strikes turn based. There is no way to avoid damage in such cases. Depending on the enemy though there is a probability to trigger an ""minigame"" in these cases the result of the current turn is decided by how well you perform at the minigame. There are 3 states: ""Perfect"", ""OK"" and ""Fail"". 
+Either you inflict damage to the enemy unharmed, you both become damaged or only the enemy damaged you.
+
+So the actual premise is not uninteresting, unfortunelately it lacks any kind of engagement in its execution
+
+There are only 10 kinds of minigames, most normal enemies only have 1 or 2 at max. Defeating an enemy can take up to 5-6 turns or even more. Within these turns the same minigames are replayed over and over again and of course you fight the same enemies over and over again too.
+
+The minigame have to be truly magnificent to justify so much repetition right? Well...
+
+They are pretty simple and basic, neither they are demanding, nor creative or overall engaging.
+So in total you have:
+
+- Press the button quick enough when the prompt appears
+- Wiggle the control stick fast enough to fill up a bar
+- pressing a sequence of button prompts fast enough
+- Hit appearing symbols in a 3x3 field of square
+- Stay long enough on appearing symbols in a 3x3 field of square
+- Hitting spots with a marker that travels along a gauge
+- A shell game (thimblerig)
+- Chasing stars in a labyrinth and avoiding enemies
+- Pipe game, rearrange tiles to form a path
+- Dodge a sequence of obstacles in a side scrolling screen
+
+These minigames become slightly alterated, for the most this doesn't make much of a difference, sure the timing or time limits might become more strict, but you're basically doing the same thing. You're only just a bit less unchallenged than before.
+For the labyrinths of course the layout changes and the behaviour and look of the enemies chasing you changes. 
+
+Sometimes an alteration can be interesting sure, but this only works once. So I dare to claim that the whole approach to the combat system is flawed. 
+The combat is dependend on the introduction of new ideas, that's where the game was most interesting at start. But at the end of the first of 5 unlockable scenarios already every minigame was introduced and up to that point you only face alterations.
+The game is longer than it should be and it has an laughable difficulty curve. In 4 of 5 scenarios you heal yourself by finding consumables, you basically become littered of them, so any damage can be negated anyway with the vast amount of food you find along your way. You can eat whenever you want within a turn. So even when the minigames might become sligthly more demanding (and to best honest even they are a snoozefest) you're not even in danger to lose. 
+It doesn't help that bosses who have an very large health bar also only feature 2 to 3 minigames most of the time. I believe the most minigames an boss ever featured were 5 and that was the final boss.
+So you decrease their way to large health bar repeating the same lame minigames you already executed hundreds of time over and over and they don't even change or become more difficult during the fight. It just stays the same until you defeated the boss, so EVEN bossfights feel like a tedious and tiresome grind.
+
+Like stated the game has an ""campaign"" structure after you beat the main scenario ""Creepy Castle"" you unlock 3 other ones. All of them have their own unique characters, story and some additional gameplay ideas. 
+The only scenario that differentiated itself enough from the other ones to feel truly different was the third one. It's also the longest one. A large cave with several biomes, nonlinear progression and no consumables. It was the only one that kept me mildly engaged till the end. 
+Not because of the tedious combat, which was again just the same, but navigating through the cave felt challenging at times, keeping an overview of where you are and where you have to go. The system changed so that save points refill your health to compensate the lack of consumables. But they also let every enemy you defeated respawn so yeah kinda like Dark Souls. There are crystals to find who also replenish some of your health. While the combat might be boring at least now there was some kind of ressource management, so you had to actually bother about combat for once. It's also pretty clever how interconnected the layouts are and that you only need to explore a certain amount of an biome but not everything of it. This prevents tedious and unncecessary backtracking and traveling through the areas had more utility to it cause you also find some abilities, like ""jumping"" that allow you to travel faster across the screen or take shortcuts halleluja!
+Exploration was kinda motivating because here you had to actually go out your way to find items to increase your level so you can kill the enemies faster.
+
+Still though it's not enough to change my overall impression cause the rest - and so still most of the game isn't like that. Even worse you have to replay large chunks of the second scenario again to unlock the last scenario and therefore the true ending. 
+While the second scenario might be the shortest it's also the most boring one which actually introduces nothing new to the game, it kinda plays like an ""romhack"" of Creepy Castle, but after you finished it, you have to replay it with an different character where only the last 8 minutes of the scenario are different.
+
+If you for some weird reason just don't get enough out of the scenario you can also play it a third time. Actually almost all of them can be replayed in a ""free mode"" there you start a new playthrough with characters you unlocked over the course of the game (also secret ones, indie-cameos that everyone knows)
+Let me call this out straight, there is NO RIGHT why the game even should feature different characters. There is basically no replayability and every character plays exactly the same it's just a different sprite in a game which already has an minimalistic presentation. This is one of these features that are probably just implemented to sound nice on paper. I heard some story dialouges and tidbits change when you play with certain story characters, but that's basically it.
+
+So yeah to summarize, the gameplay is tedious, tiresome, almost trivially easy I would recommend activating the ""accessibility mode"" which makes it even more easy but also accelerates some of the minigames tremendously. Though I only found about that after I beat the game. (which of course isn't what such an mode should be there for)
+
+I haven't mentioned the story so far and I admit it doesn't give this game justice, because there was put effort in creating these various characters. Dialouges can be charming I believe the story is at strongest in its 4. Scenario, still thought the amount of text to read can be off-putting as well sometimes, in a game which isn't exciting enough to create an contrast to the action anyway. <review limit>",0,0,3,0.42709624767303467,1252
+450440,76561198012363945,"Old game by now but quite worth it even at full price if you can stomach games with retro graphics. 
+
+Took me some 4 hours to beat the first chapter which i assume is one 'beating' of the game which in turn opened up new chapters to play which each are a new game with other characters / stories and no inventory moving to next character.  
+
+Old clunky looking graphics and UI may turn some off but for me this gives nice ZX vibes. (For some reason this brings to me memories of Spellbound on C64 as well). 
+
+Great music, great gameplay. Challenge (Also has accessibility mode if your hands are not that fast anymore). Map is quite basic so if you get lost easily then you will spend time wandering endless corridors looking for that locked door you finally found a key for.
+
+Game trailers on the shop page are by the way bit confusing as they don't quite deliver what the actual gameplay is, worth checking out some gameplay videos first if you are on the fence.",1,0,5,0.5947719812393188,245
+450440,76561198279580858,이거하고 패드 쏠림옴 키보드로 하세요,1,0,0,0.5,216
+450440,76561198001196918,"sweet retro adventurer with a good sense of humor and quality writing. there's strong music and some sharp artwork stowed away in the cutscenes as well. arguably too retro for its own good with its use of screen space, awkward inventory, and the eye-straining movement. not sure if i'll end up beating all the episodes as the minigames have worn out their welcome, but i had a nice time with the first episode.",1,0,0,0.5,304
+450440,76561198999139089,A whole lotta content for the price,1,0,1,0.52173912525177,500
+450440,76561198295478494,"좋아요 평가를 주는 이유는 이 게임이 지극히 내 개인적인 취향에 맞기 때문이다
+
+사실 편의성을 중시하는 사람에게는 이 게임의 불편한 요소가 한두가지가 아니긴 하다
+맵이랍시고 만들어놓은 거는 가시성이 너무 떨어지고
+거기다 소위 '나중에' 요소들이 있어서 꼼꼼히 체크하지 않으면 지나치기 쉬운 부분들이 많다
+
+나는 그런거 감내하고 일일히 맵 밝히면서 플레이하는 걸 좋아해서 이 게임이 재밌었다(특히 챕터3)
+커여운 캐릭터와 좋은 브금(몇몇 브금은 정말 좋다)은 보너스",1,0,0,0.5,5473
+450440,76561198400454458,"In short, this is a neat pixel art-styled turn-based RPG, which focuses primarily on the story and characters with some good music, although it can be slow and doesn't have replayability despite trying to. In regards to some aspects of the game:
+
+The story is fairly good, I'd say. Each of the 5 chapters (barring the optional 3rd one) has its role in the story, wrapping it up in an interconnected way, and the story is fairly interesting, yet dark at times. However, there is a minor problem of tone changes. Many inventory items have silly descriptions, which doesn't really mix well when the game is being dark in its storyline, such as segments of chapter 1 reminiscent of Zamyatin's novel ""We"". This, however, isn't that big of an issue, and the final chapter avoids it, creating an enjoyable finale.
+
+The gameplay is... fine. The combat consists of minigames, similar to WarioWare. There is a nice variety of them, but it does not evolve past the first chapter. Some minigames do become harder to clear later in the game, some become somewhat of a chore. Outside of combat, the game has metroidvania elements, you do obtain more powers which can be used to access more areas. However, you walk rather fairly slowly. It can be interesting to learn what the map holds in store, but backtracking or recompleting something is a chore with the slow walk speed.
+
+And speaking of recompleting, the replayability isn't really there. Of course, as a story-based RPG, you'd assume it's not meant to be replayable, yet there's a free-play mode for the first 3 chapters, allowing you to play as other characters, and you do have to complete chapter 2 (Thankfully, the shortest one) twice as different characters. And... these characters have almost no in-game difference between them, aside from one secret character. Most of the time, the only thing that changes is the image in the ending only. With how slow-paced it is, it's not that exciting to replay.
+
+The music is good, I'd say. Fairly enjoyable, doesn't get that old to hear. It usually fits the mood fairly well. There are even some nods to classical pieces, with Beethoven's sonatas and the Flight of the Bumblebee. Not one of the best in the genre, but I'd still put it at way above average.
+
+The characters are charming, and the main characters have their personality developed. There's some representation, which is always nice. You can see characters develop. I'd say the primary issue is the comic relief character (particularly prominent in chapter 4), as I found his lines to be somewhat annoying, but the rest of the characters are good. The more detailed art of them is also nicely drawn.
+
+Overall, I enjoyed the game, but it's definitely not to everyone's taste. It's also surprisingly niche, considering the crossovers.",1,1,1,0.5,1667
+450440,76561198095147591,"Creepy Castle is a really weird game.
+
+I don't mean that the subject matter, gameplay, or style of the game is all that unusual. There are a lot of weirder games I have played in that sense. Creepy Castle is weird on a meta level, if that makes sense. For one thing, it's an episodic game, where, shockingly, all of the episodes have actually been released. But that doesn't mean the game is actually [i]finished[/i]. There's a little bonus area where an avatar of the developer appears and tells you that a future update for the game is coming which will make some adjustments and overhaul the map system. The last update to this game was in 2017. I have some doubts about this promise.
+
+It's a shame, because the game probably could do with some more polish. The map system is... not extremely helpful. There's an NPC who shows up in most scenarios (episodes) who was once intended to provide a gameplay purpose but, in the game's current state, does nothing. There are a lot of Kickstarter backer characters in the game, but with a few exceptions they're clustered in just a couple places in the game, making those places abundant with optional dialogue while the rest of the game can feel a little sparse at points. There's at least one secret area that is completely inaccessible because I think it was cut from the game, but the hint directing you to it was left in. You can only have three savefiles at one time, but the game's episodic nature means you're probably going to want to keep many more by backing up your save data. There's a persistent bug that causes the [i]entire game[/i] to run at a slower speed than what it's supposed to, making most of the combat pretty easy and the exploration rather slow. (Lucikly, the bug is easily fixable, and there's a very helpful guide in the Community Hub here for it). 
+
+But... despite all of the flaws, Creepy Castle is, [i]still[/i], kind of a fantastic game. This is [b]not[/b] a mixed review. I wholeheartedly recommend this game. Even though I went through my playthrough thinking it was, if anything, a slightly too relaxed sort of game because I was playing at 3/4 speed. It's a testament to just how good Creepy Castle is that I still really enjoyed the experience all the way through despite the rough edges. The exploration, if a little confusing, is still fun. The combat is basically Warioware, but there's nothing wrong with Warioware! Kind of a shame that all of the ""duels"" are introduced in the very first scenario, but, I suppose that just gives Creepy Castle room to iterate on the ideas, which it does very well. There's a handful of puzzle bosses, but primarily it's just further variations on the same duels being made a little more difficult.
+
+Ok, but that's probably what you're expecting. You look at the trailers for this and think, ok, this is going to have some good exploration, some good combat, probably a good cute little adventure. That's not what I thought because I barely even watched the trailers on here before buying the game. I'm not sure why. It just called to me. The best parts of the game are the bits I wasn't expecting at all.
+
+We need to talk about the writing. It is absolutely off the chain. One moment, it's a dramatic and serious fantasy adventure; the next, it's funny and lighthearted; then it goes all deep and meaningful, with some clear real-life parallels; then you walk into a room with portraits of the developers and several lore tablets listing Kickstarter backers. Creepy Castle is not a game that particularly cares about being tonally consistent. I kind of love it for that. The plot is as serious as it can be, and as ridiculous and irreverent as it can get away with. It's weird, yes, but the inconsistency somehow only serves to make the story's finest moments (even the dramatic ones!) hit even harder. One of my favourite moments is when a side character (whose name is a brilliant pun) shows up to make a dramatic monologue, the gravitas of which is somewhat undercut by it being effectively a clarification on the game's moral which is delivered directly into the camera. It's very funny just for the sheer audacity of the writers to put it in, but, I'm very glad they did.
+
+The other big thing that surprised me was just how big this Castle is. It took me 16 hours to play through the main story, and I barely went looking for secrets or bonus content, and there is a lot of that in here. To be fair, I was playing on 3/4 speed and I did play through Depth, which isn't actually required to beat the story and not strictly speaking the best scenario in the game. I was expecting a small little experience full of charm: I got all the charm I expected, but a deep, sprawling experience full of optional areas and little secrets. I expect 100%ing this game would take like, 30 hours at least. And the music! I should mention that the music is, well, very good.
+
+Creepy Castle is a really weird game. It's an artefact of its time, it's rough and unpolished, it's surprising in so many ways, and it is very, very good. I hope Dopterra is still working on their second project. Whether it's Creepy Castle's supposed ""Season 2"", or anything else they come up with, I am very excited to be pleasantly surprised, all over again. And if you want to be surprised the first time around, I can highly recommend Creepy Castle. There's much more to this game that I haven't spoiled yet :)",1,0,0,0.5,1014
+450440,76561198001485322,"A charming little game about exploration and doing battle via a variety of minigames. The story originally follows Moth, a wandering adventurer, infiltrating the titular creepy castle in order to stop the unhinged Darking from using a machine to rob the world's inhabitants of all of their emotions. When you succeed, though, the real adventure begins and over the course of multiple episodes with different protagonists you work to uncover the history of the world of Dopterra and work to save the world from an ancient being.
+
+The game is broken up into episodes, and is fun to replay, which is nice because most episodes have a mode where you can choose to play as any of the characters you've unlocked. Three of the characters even have their own story when playing the first episode with them, and it is worth going through again with them because of the quality writing. Clearly a lot of work was put into this world and its inhabitant. And when you're done with them, you can find and unlock guest characters from games like Shovel Knight, Cave Story, The Binding of Isaac, and Five Nights at Freddy's.
+
+This game seems deceptively simple at first, but there is a lot of depth once you dive in. While the episodes stand well on their own, together they tell an intertwined story. And if having things spelled out for you in (often humorous) dialogue is too simple, you can learn more about the world by examining the environment and murals in the less story heavy third episode and cross reference it with the things you've learned in the other episodes, including tablets that you can decode with a cipher in the second episode, and get a big picture of the history of this game's world.
+
+In short, it is fun, engaging, has a lot of combat variety, the story is relatively simple and easy to follow while rewarding extra lore to those who seek it out, and at the time of writing the only game I felt compelled to get 100% of the achievements in.",1,0,0,0.5,3413
+450440,76561198850016827,"This is a great little game! It's got a lot of heart and some really good music. One or two of the fight mechanics can be a little wonky, but the game is still very fair; the combat works in such a way that you don't encounter that 'wonkiness' very often. The dialogue is funny and modern, and the gameplay is retro-inspired without being purely retro itself (doesn't have retro DIFFICULTY, per se: nothing is so unclear that you don't know what you're supposed to be doing).",1,0,0,0.5,120
+450440,76561198054223705,"I can tell there's a good game here, but it's just not for me. It is extremely retro, like too far for me, in fact. 
+
+Moving is painfully slow. Combat has some unique mechanics, which is good.
+
+Again, I can see that there were some interesting ideas here. It just wasn't for me.",0,0,0,0.4761904776096344,17
+450440,76561198412523533,"Recomendado.
+El juego esta lleno de referencias y tiene un combate divertido, sin mencionar que la musica es muy buena",1,0,0,0.5,183
+450440,76561198045132235,"The characters are loveable and the worldbuilding is nothing short of fantastic. The oldschool ZX Spectrum aesthetic works surprisingly well and the gameplay is also fairly interesting, combining elements of metroidvania, turn-based RPG, and WarioWare-style minigames. The game has one massive flaw, however, and that is the pacing: there are many sections that are painfully tedious and repetitive. If you don't mind suffering for about 20-30% of the playtime then this is absolutely a game worth experiencing.",1,0,4,0.5857988595962524,1009
+450440,76561198277739004,"귀여운 캐릭터들과 올드한 느낌의 도트들이 정말 좋았어요 
+특이하게도 이 게임은 만나는 적마다 미니게임식으로 싸움을 걸어오는데
+여러가지 종류의 미니게임이 계속 부딪혀오니까 적당히 긴박감 넘치고 재밌었습니다!
+하지만 길치 게이머라면 좀 힘들 수도 있습니다 제가 그럼",1,0,0,0.5,1111
+450440,76561198066796982,its okay,1,0,0,0.5,2037
+450440,76561198191906197,"딱 한마디만 할게요
+눈물 닦을 손수건만 챙겨와",1,0,1,0.523809552192688,249
+450440,76561198044448362,"스토리를 뭐 하러 넣었는지 잘 모르겠습니다.
+등장인물이라곤 정보만 뱉는 바보들, 지 할 말만 하고 내빼는 바보들, 본인들에게밖에 의미없는 킥스타터 후원 게스트 뿐이라 스토리를 이끄는 존재가 망할 책과 책과 책과 연구기록과 연구기록과 연구기록과 역사교과서와 역사교과서 뿐이에요.
+
+뭔가 주제와 고민거리를 던지고 싶으면 보여줘야지, 짜장을 먹을건지 짬뽕을 먹을건지 고민하게 만들려면 짜장과 짬뽕이 서로 박터지게 싸우는 걸 보여줘야지 짜장과 짬뽕이 각자 자기 위키페디아 항목만 쳐 읽게 만듭니까?
+
+스토리에 임팩트를 주려고 해도 뭐 빠밤하고 뿌왐하는 놈들이 다 위에서 말한 지 할 말만 하는 바보나 책에서만 나온 놈이나 왜 나왔는지도 모를 놈들 뿐인데 컷신 빡 준다고 뭐가 느껴진단 말입니까.
+
+이 쓸모없는 위키페디아 문건 중 1/4만이라도 제대로 게임 안에서 볼 수 있게 해놨으면 이렇게 혹평하진 않았을지도 몰라요, 그만큼 이 게임 등장인물들은 다 벙어리 바보입니다.
+
+주인공도 바보입니다. 이야기에 낄 자리가 없는데 설렁설렁 기어들어와서 바보들 헛소리나 듣고 자빠진 바보입니다.
+
+대체 이 바보들은 바보 앞에서 바보같은 소리가 뭐 잘났다고 나불나불대는건지 이해가 안된다고.
+
+바보 주제에 진지한 얼굴 하디 마!
+
+수정 1:
+주인공이랑 엮인적도 없는 권투나비가 뭔 나방이랑 뭔 평생을 함께한 동료인마냥 구는것?
+그동안 표현이고 나발이고 없었던 주인공의 내면표출은 한없이 황당하고 눈에 별 킨 사악한 쌍둥이의 디자인에선 분명한 어떤 확연한 의도가 느껴지는군여
+
+최종보스 테마곡은 웃으라고 넣은겁니까?
+
+보니까 뭔 변주도 없고 추가 스토리도 없는데 그럴거면 그냥 나비 최종전에서 바로 나방 최종전으로 연결하면 흐름도 좋고 깔끔할 걸 뭐하러 뺑뺑이를 돌립니까? 컨텐츠 뻥튀기?
+
+뻥튀기할 생각을 하기 전에 하나를 제대로 만들었어야죠.
+
+수정 2:
+
+나비 동굴탐험은 쳐다만 봐도 뒷골이 땡겨서 그냥 스킵하고 개미여왕 에피를 플레이했는데요, 참 말도 하고 대화도 하고 목적의식도 있는 게 이 게임에서 유일하게 지성이 있는 바보란 생각이 들더라고요. 얘 파트만 제법 괜찮아서 그냥 추천으로 바꿀까 했는데 퀴즈쇼 때문에 빈정상해서 안 바꿉니다. 플레이 피로 캐릭터 비중, 아무것도 고려를 안 한 것 같아요, 이대로면 나방이는 그냥 장르사기치려고 버림받은 일회용 티슈가 되어버린다고.
+
+
+시즌 2는 얼어죽을.
+
+덧:
+이렇게 리뷰를 쓰다가 깨달았답니다, 아마 아주 아주 옛날부터 제작진의 머릿속에 존재해서 자신들은 이 캐릭터들을 겁나 잘 알고 그 이야기도 머릿속에서 완결날 대로 완결나버려서 플레이어를 배려할 틈이 없었던 거에요, 남한테 그 기쁨과 슬픔이 소용돌이치는 드라마와 피바다를 전할 수가 없는, 준비가 안 된 캐릭터들을 써버린 거에요. 그러니 상관도 없던 얘가 갑자기 튀어나와서 중요한 척 하고 얘들이 이상한 타이밍에 울고 웃고 테마곡 폭발하고 그러는 거라구요.",0,1,0,0.41429921984672546,192
+450440,76561198298002408,"I haven't played through the entire game yet, but it's pretty good.",1,0,0,0.5,52
+450440,76561198353623629,"Much as I loved this game's art style and story, I just gave up on it after pointlessly roaming an explored area to find where to go next for 20 minutes. Especially with the entire screen of 8 bit pixels shaking with each step taken, it's just painful to look at all the time. The map didn't make much sense at all, you can tell nothing from it except for saving spots marked as yellow dots. The shaky screen and useless map made navigation in this game a pain in the arse. The battle system seemed fun at the beginning, but the kindergarten level difficulty just made it tedious after 2 or 3 battles. The game only introduced new types of duels but never increased the difficulty. I usually only lost less then 2 hp during a boss fight and that's when they used special moves that couldn't be dodged. Although I really want to know the entire story of this game, I really don't have the patience to go on anymore.",0,0,4,0.49497076869010925,221
+450440,76561198394732752,"Wow... where to begin?  The gameplay is a neat example of oldschool with a new twist.  It's a lot like those old Dragon Slayer games that are played from a sideview, but combat is turn-based.  Sometimes, you just trade blows, but occasionally, you'll have to complete a microgame to determine the outcome: you take damage, the enemy does, or you both do.  There's quite a variety of them, too, including Samurai Kirby, Pipe Dream, whack-a-mole, 5-12 card monty, and tons more; some of them can be a pain, but most of them make combat engaging and exciting.  In addition to that, you have traps to avoid, treasures to open, lore to read, and worlds to explore.  Some items are for healing, some are special attacks that act like critical hits, and some are reusable tools that allow you to reach new areas.  The coolest thing is that each scenario takes mostly the same building blocks and makes something totally new; it keeps the familiarity close by while keeping things fresh and exciting.
+
+The visuals are really something else; they're something like an old Commodore 64 game, but with the system limitations removed, much like Shovel Knight did with NES aesthetics.  I'm a total sucker for a black background with bright and bold colors standing against it, and this delivers!  Another nice touch is being able to choose from a variety of borders and palettes, including DOS, NES, Game Boy, some Super Game Boy presets, and more.  The soundtrack is deeply rooted in the NES sound chip, and it's no surprise; much of it was composed and/or arranged by the excellent RushJet1, whose distinctive style is right at home here.  Not only is the music [b]rock solid[/b], but you really [b]feel[/b] it; despite there not being much action, per se, the soundtrack can really get you moving!
+
+This all would make a fine experience that I would've greatly enjoyed, just as I'd imagined it would from the store page.  What I didn't expect was for the story to sneak up behind me and KNOCK ME OUT OF MY CHAIR as early as the first scenario.  You're just collecting lore, reading up on things, and while you're piecing together a fairly interesting story, the gravity of it all just hits you right near the end.  I expected this to be a total fluke, but each scenario just knocked it out of the park, even making me care about characters I'd only just met, and I don't fall for characters easily.  The music does a great job of backing this up, too; for something that seems so subdued at first, it really just surrounds you.  I absolutely CANNOT recommend this enough; if any of this sounds like something you'd enjoy, I'd say go for it.",1,0,6,0.5816308856010437,2920
+450440,76561199078288307,"the game is amazing even though its underated, i reccomend you play it
+",1,0,1,0.5076923370361328,885
+450440,76561198202021465,I went into this expecting a cute bug game with 8-bit music. I was stunned by the twists and turns this game takes.,1,0,0,0.5,435
+450440,76561198155279745,"This game is really great and cute!!
+I feel sad when it fight to darking ; _ ;",1,1,0,0.5,369
+450440,76561198098989714,"A quite interesting concept, certainly a worthy way to waste a couple of hours. Though there's a little too much backtracking.",1,0,0,0.5,2317
+450440,76561198095235304,"I got this game on sale, and I STILL think its normal price isnt enough. Without going into spoilers, the main campaign lasted me about 3 hours with exploration and battles, and then I unlocked a ♥♥♥♥ ton content including more campaigns, new game+ modes,  and extras. ♥♥♥♥♥♥♥♥♥ this game is the apitimy of ""less is more"" because for every bit this game harkens back to old school adventure games it packs some serious tonnage. Buy it. Buy it on sale, pay for it full price, just play the game. And get the soundtrack. ♥♥♥♥♥♥ bangers.",1,0,1,0.49706944823265076,201
+450440,76561197960797805,"Creepy Castle is such a fun adventure! I'm only through the first part and am excited to play through the remaining 4. The combat system is a fun take on traditional RPG combat, the writing is great (I wanna hang out with Stick Bug IRL), and the visuals really grew on me. I don't have nostalgia for the ZX Spectrum, but it somehow all works. The soundtrack rules, too (you can find it on Bandcamp).",1,0,0,0.5,298
+450440,76561198048053823,WHY CAN'T I BUY THE SOUNDTRACK???,1,2,1,0.5003374218940735,320
+450440,76561198840675212,"This game is very very fun, I really wish more people knew about it. It is very underrated, and the artstyle is beautiful.",1,0,0,0.5,70
+450440,76561197994598473,A wonderful game with great music and characters and ZX Spectrum-style graphics. The areas could do with being a bit less mazelike OR the automap could be better though.,1,0,1,0.4488188922405243,208
+450440,76561198272389573,Ant Queen,1,0,0,0.5,98
+450440,76561198365185600,game,1,0,2,0.5078000426292419,907
+450440,76561198067036278,Cute buggo game.,1,0,1,0.49652060866355896,1498
+450440,76561198147263657,moth...... my baby man,1,2,2,0.523809552192688,555
+450440,76561198982881813,VERY AWESOME COOL CUTE EPIC,1,0,0,0.5,1080
+450440,76561197990947284,"If you like to walk around giant mazes at a snail's pace, this is the game for you.",0,1,6,0.39291730523109436,233
+450440,76561198282624811,"때부자좀해본사람
+미니게임좋아하는사람
+힐링하고싶은사람
+길헤매는게즐거운사람",1,0,0,0.5,1973
+450440,76561198072549017,"This game had far more depth than I thought it would when I went into it. It is a very cute little game with a surprisingly robust story and battle system. Additional modes unlock after you finish the original scenario, but I was not interested in many of them personally. My biggest complaints were the lack of detail on the map and the need for backtracking, Those two things eventually frustrated me enough that I didn't want to continue and finish all of the alternate scenarios, but I did thoroughly enjoy the 3 scenarios I played.",1,0,0,0.5,603
+450440,76561199092574313,"A ""Forget Me Not"" game. Truly, even for a never to-be-finished gem, it still worth the price.",1,0,3,0.5306993126869202,222
+450440,76561198857685456,고전게임의 감성만 담은 게 아닌 예전 게임 특유의 불합리함과 불친절한 진행 때문에 애먹게 만드는 게임. 챕터가 변해도 계속 반복되는 형식으로 진행하는 것은 꽤나 고통스럽다. 그래도 도전과제는 깨고 접자는 마인드로 달렸는데 depth 어두운 스테이지의 세이브 포인트 쪽에 있는 그림자때문에 갇혀서 진행 불가 상태가 되버려 게임 삭제 엔딩.,0,0,1,0.4744423031806946,931
+450440,76561197979934027,Charming and retro,1,0,0,0.5,343
+450440,76561198426976729,"seriously an incredible game, but it's very very niche! it's an RPG except each turn is a minigame that brings up a prompt, and performing it successfully allows you to do damage. it's retro as in it's evoking ZX spectrum / MSX aesthetics, which is my favorite (hence why i like it). it's not a speedy game, as characters move at a fixed speed, but also because each scenario is several hours long + there's several of them, and so far it's taken me 16 hours to get through 4 of them. what this game really excels in is charm, as this has so much passion and love in it it's hard not to enjoy it. my only critique is that the better scenarios are the later ones -- the first two are great, but the 4th one is actually sublime, like holy cow. go into this with an open mind and a little patience and you will be very well rewarded. i LOVE the characters. i went into this thinking the story was either going to be shallow garbage or cliched filler, but the story is actually fire. like it's so so good and each scenario builds on it and the worldbuilding just keeps improving. seriously incredible game. give it a chance! also there's amazing sprite work, and the soundtrack bops too",1,1,2,0.5375722646713257,987
+450440,76561198044179011,"This is a super fun, charming game with a surprising amount of content for such a low price. Absolutely worth checking out! (Also, Ant Queen is bae.)",1,0,0,0.5,725
+450440,76561198332428092,귀여움 열라귀여움,1,0,0,0.45531198382377625,570
+450440,76561198355360324,"I really like this game, however it does have a few traits that I'm not a fan of. Battles can be a bit slow, and the exploration is a bit tedious, but that's just me. I would 100% reccomend trying this game yourself, because aside from those two problems the game is pretty fun. Also the music's great.",1,0,3,0.5618427991867065,41
+450440,76561198283216346,All i gotta say is that it is a heck of a lot longer than you think it is. 10/10 definitely would recommend!,1,0,1,0.5081247091293335,249
+450440,76561198381212362,"굿겜 
+비 스토리 깁미",1,1,0,0.5,2643

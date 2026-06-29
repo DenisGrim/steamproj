@@ -1,0 +1,548 @@
+app_id,user_id,review,does_recommend,funny,helpful,weight,playtime_at_review
+502210,76561198367471798,"Super Markup Man is one of those unusual indie projects that immediately stands out because of how strange its core idea sounds on paper. A platformer designed to teach HTML and CSS could have easily ended up feeling like a glorified classroom exercise, yet the game manages to avoid that trap through clever design and a surprisingly engaging gameplay loop. Instead of presenting coding concepts through dry tutorials or walls of text, the experience turns web development mechanics into interactive puzzles and environmental challenges. The result is a game that feels educational without constantly reminding the player that they are learning something practical along the way.
+
+The game revolves around the use of HTML tags and CSS concepts as actual gameplay mechanics. Players move through stages while carrying and positioning markup elements that directly alter the environment. Rather than typing code manually, the game visualizes web design principles in ways that are easy to understand. Tags become tools that open paths, solve environmental puzzles, and manipulate stage layouts. This approach works remarkably well because it introduces coding concepts through experimentation instead of memorization. Players gradually begin understanding how various elements function together simply by interacting with the world around them.
+
+One of the strongest aspects of Super Markup Man is the way it structures progression. Early levels are simple enough for newcomers to understand basic mechanics, but the complexity steadily increases as new systems are introduced. HTML-focused stages emphasize structure and organization, while CSS-oriented sections place more attention on visual manipulation, layout adjustments, and styling concepts. The game carefully balances challenge and accessibility, making sure that players are constantly learning without becoming overwhelmed. Even players with absolutely no prior knowledge of coding can follow the progression comfortably because the mechanics are introduced naturally through gameplay situations.
+
+The puzzle design is more creative than many would expect from an educational title. Later stages become increasingly elaborate and require players to think logically about how different elements interact. Certain levels focus on timing and movement while others encourage experimentation and observation. Some puzzles initially seem confusing, but the eventual solution often creates a satisfying sense of understanding that mirrors solving an actual programming problem. That feeling of discovery is where the game becomes genuinely rewarding. It does not simply tell players how coding works; it encourages them to understand systems through problem solving.
+
+Visually, the game embraces a bright and playful art direction that suits its educational tone perfectly. The colorful environments and clean interface make everything readable and approachable, which is especially important in a puzzle game built around learning mechanics. The character designs and animations are simple but charming enough to keep the presentation lively throughout the experience. While the graphics are not technically impressive compared to larger productions, they serve the gameplay effectively and maintain a welcoming atmosphere that fits the overall concept.
+
+Another feature that deserves praise is the real-time page rendering system. As players complete puzzles and manipulate elements, they can see web pages visually forming through their actions. This immediate feedback creates a strong connection between gameplay and the coding concepts being taught. Abstract ideas suddenly become tangible because players can directly observe how modifications affect the outcome. It is an extremely smart educational design choice that reinforces learning without interrupting the pace of the game.
+
+The inclusion of Bug Mode adds another layer of personality and creativity. Random bugs appear within levels, requiring players to locate and eliminate them before progressing. This mechanic acts as a playful representation of debugging in real programming, teaching players that errors and troubleshooting are natural parts of the development process. Instead of turning debugging into something frustrating, the game frames it as an entertaining challenge. It subtly introduces players to the mindset required in programming while maintaining the game’s lighthearted tone.
+
+Free Play Mode also helps the game stand out from other educational titles. Players are given opportunities to experiment with creating their own layouts and exporting content as real HTML files. This transforms the experience from a simple puzzle-platformer into something closer to a genuine learning tool. Curious players can begin applying concepts outside the game itself, which speaks volumes about how effectively the mechanics teach foundational ideas. It is rare for an educational game to inspire actual interest in its subject matter, but Super Markup Man genuinely succeeds in making web design feel approachable and fun.
+
+The cooperative functionality is another welcome addition, especially for parents, teachers, or friends who want to solve puzzles together. Cooperative play encourages communication and experimentation, which naturally strengthens the educational aspect of the game. While the multiplayer implementation is relatively straightforward, it adds extra replay value and makes the learning process feel more social and collaborative.
+
+Of course, the game is not without flaws. Some later puzzles lean heavily into trial-and-error problem solving, which may occasionally frustrate players who are unfamiliar with logical coding structures. The platforming mechanics themselves are functional but not particularly deep, meaning players looking for highly refined movement systems may find the gameplay somewhat basic. Certain mechanics can also feel repetitive during longer sessions because the educational focus naturally limits how far the game can expand its ideas. However, these issues rarely overshadow the creativity and charm that define the overall experience.
+
+What ultimately makes Super Markup Man memorable is how committed it is to combining entertainment and education in a meaningful way. The game never talks down to players, nor does it overwhelm them with unnecessary complexity. Instead, it introduces practical concepts through engaging gameplay and thoughtful puzzle design. It understands that curiosity and experimentation are the most effective teaching tools, and it builds its entire structure around that philosophy.
+
+For players interested in coding, puzzle-platformers, or simply unique indie concepts, Super Markup Man offers something genuinely refreshing. It may not have the production values of major platforming titles, but its originality and educational creativity allow it to stand apart from countless generic indie releases. Few games manage to teach practical skills while remaining consistently entertaining, and that alone makes this project worthy of recognition.
+
+Rating: 8/10",1,0,1,0.523809552192688,937
+502210,76561199790244702,"Simple, but good game. It's nice to learn / practice HTML and CSS in a relaxing fun way, in my opinion. I've spent 3 hours straight playing the game without noticing. Some levels are truly challenging and made me have a lot of fun. I've enjoyed it.",1,0,0,0.5,105
+502210,76561198168516018,"I want to give this a positive review, because I like where it's going, but I just finished level 50 of the HTML section and was extremely surprised that that's all there was. I was hoping to finally learn real HTML in-depth, but when it stopped after the absolute basics, just when I was thinking it was getting good, I was thoroughly disappointed. I don't think I actually learned anything from this game that I didn't already know.
+
+I'll go through the CSS levels too, but, as an educational tool, I can already say that it's not really gonna get you anywhere in the end. The best it might do is stop you from wasting your time on the absolute basics elsewhere, letting you jump into watching a youtube video or learning from an LLM with confidence.",0,0,0,0.5,160
+502210,76561198355752399,💋,1,1,0,0.5,1763
+502210,76561198217318681,"overall good.
+can recommend it.",1,0,12,0.6875,181
+502210,76561198218510948,"[code]
+  
+<review>  
+  10/10 - HTML y CSS  💻❤️ 
+</review>
+  [/code]",1,0,2,0.5419847369194031,887
+502210,76561198179011859,"Fun little game, might be a nice little refresher for people who are still learning.",1,0,0,0.5,250
+502210,76561198378778063,"Крутая игрушка. Она вряд-ли чему-то научит, но для повторения новичкам самое то!",1,0,1,0.523809552192688,242
+502210,76561198009662092,"I would rate it thumbs up as a simple game, but as a teaching tool, which it flirts with claiming to be, it isn't up to snuff.
+
+I wanted it to teach my kids the basics in a visual form, but I ended up having to explain the things I wanted taught to them, before they could get started.
+
+It failed to explain to my kids how to get started.  It didn't even show an example of correct tags or nesting.  It then doesn't provide enough feedback to understand what they are doing wrong.  It's a novel enough concept, but the tutorial side is too obtuse for the skill level it targets.  The UX is just a little obtuse overall.
+
+Also, we ended up with a bug in our code, which is funny, but then we couldn't figure out how to get rid of it.  I had to go in the menu and turn off bugs.",0,0,1,0.523809552192688,34
+502210,76561198067241659,"This Game Rate :
+
+Graphics 7/10
+Control 4/10
+Difficulty 5/10
+Addictedness 2/10
+Age Rate - +12
+Player Anger - Non
+Pay To Win? - No
+Play Without Friend - good
+Is It Worth It - YES : so funny game but you need to know basics of html and css but thats awsome",1,0,12,0.6875,83
+502210,76561199247606970,"You'll enjoy this game if you liked programming in HTML and CSS, or just enjoy the puzzles in general. I find it fun after completing some levels. I didn't know you could press CTRL to see the result the game wanted, I only realised it after 3 levels. Good luck newbie programmers.",1,0,0,0.5,277
+502210,76561198413538872,"after it's accomplised, put the level on mid top so the brain can understand solidly that the steps is right. 
+
+what you have done is, when it's accomplished, you put level in mid, so it's block the correct answer and, directly move to next level without even give brain to breath, 
+
+put another next step button i think is better.",1,0,1,0.4943625330924988,60
+502210,76561198077687080,"You don’t need next level html or css knowledge to play, it’s more like a basics-to-refresher-course level as far as I’ve gotten.
+Very easy to play and doesn’t require a lot from neither you nor your computer.",1,0,1,0.5273631811141968,34
+502210,76561198078182431,"В это физически больно играть.
+Задачи крайне банальные, но тупость самого геймплея растягивает время решения в несколько раз. Если действительно хотите разобраться в основе html и css, то лучше уже htmlacademy или какой-то подобный сервис. Единственное, для чего можно покупать эту игру - карточки. И то только на скидке.",0,0,0,0.5,62
+502210,76561198051022560,"YES PLAY THIS if you are keen on learning simple web development (HTML and CSS) and are keen on improving your skills.  it is a great learning game and anyone who wants to learn how to become a newbie webmaster (in terms of design) should definitely buy this game.  IT REALLY DOES HONE YOUR SKILLS!!!
+",1,0,0,0.5,252
+502210,76561198094608445,looks like the website y'all linked to the sound effect guy has been completely taken over by malware,0,0,1,0.5273631811141968,9
+502210,76561198045468592,Yes.,1,0,3,0.5208973288536072,1760
+502210,76561198073719579,cool,1,0,0,0.5,90
+502210,76561199059024161,train tracking correctly,1,0,0,0.5,293
+502210,76561198168201249,Cool game but i'm still looking forward to super markdown man ...,1,0,2,0.5454545617103577,236
+502210,76561198018971439,"This game is simple, fun and really the product of someone loving web development! XD
+
+The gameplay is simple, the aim of the game is clear: learn the basics of HTML5 and CSS while enjoying some platforming. I really appreciate the priority given to clarity and pagination over too complicated character design and rules. 
+
+What I would like is more customization, more levels and maybe less trading cards. The game has not a lot of replay value, because it is linear and you really drop not enough towards the badge...I would say that the rewarding aspect of it via these little things could be improved. 
+
+7/10",1,0,0,0.5,490
+502210,76561198090995085,Ну как бы ОКЭЭЭЭЙ,1,0,0,0.5,257
+502210,76561198345638513,Programlamayı eğlenceli hale getiren gençlerin başlamasına önayak olan güzel bir platform oyunu .Kodları yerleştirdikçe ne anlama geldiğini sağda göstermesi de güzel olmuş.Okullarda gençlere bilgisayar derslerinde gösterilebilecek eğitici oyunlardan tavsiye ederim.,1,1,19,0.6376000642776489,103
+502210,76561198289413132,靠这学习html别想了，写代码好歹还会报错，这游戏只有完全正确会给点反馈，还没有写代码好玩。游戏粗制滥造，不推荐,0,0,1,0.5127118229866028,18
+502210,76561198237676960,hackerlık için ilk adım,1,0,2,0.5419847369194031,64
+502210,76561197984139986,"My wife thinks I'm insane for enjoying this but I think it's good casual fun. I don't feel like I'm really learning anything, but for someone who doesn't already know html and css this seems like it could be quite educational. If I ever have a kid I'll force them to play this for at least 10 levels per day XD",1,1,3,0.5673221945762634,86
+502210,76561198174925127,"────────────────────────────────────────
+────────────────────────────────────────
+───────────████──███────────────────────
+──────────█████─████────────────────────
+────────███───███───████──███───────────
+────────███───███───██████████──────────
+────────███─────███───████──██──────────
+─────────████───████───███──██──────────
+──────────███─────██────██──██──────────
+──────██████████────██──██──██──────────
+─────████████████───██──██──██──────────
+────███────────███──██──██──██──────────
+────███─████───███──██──██──██──────────
+───████─█████───██──██──██──██──────────
+───██████───██──────██──────██──────────
+─████████───██──────██─────███──────────
+─██────██───██─────────────███──────────
+─██─────███─██─────────────███──────────
+─████───██████─────────────███──────────
+───██───█████──────────────███──────────
+────███──███───────────────███──────────
+────███────────────────────███──────────
+────███───────────────────███───────────
+─────████────────────────███────────────
+──────███────────────────███────────────
+────────███─────────────███─────────────
+────────████────────────██──────────────
+──────────███───────────██──────────────
+──────────████████████████──────────────
+──────────████████████████──────────────
+────────────────────────────────────────
+────────────────────────────────────────
+",1,0,0,0.5,65
+502210,76561198369844905,Забавная игра,1,0,0,0.5,84
+502210,76561198201246082,"Super Markup Man, herhangi bir kodlama becerisi gerektirmeden HTML ve CSS öğreten bir 2D bulmaca platform oyunudur. Roppy Chop Studios tarafından geliştirilen ve yayınlanan oyun 16 Ağustos 2016 tarihinde piyasaya sürülmüştür.
+
+Oyun, oyuncuya A, IMG, STRONG ve EM gibi temel HTML etiketlerinin yanı sıra CSS modunda daha gelişmiş biçimlendirme ve stilleri aşamalı olarak tanıtan 100 seviye / alıştırma sunar. Oyunun mekaniği, bu etiketleri ekranın etrafında taşımak ve web sitenizin gerçek zamanlı olarak işlenmesini izlemek etrafında dönüyor. Oyuncu her seviyeyi geçmek için web sitesini önizleme ile eşleştirmelidir.
+
+Ana oyun moduna ek olarak, oyun ayrıca oyuncuların seviyeleri gerçek HTML dosyalarına aktarabilecekleri bir Serbest Oyun modu sunar. Bu mod, oyuncuların öğrendikleri kodu denemelerine ve becerilerini daha da geliştirmelerine olanak tanır.
+
+Oyunun ilginç bir özelliği, karmaşıklık katmanı ekleyen ve oyuncunun kodları hakkında eleştirel düşünmesini gerektiren isteğe bağlı ""hata"" ayarıdır. Ayrıca, Super Markup Man Free Play ve CSS modlarında yerel kooperatifi destekliyor, ancak ikinci oyuncunun bir gamepad (tercihen bir Xbox gamepad) kullanması gerekiyor.
+
+Super Markup Man, Steam'deki 93 incelemenin tamamı çok olumlu olmak üzere son derece olumlu eleştiriler aldı. Oyun, web geliştirmeyi öğretmeye yönelik yenilikçi yaklaşımı ve ilgi çekici oynanışı nedeniyle övgüyle karşılandı. Bazı oyuncular oyunun zorluğunun zaman zaman zorlayıcı olabildiğini belirttiler, ancak bu, oyuncuları yaratıcı düşünmeye ve problem çözmeye teşvik ettiği için olumlu bir yön olarak görülüyor.
+
+Genel olarak Super Markup Man, HTML ve CSS'yi eğlenceli ve ilgi çekici bir şekilde öğrenmek isteyen herkes için mükemmel bir oyundur. Oyunun mekanikleri sezgiseldir ve seviyeler aşamalı olarak birbiri üzerine inşa edilerek oyuncuların kendi hızlarında öğrenmelerini kolaylaştırır. İsteğe bağlı ""bug"" ayarı ve yerel kooperatif modu da oyuna derinlik katıyor ve oyuncuları oynamaya ve öğrenmeye devam etmeye teşvik ediyor.",1,0,2,0.5370370149612427,211
+502210,76561198046676880,"Best game ever to learn HTML / CSS.
+
+Sadly not very enjoyable if you already been using it for almost 20 years.",1,0,0,0.5,19
+502210,76561198859635219,"I really like what they were going for, but in my opinion this is far from an effective teaching method.",0,0,2,0.5233892202377319,36
+502210,76561198224582032,"---{ Graphics }---
+☐ You forget what reality is
+☐ Beautiful
+☐ Good
+☑ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☐ Very good
+☐ Good
+☑ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☐ Very good
+☐ Good
+☑ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☑ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☑ Check if you can run paint
+☐ Potato
+☐ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☐ Easy to learn / Hard to master
+☑ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☑ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☑ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☑ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☐ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☑ Never heard of
+☐ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☑ 7
+☐ 8
+☐ 9
+☐ 10
+
+
+Grab this review template here! 👉 https://vojtastruhar.github.io/steam-review-template/
+Very educational game, really suitable for anyone studying HTML and CSS. But this game alone doesn't let you master the languages yourselves; you have to study as well, not just play this game.
+",1,0,0,0.48275864124298096,231
+502210,76561198090662065,Job simulator,0,0,1,0.49665552377700806,16
+502210,76561199289449566,lol wtf is this game... Who came up with such an idea? Can you explain yourself to a rubber duck?,0,4,1,0.49665552377700806,256
+502210,76561198143078989,"O jogo é bem simples. Ótimo para ser aplicado em escolas em aluas de Computação e para crianças que queiram ou necessitem aprender um básico de linguagem de marcação.
+
+O jogo é curto e não achei a disponibilidade de modificações e/ou como instalar níveis desenvolvidos pela comunidade. Poderia explorar mais. Rendeu-me 5horas de jogo, das quais eu estava jogando casualmente, falando com amigos por videochamada e lendo artigos na Rede. 
+
+Jogos como este, ainda mais se forem livres (para adaptar, modificar, redistribuir) seriam muito legais em escolas. Para cursinhos técnicos, seria melhor alguma expansão com mais elementos de página, e esquemas de disposição de elementos tais como flexbox.
+
+Ainda assim, recomendo para todos como um bom passa-tempo, desde que comprado barato.",1,0,0,0.5,305
+502210,76561197989097516,"o jogo é desafiador para quem não entende muito de html e css, já para quem conhece acaba sendo divertido passar o tempo. o q poderia ser melhorado nele é a tematica de movimento dos códigos, mas.. o jogo em si é legal...  7/10",1,0,0,0.5,556
+502210,76561198371004178,I've never coded before but this was a nice little way of introducing HTML and CSS. I don't plan on learning code but this was still a fun little game and it has easy achievements.,1,0,0,0.5,178
+502210,76561198208660573,Great,1,0,0,0.5,302
+502210,76561198118773618,"<!DOCTYPE html>
+
+<h1> MY LOVE </h1>",1,0,0,0.5,491
+502210,76561198262655550,Some levels really makes disappointed me!!!,0,0,0,0.5,123
+502210,76561198045108665,Very fun game,1,0,0,0.5,198
+502210,76561198371396296,Super Markup Man is the ultimate fun way to practice web development and learn the basics of HTML and CSS. No coding skills needed!,1,2,12,0.6208623647689819,11017
+502210,76561198216641265,"aite quite enjoyable to kill some time
+but just why player 2 needs controller to play???",1,0,0,0.5,160
+502210,76561198308628242,Análise.,1,0,7,0.4412313997745514,111
+502210,76561198829315273,"Got trapped on one level despite replicating the solution they wanted from me, but the game didn't progress. Not sure if it's a bug or if the game needs very *particular* solutions to encourage good coding habits, but nothing was happening even after shuffling tags around in different orders to obtain the same solution. 
+
+I was left with no idea if or where I'd went wrong.",0,0,0,0.4864864945411682,37
+502210,76561197961951106,"Only covers the absolute basics, so the people who stand to benefit the most are those who know next to nothing about HTML & CSS. Because those who do have some experience likely won't learn anything new. Still, I suppose it was unreasonable to expect more. It's alright.",1,0,0,0.5,271
+502210,76561198121312849,"My man, have you ever heard of
+[code]<audio
+   controls                  <!-- to control the volume and not have -->
+   src=""/media/earrape.mp3"">    <!-- playing all the time, that'd be great! -->[/code]
+overall it's fun, but also very simple - might be interesting as a time challenge game. I would love an option to immediately skip to more complicated levels, because i feel like the progression is very slow.
+
+Cheers!",1,1,0,0.5,15
+502210,76561198013772923,"Good to learn the basics of HTML and CSS, I would say.",1,0,0,0.5,527
+502210,76561199067520342,Oyun süper Türkiye'de sadece ben incelemişim oyunu bukadar güzel bir oyunun bilinmemesi çook kötü bişey oyun çook yararlı :) super,1,0,1,0.523809552192688,27
+502210,76561198219865139,Good for those that like or need assistance with coding,1,0,0,0.472222238779068,259
+502210,76561198063961616,"I bought this game on-sale for $0.99. For the price, it's a pretty decent little puzzle game despite having issues.
+Here are a few problems I found:
+1: there is no click-and-drag feature to save time.
+2: most of the puzzles do not reflect how basic HTML/CSS is used in real life.
+3: the solutions for some of the puzzles, no sane web developer would code like that in real life.
+4: game does not save the state of each level when saving & quitting.
+",1,0,4,0.5841155648231506,554
+502210,76561198049823783,"Aprendes a programar algo medio basico de HTML y CSS, no entendi muy bien pero digamos que esta bien logrado.
+
+Para alguien que no sabe nada, es bastante divertido.",1,0,1,0.5180723071098328,166
+502210,76561197982504799,"Super Markup Man - тренажер верстки сайтов.
+
+В программке есть 50 заданий по языку разметки HTML  и еще 50  с ним же и стилями CSS.  
+Ну и свободный режим, который откроется после прохождения первых двух режимов.
+Задания идут от простого к чуть более сложному, но особо мудренных конструкций тут нет. 
+В каждом задании можно посмотреть короткое объяснение функций нового элемента.
+Управление простое - есть человечек, он может подбирать нужные тэги, и мы расставляем их в правильной последовательности.
+
+[noparse]В целом тут все просто, максимум что придется делать это:
+ <div>Контейнеры</div>;
+<ul><li>Различные списки</li></ul>;
+<p><strong><em>Абзацы+ выделение жирным и курсивом</em></strong></p>
+и т.д.
+
+И чутка CSS, в основном:
+color: Цвет,
+text-align: Положение текста,
+opacity: Прозрачность.
+и т.д.
+ [/noparse]
+
+Причем в режиме CSS и при наличии геймпада, можно проходить программку вдвоем с товарищем\ребенком\котом\подставить нужное.
+
+Ну и тем кто раздумывает над покупкой, имеет смысл попробовать бесплатную версию для мобил, от этого же разработчика, или упрощенную браузерную версию самой игры:
+1) [url=https://play.google.com/store/apps/details?id=roppychop.easyhtml] The Easy HTML Practice Game [/url]
+2) [url=https://markup.roppychop.com/] Super Markup Man [/url]
+
+Как итог: программка прикольная, для тех кто изучает верстку и\или хочет поддержать старые навыки, как дополнительный материал на тему для практики, тем более в игровой форме. Для тех кто уже верстать умеет, каких-то сложных вещей тут не найдется. Ну и теории тут мало, это тоже надо учитывать. В целом разработчик неплохо постарался, чтобы сделать изучение этого дела нескучным. Рекомендую.
+8 из 10
+
+http://steamcommunity.com/sharedfiles/filedetails/?id=1126011506
+
+[i]P.s: если этот обзор был для Вас полезен ставьте лайк, а также добавляйтесь в друзья и подписывайтесь на меня как куратора - [url=http://store.steampowered.com/curator/28776273/] Обзоры онлайн [/url][/i]",1,1,16,0.531410276889801,220
+502210,76561198236162972,"I would recommend this game to those who feels like they need a refresher on HTML&CSS codes or if you want to learn new skills.
+
+[i]**I miss my myspace era**[/i]",1,0,5,0.5858895778656006,132
+502210,76561198041234648,basic html tags that allow you to play around in a fun way to see what the do if you put them in a correct order,1,0,0,0.5,200
+502210,76561198132864978,"I bought the game solely for the achievements as I already know HTML and CSS fairly well.
+
+[h1]As an achievement hunting game[/h1]
+It's quite simple. First you have to solve 50 levels with only HTML. After that, you have to solve another 50 levels with both HTML and CSS. After that you have to, i.a., play the free mode for 30 minutes, download a file that has a bug in it, solve levels in different ways and play the game in co-op (which can be done alone, I used a xbox controller. I didn't check if the other keys on your keyboard can be used).
+
+[h1]As a game[/h1]
+It's kind of ehhhh. Gameplay is tedious because you have to run around picking up tags to move them. Simple drag and drop mechanics would be a lot more fun. That, I believe, would also make it possible / easier to create more complex levels as you have more space to work with. I, however, did find some of the levels (lvl 40+) fun to solve, so it kind of works as a puzzle game although, like said, click and drag mechanics would make it less tedious. I also had fun trying to speedrun the game.
+
+[h1]As a game that's supposed to teach HTML and CSS[/h1]
+It's also kind of ehhhh. Sure, it shows you that you have to close tags in the correct order, but as long as that condition is met, the tags can be anywhere. It also doesn't explain what the tags do unless you open the help panel. You also don't see what you're supposed to do unless you press CTRL, and if you do that, you can't see your own progress.
+
+[h1]Conclusion[/h1]
+[list]
+[*]For achievement hunting? Sure, although it might take some time if you are not familiar with HTML and CSS.
+[*]As a game? Meh, there's lot of better ones.
+[*]As a learning method/app/game: Meh, just google for some tutorials.
+[/list]",0,0,4,0.5814889669418335,147
+502210,76561198083736752,"For me, Super Markup Man is an [b]educational[/b] product that focuses mainly on HTML & CSS. 
+
+In the eyes of a gamer, this product will be regarded as: not cool, not fun, or may not be worth the value. 
+In the eyes of a parent or a tutor who are looking to teach HTML and CSS, this will be a rather unconventional method but its not that dry/dull to learn. 
+
+I didn't expect it to have a local co-op option which can make this learning process rather fun. This product will test your basic knowledge on html and css. Aside from that, from a programmer point of view, i can say this is a starting point to develop a basic coding troubleshooting mentality. just a tiny bit on how to sort and re-arrange existing code. Straight-forward 50 levels of gameplay each for html and css section. No bugs. But the song can really irritate you if you play for more than 20 minutes. Same song looping over and over again.",1,0,2,0.54356849193573,220
+502210,76561198047569783,"It's good game for kids from 6-8 years old, to have an introduction to object-oriented programming and to train some logic.
+The Co-Op mode it's also a good feature for parents give some help orienting.",1,0,0,0.5,525
+502210,76561198040957005,"Эта нехитрая игра предполагает собой практику знаний по HTML и CSS.
+
+Как вы все знаете, HTML используется как язык описания любых веб-страниц, хоть бы и той, на которой вы читаете этот обзор.
+В то время как управлять человечком просто забавно и несложно, основное время и силы уходят на решение текущего паззла. Все они состоят в том, что необходимо выстроить все HTML теги так, чтобы результат, на лету отображаемый в специальном поле, соответствовал тому, что задан уровнем. Тут всё достаточно легко -- специальных знаний заранее не требуется, по первым уровням можно догадаться логически, как выстраиваются те или иные элементы, дальше будет постепенное усложнение. Некоторые теги, особенно, вложенные, могут вызвать вопросы у новичков, тогда придётся обращаться за помощью в поисковик. 50 имеющихся уровней проходятся довольно быстро, после этого открывается раздел с CSS.
+
+CSS - язык описания стилей. Опять же, текущая страница вся использует CSS, он отвечает за внешний вид HTML тегов, и именно он делает все сайты, использующие одни и те же теги, ""разными"", на вкус и цвет.
+По игре, CSS уже несколько усложняет работу -- помимо тех же тегов, с которыми вы работали ранее, появится доп. башня с полицейским, который будет переставлять блоки со стилями, поэтому работы прибавится в два раза. Он не имеет ничего общего с HTML, и будет несколько сложно сразу понять, как именно с ним надо работать, если вы ранее таким не занимались. Но, к чести разработчика, сильного усложнения он не допускал, так что теоретически можно пройти эти 50 уровней не имея специальных знаний.
+
+Ценность кооперативного прохождения несколько сомнительна, но, может, я бы посадил за них своим младших братьев, если хотел бы их обучить работе в вебе.
+
+Если кто-то прошёл игру и считает что теперь знает все сайты в мире -- нажмите здесь ПКМ, и выберите ""Просмотреть исходный код"", это будет вашим приключением^^ в реальный мир.
+
+В общем, учиться здесь особо нечему, разве что самому языку, и понимаю работы HTML/CSS. Игра лучше подойдёт как практика в игровой форме, чтобы помочь закрепить уже имеющиеся знания.
+
+А пока я просто поставлю игре палец вверх, идея, как и реализация, заслуживают похвалы.",1,0,29,0.7696724534034729,207
+502210,76561198321538436,"游戏出发点是对html和css的学习。但游戏过程中缺少必要的教学，关卡设置平平无奇（甚至同质化严重），反而无法起到学习的效果。建议作为闲的无聊耗时间的游戏。想学习这俩还不如看网课自己动手写
+（markdown大法好",0,0,2,0.5422842502593994,26
+502210,76561198168997270,"Yes the UI could be better, indeed some puzzles are 'bad',  It's true that the game does not encourage making 'clean' code and you can stack your boxes on top of the other and all these things negative reviews say. But you get to learn the basics of html in small enjoyable logic puzzles that come with really small price.",1,0,1,0.4946996569633484,364
+502210,76561198119652219,"simple and at your own pace, nice hands on intro",1,0,0,0.5,96
+502210,76561198369912374,"Si vous voulez apprendre le html5 passé votre chemin, mais si le xhtml 1.0 c'est votre came alors c'est fait pour vous et votre minitel,
+La gamification en plateformer est inutile est plus chiante qu'autre chose, un format à la scratch avec des blocs logique aurait été plus élégant.
+Les solutions au puzzles ne sont pas multiples, il n'y a qu'une bonne façon même si les blocs sont similaires.
+
+On aura vu mieux niveau puzzle sur le thème de la programmation et de l'apprentissage par le jeu notamment avec Human Resource Machine.
+
+Il y a très peu (voir pas) d'exemples et de cours; pourtant le jeu annonce que c'est un bon moyen d'apprendre le CSS et le HTML... QUE NENI MAFOI! Allez plutôt squatter les forums et les cours sur le HTML en ligne plutôt... qu'est que vous faites encore là à lire cette review !",0,0,2,0.5451654195785522,9
+502210,76561198162684137,"Die Spielidee ist eigentlich ganz cool gemacht.
+Man erstellt HTML Seiten mit CSS-Befehlen und hat zugleich die Vorschau auf der anderen Seite.
+So hat man die Aufgabe, in 100 Leveln eine Mini-Homepage zu bauen und muss dabei eben fertige Befehle verwenden, so wie hier z.B. text <p> <strong> text </br> text text </strong> </p>
+Dabei springt man mit der Spielfigur zu den Bausteinen hin und fügt sie an richtiger Stelle ein. Was das Spiel zu einem Education-Spiel macht, würde ich sagen. So kommen immer mehr Markups dazu, man fügt Bilder ein per Befehl und muss sich immer tiefer in die HTML/CSS Welt einfügen, um auch ja jede Klammer richtig zu setzen. Da es aktuell nur 1,64€ kostet, denke ich, dass man einen schnellen, witzigen, spielerischen Einblick in diese Welt hat, auch wenn man es nicht allzu ernst sehen sollte und es natürlich tausende Befehle mehr gibt als die paar im ""Spiel"". Dennoch für die Idee meine Empfehlung und man lernt etwas dabei, solange man vorher noch garkeine Ahnung hatte.",1,3,2,0.4528522789478302,31
+502210,76561198802437952,"Tolles spiel, perfekt um spielen und lernen zu kombinieren :D",1,0,1,0.49794235825538635,440
+502210,76561198259349111,"เป็นเกมแนวสร้างเว็บไซต์ โดยเราจะต้องเอา block คำสั่งแต่ละอย่างมาเรียงๆกัน 
+เกมนี้มีทั้งโค้ด html และ css (การที่จะปลด css ได้ก็คือต้องเล่น html ให้ผ่านก่อน)
+.
+.
+.
+ถ้าใครสนใจฝึกสร้างเว็บก็ลองเล่นเกมนี้ดูได้ครับ แนะนำเลย
+อีกอย่าง badge เกมนี้สวยมากด้วยครับ https://www.steamcardexchange.net/index.php?gamepage-appid-502210",1,0,2,0.5454545617103577,77
+502210,76561198030905002,"Good game. Suitable for senior citizens like me.
+
+From what I have played so far, the positive points are:
+1. Very tolerant of selection for people with impaired hands;
+2. Visually pleasing;
+3. Slow introduction to a computer topic;
+4. Good feedback on results of HTML formatting.
+
+The only negative point is that I cannot have the required HTML result page and current HTML result page open at the same time.",1,0,1,0.5199999809265137,7
+502210,76561198453836411,"This game is not for you if what you want is to learn HTML. It won't help. It's just basic HTML. So, if you already know HTML, it can get even more boring.",1,0,1,0.49624061584472656,41
+502210,76561198176543294,Superb!,1,0,0,0.5,131
+502210,76561198146300143,я написисал вк,1,0,0,0.5,48
+502210,76561198035788397,Awesome game. Bring on the programming games!,1,0,0,0.5,25
+502210,76561198085778705,"เป็นเกมเรียงบล็อค โดยที่ใช้ความรู้เกี่ยวกับHTML และ การตกแต่ง CSS 
+ถามว่าคนไม่มีความรู้ด้านโค้ตดิ้ง สามารถเล่นได้ไหม ตอบเลยว่าเล่นได้
+เพราะเกมจะคล้าย ๆ puzzle โดยใช้การสังเกตุรูปแบบเอา
+ แต่คนที่มีความรู้ด้านนี้ก็จะได้เปรียบกว่า เรื่องฟังชั่นต่างๆ ไม่ต้องมาเสียเวลาลองผิดลองถูก
+สามารถเล่นฆ่าเวลาได้ดี ตัวเกมลื่นไหล แถม Badges ของเกมก็เท่สุด ๆ",1,0,1,0.52173912525177,148
+502210,76561198253157862,"Как же все уныло,тупа шок.",0,0,1,0.47730693221092224,77
+502210,76561197978902089,"A nice, cheap game with 50 levels of HTML, and 50 levels of HTML & CSS. It doesn't so much as teach you about HTML and CSS, but it definitely helps with making your code cleaner and giving your mind lots of practice to get into the habit of putting code in the right place.
+
+If the average person were to go into this game with zero coding knowledge, I think they would struggle as the game fails to explain what each tag even does. Although it's easy enough to figure out if you like to experiment.
+
+Overall, great game for the price, but it definitely won't make you an expert of HTML or CSS after completing it.",1,0,0,0.5,426
+502210,76561198282763885,"I am eager to learn markup, so yes, I like this game for such reason. I just wish that the game was longer so that one could learn even more.
+
+
+REVIEW UPDATE:
+
+I mistakenly clicked on ""new game"" instead of ""continue"" on the CSS section, and my game file disappeared/got deleted. I was currrently on level 43.
+
+I went directly to the Steamapps/common/Super Markup Man folder to check if I could restore my data, but to no avail, as there was no such remnants of such files. However, I did find a ""solutions"" folder with a ""css-42.html"" file that corresponds to the last level I had just solved.
+
+I feel like any game should allow any user to be able to click on ""new game"" without having their previous game's progress lost. Not only that, most games let you have several game files, and they also warn you before your game information is going to be deleted.
+
+Furthermore, one would think that being able to go back to redo a previous level would be a readily available feature, not in this game.
+
+** LATEST REVIEW UPDATE:
+
+Sunday, November 25, 2018
+
+The developer (Roppy Chop Studios) promptly fixed the issue.
+
+All I have to say is the following: 
+
+""Awesome customer support. I didn't even have to wait a full day for the problem to be solved. Thanks.""",1,1,1,0.5226130485534668,87
+502210,76561198272831585,"[list][list][list][/list][/list][/list] 
+[quote][quote][quote] 
+[list]https://www.youtube.com/watch?time_continue=1&v=lX44CAz-JhU[list][list][list][list][list][list][list][list][list][list][list][list][list][list][list][list][list][list][list][list]
+[table][code][table][/table][/code][/table] 
+[/list][/list][/list][/list][/list][/list][/list][/list][/list][/list][/list][/list]
+[/list][/list][/list][/list][/list][/list][/list][/list][/list] 
+[i][h1]",1,0,0,0.4761904776096344,664
+502210,76561198257585708,"Классная и поучительная игра подойдет для детей.
+Посадите ваше чадо за игру и заодно он нафармит вам карточек на 100р
+и окупит вам игру. (Метод для евреев)
+На самом деле разработчики очень постарались и за это им спасибо.
+PS. Игра реально зачет, не жалейте стольник)",1,0,0,0.5,64
+502210,76561198199680455,Bon jeu pour commencer à apprendre les bases de HTML & CSS ! Je recommande !,1,1,0,0.5,85
+502210,76561198063955609,"大大的“差”字。珍爱生命健康，请不要接触这款游戏。
+
+——————————
+
+原内容：
+《HTML实时模拟器》
+一开始还好，不过却到后面越同质化，第五十关时实在忍不住退了
+
+——————————
+
+后补：
+原来第50关就是最后一关了……汗
+于是接着又玩了几关CSS，感觉……更不推荐了
+CSS新手玩这游戏：起初很有趣，后面很无聊；
+CSS老手玩这游戏：这什么SB玩意儿？
+
+内容同质化严重，关卡逻辑重新；
+不能用鼠标，非常弱智的“用小人搬运标签”；
+而且标签是可以上下重叠到一块的，你要在同一层上上下下找到合适的内容，不知道意义何在；
+同上一条，操作手感极差；
+有些元素位置不对，要全部！全部倒腾一下，……你玩过河内塔么，就是那样，而实际编写HTML或CSS时只要选中——剪切——粘贴——完事；
+一开始的标签是随机散放在各处的，最上面的标签可能在最下面，最下面的括号可能在最顶层；
+总共有六层，永远用不到这么多，除了让玩家更加烦躁，增加无意义的步数，还有别的功能吗？
+
+总之，这款游戏，教育意义差强人意，而且在“玩”的过程中感觉不到丝毫快乐，只会让人越来越气得想摔键盘。
+为了生活平和，请不要接触这个游戏。",0,0,4,0.5833333134651184,111
+502210,76561198395158660,"░░░░░░░░░░░░░░░░░░░░▄████▄░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░██░░░██░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░██░░░░██░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░██░░░░██░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░▄█▀░░░░██░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░▄█▀░░░░░██░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░██░░░░░░░██░░░░░░░░░░░░
+░░░░░░░░░░░░░░░▄█▀░░░░░░░░▀▀▀▀▀▀▀▀▀▀▀██▄
+▄███████████████▀░░░░░░░░░░░░░░░░░░░░░██
+██░░░░░░░░░░█▀░░░░░░░░░░░░░░░░░░░░░░▄▄█▀
+██░░░░░░░░░░█░░░░░░░░░░░░░░░░░░░░░░░░██░
+██░░░░░░░░░░█░░░░░░░░░░░░░░░░░░░░░░░▄██░
+██░░░░░░░░░░█░░░░░░░░░░░░░░░░░░░░░░░▀█░░
+██░░░░░░░░░░█░░░░░░░░░░░░░░░░░░░░░░░▄█░░
+██░░░░░░░░░░█░░░░░░░░░░░░░░░░░░░░░░███░░
+██░░░░░░░░░░█▄░░░░░░░░░░░░░░░░░░░░░▄█▀░░
+██░░░░░░░░░░████▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄██▀░░░
+▀████████████▀░░░▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀░░░░░░░",1,1,0,0.5,73
+502210,76561198428116814,"Думал, стоит ли брать посредственную игру за 49 рублей по скидке.
+Прочитал коммент, что с карточек больше заработаю.
+Купил
+Поиграл минут 10
+Получил железную карту в 2-3 раза дороже игры.
+
+Совпадение? Не думаю.",1,0,0,0.44883814454078674,9
+502210,76561197984015006,This is an awesome way to get into HTML and CSS. My formatting skills were always a little hit or miss and having to check w3schools all the time was meh. This is a neat way to reinforce formatting of differnt tags into functionable code and I really think this game is helpful. I regret waiting so long with this on my wishlist.,1,0,2,0.4922151267528534,85
+502210,76561198142836437,"프로그래밍 해본 사람이라면 다들 한번쯤은 꿈꾸던 ""아 내가 코딩하는게 실시간으로 결과로 보였으면 좋겠다"" 하는 꿈을 이뤄놓은 게임
+
+조작성이나 디자인은 인디 느낌이 물씬 나는 저렴한 감이 있지만
+html이나 css코드에 관심 가져본 사람이라면 흥미롭게 할 수 있는 게임
+
+난이도는, 다들 인터넷 게시판에 글 쓰고 영상 올리면서 html embed 코드 한둘 정도는 직접 만져봤을테니 어렵지는 않을듯
+
+
+단점 : 이건 게임이라기보다는 교육용 튜토리얼에 가깝다",1,0,1,0.523809552192688,84
+502210,76561198028193995,"This game kind of teaches you how to display elements using HTML and CSS but it is more like practice. It will definetly help you remember some things if you are rusty. BTW, self-study is a good way to learn something so don't get mad at this game just because you can't put that you beat it on your resume.",1,0,3,0.5669291019439697,224
+502210,76561198342488194,我也不知道当时我为什么买这个游戏，就是很简单的，很简单的html，具体说来，很无聊，不要买2333333333333不过价格似乎不贵？（买的时间太长了，忘了）。总之，觉得没有特别的地方，给好评只是因为这本来就是个很小的游戏。,1,0,3,0.5605858564376831,83
+502210,76561198201484630,"Если мне понравилась какая-то игра, то в память о ней я делаю значёк.
+Однако карточки с этой игры стоят настолько дорого, что я и так запомню эту игру на ценам.
+Ну а сама игра игра очень полезная и классная, только иногда хочеться чтобы человечек быстрее двигался ото большие коды собирать вообще ужас",1,1,0,0.5,80
+502210,76561198189998501,"Хорошая игра, Помимо карточек на 200 рублей дает какие-никакие начальные знание html+css.
+Может быть полезно так для будущих так и настоящих верстальщиков.
+Местами скучно, но радует бесконечный режим.
+10 div`ов из 10",1,0,3,0.5191263556480408,24313
+502210,76561198074889989,还不错,1,0,0,0.5,63
+502210,76561198204313092,"представление что такое кодить сайты она даст, геймплей тут хромает просто бегаешь человечком и таблички туда сюда, но все же достойна что бы просто поиграть, нужно знать хотя бы базовые теги html иначе будет трудно.",1,1,4,0.5145366191864014,3833
+502210,76561198369572636,Tripiante!,1,0,1,0.523809552192688,66
+502210,76561198027137940,"While not the most exciting game, it is very helpful with learning the syntax for HTML.  I would love to see more titles, Python or C++ would be cool.",1,0,17,0.699519157409668,46
+502210,76561198200590594,跳你妈嗨！,0,1,0,0.4566929340362549,32
+502210,76561198101072178,this and codeacademy go together well. It just helps you memorize the format of the code.,1,0,1,0.5205479264259338,165
+502210,76561198168378087,buen juego pero jode un poco que tienes que hacer exactamente el orden que ya tiene el programa como definido...,1,0,2,0.540229856967926,75
+502210,76561198201330466,"Richtig gutes Spiel zum Lernen von HTML/CSS.
+Leider funktionieren die Achievements nicht :(",1,0,0,0.5,322
+502210,76561198055089474,"As someone who is already very familiar with both HTML and CSS, I bought and played this game purely so I could review it, and possibly recommend it to friends who wanted to learn. I will not be doing the latter.
+
+This game is honestly a really bad way to teach anyone HTML or CSS, due to both the way it tries to teach and the way it plays as a game.
+
+The game doesn't attempt to explain anything regarding what tags do, and how they should be used. It simply tosses them on the screen and expects the player to arrange them properly. In a way this is fine if the player is someone who learns better by trying to figure things out for themselves, but further issues ruin that potential. 
+The player is never expected to type anything, instead all that they do is move blocks with words and tags around. This too would be fine, if it weren't for the fact that you can place blocks on top of each other in odd fashions that muddies the flow of the HTML so its difficult to understand what should be displayed. Furthermore, you can place the tags anywhere instead of the game encouraging any kind of neat arrangement.
+[code]<strong>             text
+               </strong>[/code]
+This would result in a success even though all the tags are scattered about. This kind of arrangement is not a good thing to teach. To make it worse the game makes a point of saying it's trying to teach the proper way of doing things.
+
+Now as to why it's a bad GAME aside from being an educational tool. 
+The UI and visuals are absolutely rubbish. The game should be displaying both the page preview and the goal at the same time, rather than the player needing to switch between the two. Additionally, the 'hints' should just be displayed all the time, as they're often information the player should know regardless of trying to work out the puzzle.
+The gameplay is also tedious and irritating. You have to jump around the screen picking up and dropping the blocks, when simply dropping and dragging with a mouse would have been much more sensible and less pointlessly time consuming. Even worse, if you drop a block on top of another, it can become difficult to pick up unless you position the character correctly.
+
+Overall, don't buy this. There are better ways to learn and teach HTML/CSS.",0,2,80,0.8278529047966003,16
+502210,76561198310185321,"实际玩了2个多小时（其余时间是挂机），HTML和CSS都通关了，确实比较简单。
+最主要缺点是重复性太高，而标签太少，没有增加多样性丰富内容，而只是通过混乱的标签排布和小人蹦跳耽误时间。尽管个别css关卡还是有一点可以思考的东西。
+另外成就也有问题，那个免费试玩30分钟一点意义没有， quick code完成了却不同步。
+
+给好评是鼓励更多寓教于乐的“游戏”出来，如果有各种编程语言做成轻松的游戏就好了。",1,0,3,0.5637806057929993,510
+502210,76561198009388791,"The basic idea for the game is you have a series of platforms and some html tags (bits of css later) that you have to rearrange so that the html/css renders a certain way. The platformmer mechanic gets kind of annoying but I will say I had fun playing through some of the levels so I was able to power through. The look and feel is is pretty plain but I don't think it seems tacky. All in all, I'd say it's worth the price ($3.99 at the time of this writing).",1,0,1,0.5076726675033569,184
+502210,76561198330017085,"Ci sta, per per i pochi spicci che bisogna spendere gioco simpatico",1,0,0,0.5,10
+502210,76561197972391440,"HTML&CSSの構造を遊びながら学べます。
+模範解答と同じ画面になるように、ブロックを入れ替えてコーディングしていきます。
+
+模範回答と、現在の状態がトグル式なのがちょっと見づらいです。
+終盤になるとブロック数も多くなってくるので、思うようにつかめなくてイライラするかも。",1,0,3,0.5634920597076416,105

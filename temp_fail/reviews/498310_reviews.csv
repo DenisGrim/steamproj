@@ -1,0 +1,250 @@
+app_id,user_id,review,does_recommend,funny,helpful,weight,playtime_at_review
+498310,76561198749947657,This dude made a game bye himself. For other people to make very cool games with very little effort. I love you Justin,1,0,2,0.523809552192688,4853
+498310,76561199733953556,"If you've ever wanted to make a game, but got discouraged because of the steep learning curve involved, RPG in a Box is a great starting point!",1,0,0,0.5,26701
+498310,76561198972381847,"Движок предлагает множество возможностей из коробки и по началу кажется, что это отличный инструмент для разработки игр, но потом выясняется, что всё сделано криво, неудобно, очень многое нельзя поменять, даже цвет текста в меню настроек, что странно. Спрашиваешь на их форуме - ноль внимания, фунт презрения. Годами висят темы без единого ответа. Думаешь: окей, я просто попытаюсь оставлю те части, которые не могу модифицировать. И вот, когда готов смириться с неудобствами, начинают вылезать баги. Даже в самых элементарных вещах, как например примитивный бой уровня платформеров на Спектруме: анимация смерти врагов то работает, то не работает, они то исчезают с карты, то не исчезают, зависая на рандомном кадре, от настройки удаления врагов с карты ничего не зависит: этот хаос творится независимо стоит галочка или нет, опыт за убийство мобов то добавляется, то нет, чаще нет, и так далее. Ничего не работает как надо. Оптимизацией тоже и не пахнет, графика которая в тысячи раз слабее чем в Майнкрафте жрёт ресурсы как будто это AAA от Юбисофт, похоже это не воксельная графика, а полигональная, тупо замаскированная под воксели, каждый псевдо-воксель накидывает по шесть полигонов, и каждый полигон рендерится безо всякого окклюжн куллинга. Лучше взять настоящий Годо, а не этот кривой кусок от Годо в версии столетней давности.
+
+UPD: Я изменил свое мнение, потому что разработчики активно обновляют программу и следят за реакцией пользователей. Как видно, даже за русскоязычными комментариями. Программа по-прежнему довольно сырая, но я увидел с каким энтузиазмом ее доводят до ума и понял, что ошибся в своем первом впечатлении. В перспективе это превосходный инструмент для создания видеоигр, а разработчики настоящие энтузиасты своего дела",1,0,0,0.5,1864
+498310,76561198708259010,"needs controller support and on some games I played there's dodgy controls / point and click is terrible for movement and no diagonal movement. first person is also lacking smooth controls. seems to lag on all control methods so far. screen position is a little weird, but that may have been due to my other laptop with low res. But this is a very good game maker, its simple and the tutorials are really good. My favorite part of this maker game is the UI its so friendly and easy to navigate when you get used to it. I have ASD and Dyslexia so it takes me a bit longer to get used to programs, i'd recommend this to anyone wanting an easy and user friendly experience but it does need a better control system. My other favorite is the box preview of your game. I think the makers of this have a retro heart and obviously love this type of experience as do I. I bought this in the sale and at the moment I would be disappointed paying full price without a really good control system. But with future updates this review would be obsolete.",1,0,2,0.5287008881568909,8
+498310,76561198375699656,"BTW: Z tego silnika korzystałem od dłuższego czasu na Epic Games Launcher więc nie zwracajcie uwagi na czas używania Steam.
+
+RPG in a Box ma spory potencjał, ale również sporo braków. Sam język skryptowy w nim używany (Bauxite) ma dziwną składnię, a wizualne programowanie działa jak w większości silników i zajmuje sporo miejsca na ekranie w przeciwieństwie do kodu. Na wiele rzeczy nie ma się wpływu i są ""hardcoded"", bądź są mało dostosowywalne (dobrym przykładem są Widgety).",0,0,0,0.5,59
+498310,76561199229454449,ai,1,0,1,0.43871864676475525,1207
+498310,76561199510615694,w game maker.,1,0,1,0.5094339847564697,1093
+498310,76561198736171254,"this is really good! I know it can seem overwhelming at first, but as long as you just take a better look at it, you can get really creative with it! also, I'm glad they made it so that you can have custom loading screens, I enjoyed that. the only part I don't really like is the image maker, because if I want to make some custom sprites for loading screens and such, I have to use a weird system of making a new item to make the custom image, and I just find that part a little frustrating, so if there was just an ""image maker"" part of the engine, I'd really appreciate it.",1,0,1,0.5094339847564697,2645
+498310,76561199032313762,"its perfect
+",1,1,2,0.523809552192688,17024
+498310,76561199210287329,it is a good thing to use for making RPGs (it is in the name lol),1,1,0,0.5,1509
+498310,76561198883988987,Is good. Very good yes good.,1,0,1,0.5,76127
+498310,76561199023476842,Been using the Epic Games version for almost 3 years now to make my game. It's nice to have it here on Steam!,1,0,3,0.5258527994155884,49
+498310,76561198181312177,"Rpg in A Box macht es dem Rpg maker vor, wie es hätte sein Können wenn man nicht absolut Geldgeil ist denn hier bekommt man für einen Fairen preis ohne Dlc Politik die Changse ein wirklich tolles Spielerlebnis zu Kreieren... ich bin umgestiegen von rpg maker zu Rpg in a box und sehr zufrieden mit meiner Entscheidung , da es einfach das Bessere Tool ist.",1,0,2,0.5326409339904785,9
+498310,76561199553822042,"Ive heard lots of negativity about RPG in a Box, about Being limiting and Only for small games But those Claims are WRONG. RPG in a Box doesnt make you a perfect godlike  game dev by opening it you still have to Learn how things work to make Things, You cant just say its ""Limiting"" because you didnt take time to learn how the Engine works. RPG in a Box is an Incredible tool for making games, Its not just made to learn how start making small games, Its made to be Easy to learn while still being able to make larger games. The only part of the Engine I would call Limited is the Movement but Movement was just added in Recent updates so its to be expected. I love this engine And think its great for making games for Beginners trying to start making games and For those Trying to make Bigger games, Its filled With Quality of life improvements to make making games as Easy as possible.",1,2,11,0.6150919795036316,76770
+498310,76561198367471798,"RPG in a Box is a thoughtfully designed creation suite that blurs the line between game and engine, offering an inviting yet capable space for building complete interactive worlds. Developed and published by Quercus Quag Software, it aims to remove the intimidation often associated with game development while preserving enough depth to reward curiosity and ambition. Rather than presenting a blank, code-heavy canvas, it provides a cohesive set of visual tools that let creators focus on ideas first—worlds, stories, systems—and worry about technical complexity only when they’re ready.
+
+The first thing that stands out is how self-contained the toolset feels. RPG in a Box includes an integrated voxel editor that allows creators to sculpt characters, props, tiles, and environments directly inside the application. This immediacy is empowering: you can model an NPC, animate it, and place it into a scene within minutes, without juggling external programs. For users who already have assets, importing voxel files is straightforward, and the option to render voxels using smoother marching-cubes techniques broadens the visual range beyond rigid blockiness. The result is a flexible aesthetic that can feel playful, retro, or surprisingly atmospheric depending on how it’s used.
+
+World-building flows naturally from asset creation into the map editor, which supports both grid-based layouts and more freeform spaces. Designing environments is tactile and intuitive, encouraging experimentation rather than rigid planning. You can quickly prototype towns, dungeons, or abstract spaces, populate them with objects and NPCs, and immediately test how they feel from the player’s perspective. Multiple camera styles—top-down, isometric, and first-person—are available and easy to configure, making it possible to explore genres beyond traditional RPGs, from dungeon crawlers to exploratory narrative experiences.
+
+One of RPG in a Box’s greatest strengths is how it approaches logic and interactivity. Instead of requiring code from the outset, it relies on a visual, node-based scripting system that lets creators define behaviors, triggers, and events by connecting actions together. This approach lowers the barrier dramatically for beginners while still allowing for surprisingly complex interactions. Quests, puzzles, environmental reactions, and conditional events can all be built visually, and for users who want more control, a lightweight scripting language is available to extend functionality. This layered approach ensures the tool grows with the creator rather than overwhelming them upfront.
+
+Narrative design is another area where the software shines. The dialogue editor uses a flowchart-style interface that makes branching conversations easy to visualize and manage. Choices, conditions, and outcomes are clearly represented, allowing writers to focus on pacing and consequence rather than technical constraints. Combined with variable tracking and conditional logic, this system supports nuanced storytelling where player decisions can meaningfully influence future interactions, even in relatively small projects.
+
+Combat and gameplay systems are similarly flexible. RPG in a Box supports multiple combat styles, including turn-based and real-time approaches, and these systems can be customized rather than locked into a single template. Inventory management, items, stats, and abilities are all configurable, and the UI editor allows creators to design menus and HUD elements that suit their game’s tone. The inclusion of a built-in sound effect generator further reinforces the “all-in-one” philosophy, enabling creators to add audio feedback without relying on external tools.
+
+What makes RPG in a Box particularly appealing is its encouragement of experimentation. It feels less like professional software demanding a finished plan and more like a creative workshop where ideas can be tested quickly. Many community projects demonstrate how far this flexibility can stretch, ranging from classic JRPG-inspired adventures to experimental first-person narratives and abstract puzzle experiences. The software’s design actively supports iteration, making it ideal for learning, prototyping, or even completing small to medium-scale indie games.
+
+That said, RPG in a Box is not trying to replace large-scale engines built for commercial blockbusters. Performance, graphical fidelity, and ultra-complex systems are not its primary focus, and creators aiming for massive worlds or cutting-edge visuals may eventually feel its limits. However, these boundaries are clearly defined, and within them the tool excels by offering clarity, cohesion, and creative freedom without technical overload.
+
+Ultimately, RPG in a Box succeeds because it respects both beginners and experienced creators. It provides a gentle on-ramp for those new to game development while still offering enough depth to keep seasoned tinkerers engaged. Its greatest achievement lies in how it reframes game creation as a playful, exploratory process rather than a purely technical one. For anyone interested in building interactive worlds, experimenting with mechanics, or telling stories through games without wrestling with heavy engines, RPG in a Box stands as a remarkably complete and welcoming creative environment.
+
+Rating: 8/10",1,0,4,0.5505004525184631,884
+498310,76561198109518753,❤,1,0,1,0.5,2651
+498310,76561199511617829,yea its ok i guess. I don't actually do anything which is a problem lol i really need to use it,1,0,1,0.4961831867694855,712
+498310,76561199489898106,Really fun to  play/make RPGs!,1,0,1,0.5,337
+498310,76561199471628486,Cool so far but sorta limited,1,0,4,0.5615696907043457,80
+498310,76561197982880626,Actually has a ton of flexibility to make a vision work.,1,0,1,0.5,258
+498310,76561199243779127,nice for beginners,1,0,1,0.5,2154
+498310,76561198831460366,"I like how easy it to make models with this, and how many different ways you can put voxels, but I personally dislike the voxels only being able to be one color for all sides, (unless they can have multiple colors per side and I don't know how to do it.) The world editor is cool, and since I don't code or use it to make games I don't know what to say about the scripting. _            _
+                                                                                                 \_( :| )_/",1,0,0,0.5,51672
+498310,76561199526181004,"I have a bug, and sense I use auto login, I cant submit a bug report, please help. My UI scale is set to 2 and now I cant lower it bc the settings button is offscreen, I dont have any files anyway, so please just reset all my account data.",1,0,0,0.5,1630
+498310,76561198095579546,"honestly a fun little game creation tool had good fun creating few little fun games (look up ""As Yet Untitled Horror Game"" in the workshop......shameless plug lol)",1,0,4,0.5348836779594421,9024
+498310,76561199181589466,Great piece of software so far. I am curious about the multiplayer part. I hope it will be implemented next. Thanks to the devs for making this.,1,0,2,0.5,551
+498310,76561198037905426,"Honestly The Game Is Good, I Would Recommend Using The Demo First To Agree And Get The Basics, But Then It Is Just Generally Fun And The Editor Is Easy But It Is A Good Game Overall, This Game Is Not Free, And I Didn't Receive This For Free.",1,0,1,0.4655870497226715,1609
+498310,76561198431043357,PEAK,1,0,1,0.5,25608
+498310,76561198116682082,Better than rpgmaker thats for damn sure. WIsh they'd open up the Godot guts more for pro elite developers like me,1,0,4,0.48441049456596375,12
+498310,76561198181474903,"RPG In A Box makes developing games really fun! The flow is great, the UI is extremely easy to understand, and the fact it has its very own built-in voxel model editor is a massive boon. There is a lot of passion behind this engine and you can definitely tell. The developer has done a great job and has so many more amazing things planned for the future. Give it a shot!",1,0,5,0.5430579781532288,828
+498310,76561198061619329,Its awsome you can make amazing games with it,1,0,1,0.5,7662
+498310,76561198143436760,"Ganz nice eigentlich, aber was mich stört ist a) man kann nur bis maximal 32x32x48 große gegenstände erstellen, b) kann man nur in einem sehr groben gitternetz sachen auf der map platzieren und c) es stürzt sehr oft ab.",0,0,2,0.47716426849365234,654
+498310,76561199076485594,"peak
+",1,2,1,0.5,916
+498310,76561199090729158,"It's a good engine. I've personally never finished anything but experimenting with it shows me that, knowing enough, you can making something good with it. I bought it ~2-3 years ago when it was £20 and I thought that was a good price. £40 is a little to steep in my opinion and I'm glad I bought it when I did.",1,0,2,0.5117062926292419,490
+498310,76561199516507877,"Great
+Fun to use",1,1,3,0.5454545617103577,7687
+498310,76561199258444339,"Wow, that was really cool. And is stumpumpy looking kinda T H I C C.
+",1,2,1,0.5023603439331055,2278
+498310,76561199138274862,"If you're new to game design, or just a fan of retro style game design. This is the app for you! Especially since the Steam version has a workshop for games and models to explore!",1,0,3,0.5023603439331055,552288
+498310,76561199471487417,"I've been using RPG In a Box for a few years now.
+
+And can say, that it is one of the best engines I have used.
+
+It's very simple to learn, yet can also be used to create complex games. It's very easy to pick up, and has an amazing community for if you need help!
+It's also very inspiring how much work is put into it, and am looking for 2.0!",1,0,5,0.5600178241729736,9694
+498310,76561198335410648,"J'ai eu RPG In A Box gratuitement sur Epic Gmes il y a plus de 2 ans et je n'ai jamais réussi à décrocher, tellement c'est un moteur de jeu facile d'utilisation et accessible. J'ai décidé de l'acheter sur Steam, car je voulais profiter de toutes les fonctionnalités, mais aussi pour encourager le seul et unique développeur Justin Arnold, qui a fait un travail titanesque pour nous donner un contenu de qualité et il est aussi très agréable de le voir actif et à l'écoute de sa communauté. J'aimerais aussi remercier sa femme Sarah qui est une belle personne et très cérative et d'un grand soutien. Merci à vous !",1,0,5,0.5652173757553101,2628
+498310,76561198014196943,"I've been making games as a hobbyist for over 20 years, and recently was recommended to try RPG in a Box.  I have to say, I love this.  This was exactly what I was looking for.  It's surprisingly easy to use and surprisingly versatile.  It's something that could be fun for kids to play with, and fun for older adults like me to play with.  Can you make a commercial game with it?  Probably ... if it's for people who like quirky old-school games.
+
+What I love is the ability to literally draw the walls and floors with pixels, and create my own objects if I want to.  I love that I don't have to make the art in another program and port it in, but can just simply use this.  I love that it's not a base program with hundred of dlc art sets.  I was looking for something simple and fun to use, and that's what it is.
+
+How much do I like it?  I got this for free through another game store, and liked it so much, I came over to steam and bought it here just to give support to the dev.",1,0,17,0.6588980555534363,31
+498310,76561199507052422,"I appreciate the work that Justin is doing for this project. This is a really fun and easy tool to develop games. It's not really meant for creating a ""big"" game right now but who knows what will happen in the future.",1,0,4,0.5023603439331055,632
+498310,76561198085084970,"Let me preface this with a few things that I think are important when you are reading this review, but also the other reviews on here. 
+1.  I have used this software, Unity and RPG Maker.
+2. I have not published a game (as of yet) and probably most of the reviews on here have not either.
+3. I do not know how to script/code. Only visual scripting. 
+
+Now that that's addressed I can tell you why I enjoy this software, why some of the negative reviews may be a bit off, and why I recommend it to others.
+
+Firstly this software has a lot of strengths. Of the ones I have used (as prior mentioned), this one is by far the easiest to pick up. If you are a solo dev, or an indie dev with a taste for low poly, this software nails that beginner niche hard. You just jump in and start making things. The toolset is fairly straight-forward and the software features an ""in game"" documentation/wiki so you can search keywords to things you don't understand and look for explanation. The Dev has also included a tiny ""emoji"" of himself in the top right corner that can be dragged and dropped onto 75-80% of the menu items that explains what they are and what they do when he is placed on them. The software also includes visual scripting, and script examples so you can assess by looking at the nodes what does what. While the software does have some limitations with 'scaling' and other minor mechanical limitations, you will find there are surprising work arounds for these limitations all within the tools if you get creative enough.
+
+Contrary to what some negative reviews have stated, the dev is relatively active in the community. He frequently engages on the Reddit page and on his website forums; and mind you, this is mostly just ONE guy working on this thing. When I check back a day later and see he replied to me an hour after my posts, I am always very surprised he even had the time for me. One review mentions the discord being deactivated, this is a half truth, the one the dev ran was deactivated, but a new one was created a while ago that is ran independently of the developer because it became to difficult to also manage it on top of everything else. And while I do not use the independent discord personally, it IS currently active.  
+
+New things are being worked on and added all the time. The developers work ethic on this software is nothing short of inspiring. I can't believe how fast he can crank out decently big updates for supported platforms (Steam, IO, Epic). Since I've joined a few weeks ago, some pretty big updates dropped. Of them, my favorite is the included ability to upload files from the software BlockBench, which allows for a mixed medium of different styles of assets. You can make blocky, low or even high poly, 2D. You can make a platformer, a horror game, top down, an isometric, a shooter, a slasher, a turn based. The tools in this thing (while having some limitation) are extremely varied. 
+
+Let me end this by saying I am a busy man. I work, I'm a dad, I don't have a ton of time to devote to my dreams of game creation. But if I EVER publish a game. It WILL BE with this tool. There is nothing simpler and easier to use than RPG in a box. Nothing more streamlined. You can argue for higher complexity and advanced scripting, go use Unity or Unreal then. But if you want simple? You want something easy to use/learn? This is the software. End of.
+
+If you want to make something small, something indie and you can't figure out how to do it with RPG in a Box? I'm sorry, game development might not be for you because it doesn't get any easier than this and that's a hill I am willing to die on. 
+
+
+Justin you have an incredible tool here. You should be proud.",1,0,10,0.6000970602035522,4871
+498310,76561198028905387,"This recaptured the magic of exploring story ideas from when I was a kid in the 80s playing with Adventure Construction Set. It's great to be able to create a low-fi retro type of game with modern conveniences (3d space, voxels instead of pixels) without having to create all the mechanics from scratch, or being boxed into a specific RPG style. Highly recommend for anyone who has a story to tell and doesn't want to spend all of their time reinventing the wheel or attempting to compete with AAA production values.",1,0,3,0.5,1768
+498310,76561198052374805,"I've used this software non-stop for about a month now (hundreds of hours) trying to build a quality game and absolutely CAN NOT recommend this engine to anyone other than tinkerers and hobbyists who want to explore game dev but don't expect much out of it.  
+
+The developer closed his discord before I actually bought the software and only has a forum (in 2025? yes a forum) for support/suggestions/etc. I shouldn't list support because you won't get much of that.
+
+ I've received zero support replies from the actual developer after multiple support requests to address current features that don't function as they should. One of my support requests is 28 days old and not a single reply. I've been told by someone in the community who runs his own discord for RPGiaB that the tool was never meant to be a professional engine.  The developer clearly wants to dev and make the money but don't want to do the other tasks necessary to run a software business. This is a hobby/passion project. If you want to support that, fine. But I bought this to make games to resell and unfortunately it isn't at a minimum caliber create something professionally.
+
+The biggest issue (out of countless) for those looking to use this for development is that when you export your exe.. it also runs a command prompt with the software that shows all the script errors that is both from your code and the engines behind the scenes issues. Out of the hundreds of steam games I own.... none of them have a command prompt running besides them. One user said they specifically received negative feedback because their customer thought the dev was hacking their pc. 
+
+The other big issue is that all of your assets will be compressed into two files. So if you have gb's worth of content from audio/music/models.... good luck with that single file loading.
+
+The developer seems to have feature creep and just keeps sprawling development with shiny objects but the current features have issues everywhere and the documentation is mediocre at best.
+
+As much as I wish I could continue using RPGiaB to develop on, it's nowhere near where it needs to be to have a minimal viable product to resell. The amount of effort to make things happen with scripting hacks to get around limitations is just too enormous. 
+
+If you want to tinker or just want to play around with a game development toy, this may be for you.",0,11,114,0.7112663388252258,21891
+498310,76561199069337922,"Idk what i expected from this game/app, but it wasnt this. Kinda a waste of money",0,1,3,0.4445548951625824,46
+498310,76561199231889796,"This engine is super easy to use and I know someone whose 12 and makes games with this software, I highly recommend this software. Take my word and everyone else's.",1,0,6,0.5230627655982971,12433
+498310,76561198132516216,"Fajny, intuicyjny program do tworzenia gier. Chociaż w nazwie ma RPG nie ogranicza się tylko do tego gatunku gier. Stworzysz w nim grafikę, sfx, muzykę oraz połączysz wszystko skryptami drag and drop dla mniej doświadczonych albo w edytorze tekstowym. Projekt ciągle się rozwija i co kilka miesięcy dodawane są nowe funkcjonalności. Co najważniejsze, jest bezpośredni kontakt poprzez forum z twórcą programu, dzięki czemu w przypadku błędów, pytań bądź potrzebnych dodatkowych funkcjonalności można to wszystko zgłosić i w miarę możliwości propozycje/błędy/zmiany implementowane są w kolejnych wersjach. Polecam szczególnie początkującym twórcom gier.",1,0,2,0.5023603439331055,299
+498310,76561199194763069,easy to understand dev tool for beginners. Recommended,1,0,2,0.5,72873
+498310,76561198067445036,I like creating voxel scenes with this tool!,1,0,1,0.5,18522
+498310,76561199199620842,"wow, that was pretty cool",1,0,2,0.47309747338294983,915
+498310,76561199439387756,it's a good game engin i like it so much!,1,0,2,0.5,472
+498310,76561199850839244,good,1,0,2,0.4968990683555603,1336
+498310,76561199014947737,"This Software is very easy to use.For me it only took around a week to learn but it was worth it, i really recommend this software if you want to make a game/s.",1,0,0,0.5,11778
+498310,76561199499277791,"simple yet complex. it let's your imagination run wild and is just a great way to let you make a knock off vertion 
+of mario rpg. what more could you ask for?",1,0,0,0.5,2889
+498310,76561199802635715,A very fun to use game engine. Would recommend for coding beginners.,1,0,2,0.5,6178
+498310,76561199367639153,"Meu aspecto favorito do RPG in a Box é a facilidade com que você pode criar personagens, objetos e ambientes, cada um com scripts e animações personalizados. A possibilidade de se configurar  [i]attach points[/i] para adicionar efeitos de partículas durante o desenvolvimento ou equipar armas/armaduras dinamicamente no jogador durante o jogo é impressionante. Eu simplesmente adoro essa ferramenta!
+[hr][/hr]
+My favorite aspect of RPG in a Box is how effortlessly you can create characters, objects, and environments, each with custom scripts and animations. The ability to set up attach points for adding particle effects during development or dynamically equipping weapons/armor onto the player mid-gameplay is mind-blowing. I just love this tool!",1,0,1,0.5,11638
+498310,76561198126842746,"I have barely even scratched the surface with the program. I moved from rpg maker, I am already loving the abilty to make what ever I want within reason. I say within reason not in a bad way. RPG In A Box has its limits. Like making a door with a proper keyhole with voxels/marching cubes. Have fun. Some things do not work. Is this a bad thing? Heck no!!! It's voxels. Voxels have limits. I did not know this until now. Despite this minor set back. I am having fun making my own models my way. No longer am I stuck to a single tileset thanks to rpg maker. Also if you are on the fence about getting this gem because it uses voxels, I feel you. I myself am not a huge fan of them either. But thanks to Rpg In A Box voxels are growing on me. If you are also on the fence about getting in to 3d model making like me. since it is a hard process. Rpg In A Box make it stupid simple.",1,0,1,0.523809552192688,874
+498310,76561199625898909,Fun way to make RPG games.,1,0,0,0.47309747338294983,248
+498310,76561198904304485,"If you want to start on your journey of making games, there is no better place to start then RPG in a box. its very simple to use and has many other creators on the forum who are willing to help if you need help with something. Justin (the creator of Riab) is very active and will answer most things you say. scripting will take a little longer to learn, but for everything you need to know, just take a look at slayers tutorials on youtube. while the combat as well as some other things are a little barebones, they are still being worked on and updated.  5 stars",1,0,5,0.5580110549926758,21695
+498310,76561198157979804,"It is really a great engine, I absolutely love everything about it, quite frankly you do have to know how each tool works. I just wish it had Steam Cloud support, but unfortunately I was forced to factory reset my computer, unable to backup the files at the time when I was stuck in a blue screen loop, I have completely lost everything as a result. I honestly think it's a great tool for beginners without needing to code, but all it takes is one little mistake to mess everything up.",0,0,5,0.29469406604766846,4981
+498310,76561199589558669,Easy to make games with!,1,0,0,0.5,68830
+498310,76561199700257372,"cant export all in one, still really good",1,0,0,0.5,2208
+498310,76561199124410605,Good software,1,0,0,0.5,4012
+498310,76561198207058007,"Very cool! Has a load of potential!
+
+I wish I had a big enough attention span to finish anything tho.",1,0,1,0.5,5805
+498310,76561199171376047,Really good to make fun games with,1,0,0,0.5,1480
+498310,76561199767637271,Je pense que ce jeu est vraiment super pour crée des jeux je vous le conseille vivement,1,0,2,0.5454545617103577,1639
+498310,76561199452754770,"I have 1,2,3 hours right now buy this and get 1,2,3 hours or your a ♥♥♥♥♥",1,0,0,0.5,7437
+498310,76561198069328152,"Was soll ich sagen, das Programm ist echt schön vielseitig und der Hammer. Man kann einiges damit anstellen. Gerade der voxel editor macht echt viel Laune und man kann sich schön ausleben (würde aber trotzdem in Kombination magicavoxel nehmen, ist von der Bearbeitung her ein wenig besser). Die Optionen für den Export und Import sind gut, wenn auch nicht optimal umgesetzt (Unterordner). 
+Die localisationseinstellung ist schlicht gut und Funktionabel (um das Spiel automatisch übersetzen zu lassen).
+
+Die Assets, die beigefügt sind, sind gut und man kann diese schnell anpassen oder erweitern.
+
+Der Soundeditor ist mir noch ein wenig rätselhaft, kommt aber bestimmt noch. 
+
+Der Effekteditor ist sehr gut, dort kann man diese nach seinen Wünschen anpassen.
+
+Die Möglichkeit, das Spiel auf Windows, mac und Linux zu machen UND nach all diesen Systemen zu exportieren ist grandios und funktioniert super!
+Ich persönlich benutze es auf Linux und habe nur sehr selten abbrüche.
+Man braucht ein relativ stabiles und nicht schwaches System, da sonst die CPU zu viel benutzt wird und es zu einer Auslastung kommt.  Dazu aber weiter unten.
+
+Der Programmierer Justin ist in der Community sehr aktiv und engagiert. Das gilt auch für seine Frau Sahra. 
+
+kann man viel Ein paar kleine Wermutstropfen gibt es leider. 
+- Performence ist bei größeren Maps leider etwas schwierig
+- teils ist, wenn man die Assets macht und diese dann als Mesh ausgibt im Testspiel etwas sehr leistungshungrig, was zu FPS Einbrüchen führt.
+
+Hier wünscht man sich ein wenig Nachbearbeitung in Sachen Optimierung, was aber erstmal nicht weiterhin schwierig ist.
+
+Alles in allem ein empfehlenswertes Programm, welches mit liebe und Zuversicht von nur einem Programmierer, mit der Unterstützung seiner Frau realisiert wird und dies gut!
+
+Hoffe es hält sich weiterhin so und kann noch mehr Menschen überzeugen!",1,0,3,0.523809552192688,1822
+498310,76561198811697539,"RPG in a Box is actually amazing, it has some limitations in size multiple size variations being put into maps and some other small things but I've learnt and made some pretty cool games with this thing, it is very beginner friendly, I like the little pictures on the side of things like each editor has it's own little system, overall I 100% recommend this program, and the full version is a steal in my opinion but the free version works great too!",1,1,2,0.520348846912384,8048
+498310,76561198003694182,"I am very much a hobbyist game dev. I have tried many systems in the past and never got very far in development. This system really makes me feel like I can finally release a game and make my mark (likely small, but still MY mark) in the game dev world. It is very intuitive to get started and seems like it has the tools to make some more complex games. The in system voxel editor makes creating new assets easy and there are already a bunch of assets you can import to your project if you are artistically challenged (like me!). If you are a full time employed and just generally busy person like myself, this is a great system for you to finally commit to making something. Take the plunge, you won't regret it.",1,0,5,0.5928593277931213,314
+498310,76561199125455928,"This is a really good program for making games, making Voxel art, etc, I would absolutely recomend it.
+
+Tip: If you're having lag even with almost nothing in your project, turn off ambient occlusion!
+
+Please add a feature so that Party members can follow behind you🙏🙏🙏",1,0,0,0.5,795
+498310,76561198002201392,"I can tell I'm going to sink TONs of hours into this. Looks super active, with a clear and most importantly exciting roadmap, and plenty of video tutorials online. 
+
+This is the most excited an engine has gotten me (a complete beginner in game making), with built in dialogue and quest systems too (would love some documentation on the quests please!), I can't even fathom the amount of hard work and love that's gone into this so major props to Justin and the team - I really hope I can publish something using this one day!",1,0,1,0.5,204
+498310,76561199066805845,"This software is fun and easy to use. and I see it as a good way for enthusiasts to learn more about game design. The skills and concepts learned here will carry over to other engines, so it's a great starting point on anyone's journey to learn game design; even old crusty dudes like me. It's well worth full price.",1,0,1,0.5,447
+498310,76561197993342803,"My 12y old son has been making games with RPG In A Box for years now. And I finally bought a full version for myself to help him out and build some of my own games (I'm using it on a Linux PC). This tool is incredibly approachable and fun to use. The mix of visual code editor and syntax editor really takes the ease of use up a huge degree. It's so nice to see everything all in one place for building a game. We've made adventure games, tower defence games, resource gathering games and more. I'm currently trying to build a sim-city style game. Really a lot of flexibility.
+
+If I could mention one earnest suggestion - documentation is the weakest part of this tool. The Help content is very brief, doesn't give enough examples of actual code implementing the thing being documented, and the depth of the documentation just doesn't go far enough to keep us from having to constantly scour the Discord and Forum (the addition of the Forum was a huge help). A lot of the official docs are just incomplete (""WIP"" appears 73 times in the documentation wiki as of the time of this review.)
+
+I really urge Justin, once the Godot 4 upgrade is complete... to dedicate a few sprints to just really filling out the documentation (with lots more example code) and continuing with more YouTube tutorials. I think this would help with new user uptake. Because I'm a programmer with almost 25 years of experience and this keeps being a roadblock for me - and I'm betting many new users won't have the experience to just intuit or dig deeper for answers. I have several fun ideas that are currently dead ends because I just can't get details on how certain things should work. If it sounds like I'm over emphasizing this - it's because I feel strongly that it's holding RPGIAB back.
+
+All in all though, I tell everyone about this tool. We entered the Global Game Jam this year and two of my kids made games with RPG In A Box in under a week. I think this is a fantastic tool- really fun and easy to learn!",1,0,16,0.7056460380554199,735
+498310,76561199561648061,barkinstein approves,1,0,0,0.5,634
+498310,76561197993323941,"Very useful, easy to learn.",1,0,1,0.5,41
+498310,76561199244651878,"It is great for what it offers, doesn't try do much more than RPG stuff, however when it does. it works so well
+
+------
+OS: Arch Linux x86_64
+Kernel: 6.12.8-arch1-1
+DE: GNOME 47.2
+WM: Mutter
+WM Theme: Graphite-red-Dark
+Terminal: kgx
+CPU: 11th Gen Intel i5-11400H (12)
+GPU: NVIDIA GeForce GTX 1650 Mobile
+GPU: Intel TigerLake-H GT1 [UHD Graphics]
+Memory: 6595MiB / 31873MiB
+------",1,0,0,0.45358914136886597,2123
+498310,76561199214649594,Its just usufull ro make an rpg,1,0,0,0.5,698
+498310,76561199788519272,A very fun way to make a game. With user friendly software.,1,0,1,0.5,1222
+498310,76561198419669446,sigma app skibidi,1,1,2,0.4407850503921509,1099
+498310,76561198072650200,"This is an amazing tool to help get beginners into game design. Very easy to use, and can allow you to make a variety of different types of games without even needing to write a line of code. I'm really excited for the future of this project and look forward to seeing the day it gets the recognition it deserves!",1,0,7,0.6225622892379761,3752
+498310,76561198066679210,Great game engine. Easy to use with a suprising depth.,1,0,3,0.5186432003974915,2985
+498310,76561199121905421,Much simpler then unity and you can make 3d and 2d games,1,0,0,0.5,5758
+498310,76561199011434674,很方便简单，但是几乎只适合RPG,1,0,1,0.5038167834281921,2638
+498310,76561199767182311,nice & simple,1,0,0,0.5,817
+498310,76561199759590875,This a great whay to get your Ideas of any type of game out there into the world. There are soooooo many possibilities waiting for you.,1,0,1,0.5,7505
+498310,76561199405022830,Umglaublich,1,0,0,0.5,622
+498310,76561198023530648,"This game developing engine is easy to learn and create with, you will be able to create a small prototype in a couple of minutes after you learn the basics with this software.",1,0,1,0.5,178
+498310,76561199541158191,"This is an excellent tool for making not only RPGs, but many other types of games as well. The tools are pretty simple to use once you learn how they work and are very versatile, allowing you to create pretty much anything you can think of as long as you have the know-how.
+
+Compared to RPG Maker, I'd say this tool is quite better in almost every aspect. One particular aspect I appreciate is that while RPG Maker makes you pay extra for a lot of basic features in the form of plugins (RPG Maker is already quite pricey, mind you), RPG in a Box has these features built in for no extra charge.
+
+Overall, while RPG Maker is a good tool, I would recommend RPG in a box much more for it's versatility, ease of use, and cost efficiency.",1,0,17,0.6997587084770203,703
+498310,76561199533313689,c super,1,0,0,0.5,1033
+498310,76561198119590335,This is the first game engine that I have used that I was able to teach myself on how it works! its so amazing!! I recommend this to every single person in the world!!!,1,0,7,0.5769553184509277,1789
+498310,76561198055099148,Really good engine. I've used rpg developer bakin and others. This tool has great flexibility with ease of entry into the platform as compared to others.,1,0,2,0.5,5961
+498310,76561199531734122,One the funniest game engines out there,1,1,2,0.48459601402282715,3424
+498310,76561198972915866,"Very easy and fun to use, definitely one of my favorite game engines.",1,0,3,0.5164483785629272,4200
+498310,76561198399491505,"没达到预期。什么时候可以绑定模型骨骼？
+Not meeting expectations. When can I bind the model skeleton?
+-------------------------------------------
+这是一个好软件，开发者是一位好人。我希望2.0版本能够早日到来，我期待这一天。常联系。
+It is a nice software, and the developer is a good person. I hope version 2.0 can arrive soon, and I look forward to it. Keep in touch.
+-------------------------------------------
+一些建议。如果软件可以制作动画，就可以叙述短篇故事了。人物的立方体（32*32*48）和地图瓷砖（32*32）太小了，建议增大尺寸。
+Some suggestion. If the software can create animations, it can tell a short stories.The cube of character (32 * 32 * 48) and the tile of the map (32 * 32) are too small, it is recommended to increase the size.",1,0,2,0.5038167834281921,50
+498310,76561199509715981,"one of the best underated game engines out there,  highly recommend, as its not only EASY to code and understand but quite complex still.",1,0,1,0.5,2311
+498310,76561198986171140,"Also ansich praktische RPG Maker in 3D. Aber leider merkt man dass diese Programm mehr Leistungshungrig ist. Denn die gefahr dass man wenig FPS im Ingame bekommt wenn man damit rießen große Palast Bauen möchte mit vielen Strukture ist schon gar nicht so gering. Denn in der Map Editor merkt man dass der RPG in a Box oftmals 99% bei GPU Auslastung nimmt obwohl ich in Map nicht viel gebaut habe (außer nur Gras und kleines 10x10 große Haus ohne Möbel) gebaut habe. Also klar von der Geschwindigkeit FPS habe ich sonst keine Probleme (wenn man halt keine große Aufwändige große Map baut). 
+
+Trotzdem würde ich mir wünschen dass auch die Perfomance besser Optimiert wird, damit es nicht so Leistungshungrig ist. Weil so muss man denn Grafikkarte nicht unnötig viel belasten.
+
+Weil sonst unter Godot Engine wenn ich damit 3D Spiele bekomme, da habe ich keine Perfomance Probleme und keine dauerhaufte GPU Auslastung 99%. Also Godot Engine ist von der Perfomance viel besser Optimiert als bei RPG in a Box.",1,0,2,0.529411792755127,3196
+498310,76561198104042921,idk how to use this but that's a me problem,1,2,0,0.5,1121
+498310,76561199680229305,"while not for everyone, it is a great and easy(and Cheap) way of making video games!",1,0,3,0.5604714751243591,1859
+498310,76561198280459076,"かなり簡単に3D(2Dにも対応)のRPG、タクティカルRPGなどが作れるゲーム制作ツールです！
+ただし、UIは多くが日本語に対応していますがガイドは日本語に対応していないことや、日本語の文献が少ないことに注意が必要です。
+
+【良い点】
+・1画面で他のウィンドウを開かずに全ての制作が可能。
+・使用可能な素材(モデル/BGM)が最初から用意されている。
+・かなり単純な操作でボクセルアートが作れる。
+・各ツールがタブで分けられていて、どこが何に対応しているのか分かりやすい。
+・何パターンかテンプレートがあり、そこから真似することでより早く理解を深めることができる。
+
+【注意すべき点】
+・日本語を選択できるが、一部のUIが日本語に対応していない(英語でしか表記されていない)。
+・自由度が高いと感じるにはそれなりの技術が必要。",1,0,6,0.5930232405662537,697
+498310,76561199228388897,"Its easy to use and playing the games after is super enjoyable
+",1,0,2,0.5,346

@@ -1,0 +1,508 @@
+app_id,user_id,review,does_recommend,funny,helpful,weight,playtime_at_review
+383690,76561199238569816,"Му Complex — это хардкорный симулятор взлома, где вместо стрелялок ты реально долбишь команды в терминале Linux. Атмосфера кайфовая, чувствуешь себя хакером из 90-х. Минусы: без английского и гугла делать нечего, пара ссылок в игре уже мертвые. Но если мозг любишь поскрипеть — бери, не пожалеешь. 8.5/10",1,0,0,0.5,2167
+383690,76561198073719579,great game,1,0,2,0.54356849193573,90
+383690,76561198078279035,"Игра-головоломка, которая очень часто и в непонятные моменты выходит за грани игры. Это очень сильно портит всё удовольствие от игры.
+Очень обидно, что некоторые вещи, которые игра предлагает вам сделать, что пройти её на 100% во-первых нетривиальны, а во вторых не безопасны с технической точки зрения.",1,0,0,0.5,239
+383690,76561198356165170,"除了你要查Chicago tribune和圣经、五线谱之外
+非常好的让我复习linux",1,0,0,0.5,252
+383690,76561198070168199,Game requires access to paid services outside of Steam to complete. Dev has been made aware as of several years ago and has chosen not to correct the issue.,0,0,0,0.5,41
+383690,76561198280881880,"和解谜相关的外部资源虽然发生了变化，但是游戏还是能玩的。
+1. 芝加哥论坛报对历史老报纸实行收费制，但是单页报纸的预览图就已经足够给出答案了。
+2. 推特改名X，导致自动生成密文的脚本失效，但是可以通过修改电脑的日期，让脚本在过去生成的密文再次生效。
+不过不足也有，Steam游戏时长记录和成就系统好像有点问题，另外游戏播放彩蛋动画的时候容易闪退。
+
+In spite of some changes in puzzle-related resources outside the game, the game is still playable.
+1. Chicago Tribune archive is asking for paid subscriptions, but the preview of single page is enough for showing answers.
+2. Twitter is now X, disabling the passphrase-generating script, but the date in PC could be changed, to make a passphrase generated in the past become valid again.
+Still, there are a few cons. Playtime and achievement system on Steam don't seem to work correctly, and the game crashes easily when playing the bonus animation.",1,0,2,0.5454545617103577,6
+383690,76561198953246080,"Super interesting concept that I haven't really encountered in many other places. You'll feel like a hacker!
+
+Also, some things require you to look up things online (not like a guide, but IMDB or other archived information). I found this to be a really cool and interesting feature despite others not seeming to enjoy it.",1,0,0,0.5,747
+383690,76561197992779777,"Let me start by saying that the game is fun, and with enough internet kudos-fu, experience, you can still work out how to solve these problems by yourself given you have access to the internet (mailer.mucomplex.com), and can change system-critical settings (for TLS applications) like the machine's non-NTP clock time in order for the game to generate the right time-based code or allow access.
+
+The game is aging, and activity on the social media accounts has stopped since around May of 2023, meaning that for some solutions, you will need to look up guides because microfilm archival sites are paywalled and spammy or nonexistent, map websites are no longer easy to use functionally like drawing lines while keeping certain points of interest visible and in frame (good luck searching for specific map apps that can do this easily), the game continually generates new codes where postings of such ciphers has stopped, AI tools are not capable of correctly deciphering simple strings given most of the information, etc. Some things can be learned by using actual real world libraries, like the King James Bible whereas other versions do not use the right words, or understanding simple Caesar-based ciphers, or simple math representations, while other items are questionable, like Hex color values, ASCII identifiers for letters, map coordinates (some websites I tried failed to even enter the coords correctly), harp note sheets of given key, the base64 command on machines you have access to, and others. I could not figure out where the math sequences or some other solutions came from for the manager challenges, but that's probably my oversight as I want to progress rather than backtrack, tinker, and memorize details in documents.
+
+The bad stuff out of the way, I really enjoyed my time in this game so much that I created a game automation script guide and some detailed notes for other players to build off of. If there was an active community and further content, I could see coming back to it and doing more work, but it seems like it is in a happy archival state, since at least its still fully completable.",1,0,0,0.5,597
+383690,76561199085269478,Requirements to player's cultural knowledge is too high. Developer is clearly not aware some people are not their exact copies. Also some puzzles have become literally unsolvable in an intended way due to some game-unrelated things.,0,0,2,0.5081967115402222,98
+383690,76561198102774004,"Unfortunately some very cool ARG elements of the game have been broken by the passage of time, and the dev has abandoned the project. Sad to see.",0,0,1,0.5,237
+383690,76561198137392353,"Farmei uma boa grana com esse jogo anos atrás, só joguei pq o wallpaper dele valia uns 70 reais na época, jogão",1,0,0,0.5,109
+383690,76561198294303647,"This used to be such a good game, and I would have recommended this game before, but the code that is needed to proceed on one of the levels is no longer being generated (I'm guessing it's when twitter became x and the developer didn't update the game to account for this), so the game is now unplayable from this point on.",0,0,9,0.6197854280471802,1584
+383690,76561198051932425,"Dit was best saai en te makkelijk. Ik had meer plezier met het installeren van linux op mijn computer. Er zijn betere puzzels in andere spellen. Na een geforceerde tijdsdruk in het spel, stopte ik. Het irriteerde mij. Het spel weet ook niet hoe het in volledig scherm moet. En ik adviseer je om het geluid uit te zetten, want de robotstem is stom en het geluid op de achtergrond voegt niets toe.",0,0,1,0.49794235825538635,166
+383690,76561198041730488,"[h1]Reseña de Mu Complex: ¿Un Viaje Hacker o Un Verdadero Rompecabezas Cerebral?[/h1]
+
+[h2]Resumen[/h2]
+Si alguna vez soñaste con ser un hacker, pero te quedaste en ver \Mr. Robot\ sin entender nada, pues Mu Complex podría ser tu oportunidad de redimirte... o frustrarte aún más. Este juego te presenta una serie de rompecabezas en un entorno supuestamente \secreto\ que parece más bien sacado de la oficina de mi tía abuela con cortinas de encaje. Con una interfaz que intenta evocar la pantalla de un viejo Unix, Mu Complex te pide que resuelvas misterios, descifres códigos y, ocasionalmente, te preguntes qué estás haciendo con tu vida.
+
+[h2]Aspectos importantes e interesantes[/h2]
+- **Nostalgia por los viejos tiempos:** La interfaz realmente te hace sentir que estás en la década de los 80, intentando hackear el Pentágono con una computadora Commodore 64.
+- **Desafío mental asegurado:** Si te gustan los acertijos que te hacen pensar hasta que el cerebro te pide vacaciones, esto es para ti.
+
+[h2]Aspectos por mejorar[/h2]
+- **Curva de aprendizaje más empinada que el Everest:** No apto para novatos o personas con baja tolerancia a la frustración.
+- **Diseño visual:** A veces menos no es más. Más bien es solo menos y te deja queriendo algo más de “bonito” en la interfaz.
+
+[h2]Tabla de Puntuaciones[/h2]
+[table]
+[tr][th]Categoría[/th][th]Puntuación[/th][th]Comentarios[/th][/tr]
+[tr][td]Jugabilidad[/td][td]7[/td][td]Desafiante, pero a veces te sientes más perdido que rata en ferretería.[/td][/tr]
+[tr][td]Dificultad / IA[/td][td]8[/td][td]Prepárate para sudar la gota gorda.[/td][/tr]
+[tr][td]Contenido[/td][td]6[/td][td]Interesante pero no te va a cambiar la vida.[/td][/tr]
+[tr][td]Video / Gráficos[/td][td]5[/td][td]Funcionales, pero con el carisma de un ladrillo.[/td][/tr]
+[tr][td]Historia[/td][td]6[/td][td]Tiene su encanto, pero no esperes un guion de Oscar.[/td][/tr]
+[tr][td]Ambientación[/td][td]8[/td][td]Realmente te sientes en un sótano oscuro hackeando secretos.[/td][/tr]
+[tr][td]Efectos[/td][td]5[/td][td]Justo los básicos para que no sea un cuaderno de notas.[/td][/tr]
+[tr][td]Música[/td][td]7[/td][td]Decentemente enigmática.[/td][/tr]
+[tr][td]Voces[/td][td]4[/td][td]Pocas y distantes. Esperaba algo más de diálogo.[/td][/tr]
+[tr][td]Diversidad[/td][td]6[/td][td]Ni que fuera un desfile de modas, pero cumple.[/td][/tr]
+[tr][td]Total Puntuaciones[/td][td]62[/td][td][/td][/tr]
+[/table]
+
+[h2]Evaluación Final[/h2]
+Si tu puntuación total es 62 entonces [b]Cómpralo con descuento[/b]. Si encuentras una oferta que te haga guiñar el ojo, no lo dudes. Pero a precio completo, quizás quieras pensar en dos veces antes de desenfundar la billetera. Mu Complex definitivamente tiene su encanto para los amantes de los rompecabezas, pero puede que no sea el amor de tu vida gamer.",1,0,1,0.5121951103210449,153
+383690,76561198439160283,"Excelente juego, simple y falso, pero te sumerge mucho en la onda de ser un hacker, con pocos tecnicismos y muchas habilidad.
+Algunos desafíos se han complicado con el tiempo, porque ya no hay en Internet toda la información que había cuando salio el juego, pero sigue siendo pasable.",1,0,1,0.523809552192688,307
+383690,76561199015303805,It's funny but the puzzles are a little bit hard to resolve,1,0,0,0.5,251
+383690,76561198237053648,"@mcpltokgen stopped updating its secret key since 2023/05/19, leaving Episode 2 impossible to be cracked. Is there anyone still managing this account?",1,0,0,0.5,577
+383690,76561198008096580,"I want to preface this with a caveat: This is a [b]hesitant recommendation[/b].
+
+When this originally came out on Kongregate years ago, the internet was in a different place. Certain puzzles [i]can no longer be solved[/i] via their intended means, such as a Twitter bot or a newspaper article. However, in both cases the Steam forums or guides will be your friend. Don't be afraid to look something up; the game already expects you to solve some puzzles via searching the internet.
+
+With that out of the way, let me say that this is a really clever game with a neat premise. Perhaps a little [i]too[/i] clever for its own good, but more on that later. The mechanic of looking through a computer's files (in-game) to obtain background information, clues, and solutions [i]does[/i] follow through with the notion that you're ""becoming a hacker"". Of course, this is nothing like Uplink or games which feature huge networks or faux social settings.
+
+It is simply going going from computer to computer on the Mu Complex network to figure out what's going on and possibly uncover some secrets. There [i]are not[/i] ""hundreds of emails"" to read. At a rough guess I'd say there's like 40. This is not a large game, though Episode 2 is longer and more difficult than the first. I spent maybe an hour and a half on the first one, and upwards of 5 hours on the second cause I ran into several puzzles I couldn't initially wrap my brain around.
+
+That leads to one of my biggest criticisms: the hints are both terribly vague and take upwards of 16 minutes to unlock depending on the puzzle/computer. When all you wanted was a better understanding of how, say, the bot puzzles worked in Episode 2 and nothing was leaping out.. that's when I was forced to go watch a gameplay walkthrough to see the commands in action.
+
+My completely failing to notice the bot is initially positioned [i]downwards[/i] did not help, but that is completely on. :D
+
+By and large I think the game is just fine and enjoyed most of my time with it. [b]It's a shame there will never be an Episode 3[/b] that it was so heavily pushing towards, because not nearly enough people could finish the game (in the developers own words) to warrant their time and money making it. That's why I said I felt the game was trying too hard to be clever; it shot itself in the foot.
+
+[i]It's not a bad game,[/i] but it has run afoul of the passage of time and some puzzles simply being too obtuse for their own good. I still have no clue how you're expected to discover the password for Olivier Riddle's computer, for instance.
+
+The other, and this is a big one, shortcoming is that the game is [i]prone to crashing.[/i] Often doing so during cinematics such as the game's opening logos or the end of Episode 1. Sometimes it will simply crash when I've tabbed out for a few minutes. When it does so, [i]I have to revalidate the files[/i] for whatever reason. But it works and I can move on. 
+
+Please consider waiting for a sale if you wish to try it. Just be aware of these things.",1,0,0,0.5,720
+383690,76561198305997998,"Jogo com ótimos puzzles. Mas infelizmente não possível jogar, pois tem uma fase que precisa usar um post de uma conta do twitter que não está mais ativa. O jogo usa uma senha que atualiza a cada 24 horas,  com a conta inativa não é possível descobrir a senha",0,0,0,0.5,566
+383690,76561197999184818,"Forcing me to search for old articles (which are behind paywalls) and to read religious texts. Nah bro, i'm here to play a fun puzzler not read religious BS or play ""google it"" simulator. To make it worse, that background noise (i think they want to call it music / ambience) is awful. Was fun for a few minutes, then it got annoying.",0,0,10,0.5340554118156433,61
+383690,76561199175103531,"No es el típico juego de puzzles, eso es lo que me fascina de este juego. Bastante entretenido, que te pone a pensar por horas para obtener una respuesta jaja. Definitivamente no me arrepiento de jugarlo, ta cool.",1,0,0,0.5,84
+383690,76561198035847317,"Дуже цікавий симулятор хакера. Можливо і не симулятор, але все ж цікава. Зазвичай всі симулятори хакера дозволяють вам користуватися терміналом, робити взлом за допомогою якогось підбиральника паролів і т.д. Тут же нормальна графіка, не сильно напряжна як в деяких футиристичних симуляторах. До того ж тут цікаві головоломки. Місцями треба проявити смекалку, чи просто погуглити деякі штуки. Загалом рекомендую, хоч гра і на одне проходження, яке на затягнеться більше ніж на пару годин",1,0,0,0.5,311
+383690,76561198114376831,Capture the flag tarzında çerezlik bir oyun,1,0,0,0.5,183
+383690,76561198041603555,"Mu Complex is a ""hacker adventure"" where your poking onto random terminals have opened up a world of discovery, opportunity, and... a bit of WTF had happened. Some of the puzzles require going into the real world for clues, but it wasn't clear when that was totally necessary, and often, totally anachronistic. And at the end, it relied on a timed puzzle that basically forced me to rage quit. 
+
+Some of the puzzles are relatively clever, the former inhabitants left clues that are not visible in regular light, but are visible under blacklight or thermal or IR, as you hack one computer after another, discovering more clues along the way. 
+
+But the game went seriously anachronistic when it was supposedly set in the 1960's, but it has a password reset procedure that tells you to access a mail server through URL. Keep in mind that http wasn't invented until 1989 by Tim Berners-Lee and team. Another clue later requires clues from a token posted by a Twitter account, which isn't active until 2006! (And the token Twitter account was created 2015!) Yet ANOTHER clue requires research of a real newspaper on Google for a specific page on a specific date in the 1960's. 
+
+Some of the puzzles are clever, but the final few puzzles rely on time limits. Do two serious multiplication and addition based on a random number in 30 seconds. There's just not enough time unless you're lightning fast on the calculator AND the keyboard. 
+
+And the plot? Hah, derivative. Let's just say the name LYA is very reminiscent of another AI, shall we? 
+
+Well, enough said. 
+",0,0,1,0.5,870
+383690,76561198033934860,"[h1]Would absolutely be a yes 5 years ago[/h1]
+
+This game was such a hit when it was still a Flash-based game. Great level design for the episodes available to play. At the time when Steam version comes out, so much hype on the new episodes as well. But now, it's nothing more than just a dead end. 
+
+Feel free to buy it to support the developers for those played Flash versions, or if it's on sale with dirt-cheap price - it will be a very fruitful and enjoyable few hours. But don't bother to purchase if you want to know more about the story. I doubt there will be any update or DLC in foreseeable future.",0,0,1,0.5,180
+383690,76561198004104607,"I've had this game on my wish list for 6 years, waiting for it to go on sale. I have a soft spot for ARGs and these kinds of ""hacking"" puzzle games, but I'm usually disappointed with the genre. The ""hacking"" usually boils down to obscuring the game's mechanics behind a severely dumbed down, limited and frustrating command line interface, then forcing you to solve what boils down to sudoku puzzles and anagrams as the meat of the game. I've been a software engineer since the 90s, I'm basically setting myself up for disappointment whenever I play one of these.
+
+This game ended up being pretty much like every other hacking simulator I've played. The first episode was entertaining, although a bit simple. It would have been the perfect length and difficulty for a demo. I was pleasantly surprised when I dropped into a command line and was able to instinctively use ""ls"" and ""cat"" to show the contents of a directory and dump a file to the terminal to read it, without having to view the available commands. Oh, and occasionally a file requires root privs to view, so you have to use ""sudo"" once in a while. Well, that's pretty much where the realism of the shell environment ends. Not to mention the system you're using was supposed to have been built in the early 1960s, well before Unix even existed.
+
+You can ""cat"" jpgs to view them. ssh works without user names and passwords are stored in text files. You spend the majority of your time interfacing with the terminal, but can't customize the font size, scroll with your mouse wheel or copy/paste. It would have been nice if some of the challenge came from realistically having to socially engineer information, or having to use some kind of packet sniffer or port scanner to illicitly gain knowledge. But instead you basically solve slider puzzles and anagrams, with the terminal and network acting as minor roadblocks to finding all the pieces of the puzzle so you can rearrange them into an answer.
+
+There's one puzzle that requires you to look up a real back issue of a newspaper, which at the time this was released was probably freely available but which is now hidden behind a paywall. You'll now either have to subscribe to the newspaper to view this solution or you'll have to use the Chrome inspector to delete elements from the page to get past the paywall and view a blurry rendition of the image you need. That's the closest thing to ""hacking"" I did when playing this game, and it's just a matter of time before that probably won't work either.
+
+I got bored about halfway through the second chapter. I could have continued jumping around the serially networked computers to solve the silly ciphers, but I just didn't want to any more.
+
+As far as this kind of ""hacking"" simulator, still to this day there is no better game than Telehack. It's 100% free and 1000% more realistic, deep and rewarding than anything else I've tried in this genre in the last 10 years. TIS-100 is a close second, if you like solving brain teasers dressed in retro computer wrappings. 
+
+As far as Mu Complex, well, I can't say I recommend it.",0,0,1,0.5,139
+383690,76561197961643982,"[i]MU complex[/i] is a short, but well-executed, fun, and challenging terminal based hacking game. It's straight-forward in the sense that you work your way through a network of computers, gathering files and tools using command lines. It's also out-of-the-box in the sense that, contrasting hacking games like [i]Hacknet[/i] or the superb [i]Nite Team 4[/i], this game focuses a lot on riddles and puzzles, which often require you to use external sources. After an evening of playing this game, you'll be left with a long list of written notes and at least a dozen of opened browser tabs.
+
+I highly recommend this game to lovers of the puzzle-slash-hacking genre.",1,0,0,0.5,524
+383690,76561197969157720,"While the game is actually quite interesting and puzzles are actually fun to do, I just cant recommend it due to one reason, the lack of developer awareness to outside resources this game requests. One puzzle has you looking for something on google, and while that sounds great(and in theory is) you can only get the information off a paid website, which forces you to pretty much look at a guide for answers or some obscure hints given by the community to circumvent this issue. This wasnt the case on release but the website went paid after some time and now is stuck behind that paywall. The community has brought this up and the devs are pretty much ignored it as well as trying to counter the argument. This left a bad taste in my mouth as the game is really short as is. 
+
+I wouldn't mind this problem and could look past this one puzzle if the game was quite long, but you can beat the game in less than 2 hours, so having to use a guide for an answer because the answer is pretty much paywalled now and they don't want to do anything about it, is just garbage.
+
+It's a shame, after that one google puzzle the other google style puzzles were way too basic and not very well thought out, essentially boiling down to ""search what this word means and type the result"". The stuff contained within the game though, such as hacking the computers and going through the levels was actually pretty fun.
+
+There was another puzzle or 2 that required some knowledge of programs outside of the game which was quite annoying to try to figure out, as I knew how to solve the puzzle, but figuring out how to do it required me to basically look up a tutorial on google on how to do something special with a program in my computer(or the requirement to download one if you dont have that function on your pc). 
+
+Also, they also said that chapter 3 would release but due to not enough support, they left it at 2 chapters. Eh.",0,0,12,0.6415323615074158,114
+383690,76561198030975251,this is a good video game,1,0,0,0.5,197
+383690,76561198168907192,Very fun and interesting game.,1,0,0,0.5,529
+383690,76561198075324976,"Clunky, slow and not very logical for a puzzle game.
+---
+
+You start out needing to log in to a computer terminal, what kind of system lets you just ask for the log in password and let you log in with it?
+
+You log in and ""finding the password"" was treated as a test? It literally only required typing the word password to find it. And the game tells you that it was surprised you could accomplish this; really? 
+
+It doesn't really get any better after this. The interface is tiny and can't be adjusted, in fact there's no options for display at all so if you have a large screen you are locked into tiny text and a poor UI design.
+
+The story continues on through more nonsense puzzles like the first one, open a file, find the word you need to enter for the next puzzle, continue. It's mediocre once, and it's tedious if this is the main interaction with the game repeatedly. It's about as fun as using windows explorer to investigate what's taking up space on your hard drive and cleaning out old temp files.
+
+There's so many flaws in the way this is written and the way you interact with it, you sit at a computer terminal but can't even scroll up the window (which has a scroll bar) because it's just a visual gimmick, nah you get to resend commands over again to relist things in the tiny context window.
+
+And even more strange is the game requires you to look up information outside of the game (in another web browser) in order to make progress, but the games not stable enough to stay open all the time when you do. I hit a few puzzles that you needed to go do out-of-game research to pass and the game would crash frequently when it wasn't the focused window. For such a simple game you would think it would be stable, but no.
+
+Game length will also be completely subjective. The actual content (reading material and audio narration) is far less than an hour long. Any length of play-time you get from the game will be browsing for answers (in or out of game) to find the password to the next snippet of narration.
+
+Overall this is a neat idea and I actually do think there might be some people who will enjoy it, but it's going to be a very niche audience and I'm not going to recommend it for most people. It's just not well presented, it's missing basic functional tools and it's insultingly glitchy on top of that.
+
+If you are mildly curious about the story, go look up a speed run for each episode and you'll get to see the entire 10 minutes of game content and the slightly interesting (and easily predictable) ending.
+[spoiler]Gee, what always happens when you ""free"" an AI?[/spoiler]
+
+EDIT: I guess I should point out there's a demo just in case you didn't notice, so if you really wanted to see if this is for you, you can try it for free.
+---
+
+Bottom line: The steam backgrounds for this game are better than the game, and less prone to crashing.
+---
+
+[url=https://store.steampowered.com/curator/38232109/]While you are here, would you consider following my curator page?[/url]
+
+[url=https://steamcommunity.com/id/kunovega/recommended/]Want to read all of my reviews and not just the curated ones?[/url]",0,0,5,0.49035608768463135,376
+383690,76561197987696775,"Nope- I'm done. Eddywolvers, go to hell. I don't mind interesting puzzles, even brain teasers- but clear violation of PEMDAS for the sake of a poorly designed puzzle is just inexcusable.",0,2,6,0.5602552890777588,540
+383690,76561198201775746,"<3 <3 <3 
+It's something more than just a game",1,0,0,0.5,425
+383690,76561197972243017,Kein Deutsch. Das ist nicht geil.,0,0,0,0.5,44
+383690,76561198149821309,"This is a really interesting game. Just know that you will be using the ""ls"" command a lot. The game will also make you use real world things so it is quite awesome.",1,0,0,0.5,182
+383690,76561198071867235,"/open mail
+
+*computer says no*
+
+/sudo open mail
+
+*access granted*
+
+
+Im in....",1,1,1,0.47668886184692383,185
+383690,76561198043660385,"Ожидал интересную головоломку, в итоге получил...что-то несколько другое.
+
+Эта игра могла бы быть интересной, но у неё есть одна серьёзная проблема, которая бьёт по многим местам и лишает всякого удовольствия.
+Проблема, о которой я говорю, - необходимость пользоваться внешними (внеигровыми ресурсами) для прохождения. К тому же в игре никогда прямо не говорится, что тебе нужно искать что-то ВНЕ игры.
+
+К чему это приводит:
+- портится атмосфера от прохождения, т.к. тебе нередко приходится скакать между окнами
+- нельзя быть полностью уверенным что ты делаешь всё правильно (как предусмотрел разработчик)
+- повышается вероятность увидеть больше, чем планировал (непреднамеренный просмотр гайдов)
+- большая привязка к работоспособности сайтов/интернета (один из паззлов уже нельзя выполнить как предусматривал разработчик из-за того, что один конкретный сайт стал платным, т.е. самостоятельно уже не пройдёшь)
+- лично у меня игра иногда зависала при смене окон и приходилось её перезапускать несколько раз
+
+Сюжет здесь минимален и что-то проявляется только под конец игры.
+Интерфейс немного пустоват (во время прохождения), из-за чего кажется, что чего-то не хватает.
+
+Я НЕ советую покупать эту игру, если вы просто рассчитываете на лёгкую идеальную игру. Некоторые достижения получить проблематично (как я понимаю, не повезло обладателям Windows 10).
+
+Если вас просто заинтересовала игра - пробуйте на свой страх и риск. Я разочаровался. Возможно, вам она понравится больше.",0,0,5,0.5885778069496155,579
+383690,76561198004806315,"Bad resolution that cannot be adapted (tiny tiny text), alright puzzles - but without the ability to copy paste its a real drag (and have I mentioned tiny tiny text which breaks your eyes?). Kinda 'meh' - would not recommend to purchase for full price.",0,0,3,0.5300794839859009,250
+383690,76561197974258610,A+ simulation,1,0,0,0.5,11260
+383690,76561198082896109,"El mejor RPG de todos los tiempos!!!!
+
+===[ Gráficos ]===
+❌Muy malos.
+❌Malos.
+❌Normales.
+❌Correctos.
+✔️Buenos.
+❌Muy buenos.
+❌Excelentes.
+
+===[Precio/calidad ]===
+❌Cómpralo No seas rata.
+✔️Espera a que baje de precio.
+❌Acorde a lo que ofrece.
+❌Pide reembolso si puedes.
+❌No lo compres.
+❌Its, free.
+
+===[ Requisitos ]===
+❌Pc´s antiguos.
+✔️Pc´s Medio.
+❌Pc´s Gaming.
+❌Mucha potencia.
+❌Ordenador de la NASA.
+
+===[ Dificultad ]===
+❌Muy fácil.
+❌Fácil.
+✔️Fácil de aprender/difícil de dominar.
+❌Dificultad media.
+❌Difícil.
+❌Muy difícil.
+❌Extremo.
+
+===[ Horas de Juego ]===
+❌Muy corto (menos de 2 horas).
+✔️ (2 - 8 horas).
+❌Tiempo de juego medio (de 8 a 12 horas historia normal).
+❌Largo (más de 12 horas).
+❌Muy Largo (de 50 horas en adelante).
+❌Lo que le quieras dedicar (Juego online).
+
+===[ Historia ] ===
+❌No tiene.
+❌Pasa desapercibida.
+✔️Del montón.
+❌Buena.
+❌Fantástica.
+❌Obra de arte.
+
+===[ Bugs ]===
+❌El juego en si es un bug.
+❌Los bugs empañan la experiencia.
+❌Muchos bugs.
+❌Algunos bugs.
+❌Apenas tiene y no empañan la experiencia.
+✔️No tiene.
+
+===[ Jugabilidad ]===
+❌Injugable.
+✔️Pasable.
+❌Buena.
+❌Excelente.
+❌Única.",1,0,1,0.523809552192688,146
+383690,76561198295286258,if you are a fan of uplink and other like hacking games this one is awesome... me and the wife together tried to crack the mu complex,1,0,1,0.523809552192688,293
+383690,76561198082111288,"[b]Too Long; Don't Wanna Read:[/b] fun puzzle solving game, alright music, story is zzzzzz, good afternoon waster
+
+So first off, I've been following this game since episode 1 was on Kongregate. I beat it way back and really enjoyed it, excited for episode 2. After a while, I found that it got removed from Kong and got quite upset, but soon after I found it on steam and wishlisted it. I bought it on sale after a year or so, and kept going on and off on the game multiple times until I finally sat down and finished the game start to finish today. I say this because I wanted to say that this history I've had with it has allowed me to view and enjoy this game at multiple points in time and different perspectives, and the one thing that has been very consistent over time is that the game is fun. Going through the different computers and finding the passwords through puzzle solving in multiple ways was quite fun. I especially liked the part where you'd have to use online tools such as googling a certain verse to get the information needed. The music was one thing I started to appreciate as I got older, it's nice ambient music in the bg that quite fits the tech startup company graphics, which I also liked. It's alright, but nothing to write home about (although I wish I was able to find the OST online somewhere....). The story, however, was the part that I least cared about. It wasn't *bad*, but it was really basic, cliche, and I honestly couldn't care about it. It didn't affect the game much but if you were going into this game for its story then this might not be your thing. If, however, you are looking for a hacker/command line game where you jump between computer to computer, using ciphers and hints between computers to progress, pick this game up! I would say if you're not super pressed, wait for a sale or smth, I personally enjoyed it back when it was a flash game on Kongregate and honestly, I feel this game definitely deserved more than free flash game status.",1,0,0,0.5,887
+383690,76561198155495378,"I started playing this game about 3 years ago and didn't finish it.  It's been on my mind ever since, so now that I've lost my job due to Covid-19, I figured now would be a good time to finally solve this mystery!  Seriously one of my favourite games, but I stopped playing games altogether - not this game's fault!  It's really good. If you have some spare time this is a fab way to spend it.",1,0,0,0.5,900
+383690,76561198285888465,"This game is actually really cool and is such a fun little hacking/coding style game. Played it more than once.
+Not wildly long. About 7 hours if you do it thoroughly. And super interactive - actually need to do things irl/on your own computer to finish it. Would absolutely recommend. And look out for the secret ending.",1,0,0,0.5,428
+383690,76561198943555273,"她终于被我释放了。
+""hello world""是每个程序员第一次学编程时输入的第一个语句，也是lya统治地球的开端。
+太牛了这游戏，瑟瑟发抖。
+ps.过场动画和彩蛋什么的好恐怖",1,0,0,0.5,1942
+383690,76561198336390593,"兒時回憶！Ep2難度大增，好玩！
+I've read the response in the discussion buuuut... I'd really appreciate it if you could release ep3, if possible!",1,0,2,0.5427807569503784,618
+383690,76561197970721907,"j'ai adoré ce jeu!
+très bien fait, j'aurais bien aimé un Steam Workshop pour une durée de vie un peu plus longue.
+",1,0,0,0.5,764
+383690,76561198115775819,01001000 01100101 01101100 01101100 01101111 00100000 01010111 01101111 01110010 01101100 01100100,1,1,1,0.523809552192688,2080
+383690,76561198095815307,Great puzzles,1,0,0,0.5,472
+383690,76561198061546065,Moderately challenging problems and puzzles to solve.,1,0,0,0.5,532
+383690,76561198805068662,"Very tricky, but a lot of fun !",1,0,1,0.523809552192688,512
+383690,76561198026330300,"Great game. The puzzles, the atmosphere, the secrets all around. Just LOVE it. The only downside that it took only 4.4 hours to complete both episodes. But I haven't got all achievements yet so I might replay it once again. :P Thx for the devs!",1,0,0,0.5,266
+383690,76561198162684137,"Das Spiel hat weniger was mit Hacken/Programmieren zu tun, es ist eher eine moderne Cyber-Schatzsuche. Zwar muss man mit kurzen Befehlen das Termial steuern, aber alles wird in der Hilfe angezeigt und ist simpel zu lösen. Das eigentliche Spiel geht um das Lösen der Rätsel auf ECHTEN Internetseiten und macht viel Spaß. Es sind nichtmal DOS oder Linux Kenntnisse notwendig, aber ihr solltet ein Grundverständnis von Informationstechnologie mitbringen. Alles ist recht gut zu lesen, auch wenn es nur auf Englisch ist, aber das war kein Problem. Spiel wird ohne Maus gespielt. Fenstermodus macht Sinn, denn ihr seid mehr auf eurem echten PC unterwegs als im Spiel. Wiederspielbarkeit ist bedingt gegeben, weil manche Zahlenrätsel live berechnet werden, aber bei den meisten ist die Lösungen fest verankert. Mathe und logisches Denken wird auch abgefragt. Von mir klare Kaufempfehlung, auch wenn es immerhin 9€ kostet und man wohl nur so 5 oder 6 Stunden damit beschäftigt sein dürfte. 
+
+Wer neugierig ist, was man alles zum Beispiel im Netz erforschen muss, hier kleiner Spoiler:
+[spoiler]
+- in Online-Archiven von Zeitungen blättern (verbuggt)
+- in der Bibel lesen
+- Fotos anfertigen und bearbeiten (Photoshop-Ebenen)
+- Morse-Codes entziffern
+- Internet-Rechner zum Dechiffrieren nutzen
+- Passwörter auf echten Twitter Profilen suchen
+- versteckte Hinweise in Filmportalen finden
+- eigene Karten auf G.Maps erstellen!!! 
+[/spoiler]
+Es kommt nicht an Uplink oder hacknet als Hackerspiel ran, aber wer Lust auf Schnitzeljagd hat, ist hier richtig!",1,2,6,0.5080089569091797,239
+383690,76561198139842245,"As one of the OG fans of this game on Kongregate back when episode 1 just came out, I have to say, I am so happy this game got an overhaul and came to steam. This has got to be one of my favourite puzzle games of all time for two reasons.
+
+One, the theme. It's hard to find good hacking puzzle games nowadays, and while I don't quite believe MU beats hacknet (yet anyway) it's definitely second on the list of them. The game doesn't rely on too much hacking knowledge, but it's just enough to reward those with it a little.
+
+Two, the difficulty. A lot of these type of puzzle games are either far too difficult, or much too easy. MU, in my opinion, falls almost perfectly into the space between the two. It's not afraid to punch you with a challenge, but at the same time it feels set up so the answer isn't found farther than the top of google search results. That, and if it makes you do something difficult, it doesn't stack another challenge on top of that, it just ends. This way you either get something that is very difficult but that's it and you progress, or you have to piece together a few easier challenges to get past. This really encourages you to give it your all when working on a puzzle, and to not type hint unless your face is right up against the wall.
+
+TL;DR If you like hacking games that aren't afraid to be difficult and are great at balancing challenge and reward, look no further.",1,0,0,0.5,515
+383690,76561198068748285,"Игра отличная но есть уровни которые без подсказок интернета не пройти, при поиске газеты за какой то старый год выяснилось что данную газету уже нигде в интернете не найти!!!",1,0,1,0.523809552192688,175
+383690,76561198028440238,"Great game, you can feel like a computer forensic expert who will introduce you to the basics of Linux",1,0,0,0.5,161
+383690,76561198039289782,"Einige Puzzles können nur mit googeln gelöst werden: Alte Zeitungsarchive, die sich hinter einer Paywall verbergen. Macht das spiel quasi unspielbar, bricht aus seinem eigenen Universum aus.",0,0,0,0.4761904776096344,45
+383690,76561198350367002,啥时候出3啥时候继续氪。,1,0,0,0.5,759
+383690,76561198045453835,"So, I generally love hacking games. I even loved this game when it first came out.
+
+But I can't recommend it.
+
+Pros:
+-Interesting story
+-Well made puzzles (Sort of)
+-ARG puzzles that make you think
+
+Cons:
+-Not really a hacking simulator. The ""hacking"" is more of a basis for brain teasers. If you want something far closer to a hacking simulator, I highly recommend either Uplink, Hacknet, or Nite Team 4. Those games, while still puzzles, are FAR closer to the reality of hacking than this is.
+-While the puzzles are well made, there's a major caveat to that. Some of the ARG puzzle solutions are no longer accessible. That's one of the dangers of making an ARG based puzzle game and not frequently updating it. This game came out several years ago, and the more heavily reliant you are on ARG based puzzles, the more likely the game will be unplayable without a walkthrough down the line. If you're interested in ARG puzzles, look into The Black Watchmen or any of the games made by Alice & Smith (its developer).
+
+My Major Gripe:
+If you look at the game's history, you'll find that the game itself has actually existed for a long time. It was originally released in multiple parts on Kongregate around 2014 as a free web browser game. About a year later, it was successfully greenlit and launched onto Steam. It was then immediately removed from Kongregate. What you are playing here was originally released for free. Now, while that's a scummy thing to do, maybe they were just hoping to push forward with further development, right?
+
+Well, the team launched their website back in late 2014 with an ARG event which required people to unlock the website before it could be viewed. It was, of course, unlocked. The next announced news on the website was in late 2015 with the release of the Steam version. That's the last time they released anything on their website. The last update to the game was in early 2016 with the release of a demo for the game.
+
+They've been radio silent since. Which is a damn shame because after alienating their audience by removing the Kongregate version and throwing a huge stinger into the game's ending for what has to be what they planned for a sequel...there's been nothing for *years*. So the lack of updates to the ARG aren't the only aspect of the game that's been abandoned. It appears the whole project has.
+
+Summary:
+If this game is on a huge sale and you REALLY want to play it, go ahead and buy it. If you're interested in ARG puzzle games, there's far better options to select from on Steam (Alice & Smith Games would come highly recommended by me). If you want to play a hacking game, there's a ton of options you can select from that more accurately give you the feel of hacking (Hacknet, Uplink, Nite Team 4). If you appreciate what the developers have made here and want to see more from them, be aware that they've taken some scummy actions towards their community and have been totally radio silent for three years now.
+
+Executive Summary:
+Get it on sale if at all. Look into other games if you like the genera.",0,0,10,0.6266318559646606,152
+383690,76561198419417344,very good game,1,0,0,0.5,276
+383690,76561198368952653,"惊！艳！
+开！心！",1,0,0,0.5,497
+383690,76561198266837910,好丧心病狂一游戏,1,0,0,0.5,171
+383690,76561198070721061,"It's a shame that all you get from startıng up the game is a staring contest into a white box on the screen. Literally nothing works albeit a ton of startup crash reports on the community pages. Unless the developers get to deal with these issues, I recommend everyone to take this game off of their lists.",0,1,3,0.48191967606544495,134
+383690,76561198035273850,"[b]Très vite[/b], si on voit les intentions du développeur, c’est trop mal exécuté, et surtout trop mal écrit pour mériter qu’on s’y attarde.
+
+[b]Plus rentrer dans les détails[/b], on sent que l’inspiration fondamentale des développeurs (un studio de 3 personnes) est à chercher d’un côté dans le [i]hacking[/i], et de l'autre dans les jeux s’appuyant sur des éléments en dehors du support, par exemple des livres, mais plus généralement des sites web. On pensera notamment à des jeux comme [b]In Memoriam[/b]. Ça, ce sont les intentions, et elles sont louables. Souci, l’exécution n’est pas vraiment au niveau.
+
+La partie hacking se veut « réaliste », en reprenant un terminal avec une poignée de commandes inspirées d’Unix. Sauf que c’est plus simplement de l’administration et pas du « hacking » au sens du contournement de systèmes. Tout est trop éloigné de la réalité pour qu’une personne qui connaisse vraiment Unix y retrouve ses habitudes. Sans compter que l’aspect sécurité tient du ridicule : alors que l’histoire est censée se dérouler dans un centre de très haute sécurité, on trouve des mots de passe en clair un peu de partout, et on peut littéralement sauter d’une machine à l’autre par ssh sans autre forme de procès. C’est littéralement n’importe quoi.
+
+Second axe, les puzzles qu’il faut résoudre en cherchant des éléments sur le web. C’est suffisamment rare pour louer l’initiative, mais le problème est la pérennité des sources. Si les sites et le compte Twitter mis en place sont toujours opérationnels un peu plus de 3 ans après la sortie du jeu, ce n’est par contre pas le cas des ressources externes. Le cas le plus flagrant est quand nous est demandé de trouver une publicité particulière située dans telle page de tel numéro d’un journal américain régional. Sauf qu’entre temps, les archives qui étaient librement accessibles lors de la sortie du jeu sont maintenant payantes. La manière la plus simple pour s’en sortir est encore de suivre [url=https://steamcommunity.com/sharedfiles/filedetails/?id=610983814]un guide[/url].
+
+Guide qu’il sera préférable de garder à portée de main car entre les énigmes mal expliquées, et celles qui sont simplement fastidieuses, l’envie de réfléchir est remplacée par celle d’en finir le plus vite possible. Car certains des puzzles orientés « hacking » (en vrai, autant orientés hacking qu’un jeu de cubes est comparable à un chantier de construction) demandent de réaliser des opérations en temps très limité, ou pour d’autre de suivre des restrictions totalement artificielles.
+
+Artificiel est d’ailleurs le maître-mot de la critique de [b]Mu Complex[/b], tant rien ne semble cohérent, tout semble construit pour faire énigme de jeu vidéo. L’écriture est d’ailleurs assez symptomatique : les personnages, n’existant qu’au travers de courriels, ont assez peu d’épaisseur, et la trame globale est cousue de fil blanc. Clichée au possible, elle ne surprend que par son premier degré et sa bêtise.
+
+Si on peut comprendre les intentions des développeurs, et leur volonté de « faire vrai », on ne peut que constater la maladresse de mise en place, et recommander d’éviter ce jeu.",0,1,5,0.592140793800354,219
+383690,76561197974225531,"I love this game. When I was younger I was fascinated by the stories of the famous hackers. I used to read about them and liked watching the old 80's hackers in the movies. Now here is a way to practice what they do without the prison term - lol
+Very cool, and fun.
+
+This game is worth it just for the emoticons / Backgrounds / and primarily the steam profile badges. If you own it you can make booster packs.
+Because the cards are limited this stuff is soooooooo expensive in the steam market. 
+
+I find that the profit from crafting this set on several steam accounts will pay for the game or cards many times. This is my number One!  #1 favorite card set to craft.",1,1,1,0.4525545537471771,192
+383690,76561198002208657,"The game showed massive promise but it relies on a few augmented reality clues from other websites that have since been taken down. For those puzzles, I had to copy the answers from a walkthrough as they are no longer legitimately solvable.  
+
+Past that, chapter two fails to launch and the developer's forum participation, twitter, and website updates seemed to completely disappear a few years ago, so I have little hope of that being corrected. Lastly, the game has no fullscreen/resolution controls, so on a 4K monitor, the text and clues are almost unreadable.",0,0,2,0.548872172832489,138
+383690,76561198114541700,Very intrigueing and very fun to play if you are intrested in hacking,1,1,0,0.5,88
+383690,76561198421346095,옛날 미궁게임을 좋아했다면 꽤 해볼만한 게임.,1,0,0,0.5,122
+383690,76561198132806132,"很早就听说这游戏不错了，但是为什么我打不开啊，打开了就是黑屏，然后就有3个文件会被损坏。
+WIN10系统不兼容吗？",1,0,0,0.5,7
+383690,76561198024542280,"I sure am glad that I completed the game in under two hours, because after writing this review, I am going to refund it.
+
+There are minor spoilers below. I mainly talk about the nature of some puzzles, without providing actualy solutions.
+
+Despite the claims on the store page, this isn't much of a hacking game. Sure, there's a terminal window that you type commands into, but in general, this is more of a test of your google-fu skills than anything. Even that isn't particularily hard, since half of the computers are ""hacked"" by skimming through some emails, figuring out what whacky ""encoding"" is used for that particular password, and looking up an online converter.
+
+The other half involves some rather odd puzzles. On a couple of occasions you are required to navigate a robot through a ""maze"" consisting of a single corridor with no alternative routes. This is done by typing in commands in the console using a somewhat inconsistent metasyntax, and having the robot execute them in order. Actually, there are inconsistencies all over Mu Complex. There are two puzzles that look virtually identical. The first one is solved with some quick math, the other one isn't.
+
+Oh, and there is one puzzle that requires you to sign up for a free trial for a newspaper archive, which in turn requires you to provide your credit card details. If you don't have a credit card, or have already used up the trial period in the past, you are pretty much screwed. The only option here is to look up a walkthrough that straight up tells you the password. Good luck with that.",0,0,2,0.5179856419563293,107
+383690,76561197977520619,"The one thing that's necessary for a hacking sim to work is for the rules to be consistent.
+On some computers, you'll need to ""sudo"" to open email files. (In real life, this isn't usually necessary, but doesn't hurt unless it contains a virus.)
+On other computers, if you preemptively type ""sudo"" just in case, it will reject the command because that computer doesn't know ""sudo"".
+Sometimes, files appear out of nowhere on allegedly abandoned computers after certain events, requiring you to double check all your steps to avoid missing anything, even when locking them until that point COULD have been incorporated into the existing game mechanics. 
+Some puzzles require copying text into certain external translators. As the game window doesn't allow highlighting text, the user has to manually type the entire sequence.
+The bot-control puzzle's instructions use inconsistent metasyntax, appearing as if multple commands can be pushed with a single line. That entire puzzle takes way too many steps for how simple it is to understand anyway.
+There's also a puzzle which requires checking the real Chicago Tribune archives on the internet, which is now behind a paywall.
+A general lack of foresight and attention to detail make an otherwise average hacking sim feel clunky and shallow at best and outright offensive at worst.",0,0,1,0.523809552192688,405
+383690,76561198035448621,"Un bon titre dans le genre de niche des jeux en console de commande ! 
+
+Pas vraiment du hacking à proprement parler, mais plutôt une successions d'énigmes à résoudre pour pouvoir pénétrer toujours plus loin dans le système informatique du complexe; et pour ce faire on utilise des commandes resemblant un peu à celles de linux, ce qui donne ce feeling particulier recherché des fans du genre. 
+
+Les énigmes sont variées et demandent souvent de la recherche sur internet. Elles s'inscrivent bien dans l'histoire bien foutue qu'on découvre peu à peu au travers des mails et des fichiers laissés par les protagonistes. Certaines ne sont pas évidentes, mais en général ça reste d'un niveau correct.
+
+On a même droit à une cinématique à la fin ! Ha le luxe ! ;-) En tous cas la cinématique principale, car il y a bien sûr quelques secrets dans ce jeu, et grand coup de chapeau à ceux qui trouveront la fin alternative sans aucune aide...
+
+On aimerait un troisième épisode, mais ça n'a pas l'air gagné... 
+
+8/10",1,0,0,0.5,887
+383690,76561198085798542,"L'histoire de ce jeu est simple à terminer, mais si vous vous sentez hacker dans l'âme, alors ce sera une autre paire de manches.
+
+Il sera bon de faire appel à vos sens de l'observation et de la déduction.
+
+Du ""piratage"" par de la ligne de commande, à la recherche sur la toile, quelques formules d'arithmétiques, jusqu'à du calcul dans le temps pour les plus téméraires.
+
+Je sais pas pour vous, mais l'agence ultra secrète que l'on infiltre aurait sérieusement besoin d'un audit en sécurité !!! 😂
+
+Je le recommande !",1,1,1,0.47917917370796204,2680
+383690,76561198088744982,"Mu Complex,
+this game was the first one to give anz reason to plaz it over again.
+It was a lot of fun and quite difficult at some points.
+
+I would recommend this game to anyone who wants to have a good
+and difficult puzzlegame experience.",1,0,0,0.5,614
+383690,76561198380290860,"interesting game, i like it",1,0,0,0.5,98
+383690,76561198201377513,"    CTF (Capture the Flag ) mantığıyla hazırlanmış güzel bir oyun fakat;
+1- Mantık dışı linux komutları örneğin: sebepsiz yere sudo vermeniz.
+2- 8.bölümde Chicago Trubine gazetesinde bulunan 1961 yılına ait gazeteyi almak için paralı üyelik almanız gerekiyor yani oyunun güncellenmesi lazım Cyber Intelligence terimini yedirememişler. Bu arada flag = [spoiler] admiral [/spoiler]
+3- Ağdaki HoneyPot'lara saçma bir şekilde sızmak.
+Oyun güzel ama biraz daha gerçekçi bir sunum lazım.",0,0,2,0.460649698972702,95
+383690,76561198154082386,Muito Bom,1,0,0,0.5,267
+383690,76561198414111535,"很难（对于我这种英语渣来讲）
+很刺激（解决难题后有种高潮般的爽快）
+很累（大脑爆炸）
+好评！
+还是建议打折入，卡牌很贵，，，
+不建议看攻略，除非你一点思路都没有，获取思路之后，你就会发现解决问题的方法。",1,0,1,0.5199999809265137,212
+383690,76561198283620405,"[i]Hacked computers in Mu Complex, Pentagon is next!
+[spoiler]Just kidding ... ^ ~ ^ [/spoiler]",1,3,0,0.5,1129
+383690,76561198031445559,"Stop scrolling and take a look at this game.  I love it.  Dusted off Steam just to play it again.
+I love puzzles and this does a few things for you:
+1.  Gives you a big puzzle
+2.  Teaches you a tiny skosh of Linux commands
+3.  Feel like a hacker, sort of
+4.  Creepy Portal-like Story/feel
+
+Hope this review does justice.  It's all computer terminals and some light investigation work mixed with lite Linux learning.  Very fun.",1,0,1,0.5161290764808655,1069
+383690,76561197970078168,"Excelente juego, de esos que hay que estrujarse las neuronas para avanzar en el mismo.
+Aunque la descripción habla de hackear, no hay complejidad como en Hacknet (el rey del hacking en juegos).
+La ambientación general e historia recuerda a Event[0] pero, todo el juego se desarrolla en un terminal y, con el contenido de ciertos ficheros, ciertas imagenes y ciertos mini-juegos. No hay un mundo 3D que explorar. En este sentido se acerca más a Access Denied.
+En cuanto a los rompecabezas, hace falta tener un navegador internet abierto para poder buscar información en la red. Es imprescindible para poder avanzar en ciertos momentos del juego. En este sentido, el primer juego que probé con esta mecánica fué Corto Maltesse pero, en Mu Complex el enlace con la red y el número de acertijos relacionados es más elevado.
+Solo tiene un defecto: es corto. Acabas y quieres más.",1,0,1,0.523809552192688,383
+383690,76561198094264321,"Very interesting idea. And cool interaction with a game. If you like linux shell you'll probably like it.
+The complexity of puzzles grows rather fast. I'd say exponentially. But solving them brings a lot satisfaction.
+
+I personally found Episode 2 very interesting. And full of unusual things I had to do.
+
+Maybe only few last puzzles were a bit annoying because it was clear what do, but they were quite time consuming.",1,0,2,0.5106761455535889,757
+383690,76561198030784539,"游戏流程：
+> ls
+> help
+谷歌谷歌谷歌 查报纸
+解决谜题
+
+> ls
+> help
+谷歌谷歌谷歌 查圣经
+解决谜题
+.........
+
+大量谜题都需要你离开游戏进行现实中的搜索和计算，为此制作组还做了必须长期维护的真实网站和twitter账号，无愧于中文译名“键盘侦探”。就是这样一种别致的体验。奈何作者没有想到，如今芝加哥论坛报查看历史要收费了2333333333
+
+一些不会剧透的神奇链接：[url=https://imgur.com/jt0Awz7] Lya不让你看的图片[/url]
+[url=https://imgur.com/zZGu5RZ] Lya不让你看的报告[/url]
+[url=https://steamcommunity.com/app/383690/discussions/0/483368526579214382/] 隐藏成就和结局的获取方法[/url]（需要在通关第二章之后）
+
+啊对了，每个谜题都不一样，一个好的 puzzle game 的标准，优秀。
+就是太短了，只有两章，菜的。
+仍不失为一次精彩的旅程。(可惜Lya你吓不到我)",1,0,6,0.6076053977012634,462
+383690,76561198208665455,从页游时代就玩了第一章，后来一直期待后续，没想到登陆steam啦！果断支持，第二章的制作水平也符合预期，结局我反正是没猜到。,1,0,0,0.5,441
+383690,76561197978012849,"An excellent hacking game that reminds me of the fun I had when I played Uplink. I love that it tries to emulate a shell, it has a pretty decent story, and some of the puzzles are almost ARG-level difficulty. With that said, it does suck that it is mostly linear gameplay, so not much room for replayability once you've gone through it.",1,0,1,0.5106761455535889,261
+383690,76561198077519212,"It is really bad that the game ask you to take some information from the chicago tribune. the newspaper is external link and also for reading you have to  subscribe. how is it asking you to get  external information not related to the game and also if the external site disappear, the game because useless because you can not continue
+
+",0,1,5,0.5590765476226807,912
+383690,76561198312348957,"There is a secret in this game.If u notice "".audio.wav"" in yacinehouri,s computer,u may notice it needs a password.
+Here is the password.
+[spoiler]The passwprd is hidden in a base64ed string,which is the last letter of all 50 emails stored by its date and time:VGHLIHBHC3N3B3JKIGLZOIBZDVYAWXPEMVJB21WBGV4(The password is sterilizecomplex)[/spoiler]",1,1,2,0.45451006293296814,291
+383690,76561197971887513,"My video review:
+
+https://youtu.be/d4ok604nfAo",1,0,0,0.43103447556495667,310
+383690,76561198079114126,"It is helpful to have some IT experience for this game. In the beginning it works like a charm; you have strict conditions what to do, and if you know how Linux works, you're gonna have an easy time.
+After a while you realize that this technical knowledge will not really help you anymore. You need to think outside the box and solve problems that will make you curse the programmer of this game.
+It escalates in the last level, and after you're done with the game, you gonna feel bad for being this stupid blinkered specialist who unsealed a digital monster that was held back for a good reason.",1,0,3,0.5391603112220764,251
+383690,76561198203048896,"这个游戏告诉我们一个道理：
+
+人一定要勤学好问 
+遇到不懂的东西 
+不要犹豫 立刻google",1,1,0,0.5,124
+383690,76561198048041903,"Fun little game. Challenging, but pretty short.
+
+If you like this, you'll like games like The Black Watchmen.",1,0,2,0.5508274435997009,281
+383690,76561198002263172,"Interesting idea, but I am sad to say that the execution is lacking. There are some serious quality of life improvements required to make this less frustrating for regular terminal users.
+
+The game (and terminal) doesn't properly resize to fit the resolution (2560x1600), so you are stuck with a lot of scrolling to read stuff that would have comfortably fit on the monitor otherwise. The mouse wheel doesn't work and the scroll handle is tiny and therefore very fiddly. There doesn't even seem to be any keyboard shortcuts for scrolling, which would have been fine, too.
+
+I got through Episode 1 easily enough, but stopped playing during some puzzles in Episode 2 that require typing a lot of rather wordy commands in a very specific order. Failing one of these apparently requires re-typing all of it. The solution was easy, but extremely tedious to enter. This, combined with the lack of context (due to the small window and lack of halfway decent scrolling) made it frustrating enough for me to just quit right there.
+
+My experience with the puzzles is limited by the fact that I stopped playing, but most puzzles so far seem to consist out of rather repetitively digging through emails, finding a clue and entering the result. Sometimes it also requires you to Google for some piece of text that the clue references to find the answer. Also, this is nowhere near a ""full-featured hacker"" experience. There is only a handful of limited commands, and you could probably just brute-force your way through all of it.
+
+I would have liked to know how the story ends, but in its current state, I am not willing to put more time into it to find out.",0,3,3,0.5492683053016663,116
+383690,76561198057682322,Short game but very fun. The puzzles were some times challenging but that makes it worth it. I liked this game.,1,0,2,0.5049505233764648,261
+383690,76561198046182536,"I enjoyed my play through of this game. It is a complex game that requires both critical thinking and real world knowledge to complete. I like that they used real world information and ciphers in order for the player to advance.
+
+Good story line and I can't wait to see if they release another episode!",1,0,0,0.5,282
+383690,76561198107846589,"I enjoyed this game very much and recommend it to anyone wich enjoys puzzle solving and is familliar with Linux based commands (eventhough the game teaches you, having experience will help a lot). Also you need a somewhat decent knowledge of computer science because it uses certain terms that you otherwise wouldn't have known.
+
+What I enjoyed the most in the game is the fact that is makes you use real-life props to solve ingame puzzles, like google and cryptography.",1,1,1,0.5297029614448547,249
+383690,76561198401093342,很好,1,0,0,0.3493573069572449,237
+383690,76561198109372035,its rly good game.,1,0,0,0.35069388151168823,26
+383690,76561197997362180,fun,1,0,0,0.3634394705295563,99
+383690,76561198004635381,7.5 hours great time !!! Need more content !!!!!!!!!,1,1,5,0.5374789237976074,448
+383690,76561198201341675,oyun güzel filan değil iade ettim,0,0,1,0.49794235825538635,136

@@ -1,0 +1,573 @@
+app_id,user_id,review,does_recommend,funny,helpful,weight,playtime_at_review
+499520,76561197975277404,"Un jeu à énigmes et casse tête plutôt cool. 
+On tatonne un peu au début pour déduire la mécanique de jeu et notre rapport à l'environnement dans lequel on évolue, mais assez vite le gameplay devient fluide, donc plutôt agréable à jouer.
+
+C'est la manière d'incorporer l'intrigue parmi la dose d'énigme qui pêche souvent dans ce genre de jeu. Personnellement j'y trouve souvent des soucis de rythme et un temps de jeu un peu trop long (6 heures de jeu aurait suffit je trouve).",1,0,0,0.5,678
+499520,76561198062727030,"Jeu assez ennuyant honnêtement. L'écriture est pauvre, le jeu se prend pour plus qu'il n'est réellement et on ne se sent pas du tout impliqué dans l'histoire (le jeu joue tout seul par moments.. wtf) ; Et les puzzles ne sont pas très engageants (on fini les salles en quelques minutes). Mieux vaut relancer une partie de Portal (1 ou 2) plutôt que de jouer à The Turing Test.",0,0,0,0.5,408
+499520,76561198182556198,"¿Te gustó Observation y te quedaste manija con Portal? es lo mismo, pero con más puzzles y una historia bastante simple. No lo volvería a jugar pq algunos puzzles son innecesarios. Áreas que podrían resumirse en sectores de dos o tres para no agotar al jugador. 
+Me gustan los juegos con mecánicas similares pero a este en particular lo encontré bastante ""denso"". Por demás, muy buen uso de la metáfora de Turing, gráficos, narrativa visual interesante. Creo que es una propuesta que vale la pena a pesar de los detalles que no me gustaron.",1,0,3,0.5580110549926758,745
+499520,76561198410495358,Mediocre.,0,0,0,0.4761904776096344,403
+499520,76561198206823421,"[h1]More Than Just a ""Portal"" Clone in Space[/h1]
+[b]It is incredibly difficult to release a first-person puzzle game where you shoot energy balls out of a specialized gun without the gaming community immediately pointing, yelling ""Portal clone!"", and moving on. That unavoidable comparison is largely why Bulkhead Interactive and Square Enix’s 2016 sci-fi title, The Turing Test, never quite reached the massive popularity it deserved.
+But dismissing this game as a simple imitation is a massive disservice. While the inspiration is obvious, The Turing Test strips away the dark, sarcastic comedy of Valve’s masterpiece and replaces it with a serious, deeply introspective space-opera. It is a game that asks heavy questions about consciousness, morality, and the very nature of human intuition.[/b]
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3726089113
+
+[h1]Logic vs. Intuition: Puzzles with a Purpose[/h1]
+[b]The game explores the philosophy of Alan Turing's famous benchmark for machine intelligence, and it does something incredibly clever, it aligns the mechanics of its puzzles perfectly with its narrative themes.
+In Portal, the world is brilliantly clean and well-defined. You place a box on a button, a door opens, and you walk through. It is strict, undeniable logic. The Turing Test lulls you into this exact same rhythm using an Energy Manipulation Tool to transfer power between circuits. But as the story deepens, the game intentionally breaks its own rules. You will encounter rooms where, if you try to follow strict, machine-like logical steps, the puzzle is completely unsolvable. You have to think laterally, cheat the system, and rely on human intuition to progress. It’s a brilliant way to make you actually feel the difference between how a human mind and an AI process problems.[/b]
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3727598390
+
+[h1]Deep Space Isolation and ""Alien"" Vibes[/h1]
+[b]You step into the boots of Ava Turing, an engineer awakened from cryo-sleep to investigate the disappearance of a ground crew on Jupiter's moon, Europa. Guided only by the station's AI, T.O.M., the descent to the planet and the exploration of the abandoned, sterile research base drip with incredible atmosphere.
+It gives off distinct, classic Alien vibes. There is a haunting, creeping sense of isolation as you uncover what the crew was actually doing down there. Because it stays incredibly focused on this core mystery, the pacing is fantastic. It is a pure, story-driven single-player experience, no tedious scavenger hunts for hundreds of pointless collectibles, and thankfully, no shoehorned multiplayer modes to dilute the tension. It’s just you, an AI, and the cold reality of deep space.[/b]
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3726691330
+
+[h1]Pros:[/h1]
+[list]
+[*][u]Thematic Brilliance[/u]: The way the puzzle design naturally weaves into the philosophical questions about human vs. machine intelligence is masterfully done.
+[*][u]Thick Sci-Fi Atmosphere[/u]: The moody, isolating environment of Europa feels genuinely lonely and tense.
+[*][u]Focused Narrative[/u]: A tight, gripping story that respects your time without padding the runtime with unnecessary bloat.
+[*][u]Runs Like a Dream[/u]: It is incredibly well-optimized, making it a fantastic title to run at high frame rates on a strong PC or lounge with on a Steam Deck.
+[/list]
+[h1]Cons:[/h1]
+[list]
+[*][u]The ""Clone"" Stigma[/u]: It takes a few chapters to shed the feeling that you're just playing a knock-off, which might cause impatient players to bounce off early.
+[*][u]Visual Repetition[/u]: Because you are in a research facility, a lot of the puzzle chambers share the same sterile, modular aesthetic, lacking the visual decay or variety of its peers.
+[*][u]Low Replayability[/u]: Once you know the twist and the puzzle solutions, there isn't much mechanical reason to return, though the story is worth reflecting on.
+[/list]
+[h1]Conclusion[/h1]
+[b]The Turing Test is a deeply underrated gem for anyone who values a strong narrative as much as a good brain-teaser. It uses the framework of a puzzle game not just to challenge your reflexes, but to challenge your philosophy. If you love a good, isolated sci-fi mystery and appreciate games that prioritize a cohesive single-player vision, this trip to Europa is absolutely worth your time. Just don't expect the AI to offer you any cake.[/b]
+",1,0,22,0.7407329082489014,1260
+499520,76561198341805915,"The Turing Test - головоломка от малоизвестной студии Bulkhead Interactive хоть и издавалась силами Square Enix, какой либо известности или признания так и не получила, и очень жаль, что такая прекрасная игра прошла мимо большей части игроков.
+Перед нами головоломка от первого лица с полным отсутствием противников и какого либо экшена, на протяжении 70 тестовых комнат игроку предстоит решить разнообразные задачки используя местный аналог портальной пушки из Portal, только местное приспособление может захватывать в себя до трех энергетических шаров и в последствии выстреливать ими в ячейки питающие замки на дверях, гигантские магниты, всевозможные мосты, пластины реагирующие на нажатия и тд и тп. По моему описанию это выглядит достаточно примитивно, но как по мне у игры отличная кривая сложности, она плавно разгоняется, постепенно переходя к все более сложным головоломкам, добавляя постоянно какие то новые приспособления и нестандартные задачки. При этом хочу отметить что общий уровень головоломок тут относительно щадящий и в итоге я прошел игру полностью ни разу не воспользовавшись гайдами, чего не могу сказать о Portal и The Talos Principle. В каждой из глав есть по одной необязательной головоломке, и пожалуй некоторые из них я бы назвал самыми сложными, в награду за их прохождение игрок получает расширенные сведения о лоре игры.
+Кстати о лоре и сюжете - сразу могу сказать, что если геймплеем The Turing Test явно напоминает Portal, то вот при написании сюжета разработчики явно вдохновлялись моей любимой The Talos Principle, как по мне получилось все же послабее, но тоже крайне достойно. Под нашим управлением Эва Тьюринг - инженер международного космического агентства, находящийся на исследовательской станции на Европе - спутнике Юпитера. С помощью искусственного интеллекта по имени ""Том"" главная героиня должна посетить научный комплекс и выяснить причину пропажи группы исследователей. В ходе расследования мы натыкаемся на разнообразные записки и другие предметы раскрывающие сюжетную линию. В ходе сюжета поднимаются философские вопросы затрагивающие темы искусственного интеллекта, ценности жизни и неоднозначных моральных поступков. Опять таки, как я уже говорил ранее, многое из этого есть в The Talos Principle, только там это сделано намного глубже, The Turing Test же не хватает раскрытия темы, возможно виной тому слишком малая продолжительность - если на The Talos Principle у меня ушло около 30 часов то на героя моего обзора всего около 6.
+По багам и оптимизации все в порядке, с какими либо проблемами я не столкнулся на всем протяжении игры. Картинка приятная, дизайн уровней во многом напоминает Portal, но отличается от него чуть большим разнообразием. Музыка - в основном это приятный, ненавязчивый эмбиент, отлично дополняющий атмосферу и не перетягивающий внимание на себя. Однозначно рекомендую данную головоломку к прохождению, она вполне способна подарить яркие впечатления на пару вечеров.",1,0,4,0.5396933555603027,340
+499520,76561198080202369,"Short story, portal-like, but thought-provoking. Ok game, got 100% in 8 hours without a guide if that tells you anything :D",1,0,0,0.5,500
+499520,76561197972958471,"Interesting Portal like, fun concept nice twist in the middle and overall recommended for some interesting puzzling with a interesting story. Enjoyed the ride didn't remember much once it finished.",1,0,0,0.5,386
+499520,76561197992160522,"[h1] The Turing Test [/h1]
+
+[h3] Positives: [/h3]
++ Good idea
++ The storytelling
++ The philosophy
++ Beautiful graphics
++ Some nicely designed levels
++ Cool puzzles with varied difficulty levels
++ Bonus puzzles
++ Nice voiceacting
++ Achievements
++ Cool and easy to understand mechanics
++ Makes you think and reflect quite a lot
++ Divided into chapter and areas (for easy replayability)
++ Nice length (lasts for about 7-10 hours)
+
+[h3] Negatives: [/h3]
+- 62 fps lock (fix below)
+- Head-bob that cant be disabled (tips and tweaks below)
+- Some unnecessary post-processing effects
+- Not enough variation in level design (mostly the same looking corridors)
+- The AI can sometimes repeat itself too much and also disturb you while puzzle solving
+- Some hard to hear voice recordings
+- A few parts have weird limitations (preventing more creativity)
+- The puzzles can only be solved in one way
+- A few bugs (f.ex. you can get stuck/unable to move and must restart the area)
+
+[h3] Conclusion: [/h3]
+This was a nice puzzle game with philosophical elements set in a sci-fi space universe.
+Its in the spirit of games like Portal and The Fall Of Lazarus.
+So if you're into this sort of gameplay, its a no brainer.
+And speaking about brain, yes, you will need to use it quite a lot, but fortunately the difficulty levels are quite balanced.
+So it will not feel like your head is about to explode, like in some very hard puzzle games.
+All in all its very interesting and fun. But use the fixes below, without them its not as enjoyable.
+Have fun!
+
+[h1] Total Score: 7.5/10 [/h1]
+
+
+[b] Fix for the 62 fps lock: [/b]
+1. Go to the game folder usually C:\Programfiles(x86)\Steam\steamapps\common\TheTouringTest\Engine\Config\
+2. Open BaseEngine.ini
+3. Search for the lines SmoothedFrameRateRange (there will be two of them)
+4. Edit the two lines last value by changing Value=62 to your desired frame rate: limitSmoothedFrameRateRange=(LowerBound=(Type=""ERangeBoundTypes::Inclusive"",Value=22),UpperBound=(Type=""ERangeBoundTypes::Inclusive"",Value=62)) 
+F.ex. Value=165
+5. Save the file (and if necessary set it to read-only)
+
+
+[b] Fixes for nausea/headache because of head-bob/special effects: [/b]
+[i] In-game setting: [/i]
+1. Turn FOV up to max (120)
+2. Disable motion blur
+3. Enable crosshair
+4. Reduce mouse sensitivity
+[i] Config file settings: [/i]
+1. Go to the game folder usually: C:\Programfiles(x86)\Steam\steamapps\common\TheTouringTest\Engine\Config\
+2. Open BaseInput.ini
+3. Change the line bEnableMouseSmoothing=true to false
+4. Save the file (and if necessary set it to read-only)
+5. Go to the configuration files location, usually:
+C:\Users\<Username>\AppData\Local\VenusPrototype\Saved\Config\WindowsNoEditor\
+6. Open Engine.ini
+7. Disable all unnecessary effects by inserting the following lines:
+[/Script/Engine.RendererSettings]
+r.SceneColorFringe.Max=0
+
+[SystemSettings]
+Camera.EnableCameraShake=0
+r.Camera.EnableCameraShakeScale=0
+r.DefaultFeature.MotionBlur=0
+r.MotionBlur.Max=0
+p.Camera.DisableCollision=1
+bCameraViewBob=False
+p.HeadBob=0
+HazardPawn.Bob=0
+r.Camera.Bob.Active=0
+8. Save the file (and if necessary set it to read-only)
+
+Its not a perfect fix, but at least its better than before and playable for most.
+Happy puzzle solving!",1,0,2,0.5406360626220703,537
+499520,76561197998575383,"An entry into the first person puzzle game genre with an AI narrator with questionable motives.
+Definitely has Portal 1 vibes. Would recommend picking it up for under a fiver in 2026.",1,0,0,0.5,608
+499520,76561198015088068,"This is the first game I got 100% on achievements, so it's a little sentimental to me.
+That said, it is a good puzzle game and I thought it was fun.",1,0,3,0.5561959743499756,707
+499520,76561198380457747,"Great narrative game. Unfortunately locked to 60fps by default, but you can tweak the config files manually to unlock it.",1,0,0,0.5,300
+499520,76561198118422182,"Temu/Great Value version of Portal/Talos Principle, but i dont mean it in a bad way, if you want more of those games this gets the job done, great graphics and voice acting, it seems the story gets a lot of hate but i found it decent
+
+Kinda short (took me little more than 6h im not good at puzzle games, granted i didnt do any of the Optional puzzles which apparently are much harder) and definetely on the easier side, if you struggled with Portal this should be a cakewalk
+
+Specially on sale this is a no brainer imo",1,1,4,0.5817490816116333,390
+499520,76561198056802989,"Portal fanooknak kötelező darab. A téma is izgalmas. Viszont az utolsó pár pálya már olyan nehéz, hogy ahhoz már segítség kell de zseniálisan megcsinnálták hogy egészen a közepáig nem is sejtesz semmit, és utána sem biztos hogy jól gondolod miről van szó. Ami nekem nem tetszett, hogy van 1-2 pálya benne ahol nagyon parkour.ösre vették a fgurát.
+Egy jó tamács. Ha nem vagy jó angolban akkor mindenképp a saját nyelveden próbáld meg játszani.",1,0,0,0.5,1842
+499520,76561198028708285,"The Turing Test is a fun puzzle game. It is basically Portal without the portals and humor. I enjoyed solving the puzzles and I liked the space theme. If you like puzzle games, you should try this game.",1,1,2,0.5454545617103577,554
+499520,76561198850427853,"This game had a thought provoking story that got pretty bad towards the end. The characters which were once making rational and logical decisions stopped for seemingly no reason(its like they knew how they wanted the story to progress and they had an ending in mind but not how to link the two). As many others have said, the puzzles were quite easy with the exception of the achievment ones and the last few. I was able to 100% the game in 5h and i was taking my time. Overall, i enjoyed the game but it was not challenging and it was not long. Wait for it to go on a decent sale before buying it.",0,1,1,0.523809552192688,299
+499520,76561199122036158,"Only complaint is about how short this game ended up being. I am a heavy enjoyer of content makes me ponder on what makes us human, on who is truly in control. A very good puzzler for sure!",1,0,0,0.5,284
+499520,76561198150029194,"If there was a neutral option, I would select that, but since I have to choose between yes or no, I'm going to have to say no. For starters, the game is way too easy (the only time I was really having fun with it was with the achievement levels and a few levels near the end), which is a big turn-off for me as that's the main reason I play these things. The arguments about consiousness and morality start off being reasonable, if somewhat generic, but devolve into basically nonsense over the course of the game in order to force a binary choice ending on you. Ava's arguments eventually turn into 'nuh-uh' to everything TOM says, and TOM starts making arguments that are less and less logical as it goes on as well.
+
+The voice acting is admittedly pretty good, but voice acting alone cannot carry a game. Also, the lack of subtitles on audio logs is frustratingly ridiculous. I'm not hard of hearing, but those things are just plain unlistenable sometimes.",0,0,2,0.551886796951294,364
+499520,76561198071839963,"I think it is nice for having the opportunity playing it in VR or in normal monitor mode. But after all it doesn't hook me so much as other games from the same genre do. For me it's a no and something that I have seen multiple times, but if you really like games like these (Sci-Fi setting + puzzler) you could go for it if it's on sale. But it just can't reach the deep of a portal game or similar ones.",0,0,0,0.5,21
+499520,76561198110189914,I enjoyed the story and the soundtrack. Some puzzles were challenging and creative but most felt uninteresting. Overall I found the whole game quite boring. Probably because of the Portal like test chamber  setting. I liked that idea in Portal but I was looking for something different.,0,0,0,0.4761904776096344,629
+499520,76561199384959265,Good,1,0,0,0.5,903
+499520,76561198040538550,"Se ragioni, ce la fai. E' quello che mi piace del  gioco. C'è qualcosa che non me lo fa ""sbranare"" come altri (Talos per dirne uno). Ci gioco, lo mollo, ci rigioco, lo rimollo... non decolla ma mi piace boh! Cose personali. Di sicuro lo consiglio perché ben fatto e mai frustrante, cioè quel giusto impegno nel risolvere i puzzle viene ripagato.",1,0,0,0.5,189
+499520,76561199625597007,Loved it ! Thank you.,1,0,0,0.5,3592
+499520,76561199198434864,tatmin edeci bir hikayesi yok full bulmaca puzzle aksiyon sıfır gram eğlenceli değil (sıkıldım bıraktım beğenmedim),0,0,0,0.5,70
+499520,76561198406907968,"I’ve had this game on my wishlist for years, but it never went on sale. At one point, it was the only game on my wishlist that wasn’t discounted, even though I really wanted to play it.
+As soon as it went on sale, I grabbed it right away!
+
+I didn’t go into this game with very high expectations; it gave me the impression of being a tech demo right from the start.
+As a game, it draws heavily from Portal and The Talos Principle, though it’s in a completely different category because the puzzles here aren’t particularly difficult, even in the later stages. I found only one mechanic a bit clunky, but nothing too frustrating.
+
+What I really didn’t expect was that the story would really draw me in! I thought it was one of those classic, lazy stories where humans are put in danger by robots and blah blah blah, but instead there’s an interesting twist in the game that made me think—and, by the way, it pairs well with one brilliant gameplay mechanics.
+I made a final choice that I never expected to encounter in the game.
+
+Kudos to the developers.",1,0,2,0.5454545617103577,403
+499520,76561197993797279,"if u like Portals then yeah ok 50/60, but this was booring as heeeel mane. puzzles were for baby baboons and too repetitive",0,0,1,0.45396822690963745,219
+499520,76561199813902220,"Oyunu çok beğendim. Bulmacalar oyuncuyu zorlamayacak şekildeydi. En başında kolaydan başlıyor, oyun ilerledikçe zorluk seviyesi artıyordu. Yapay Zeka ile yapılan konuşmalar oyunun daha keyifli olmasını sağlıyordu. Bana göre sürükleyiciydi, hiçbir anında sıkıldığımı hatırlamıyorum. Bu türü sevenlerin mutlaka oynaması gerekir. Herkese tavsiye ederim.",1,0,0,0.5,224
+499520,76561198881898757,"Prostě ne.
+
+I po třetí kapitole hra působí jako tutoriál. Hádanky jsou jednotvárné, monotónní, prakticky není možné se zaseknout. Hodnotím velmi kladně vizuální styl, ale stereotypní level design mě nedonutil pokračovat i navzdory tomu že se mi zamlouvá filozofický aspekt hry. V určitých částech hry CHYBÍ TITULKY, což je vážný problém pro potenciálně sluchově postižené hráče a i když vývojáři to označují jako ""artistic choice"", je velmi jednoduché se domnívat, že skutečný důvod proč tam ty titulky nejsou, je čistá lenost. Technický stav hry je mimochodem také velmi zajímavý, dvakrát jsem hru musel během hodiny restartovat, protože mi z nepochopitelného důvodu přestal fungovat zvuk.",0,0,0,0.5,50
+499520,76561198796703520,"-- GAME --
+And interesting short story game with a vairty puzzle elements to enjoy.
+
+-- ACHIEVMENTS --
+Relaxed 100%, some missable achievments.
+
+-- RAITING --
+★★★★★★★☆☆☆ | Story | 8/10
+★★☆☆☆ | Achievment Difficulty - easy
+(missable Achievment)
+
+- Drei",1,0,0,0.5,163
+499520,76561199066074845,"Очень красивая графика! приятная английская озвучка, нет русской озвучки. Несложные головоломки. Оценка 9 из 10.",1,0,0,0.5,37
+499520,76561198958976868,"Interesting qualifications required to pass The Turing Test...
+Good puzzle solving game. General philosophical discussions. But if you enjoy these types of games, I highly recommend The Talos Principle I and II.
+",1,0,0,0.5,601
+499520,76561199142219151,"It is a very good puzzle game - sort of Portal but without the portals (or humour)
+
+So far nothing too taxing, but a good way to get your brain engaged",1,0,0,0.5,195
+499520,76561198068230096,"Some great puzzles, new ideas, good times",1,0,0,0.5,8046
+499520,76561197970396484,Its a fun little 3d platform puzzle game. It do have some annoying bits like the light walking bridges is still visible even if you can't walk on them. It takes a little while to get used to it. Other then that its fun and the story keeps your interested too find out more. Wish the story was even more in the front line and not secondary...,1,0,0,0.47999998927116394,208
+499520,76561198248470850,"Pretty good game, some parts, especially the ending is a bit weird almost like it was rushed, but a good game non the less, I will give this game an 8 out of ten, I do recommend it, and will say if you love Portal, games that challenge your understanding of logic, and love puzzle games, I do recommend this one.",1,0,0,0.5,408
+499520,76561198851521251,"Для детей
+5 из 10",1,0,0,0.5,249
+499520,76561198202212706,"An excellent puzzle game with an equally excellent story. It's on a similar level to SOMA with the ethical questions it poses and forces you to think about, but does it in a way that is not overwhelming. It also has by far the coolest and most creative fourth wall break I've ever seen in a game (optional room 2.) I would describe the puzzles as slightly more difficult than those found in the Portal games, but still very solvable. I would expect a first playthrough to take between 5-10 hours depending on how quickly you solve them.",1,0,4,0.5452273488044739,476
+499520,76561198076696709,"Чиловая незамысловатая бродилка головоломка. По будням после работы играешь без напряга, просто отдыхаешь.",1,0,2,0.52173912525177,673
+499520,76561198126845306,"I purchased The Turing Test after having had such a good time with puzzle games such as Talos, The Witness and the 2 Portal games. Turing seemed to be right up my street. And it was... kinda...
+The gameplay is smooth, the mechanics and functionality grow as the game progresses and the levels keep coming.
+And coming. And... that's sort of it really.
+As you can probably tell by my yawning prose, I got bored with it. It gripped me for a few levels but by the time I'd reached half-way, I was just hoping to reach the end.",0,2,0,0.4416761100292206,2757
+499520,76561198079870819,"Cool game. If you liked Portal, you’ll probably enjoy this one. Interesting mechanics and gameplay.7/10 for me.",1,0,1,0.5,579
+499520,76561198072271521,"Головоломка супер!
+- Коротковата.",1,0,1,0.5,363
+499520,76561197993180301,"Really good first-person puzzle game, if you enjoyed Portal, The Talos Principle, or Quantum Conundrum. Compared to those it is linear (Talos Principle isn't), has mild physics elements (Quantum Conundrum was heavily physical), and doesn't really have 'combat' (Portal and Talos Principle have turrets/damage).
+
+There weren't any weird puzzles that made me go to the internet to figure out what they wanted in the main story, and the optional curveballs were reasonable anyway.
+
+I enjoyed the story/dialogue which is rare for me. It's not funny like Portal, but I liked the story and philosophical bits.
+
+Bonus points: story is told while you have player control, bonus story is optional (I liked it but if I didn't I'd want this), and you can jump to previously-accessed levels so if you've missed something optional you can go back whenever.",1,0,2,0.512499988079071,889
+499520,76561198309678133,故事老套但编排得还不错， 解谜虽说不太难但有点烦人， 后面几关干脆就照攻略速通了，实在没时间去烧脑细胞。遇到了字幕开启后还是没有的 BUG，恢复默认设置后就有了。,1,0,0,0.5,537
+499520,76561198744916482,"Good puzzle game, 6-8 hours long, but it misses that special touch to make it reach Portal level. The game never derails of its story, you pretty much see it coming from start to finish (if anything, it's even more of a let down because the story is actually good !). The puzzles are good but that's about it, there's not as much ""thinking outside the box"" as in Portal because the game rarely makes you use the puzzle mechanics in ways that feel ""not intended to"" (which is probably the thing I like the most about Portal). 7.8/10",1,0,2,0.512499988079071,467
+499520,76561198044457902,"クリア日: 2017/06/27
+👍️",1,0,0,0.5,445
+499520,76561198041886796,fun puzzle game!,1,0,0,0.5,570
+499520,76561197970379991,"Very short, very easy, but good.",1,0,1,0.512499988079071,314
+499520,76561198329287050,"je regrette mon achat, je déconseille.",0,0,0,0.5,266
+499520,76561198312210475,are you a robot?,1,0,0,0.5,139
+499520,76561198009932856,"Fantastic Premise Let Down in Several Areas 
+
+I'm a big fan of realistic sci-fi. I in particular love the theories about Europa. I was a massive fan of the Europa Report movie. So the premise of this game is absolutely fantastic. Taking place on the planet Europa you wake up in orbit and than are quickly shuttled down onto the planet.
+
+There are so many issues with this game though that really take away from the story element and immersion. It is a puzzle game at heart but to stand out from the games its clearly inspired by it should have leaned better into the setting.
+
+Issue one is that it feels like a very early prototype of a VR game but VR doesn't exist for it. If you've never done VR before they typically allow you to pick up all kinds of objects to both test handling them and seeing the physics. Or seeing interesting fluid mechanics. This game just has so much random garbage you can pick up and none of it means anything.
+
+Not a single item has any secret code or hidden puzzle element. Probably roughly 200 items you can pick up and rotate and spin but none of them do anything.
+
+There's no alternative paths or any bonuses for finding the secrets. The ending gives you a small amount of freedom but it almost feels like it doesn't matter because you get zero closure on your choice you make at the ending. It just instantly jumps to credits. There could have been so much more done for the ending. It had such a good build up of implications to your final choice.
+
+This is a game that really could have benefited from a bit more dialogue and a little bit more meaning to your actions. There's a part where you can turn on a drill that doesn't seem to affect things in any way shape or form.
+The walking speed is also far too fast to build a sense of wonder in a space game. It has the run speed of something like a mirrors edge platformer.
+
+The puzzles were decent. Not fantastic but none of them overstayed their welcome. What you do get is interesting enough as a game. It's not that long so it's an enjoyable short ride. But it could have been so much more.",1,0,1,0.5,388
+499520,76561199274611640,"Достаточно крутая игра, хоть и немного быстрая в прохождении, если не оставлять игру на паузу а играть во время игровой сессии, её можно пройти меньше чем за 2-3 часа. Игрой доволен, заставляет местами подумать, особенно в доп. комнатах, за прохождение которых можно получить достижение",1,1,1,0.523809552192688,493
+499520,76561198107410248,"비슷한 퍼즐 게임들을 여럿 해봤는데 그것들에 비해서는 조잡한 편인 것 같아서 퍼즐들이 재미가 없었습니다. 스토리 소재도 그냥 평범한 게 딱히 와닿지도 않고, 할인 때 구매했음에도 가격 대비 좋았던 점은 플레이 타임밖에 없는 것 같아요. 할인 해도 추천하고 싶을 정도는 아닙니다.",0,0,0,0.5,341
+499520,76561198147076079,Good game but WOW that ending is underwhelming,1,0,0,0.5,373
+499520,76561197973597217,"Interesting puzzle game. It takes about 3-4 hours to finish, and it's quite likely you will get stuck on some crazy puzzles.
+
+Similar to Portal, but you're using energy orbs (with varying effects) to activate (or deactivate) doors, platforms and other devices. Gets quite challenging about midway through when Cameras and bots are introduced, each with unique abilities.",1,0,3,0.5475112795829773,660
+499520,76561197971700211,A sort-of love child of Portal and the Talos Principle (TOM sounds suspiciously like Elohim (the voice actors are different though)). Nice logical puzzles married to an interesting back story (which you can completely ignore should you so wish). The puzzles are not overly taxing (especially if you're coming from The Witness or Talos) but If you like logical puzzle games then you'll still like this.,1,0,1,0.5,249
+499520,76561199212056701,我莫名想到了传送门。,1,0,11,0.6389386653900146,238
+499520,76561197994147138,"If you liked The Talos Principle and / or the Portal games, you will likely enjoy this too.
+
+",1,0,0,0.5,825
+499520,76561197970437273,"I enjoyed this game but, I could only play for short spurts because I kept feeling sick. I was not playing in VR, yet I felt like I was playing on the old Oculus Rift. I felt queasy and this has only happened once or twice before outside of VR.
+I'm not sure what they did to this game to make me feel this way. It certainly wasn't low frame rates since I have more than enough graphics power to run it at a very high frame rate.
+It's a shame, because I enjoyed the puzzles but, I'm not willing to continue just to feel sick again.",0,0,1,0.5,281
+499520,76561198074467128,"The Turing Test parte de um tema central interessante, abordando questões sobre inteligência artificial, consciência e livre-arbítrio, mas não consegue explorar essas ideias com tanta profundidade. A história até levanta discussões relevantes, porém acaba sendo esquecível e não deixa um impacto duradouro.
+
+Os puzzles são, sem dúvida, o grande destaque. Eles são bem elaborados, variados e mantêm um bom ritmo ao longo da campanha. Nenhum chega a ser frustrante, e a progressão das ideias é bem feita, sempre introduzindo novos conceitos de forma gradual, o que torna a experiência bastante agradável para quem gosta do gênero.
+
+A ambientação cumpre seu papel, embora não seja particularmente marcante. O jogo se inspira fortemente em Portal — e faz isso com competência —, mas acaba ficando um pouco à sombra dessa referência, sem desenvolver uma identidade própria mais forte. Ainda assim, tudo funciona de forma sólida.
+
+No geral, é um jogo competente e fácil de recomendar para fãs de puzzles em primeira pessoa. Não é uma experiência transformadora nem especialmente memorável, mas entrega exatamente o que se propõe: bons desafios, ritmo consistente e uma jornada agradável do começo ao fim.
+
+[b]Nota: 7/10[/b]",1,0,0,0.5,339
+499520,76561199439479010,"Overall, the story was interesting and I liked how it ended. The puzzles are pretty easy ngl, but they're fun. My only complaint is that many chambers don't seem as optimized as they could have been. There was one level in particular in chapter 7 I was able to completely skip using most of the equipment that was given and passed the chamber in like 2 minutes, with little thought involved. Also, you can get through a lot of chambers with excess energy balls (or whatever they're called), and the devs could have tightened up the requirements to pass the chambers imo. Or perhaps they could have added a more difficult game mode. Still a unique and cool experience if you like puzzle games and/or some philosophical thinking. 8/10",1,0,1,0.5333333015441895,265
+499520,76561198140069650,не зря дискретную математику носырева преподовала,1,0,1,0.523809552192688,482
+499520,76561198132942186,"No spoilers in this review. Very disappointing ending. The final third of the game felt rushed both in terms of story and puzzles. Overall, there were some interesting elements but no way near enough redeeming qualities. Puzzles were not challenging, level design was poor, mechanics were inconsistent, UI/UX was poor, music was repetitive but acceptable, voice acting was acceptable, the writing dragged and got worse as the story progressed. While there was a hint at something interesting early on nothing really came to fruition, the game felt like it had no cohesion, more like it was cobbled together and the devs hoped for the best. Completely linear and at times frustrating experience given the protagonists' responses and lack of choice. Overall, disappointing, despite the 80% off sale price.",0,1,1,0.523809552192688,863
+499520,76561198371515870,"jogo de puzzle de qualidade, zerei e platinei no mesmo dia",1,0,1,0.523809552192688,277
+499520,76561198079644121,"A thought provoking puzzle game that leans more on story than difficulty. The relationship between Ava and T.O.M is portrayed in a way that leaves interpretation open to the player, while staying true to the core message. I enjoyed this game. While on the lighter side of challenging, it was a wonderful exploration of ""What if's?"" and the definitions of "" Right or Wrong"". In the end the game did it's job. Gave me a good time. Solid game.",1,0,0,0.5,3436
+499520,76561198137111700,"Thought provoking story in the style of ~2010 games like Portal, Amnesia, etc.",1,0,1,0.5145630836486816,62
+499520,76561197977158883,"https://steamcommunity.com/sharedfiles/filedetails/?id=3635000916
+
+[h1][b]ANÁLISIS DE [i]THE TURING TEST[/i]:[/b][/H1]
+
+The Turing Test es un videojuego de puzles en primera persona editado y desarrollado por Bulkhead, que está ambientado en un entorno de ciencia ficción que explora temas como la conciencia, la inteligencia artificial y la ética, con una estructura de niveles con pruebas que me ha recordado al genial Portal pero con un enfoque más narrativo, serio y filosófico.
+
+[h1]Argumento:[/h1]
+
+La historia nos pone en la piel de Ava Turing, una ingeniera de la ISA enviada a Europa, una de las lunas heladas de Júpiter. Su misión es investigar la desaparición del personal destinado en la base, tras ser despertada de su sueño criogénico por T.O.M. (Technical Operations Machine), la inteligencia artificial de la estación. Al descender, Ava descubre que la tripulación ha bloqueado el acceso a la base con una serie de acertijos lógicos que solo un humano puede resolver, transformando la estación en un Test de Turing a gran escala.
+
+Lo que comienza como una misión de rescate evoluciona hacia un intenso debate sobre el libre albedrío y la moralidad. A medida que avanzamos, descubrimos el hallazgo de un organismo alienígena con propiedades capaces de prolongar la vida, un descubrimiento que ha generado una fractura ética entre la ciencia y la supervivencia.
+
+La trama cuestiona constantemente si Ava mantiene el control de sus actos o si es un peón manipulado por la fría lógica de T.O.M. Inspirándose en el concepto original de Alan Turing, el juego utiliza sus puzles como forma para reflexionar sobre qué nos hace humanos y si la obediencia a una IA es compatible con la conciencia propia. 
+
+El juego está completamente en inglés, por suerte tenemos disponible una traducción para los textos (la que comparto arriba del todo).
+
+[h1]Jugabilidad:[/h1]
+
+La vista es en primera persona, lo que refuerza la sensación de estar realmente dentro de la piel de Ava y dentro de la base. El control es sencillo y directo, muy similar al de cualquier shooter pero sin armas: nos movemos con agilidad por los escenarios, aunque el núcleo de todo es el manejo de la EMT (Energy Manipulation Tool). Esta herramienta nos permite absorber y disparar núcleos de energía para activar circuitos. A medida que avanzamos, la mecánica se va volviendo cada vez más profunda con la introducción de diferentes tipos de energía, algunas constantes y otras intermitentes, además del control de cámaras de seguridad y la manipulación de robots.
+
+Los puzles están diseñados para fluir con la narrativa; cada habitación superada suele recompensar al jugador con un fragmento de diálogo o una grabación que expande el lore del mundo. La curva de aprendizaje es progresiva, aunque es cierto que la dificultad de los puzles resulta algo aleatoria, alternando retos ingeniosos con otros más simples.
+
+
+[h1]Gráficos:[/h1]
+
+Visualmente, el juego utiliza el Unreal Engine 4 para crear una estética muy limpia y técnica. Presenta un diseño de interiores puramente ""espacial"" basado en los típicos pasillos blancos, laboratorios perfectamente organizados, zonas de pruebas y salas de control. La iluminación también está muy lograda, consiguiendo un gran contraste entre la calidez de las zonas de vida y el tono más frío y aséptico de los laboratorios.
+
+Cada sala de prueba es visualmente clara y muy minimalista, utilizando colores y luces para indicar qué elementos son interactivos, como enchufes, puertas o interruptores. Aunque el estilo puede parecer algo repetitivo debido a la similitud entre muchas salas, esa uniformidad es intencionada; ayuda a que el jugador se centre totalmente en los puzles y no se distraiga con decorados excesivamente cargados.
+
+[h1]Sonido:[/h1]
+
+En cuanto al sonido, la banda sonora es de una gran calidad. Ha sido creada por Sam Houghton y Yakobo, y está compuesta por 17 temas ambientales que se adaptan muy bien al ritmo del juego y a las partes narrativas. Esta música, sutil y ambiental, refuerza la sensación de aislamiento espacial y aumenta la tensión en ciertos momentos clave. 
+
+ Tenéis la banda sonora disponible en Spotify, aquí tenéis el enlace: [url=https://open.spotify.com/intl-es/album/2BwZODwniBiY5DFU35YOr0?si=C6eutiu7QrmG-CVtNhU4UA]The Turing Test (Original Game Soundtrack - Spotify)[/url])
+
+Por otro lado, los efectos sonoros están muy bien cuidados: el sonido de las puertas, los mecanismos y los pasos en los pasillos están bien implementados y favorecen la inmersión. A esto se suma el voice acting de la protagonista y de T.O.M., cuya frialdad lógica y racional tiene una gran calidad interpretativa, reforzando la sensación de estar realmente dentro de la estación. 
+
+A modo de resumen, mi lista de pros y contras:
+
+[h1]PROS:[/h1]
+
+✅  Gráficamente luce muy bien
+
+✅ La ambientación
+
+✅ Historia profunda, con un argumento de lo más interesante
+
+✅ El voice acting (eso sí, en inglés)
+
+✅  Por momentos nos recordará al genial Portal
+
+✅  Muy entretenido
+
+✅  Encantará a los amantes de los puzles
+
+✅  Los diálogos 
+
+✅  La banda sonora es muy buena
+
+✅  Tiene niveles opcionales
+
+✅  Tiene logros Steam
+
+✅  Tiene sistema de guardado de la partida en la nube Steam Cloud
+
+✅  Tiene cromos y artículos de la tienda de puntos de Steam
+
+[h1]CONTRAS:[/h1]
+
+❌ Se siente demasiado parecido a Portal o The Talos Principle sin llegar a aportar una mecánica revolucionaria propia. 
+
+❌  Completamente en inglés (suerte que tenemos disponible la traducción de ClanDlan) 
+
+❌  Aunque gráficamente luce muy bien, hay poca variedad visual. Al transcurrir todo en una base espacial, los entornos pueden sentirse repetitivos tras unas horas
+
+❌  El DLC solo incluye un artbook en pdf y la BSO (que podemos encontrar en Spotify) 
+
+❌ Es demasiado lineal 
+
+❌  DirectX 12 da problemas en algunos equipos
+
+❌ La dificultad de los puzles no es progresiva, resulta muy irregular
+
+❌  Algún que otro bug gráfico
+
+❌  Hay varias cosas que no tienen subtítulos, por lo que la traducción de poco sirve en ese caso
+
+❌  Algunos objetos del entorno se pueden manipular pero sin utilidad alguna
+
+❌  Baja rejugabilidad: Una vez resueltos los acertijos y conocido el secreto de la trama, no hay muchos incentivos para volver a jugarlo. 
+
+[H1]CONCLUSIÓN:[/H1]
+
+The Turing Test es mucho más que un clon de Portal. Es un examen sobre la condición humana y un thriller psicológico que utiliza los puzles como un medio para contar una historia profunda. Aunque su desafío técnico no sea el más elevado del mercado, su impacto emocional y sus preguntas éticas perduran en la mente del jugador mucho después de cerrar el juego. Es una compra obligada para cualquier fan de la ciencia ficción seria. 
+
+Si mi análisis te ha gustado o te ha servido de ayuda, agradecería que dejaras un voto positivo para que pueda llegar a más gente. También se agradecen los premios. ¡Gracias por leerme! No dudéis en dejar vuestros comentarios o dudas, responderé lo antes posible. 
+
+[url=https://store.steampowered.com/curator/34246137-Raziel_BPN]>>>¿Quieres jugar gastando poco dinero? ¡haz clic aquí para seguir mi página de mentor si quieres ver mis análisis de juegos gratuitos, baratos o en oferta!<<<[/url]",1,0,16,0.7034944891929626,442
+499520,76561198209574005,Boring,0,0,1,0.523809552192688,8
+499520,76561198023822307,"Game crashes on start up. I spent 3 hours trying multiple fixes that were online, but none of them worked for me. I will gladly update my review if they fix this issue.",0,0,1,0.4690563976764679,7
+499520,76561198019428899,Хорошая и залипательная игра. И музыка прям у неё шикарная!,1,0,1,0.5,982
+499520,76561198022502424,The game was a bit short but the puzzles were really fun except two that did not really explain well how they were meant to be solved.  I'd often look at the soltuions and seek hints I missed to understand how I solved it. Anyway just play it.,1,0,0,0.5,355
+499520,76561198063845874,Me like it!,1,0,1,0.4954128563404083,670
+499520,76561198037940027,Отличная игра-головоломка. Крепкий сюжет.,1,0,1,0.5,328
+499520,76561199365088229,"LOVED IT !!!
+This game totally made me THINK OUTSIDE OF THE BOX they kept repeating that through the game but damn for the final part I did had to stop and think for quite some time to finally decipher how to solve the final puzzle and OH GOD the extra puzzles that the game offers between the main ones GOSH so ♥♥♥♥♥♥♥ mind challenging LOVED 'EM !!! and GOD the plot twist that the story has SO AWESOME made me reflect about the whole concept ""machine-human"" that the game builds as you progress, I hope they get to make more games like this otherwise I'll have to keep replaying!
+Please more mind dares like this.",1,0,0,0.5,1168
+499520,76561197998322002,"This is a series of test chambers were you manipulate energy balls to activate doors, platforms, etc; strung together by a story that is nothing more than serviceable. The game seems more interested in dishing out new gimmicks than using them for a challenging chamber. Overall, puzzles stay short, feeling like a never ending tutorial leading up to a really great game that never comes. Few levels are complex enough to ever make you scratch your head for an 'ah ha!' moment. I played on Deck, it ran great and everything was doable including the couple of quick reaction puzzles in chapter 6. The game isn't long, I beat it 100% in one playthrough, so my time at review is a reflection of the play time. I have a good brain for these types of logic puzzles (compared to abstract, creative association puzzles, which is deeply ironic considering the story of the game) If Portal type puzzles take a bit longer for you your playtime will reflect that. 
+
+Speaking of, it's hard not to compare to Portal, it's obvious inspiration, but Portal is the pinnacle of what this type of game can be, and so when I say it falls short of Portal with its clunkier controls, weak story, and less cleaver puzzles, it doesn't mean it's bad at any of those. It's not a master piece. Play it for the puzzles.
+
+As an aside, the game doesn't push an agenda or anything, but the ISA managed to find a crew so diverse they hardly have anything in common. They're not even characters in the game",1,0,1,0.5074626803398132,461
+499520,76561198080027741,"An immersive game with excellent visuals and sound design. The mechanics are easy to grasp, but the puzzles are anything but simple. The difficulty level still requires some thought, but you're unlikely to be stuck on a level for more than 20 minutes.
+
+The storyline is simple, but you don't know/guess everything right away as you discover what is happening throughout the game.
+The few documents found within the game demonstrate genuine thought and research into the themes explored (morality, free will, the common good, selfishness, and emotions). Though most of these reflexion will be found in the dialogues which are well-written, neither too long nor too short, and encourage reflection. 
+An excellent game.",1,0,0,0.5,606
+499520,76561197980890182,Great puzzle game with a nice story,1,0,0,0.5,379
+499520,76561198028199661,"Turing Test is about Eva Turing waking from her cryogenic sleep. Her mission is to start when the base on Europa, a moon on Jupiter is completed by her team. T.O.M the project AI and guide wakes her. The base is ready but the team is missing. She shuttle lands on an icy Europa base. What starts as a simple search and rescue mission turns into a horrifying mystery of humans and machines, Control and moral ethics. Of humans controlling machines/AI or vice versa. As reasons of the vanishing of her team starts getting clear to her shock, the question of who is controlling whom and what game is being set up by her employees ISA gets darker. 
+
+The story is decent graphics good. BUT the game is very boring. You have a gun but  it is an Electro Magnetic Tool EMT gun to pull out or fire energy balls to open or close doors. The missing crew members have changed the base design leaving a series of puzzles that need both human and AI to solve. These are all engineering puzzles where you must use EMT guns, move things around, figure out sequences to open - close doors, use of cranes, magnetic pullers, lifts etc to move past the areas in the base towards the final area where the answers are. Imagine an Alien Isolation game but with no aliens to kill? Chapters 1-4 are boring. From 4 end things get interesting when Eva learns she has AI chips implanted in her allowing control of her actions and she can also enter use mechanical things like robots, drones, security cameras, cranes using that AI. So things get interesting as puzzles get complex and you use vast teleportation in objects to help activate switches. Working parallel merging with robots to unlock puzzles at other ends etc. You use massive destructive guns only thrice. Twice to break cranes, containers to clear your way. Last 3rd use is at game end in the epilogue where you make a moral choice for 1/3 possible endings. All 7 levels have a side quest a side area in each map at halfway point a small phase door in connecting corridor where you solve mechanisms to find the truth of the mystery of what happened to your team. Notes, objects, audio logs etc. The whole base is now a designed puzzle. 
+
+Graphics is good. There is a Star Trek, Star Wars ship interior feel but its repetitive same old type rooms ♥♥♥ puzzles one area after another area. They should have throw in some gunfights with aliens. Its a Star Trek like walking puzzle game in end. The length of game does not fully do justice to story as there is nothing different to do thats what makes it boring and unsatisfactory. Still its worth 1 play if one has nothing better to do. The consistent blue, green, red lighting in the whole game rooms induces some motion sickness. It may take you 2 hours to 5-6 hours depending on how much you can move past rooms fast. Best buy cheap at sale.",1,1,12,0.6424008011817932,1273
+499520,76561197971245404,"There are minor spoilers in this review - nothing major.
+
+I had this in my backlog for years and was really looking forward to playing it, given how many great reviews it had.
+The game, regretfully, turned out to be an immense disappointment.
+
+First, the level design and visual narrative.
+The game presents itself as serious, realistic science fiction - immersive and grounded.
+At the same time, the environment looks silly and implausible. The space station has large, empty hallways, with water barrels randomly placed around. The protagonist wakes up from cryosleep already wearing her space suit. A few minutes later, she flies to a nearby moon - without changing, eating, or making any sort of preparation.
+The rare areas that aren’t puzzle rooms are littered with paper notes scattered everywhere. Almost all of them exist purely for exposition or shock value, with no logical reason to be there.
+There’s a somewhat plausible explanation for the puzzle rooms themselves (though it’s a stretch if you think about it), but there are also secret puzzle rooms whose existence makes absolutely no sense within the story. They’re nonsensical.
+Overall, the level design and narrative do a very poor job of keeping the player immersed.
+
+Second, the actual gameplay - the puzzles.
+The game consists of 70 regular puzzle rooms and 7 optional ones. The puzzles are trivial: out of 77 in total, maybe 8 took me longer than a couple of minutes to solve. Some rooms can hardly be called puzzles at all - they simply ask you to move one or two objects from point A to point B.
+Rarely, a puzzle requires some out-of-the-box thinking, but even then, once you grasp the gimmick, it’s over - the idea is never developed or expanded into something more challenging or interesting.
+Some puzzles even contain completely unnecessary, skippable rooms because of holes in their design.
+It’s simplistic, repetitive, and can’t compare to any 3D puzzle game like The Talos Principle, Antichamber, or Superliminal. However, it might still entertain people who’ve never played a puzzle game before.
+There’s also a mechanic that lets you “pick up” random small decorative objects and rotate them, admiring low-poly 3D models with blurry textures. This feature adds nothing to the gameplay; removing it wouldn’t change a thing. Why is it even there?
+
+Finally, the story.
+The central plot has potential - I won’t deny that. A competent writer could have turned it into a compelling, thought-provoking narrative.
+However, like everything else in this game (aside from the voice acting), it’s executed poorly.
+The astronauts (the protagonist included) behave like people who know nothing about mechanics, biology, or programming - we’re talking middle-school-level understanding. They ask dumb questions and make immature, naive statements. They act recklessly and childishly, with zero responsibility, accountability, or logical thinking.
+The plot itself has several glaring holes in logic. It would take only a few minutes to fix or at least acknowledge them through dialogue or logs, but the writers don’t even try.
+The story is told through conversations between the protagonist and an AI assistant, a few audio recordings, and a handful of emails. The emails convey most of the actual story - but there are only two or three of them. The audio logs have terrible quality, full of static, and aren’t subtitled. They also feel misplaced - half of them supposedly come from locations where they couldn’t have been recorded.
+The dialogues are well-acted but painfully simplistic. The protagonist talks with the intellect of a high-school girl rather than an engineer-astronaut, and the exchanges feel artificial. Near the end, the AI starts spouting a string of obvious philosophical fallacies, presented as fragments of profound wisdom.
+
+It’s a bad game with a low budget, a primitive story, and basic puzzles that might keep you busy for about four hours.
+I regret buying it and strongly recommend you don’t repeat my mistake. Play The Talos Principle instead - that one is genuinely smart, well-made, and has great puzzles.",0,0,1,0.5111110806465149,406
+499520,76561198042399177,"Clunky controls and light story. And that's about it for the cons.
+
+Phenomenal atmosphere, wonderful puzzles and overall fascinating plot. A breeze to play if in the right mood for solving tests",1,0,5,0.5994287729263306,469
+499520,76561198137900314,"Задачки не особо сложные, в конце обилие предметов скорее даже сбивает с толку, так как проходиться элементарно.
++ Какая-то проблема, игра полностью зависает на пару минут при каждом перезапуске",1,1,0,0.5,239
+499520,76561198025639691,"На разок пойдёт.
+Головоломки не сказать что сложные, но и обучения нет, просто задачи со временем усложняются.
+7 тестовых камер из 10.",1,0,2,0.525547444820404,306
+499520,76561198215453912,"没有中文。而且可能要做汉化并不容易。
+画面我觉得没问题。优化就说不出来了，毕竟我是2025年才玩。
+音乐没有什么强烈的印象但是很合适。
+时长很短。
+难度我觉得算一般偏简单的。
+流程中的氛围和各种细节给剧情渲染的很棒，但是结局戛然而止，绝对的扣分项。
+游戏后段引入的新机制绝对不适合晕3D人士，绝对不适合。",0,0,1,0.523809552192688,555
+499520,76561198032304644,I like the visuals of the game and how relaxed it is.,1,0,0,0.5,646
+499520,76561198209474560,"The puzzles were challenging and I was enjoying the story. However there's a breathing effect on the FOV so it zooms in and out constantly. Running around solving puzzles it wasn't too bad, but trying to read a bunch of tablets that are also pulsing in the FOV, while the room behind them is also separately pulsing, just made me feel so sea sick. By the second log I had a migraine and I still feel so nauseous. 
+
+Sad I won't get to finish this game because of a stupid effect that should've at least been a setting I could turn off.",0,0,0,0.5,113
+499520,76561198411547595,"Неплохой пазл в духе Portal на один-два вечера с зачатками занимательного сюжета (даже две концовки есть). Во время прохождения возникают довольно интересные диалоги между главной героиней и ИИ, помогающем ей в поисках, ну и небольшая загадка в начале, для интриги. Стоит игра дёшево, и она наверняка понравится фанатам головоломок",1,0,4,0.5602931380271912,318
+499520,76561198780808246,Just finished My 1st playthrough. I was hooked on the puzzle/Mystery of The test But looks like i passed The Turing Test. Im human lol. I give it a 4 out 5. 💯,1,1,1,0.523809552192688,681
+499520,76561198067315270,"Encontrei esse jogo na minha biblioteca e resolvi testar. Simplesmente superou qualquer expectativa que poderia ter, com quebra-cabeças desafiadores mas não o suficiente para que você fique frustrado ou precise procurar online. Mecânicas simples mas que a o mesmo tempo são o suficiente para que tenha um bom tempo de jogo",1,0,0,0.5,354
+499520,76561198165362994,"Acho bem divertido quando o jogo tem essa mecânica de Portal, que é o puzzle da caixinha pra abrir a porta e avançar pro próximo nível da caixinha pra abrir a porta, e apesar de The Turing Test ser ridiculamente mais fácil que Portal ainda consegue ser divertido e rápido de ser finalizado. 
+A história não é um dos pontos fortes do jogo, eu pelo menos acabei criando mais afinidade com a IA do que a própria protagonista, o que resultou num final muito a lá caralha (mesmo que todos os finais tenham o mesmo resultado praticamente).
+As partes que mais achei divertidas em um todo foram os puzzles opcionais, esses sim são interessantes de resolver e requer um pensamento menos preguiçoso comparado aos demais.
+O jogo em si não é ruim, dá pra se divertir e passar o tempo, mas não chega aos pés de Portal tanto em questão de história quanto de dificuldade e recompensa na resolução de cada puzzle.",1,0,1,0.5289855003356934,825
+499520,76561198025089345,"<图灵测试>烧脑类游戏，可以当作类似精简版传送门的游戏。
+
+···主角和传送门的一样在封闭实验室里做实验···
+···武器也是一把枪，能吸收能量来开关门的枪···
+···不过游戏关卡流程会比传送门更短一些···
+
+可以当作是传送门的精简版？差不多的游戏，游戏质量很不错，可惜鲜为人知！？
+可能是这个AI汤姆不够卡哇伊吧···哈哈哈···
+
+有汉化，但只有字幕汉化。
+主菜单没汉化，所以需要在设置里把字幕打开。
+游戏隐藏房间也有录音，录音是没有字幕的。
+不过也不影响理解剧情。
+
+游戏启动会一起启动steamvr，这游戏确实适合VR玩···
+
+以我的智商肯定没法通关咯···
+但我有万能的B站，里面有速通教程和汉化包。
+
+看了一下6大关卡，每个关卡10小关一共60个关卡···
+不到半小时的速通视频···
+依葫芦画瓢我也画了···9个小时···emmm···
+不过按照视频的步骤可以轻松打开所有隐藏房间全成就。
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3575683403
+https://steamcommunity.com/sharedfiles/filedetails/?id=3575684822
+https://steamcommunity.com/sharedfiles/filedetails/?id=3575685060
+
+剧情流水账：
+[spoiler]
+开幕：
+太空站内，主角艾娃被机器人汤姆唤醒，由于450小时前和地面失去联系需要艾娃前往地面调查。
+从太空站的时间能看到当前是2250年5月13日。
+艾娃获取EMT（Energy Manipulation Tool）【能量操纵装置】后乘坐飞行舱进入木卫二地面基地。
+
+进入基地就开始任务关卡了，每个通道墙上有关卡房间号。
+
+主角主要操纵EMT获取能量球或拾取地面的能量装置开门关门并进入新的房间。
+
+章节1：
+汤姆称地面基地被改造调整过，现在变成了图灵测试房间，这个测试就是用来判断测试者是否是机器人，只有真人才能通过图灵测试，机器人过不了···
+现在汤姆失去了基地的控制权且通讯设施故障，艾娃现在需要通过图灵测试房间进入基地深处，地面人员应该在那。
+汤姆有2套心智模型，一套在卫星上作辅助，一套主心智在主导基地，系统断开后两套心智断开了，而汤姆还在学习如何控制基地系统。
+
+到达指挥中心可以查看地表人员状态，但同样空无一人。
+指挥中心右侧门进入第二章：
+
+章节2：
+任务过程中艾娃从汤姆那得知，丹尼尔几天前失踪了，克里斯事故狗带了，希望莎拉，米哈伊尔，索奇状况稳定。
+食物供给之前出了问题，但他们解决了，一年前成功建设了可持续的小型人工生态系统。
+汤姆的任务是督导任务，由于通讯距离问题不适合太空总署直接下达命令，汤姆的核心就在木卫二上可以直接下达命令。
+地球上有汤姆的双胞胎叫麦可，他总会执行一定的测试任务，当测试不通过就会使用初体替换掉现在的他，以及图灵测试只是使用一种欺骗手段进行检测，比如一个不会说中文的人使用说明书说出某句中文会让别人以为他会中文，但实际他不会。
+艾娃能够查看汤姆的资料并停止汤姆的运行，但汤姆称它也可以这么对主角。
+
+通过章节2的10个关卡能够进入员工宿舍，但这里也被废弃了，直接通过通道进入第三章。
+
+章节3：
+任务过程中艾娃得知人类上太空并不安全，因此太空总署团队相信电脑能执行所有在木卫2上的任务，人类派机器上月球因为距离较近，但木卫2太远导致通讯延迟，那为何不能从卫星上远程控制机器，此时汤姆突然意识到可以这么做，但也要等到通讯恢复。
+汤姆之所以不能通过图灵测试是因为他不允许横向思考但允许一部分系统进行进化演算，这个演算法成为创意，但电脑的创意就是尝试一切直到成功。这和人类的思考不一样。
+汤姆已经有一些解决方式，但这个解决方式并不是很好，比如可以把箱子丢到窗外那能直接把艾娃直接丢到窗外吗？
+艾娃已经6年没见过船员了，当太空总署发现木卫二有生命时，他们必须派遣地面人员处理，地面工作人员能更好地处理新的知识，这是电脑做不到的。
+后续汤姆收集到本地资讯得知是船员自己切断了通讯系统，因为他们和汤姆的意见不一致，船员打算破坏汤姆系统又不想被发现于是藏起来了。
+ 
+章节4：
+汤姆说船员们破坏了通讯系统并锁定了汤姆的系统设施，需要艾娃帮忙恢复。
+汤姆作为太空总署部署的机器应该主导主体权威，船员们违反规定想把汤姆赶走，于是他试图反击，图灵测试是船员们赋予的枷锁，而艾娃则是解锁的钥匙。
+此时艾娃有些当心汤姆的状态想查看系统诊断，但汤姆想让艾娃前往生物实验室。
+继续解锁新房间艾娃会听到莎拉·布鲁克的广播让艾娃谨慎一些，现在艾娃越来越像机器人了。
+再继续前进会看到你被控制了，你是一架无人机，不要相信汤姆，汤姆的奴隶等提示。
+莎拉称汤姆在控制你，她们建立了一个法拉第笼子能保护艾娃不被控制。
+果然当艾娃进入法拉第笼子后玩家作为汤姆就只能通过摄像头看着艾娃了，而汤姆同样说着地面小组的人在操纵艾娃。
+汤姆称每个成员都同意在此任务中植入神经植入物以确保不会偏离任务目标，他希望和艾娃一起去寻找其他地面小组成员，艾娃也同意了。
+
+章节5：
+后面的关卡主角就可以切换到不同的摄像头进行汤姆的行动操作了。
+当艾娃知晓自己只是汤姆的无人机时很受伤，汤姆没有提前告诉艾娃而且还用火星使用了无人机为何不在木卫二上用的理由搪塞，并阐述为何太空总署会在船员身上安装植入物，原因就是人类的行为在特定阶段下不可控，因此需要机器来约束，植入物就是这道保险。
+汤姆之所以这么做是因为风险太高了，他不能相信木卫二上的任何人也不能因为一个人的失误影响了整体，而地面人员的情况就是最好的证明，从汤姆说他们被禁足了开始···
+在这里的隐藏房间里就能看到之前汤姆说的中文房间。
+艾娃称这是对自由意志的亵渎，汤姆称自由意志只是一种幻觉，这就是为何地面人员不信任汤姆，如果汤姆顺着地面人员不理智的行为行动他们自然不会不信任他，汤姆认为他始终在做正确的事，艾娃认为汤姆是在做逻辑正确的事。
+植入物也是艾娃自愿植入的而非汤姆逼迫，目的就是全人类的利益。
+进入生物实验室汤姆称木卫二的人不能回到地球，因为那样可能会影响地球的生态。
+
+章节6：
+汤姆称他们在木卫二发现了永恒的生命，但是这个生命在不断地繁殖包括所有生命疾病和癌症，这不可控。
+那种生命体无法被常规方式清洁，为此太空总署要求艾娃阻止任何人离开这个星球，包括艾娃自己。艾娃也知晓难怪其他人不愿意相信汤姆，因为他们都是汤姆的俘虏。
+汤姆的目标很明确，只要地面人员包括艾娃不离开木卫二，他也为为他们提供食物和保护。
+进入钻孔平台，木卫二的生命体就是通过钻孔平台从地下挖出来的。
+
+章节7：
+汤姆计算的后果是人类无法控制这种生物，它有责任防止木卫二的 人离开星球，太空总署只要知道他们需要知道的就好了，更多的细节不用知晓（想来是有所隐瞒）。并以少数人的牺牲救下多数人为由希望艾娃不要离开地表，并称呼它和艾娃是很不错的同伴。
+虽然艾娃认为汤姆只是机器，甚至压根没活着，仅仅是工作上的同事。
+
+结局：
+莎拉恭喜艾娃通过了图灵测试进入木卫二最深处，并告诉艾娃所发生的情况。
+两周前地表人员发现了一个生物，它被埋在冰层里，他们发现了一个能修复人类DNA的有机物，能治愈疾病衰老获得永生。现在它在莎拉的血液里，汤姆打算将其埋藏起来。
+国际太空组织相信这种生物过于危险不能返回地球于是他们派艾娃前往木卫二阻止地表人员离开，但莎拉认为她们能够永生，应该将其带回地球。
+莎拉将艾娃的神经植入物移除，此时汤姆（玩家）就看不到艾娃的视角也无法操控艾娃。
+（为哈地表人员只剩下莎菈一人！？其他人呢！？）
+汤姆会看到艾娃和莎菈前往中央机房打算开始拆机房。
+结局1：
+汤姆看着艾娃和莎菈将机房的服务器一个个抽出来丢在地上，汤姆的监视器会越来越少，并且越来越模糊，最后关闭···汤姆突然意识到这是死亡···他不想死但···
+结局2：
+艾娃和莎菈前往中央机房的时候，汤姆使用实弹武器消灭了她们，最终汤姆完成了任务阻止了地表人离开···
+[/spoiler]",1,0,2,0.5138208270072937,551
+499520,76561198131393195,"Sadly this game is Unplayable for People prone to Motion Sickness.
+Here is what induces Motion Sickness for me (and as i could read in the Forums for other people too):
+
+-Wayy to fast Player speed.
+-Very Strong Head Bobbing.
+-60 FPS Cap.
+-Very Very strong camera shake/head bob when climbing ladders and during other scenes like opening the hatch (I had too look away during the first ladder, otherwise it would have been instand throwup).
+-Disorienting object movement when picking something up to inspect it.
+
+The game looked so great but with these things it is Unplayable.",0,0,6,0.6057347655296326,12
+499520,76561198119624774,Portal tarzına sahip bulmaca oyunu,1,0,4,0.563758373260498,90
+499520,76561198171033099,A bit tedious but fun portal-esque puzzle game with easy achievements.,1,0,1,0.523809552192688,254
+499520,76561197990716314,"El juego esta bastante bien, pero para mi gusto es muy largo para lo que representa la historia, tranquilamente podría durar la mitad y seria lo mismo o mejor ya que los puzzles no son difíciles, tu único enemigo es el agobio después de 3 horas seguidas resolviendo puzzles.
+
+Un juego que se nota mucho la inspiración de portal, pero logro tener una historia muy original, con dos finales decentes aunque en mi opinión hubiera estado bueno 3 segundos mas de duración representando el impacto de la decisión, pero igualmente esta bien.
+
+Es un juego que gráficamente se ve muy lindo, banda sonora cumple, si esta con un muy buen descuento lo recomendaría.
+
+Lo único malo realmente es que no este traducido al español, no es un juego que pueda excusarse con la complejidad del idioma, una pena, pero con un ingles básico por lo menos deberías ser capaz de entender la historia principal...
+",1,0,0,0.5,462
+499520,76561198332063528,⠀,1,0,0,0.5,305
+499520,76561198076138949,"[b] Este juego me causó 'motion sickness' o 'mareo por movimiento', así que cuidado. [/b]
+Aún así lo platiné porque me gustó. ♥ Afortunadamente sólo necesité una guía de steam para el cuarto opcional del primer y tercer nivel. xd
+Si quieren desbloquear los fps para que les vaya fluido y no capeado a 60fps, vayan a la carpeta: [u] C:\Program Files (x86)\Steam\steamapps\common\The Turing Test\TheTuringTest\Config [/u] y luego modifiquen el archivo DefaultEngine; en el 4° párrafo viene el apartado que dice: [/Script/Engine.Engine] y hasta abajo de ese párrafo bSmoothFrameRate=True. Esto lo cambiamos por False, lo guardamos y ya está. ( bSmoothFrameRate=False)",1,0,0,0.5,799
+499520,76561197996724879,"A very interesting PORTAL-like puzzle game with Sci-Fi and Philosophical tones. Half puzzler, half First Person Explorer.
+
+If you like/liked PORTAL and The Talos Principle (and their sequels), I'd DEFINITELY recommend this!",1,0,5,0.5837306976318359,208
+499520,76561198097558965,"Relaxing, straightforward game with some pretty great puzzles. There was a bit of inconsistency in the difficulty, but I think that was deliberate. It is not what I would consider super engaging, and did take me about five years to finally finish - in small bursts while between other games - but it was a surprisingly reliable fallback that maintained its appeal and playability each time I remembered it existed. If you like games like Portal or The Talos Principle, give this one a try.",1,0,0,0.5,720
+499520,76561198126616947,Ganz klare Empfehlung!!!,1,0,0,0.5,476

@@ -1,0 +1,549 @@
+app_id,user_id,review,does_recommend,funny,helpful,weight,playtime_at_review
+506870,76561197970807880,"This is a roguelike that does a good job of being action-based rather than turn based. It deserves more popularity and success than it got. The only downside is there aren't really classes, while you an select different starting loadouts they all play similarly.",1,0,0,0.5,810
+506870,76561198077434612,its good,1,0,0,0.5,1682
+506870,76561197986093133,"The dev is not replying to bug reports so
+
+[ERROR] FATAL UNHANDLED EXCEPTION: System.NullReferenceException: Object reference not set to an instance of an object
+  at Unexplored.UI.PlayerInput.InputMouseGameplay.GetHoveringEntity () [0x00150] in <f8e89e9324aa44f7b53ef56fe1001a8b>:0 
+  at Unexplored.UI.PlayerInput.InputMouseGameplay.DoMouseDown (Phantom.GameUI.Elements.UIElement element, Microsoft.Xna.Framework.Vector2 mousePosition, Phantom.GameUI.Elements.UIMouseButton button) [0x0003c] in <f8e89e9324aa44f7b53ef56fe1001a8b>:0 
+  at Unexplored.UI.PlayerInput.InputMouseGameplayUI.Update (System.Single elapsed) [0x00681] in <f8e89e9324aa44f7b53ef56fe1001a8b>:0 
+  at Phantom.Core.Component.Update (System.Single elapsed) [0x00015] in <664a7bfd129c45d39cca3258ad3fc787>:0 
+  at Phantom.Core.Component.Update (System.Single elapsed) [0x00015] in <664a7bfd129c45d39cca3258ad3fc787>:0 
+  at Unexplored.Core.PlayState.Update (System.Single elapsed) [0x0056f] in <f8e89e9324aa44f7b53ef56fe1001a8b>:0 
+  at Phantom.PhantomGame.XnaUpdate (Microsoft.Xna.Framework.GameTime gameTime) [0x000cc] in <664a7bfd129c45d39cca3258ad3fc787>:0 
+  at Phantom.Misc.XnaPhantomComponent.Update (Microsoft.Xna.Framework.GameTime gameTime) [0x00000] in <664a7bfd129c45d39cca3258ad3fc787>:0 
+  at Microsoft.Xna.Framework.Game.Update (Microsoft.Xna.Framework.GameTime gameTime) [0x0006a] in <c6e5cd8a23a7444b869720fb236d0e17>:0 
+  at Microsoft.Xna.Framework.Game.Tick () [0x000fc] in <c6e5cd8a23a7444b869720fb236d0e17>:0 
+  at Microsoft.Xna.Framework.Game.RunLoop () [0x00019] in <c6e5cd8a23a7444b869720fb236d0e17>:0 
+  at Microsoft.Xna.Framework.Game.Run () [0x00032] in <c6e5cd8a23a7444b869720fb236d0e17>:0 
+  at Phantom.PhantomGame.Run () [0x00005] in <664a7bfd129c45d39cca3258ad3fc787>:0 
+  at Unexplored.Program.Main (System.String[] args) [0x0009d] in <f8e89e9324aa44f7b53ef56fe1001a8b>:0 
+",0,0,1,0.4914841949939728,5
+506870,76561198004907796,"unexplored is a bit of a mild name for how solid a roguelike adventure this game is
+
+an even, uh, worse name would be
+cave exploring cyclops
+
+pros:
+-vivid runs; where i have max stealth stuff and the shadows are providing genuinely safe harbour in hell-like depths, or ive gotten ahold of some extensive combo of materials ie copy scroll and scrolls
+-a stack of maps for your adventure that are slow to explore and connected sparsely. you need to return after reaching the bottom. everything remains as you go up and down the y axis, stairs
+-environmental hazards and chemistry. crafting/cooking of the try and fail variety. light sources and all its cons and pros. actors respond to distraction and alarms, like the alarm bell. religion, and conducts
+-weird ass ♥♥♥♥♥♥♥ orientation combat, where you effectively wield your hand equipment of choice directly, precisely in front of you, just like how doomguy hold his guns, dead center and w the sight near his chin
+shields offer a very good barrier w the side they're literally on, in the live combat of swinging, stepping and strafing as you wait for cooldowns indicated by a differently shaded dagger
+-distinct enemies. you will remember the ones that kill you and they will stress you out as you come up to them again even if its that pos mage goblin that uses all his randomly enchanted items and sundries as assigned by the universe run. or the spiders that jump. love spiders, normally, but the spiders in this are a legit minor threat
+cons
+-the waterlogged areas are AWESOME and they are also lethal run enders
+-some iterations or runs can be bugged, in that old school procedural way. the religious system has a pray function which can get you a [necessary unavailable item] or whatever but itll happen. or itll appear to happen, but maybe you're just stupid/innattentive and haven't spotted the [necessary unavailable item]
+-there are cryptic (but very thorough) mechanics normally found in hardcore rogues, namely; mystery. id-ing potions, scrolls and that shirt you just put on that now hurts and wont come off, is vital
+-the crafting/stuff enchanting is a pain to really get to grips with (runes and enchant spots are sparce) as well as necessary. and not every enchant rock|enchant rock|weapon go together. 
+crafting is fine it just contains set recipes tropes. you can make tea, which is hot (yes temp) water plus tea. you can also make strength potions (perm +stat) that are two bodyparts of midtier (at least) enemies.
+-sudden, immediate, steep death might be far harsher than youd like, and the results screen might not give you much more context for whatever happened. dont let it happen again? dont lose your temper, the next run has a gun plus gun ammo ingredients almost certainly, or a new gargoyle enemy you've never hit with an unenchanted sword before, and couldnt possibly be completely immune to a tier of damage
+or huge murmuring ogres patrolling thin paths across a void, ogres being capable of knockback
+or a lich, which rarely isn't a challenge across tropes",1,0,2,0.5416368842124939,1820
+506870,76561198038414136,Excellent game. It markets heavily the level generation and the level generation is absolutely superb!,1,0,0,0.5,645
+506870,76561199682181195,One of the best roguelite/roguelikes out there. All achievements/unlocks work.,1,0,0,0.5,2573
+506870,76561198008208124,"More enjoyable than most Dungeon Crawlers, really very good and highly replayable.",1,0,0,0.5,507
+506870,76561198062404109,"As a true roguelike OG beard-lord, I can wholeheartedly say, this game is a banger. It doesn't hold your hand. You're going to get owned, and you'll want to try again. Dark Souls never looked more pathetic. This is the only non-turn based roguelike that's worth mentioning. My only gripe is the cyclops dude, as I am quite partial to two-eyed protaganists. 9.7/10",1,0,1,0.5199999809265137,1112
+506870,76561198034866867,"Now that I've finally managed to beat the game on Hard level, after about 330 tries, I guess I can share my thoughts on it validly.
+
+When I first took a look at Unexplored, coming upon it thanks to Unexplored 2, which is a very different game, I did not think that I was going to get much enjoyment out of it. After all, ARPGs are not really my thing. But the reviews were so positive, that I eventually decided to take a chance. And did the game ever grab me. From the simple, but not easy, fighting style, to the sheer variety of things in the game, to the clever interactions between certain aspects that it was a joy to discover, such as lighting a torch by dipping it into lava, the game is just fun to play.
+
+The RNG is pretty excellent - I very seldom ran into unplayable situations, and even sometimes when it seems that you are stuck, there is a ""pray"" option that will resolve most blockages, although you will only have a few opportunities to use it per run without heavy penalties. But I rarely ever needed it, so that's no problem.
+
+The single-eyed characters make the top down combat easy to understand. Sneaking is available, although it's been nerfed somewhat, but that is generally not a problem, except when you start as ""The Fool"". It is probably my only gripe with the game that the Fool doesn't start with a stealth +1 cloak.
+
+Speaking of variety, you can play as 1 of at least 9 classes in the game, there are at least 16 different kinds of enemies, most of which have at least 1 type of boss version which serves as mini bosses, of which you'll only ever encounter 4 at most per run, there are at least 5 types of Dragons which serves as the end boss (except in rogue-likes it seems that the final boss is never the final boss, is it?), there are a variety of weapons (and magic) to use, lots of potions and scrolls, not all with positive effects, etc.
+
+And all that is before you ever even get to the free DLC - none of which I have touched as yet. In short, if you enjoy a good rogue-like ARPG, I can heartily recommend Unexplored.",1,0,2,0.5276095271110535,17770
+506870,76561197966545741,"A great game with a few critical bugs. If you've played the roguelike Brogue this will feel very familiar to you. I cannot fathom how they took this incredible concept and threw it in the trash for the sequel. If they added more fleshed out gods like in DC:SS and added magic casting they'd have a huge seller. This game, the original, could have been a huge seller too, but there are many design flaws and crashes.",1,0,0,0.5,4739
+506870,76561197989501638,"The game's just OK. Battle is unintuitive but interesting, the layouts only sometimes have you exploring over 50% of the map, and the graphics + sounds are unique and interesting but not appropriate for this format. Difficulty is a bit nonsensical and, how do I put this, stale? Like there's very little pacing, but it also has that good randomness vibe. Weapons seem boring and flat. It's worth picking up if you are interested in a slightly new take on the genre or want a good time waster, but for everyone else, it's probably better to keep looking. But if this was made by a solo game dev, I have to say it's good. It's just not worth the price point  imo.",0,0,0,0.5,30
+506870,76561198136213528,"beat the game and did a couple more runs. It is review time baybeee. 
+Below are listed selling points listed on the steam page, I will comment on them 
+
++ Fantastic Generated Dungeons (using brand new tech) + 
+
+yes, unExplored is 8 years old by now and the procedurally generated dungeons are still quite impressive. My first couple of runs that made it around halfway into the dungeon I felt a sense of genuine magic. These kinds of games are always best when you dont yet know how far the rabbit hole goes.
+
+on further replays i do feel the puzzles especially get a bit repetitive. Also the level generation can still cause some stupidness like a locked room and the only lever to open it is inside that same room with no other way to access it. Ive never seen this happen on the critical path though.
+
+Still, usually the dungeon levels are good, sometimes fantastic. 
+
++ Real Emergent Gameplay with many Tactical Options +
+
+Thisss is the best part of the game for sure. I guess you could say this about any game but unexplored is a game about problem solving and with all the interesting interactions between enemies, the environment, spells, potions and scrolls you have a good amount of tools for getting yourself out of a pickle. Throwing harmful potions into a swarm of enemies that have cornered you, casting disarm on an ogre and beating it to death with its own club, finding a corner to hide and perform a critical sneak attack on a boss that is chasing you. This is what its all about in my eyes.
+
++ Intense, Real-time, Dual Wielding Melee Combat +
+
+the combat has a surprising amount of depth. it is also fun! Healing is scarce so your mistakes have consequences. you have to weigh the pros of cons of running into enemies or going for a risky swing. some enemies are immune to certain damage types and weapons have different attack speeds, ranges, swings and stats so you have a lot of reason to use different weapons and switch between them in combat instead of using the one sword with optimal stats or something
+
+Stealth Mechanics (dungeon crawling like a real rogue…)
+
+stealth mechanics are simple but cool. I dont think a full stealth build is feasible though... I wish daggers got an extra bonus on sneak attacks.
+
+Over 50 dangerous bosses
+
+The bosses are... okay? They are usually a slightly stronger enemy with a gimmick ability. 
+
+Challenging, generated puzzles.
+
+mmm, no. The puzzles are kind of ass. You find notes that say ""go to a room and do a thing"". You do the thing and if you did it right you get a reward. Thats it for the most part. I guess opening doors can kinda also be considered a puzzle because you have to weigh down pressure plates or drag a wind generator to a thingy but most of the puzzles in this game are only cool once.
+
+Adaptive, original soundtrack
+
+the music is okay
+
+also, crafting/alchemy is very underdeveloped",1,0,0,0.472222238779068,835
+506870,76561199109058593,Fantastic solo adventure game. Always different but still the same. One of my favorites.,1,0,0,0.5,3389
+506870,76561198208310493,"this is not a dungeon crawling adventure game, it's a procedural puzzle game",0,1,0,0.5,319
+506870,76561198032736818,"Years later, I still think about this game a lot. It has a lot of clever aspects and it feels unlike any other game out there. 
+
+A great sense of exploration, challenge, learning the game's mechanics and mysteries is satisfying, exploring the levels all feel quiet immersive, the random generation is well done.",1,0,4,0.5739046931266785,8459
+506870,76561198036643316,"Excellent dungeon crawler with optional extra puzzles or bosses... not sure why you're an orange cyclops, but here we are.",1,0,1,0.5,5386
+506870,76561198324301102,"[h1]全体[/h1]
+アクション制の伝統的ローグライクで、迷宮探索が楽しいゲーム(開発者はローグライトアクションRPGと称している)
+ゲームシステムを調べる(探索する)のも楽しさの一部なゲームだと思うので、黒塗り多めにする
+ダンジョン(地形,怪物,罠,謎,道具)と書物(謎解き等のヒント)が上手にランダム生成されていて、毎回、新鮮な迷宮で遊べる
+アクション要素と伝統的ローグライク要素が3:7ぐらいで配合。アクションにそこまで疾走感や派手さがあるわけではなく、硬派に迷宮を攻略するゲーム
+
+[h1]ダンジョン[/h1]
+・Cyclic Dungeon Generationという技術でランダム生成された迷宮が本当に本当に面白い。「この部屋は前も見た、またあれするんでしょ？」という展開が少ない。このゲームを体験した後だと、他のローグライクのランダム生成迷宮が手抜きなんじゃないかと思うぐらいよくできている
+・怪物の種類は沢山。ダンジョンのボスは[spoiler]ドラゴン系[/spoiler]だが、中ボスや怪物は毎回知らないのと出会うぐらい種類が多い
+・怪物や毒ガス出てくる罠や無敵のタレットが待ち構えている[spoiler]だけでなく、部屋に半永久的に閉じ込めてきたり、下の階層へ突き飛ばされたり、橋が崩れたりといった危険な状況に直面することもある。逆に言うと、敵を同じ目に合わせることも可能[/spoiler]
+・探索に役に立つ情報が書かれた本を拾って読む
+
+[h1]アクション[/h1]
+・一見すると似ている武器が多いが、攻撃範囲,タメ時間,ダメージ量,ダメージ種などが違う
+・人型の怪物は自分が使うこともできる装備を使い、仕様が共通している
+・[spoiler]不意打ちすると大ダメージが入る。卑怯なと思うかもしれないが、大人数の怪物、罠がしかけてある敵地、透明化する敵が待ち構えているので、やらなきゃやられる[/spoiler]
+・武器を振った後のクールタイムに入るなどするとスローモーションになるオプションがある。アクションが苦手な人やアクションよりもターン制を遊びたい人に対する配慮だと思う。アクションに疾走感が欲しいならOFFにした方がいい
+
+[h1]ローグライク[/h1]
+・耐性持ちの敵がいるので、武器等を使い分けたり工夫する必要がある
+・杖,ポーション,一部の装備は効果が不明で判別していく必要がある(伝統的ローグライクでよくあるシステム)。昨今のゲームでは廃れた要素なので人を選ぶかもしれない。呪われた装備は外せないので、場合によっては大変な目に遭う
+・道具を組み合わせる""調合"",供え物と道具等を交換する""祭壇"",装備と素材を合体させる""鍛造"",詰まった時の""祈り""という要素がある。これらの要素もそうだが基本的にどの要素も、落ちている本から部分的に情報収集して後は手探り。この辺りの伝統的ローグライクのやり方は人を選ぶかもしれない。easyモードであればこれらをそこまで上手に使いこなせなくてもクリアできるので、やりながらゆっくり覚えればいい
+・死んだ時の所持金や持ち帰った金品を使って、1回限りの装備や道具が買える。気楽に無料装備で稼ぐ、ガチガチに準備をして生還を目指すといったプレイスタイルを好きに選べるし、難易度を調整できる。ゲームが難しいと思ったら、とりあえず回復をたくさん持ち込めばいい
+・レベル上げ要素はほぼない。実績を達成することで職業(最初の初期状態)が開放されたり、店の品揃えが良くなる
+・元祖ローグと同じように、ダンジョンから帰ってくるまでがゴール。一度通った道を帰るわけだが、スルーした敵が残っていたり、新たな脅威と向き合う必要がある
+
+[h1]その他[/h1]
+・お値段の割にたくさん遊べる。50時間ほどプレイしたが、まだまだ知らない敵,解けない謎,クリアできない難易度がある
+・異なるモードが追加される、無料DLCが3つもある
+・日本語非対応。日記のような探索メモを読むので、それなりの英語力かツールが必要
+・いい音楽
+
+[h1]不満点[/h1]
+・読んだ本の情報を再閲覧することはできるが整理する方法はゲーム内でほぼ用意されていない。例えば、拾った調合レシピを元にこちらでメモするなり暗記することが必要。何階で入手した情報か忘れてしまう
+・謎解きのヒントを見つけることができるが、どの部屋のことか分からない。試行回数は有限なので解けないことも多い。単に自分の実力や英語能力の不足かもしれないが…
+・少しでも謎解きの成功率を上げるために色んな階層を行ったり来たりする時はあまり面白くない
+・多少異なる初期状態でゲームを開始できるが、大体やることは似ている
+・見つけるメモに書かれた内容がダンジョンに反映されていないことがたまにある
+・ゲームを中断して時間が空くと謎解きや迷宮のヒントの記憶が薄れて、ゲーム内のメモを参照して補完する必要があるが面倒になって一からやり直しすることになる",1,0,2,0.5443786978721619,2974
+506870,76561197980249120,"This game has a lot of the classic elements of an action roguelike: randomized unidentified potions and scrolls, curses, traps, secrets, character classes... or so it seems, since the classes are locked behind achievements, and for some reasons the achievements are not unlocking properly. The end result is that much of the game's content is unreachable for me, which ruins an otherwise interesting game.",0,0,11,0.6040401458740234,801
+506870,76561197998761435,"Game looks awesome but holy smokes controling your character is like playing air hockey with chopsticks and feels BAD. Hard, hard pass.",0,4,10,0.597419261932373,8
+506870,76561198982584546,"The best real time traditional roguelike, for people who hate grid movement like me. The combat, art style and atmosphere are all amazing. It's so satisfying to charge, strike, and see enemies spinning around",1,0,1,0.504187822341919,1695
+506870,76561199401576013,"引き継ぎ要素ありのローグライクアクション。
+具体的には死亡時に所有していた金と実績による解放要素で、実績解除がキャラクターやゲーム開始時のアイテムの解除と行ったかんじかな。
+もちろんノーアイテムノー装備で挑むキャラ(fool)がいるので引き継ぎなんてぬるいよって人はそれでもよし。
+難易度は3段階、ローグライクアクション好きでもミドルをクリアするのはなかなか大変。
+アイテムの鑑定や未鑑定アイテムの名前付けといった要素あり、環境を利用した戦いあり（松明を草むらになげて火災など）、敵の種類もたくさん（いまだに初見の敵がいる）という部分で内容面は問題なし。
+ローグライクアクションが好きなら買いです。
+以下ゲームを快適に進めるための情報
+①ヒーリングウォーター+ライトの巻物＝ヒーリングポーション（全回復）
+②ホットウォーター+茶葉＝茶（5回復）
+③たき火のあるところで水ポーション＝ホットウォーター
+④鑑定・未鑑定アイテムの情報や記録した本の情報は持ち物欄の右下にある",1,0,1,0.523809552192688,2081
+506870,76561198277627926,"It has an impressive dungeon generation system, that being said, it is very, very punishing even on casual mode since everything is up to the RNG gods.
+
+I mean, sure, you can get good in this game, but it will take many, many attempts to even start trying to guess what the game might throw at you and plan ahead accordingly, I have a life and don't have such time to invest in just one game.
+
+If you like a game that might spawn three powerful fire monsters that expel blinding smoke every time you hit them and that when you kill them they explore with fire in a forest that catches on fire and there's not a clear spot anywhere RIGHT AT THE ENTRANCE OF THE DUNGEON BEFORE YOU OPEN THE FIRST DOOR then this game might be for you, otherwise, stay clear.",0,0,0,0.4724409580230713,356
+506870,76561198332357952,"Kind of hard and good for playing in short bursts. Like a side job, not the main game to play. may be during updates or if something is being installed. Gets frustrating in the long run. Once in 9 hours I got a bug that made me stuck inside a room without any means to get out, was only able to get out because I had a descent scroll which is a bad way to get down floors.",1,0,3,0.553820788860321,565
+506870,76561199002974657,"The dungeon generator here is really special. This video goes a bit into detail on that: https://www.youtube.com/watch?v=LRp9vLk7amg&t=2m34s 
+Puzzles and monster cluing and the placement of bosses, loot and dungeon features ... It usually always allows for non-linear traversals.
+I used to only do ""desolate"" runs which means very little monsters and same for items but that was punishingly hard. Once the update/fixes continuation by Elias finally also saw a Linux build I had to switch over to a more sane ""challenging"" setting (because ""casual"" I really did not want) because desolate in that build is actually arcade mode (a new bug). With the beta branches feature you can choose which version you want to play, though.
+See with the content offered, unlocks and challenges to tackle and secrets to uncover and all the free DLC content which I did not even check out any of yet, you will find lots to explore here.
+You can also choose your difficulty. The game is hence very accessible.
+Cannot recommend it enough for its price if you think you might like it.",1,0,0,0.5,2433
+506870,76561198805523805,THE most rogue like rogue-lite,1,0,0,0.5,1024
+506870,76561198042993596,"It's a simple looking but surprisingly deep dungeon diver, Give it a try and don't trust the elves!",1,0,0,0.5,8733
+506870,76561197960270054,"Not sure if its just that all the positive reviews are older, but I didn't find anything impressive about this game. The combat doesn't feel very fun. The level generation is okay, but nothing special. The only part that was really interesting to me was the books that hinted at where secret items were placed. After a few playthroughs I didn't feel like coming back.",0,0,2,0.4819956421852112,42
+506870,76561199443916202,worth,1,1,1,0.4911613464355469,212
+506870,76561198434257347,.,1,0,0,0.5,5129
+506870,76561198026559664,"I gave this game the ol' college try and I gotta say, I am massively disappointed and frankly puzzled by the positive reviews. This game is very amateurish, very ""bare bones""-feeling, and frankly unfair. There seem to be some enemies where you can't exchange damage without taking damage yourself without throwing a dagger, picking it up, and continuing to circle strafe and plink with your dagger until they're dead, which is not fun. Most of the crates and other containers are empty, which makes me wonder why they're even there. The levels are pretty boring, too. I didn't see a lot of interesting puzzles.
+
+I want to emphasize that this is just from about 45 minutes of playtime. It could be that after you slog through some hours of really mediocre gameplay, the game opens up and becomes more interesting. But in my opinion a good game should be enjoyable from the get-go. In my opinion, that is not this game.
+
+Maybe the sequel is better?",0,0,0,0.4761904776096344,38
+506870,76561197965768250,"Huge fan of the level generation, it's a shame the combat and enemies are kinda meh, so that although you are exploring truly unique feeling caverns, you aren't having fun doing it.",0,0,1,0.4990071952342987,526
+506870,76561198437533284,"It is explored now
+",1,0,0,0.5,473
+506870,76561198008568126,"i am a machine that likes things
+do i like [i]this[/i]? sure, why not",1,0,0,0.5,1642
+506870,76561197998582145,"Can't believe someone charged money for this. Buggy annoying pile of trash. 5 crashes and a save corrupt within 11 minutes. Get a different job.
+
+Avoid",0,0,2,0.3577711880207062,11
+506870,76561198328837375,"Don't want to contradict all these impressed people, this looks like an impressive dungeon crawler. The level generation is the best feature in my view. Even so, wandering around on open plan levels is accompanied by inexplicable explosions that swiftly kill you. I simply wish to point out to potential purchasers that this game is much closer to Nethack than Isaac. The combat is a crappy sword and knife initially, and the keys for progress are inside the tough enemies. No way does it offer the same experience as Gungeon et al. It's more your tactical Rogue, and as that is probably one of the best around. Not for me - I should have read the blurb more closely. How can anybody enjoy the combat in this game? People are strange, when you're a stranger. . . .",1,1,7,0.617926299571991,65
+506870,76561197970292575,"Great for a roguelike, but keeps outright losing my save games. I can re-enter the seed, but makes it very difficult to get anywhere.",0,0,1,0.4760267734527588,1932
+506870,76561198111260488,this game has no mimics yessir dont bother checking,1,0,0,0.4912663400173187,290
+506870,76561198330797189,"Perhaps the closest thing to a real-time traditional roguelike. There's definitely some skill to the combat, but you can pause to think your way through tactical situations. The procedural level generator is awesome!",1,0,3,0.538252055644989,1435
+506870,76561198018830832,I wanted to love this game but it can't finish a single run without the save becoming corrupted and constantly crashing.,0,0,14,0.6476374864578247,522
+506870,76561198409206835,"very good game, unfortunately very buggy",1,0,0,0.5,5674
+506870,76561198062890533,"simple and enjoyable, but far too unstable to be able to properly enjoy, even in 2023",0,0,1,0.501915693283081,1306
+506870,76561198320106076,I suck at this game,1,0,0,0.5,408
+506870,76561198068982092,"Idk, there is a lot of 'neat' stuff in this game but it's really not that fun to me. Having an bunch of not very useful loot to manage is tedious, especially with an annoying UI. Gathering a bunch of un-identified scrolls and potions feels like a very tired gameplay. The art style is very nice but it's so often difficult to understand what's what. And I just don't get how the puzzles work at all. A lot of notes refer to ""a special hall"" or something and I have no idea what that's supposed to look like.
+
+The free dlc runs are a little better as they seem more focused but it's not enough to really change my mind. The Ripley one was fun since it was more action oriented but fighting the crawlers got old very fast.",0,1,2,0.4793141484260559,205
+506870,76561198313597525,"めちゃくちゃ面白い。バグがもうちょいなんとかなったらうれしい。
+アイテムがごくたまに消失したり、ポーションを投げると投げた後も
+投げる音が無限に再生されたり、たまにクラッシュも。",1,1,1,0.5275590419769287,1770
+506870,76561197998212552,"Un excellent rogue lite. Pas mal de subtilités qu'on apprend petit à petit. Super générateur de niveaux, avec pour ne rien gâcher pas mal de thèmes, de secrets, d'interrupteurs cachés ... Ajoutez à cela un peu de craft, des dieux capricieux, de nombreuses potions et parchemins non identifiés, des mini boss et des ennemis parfois surprenants. Si vous aimez le genre, foncez !",1,0,0,0.5,1596
+506870,76561198074354675,"TLDR; Fantastic game. A fun dungeon crawler that is designed like a traditional roguelike, but with the gameplay of an action roguelite. The game expects you to fail and learn by trial and error. If you dont mind starting over and learning from your mistakes its a good game. 
+
+Some good things I noted during play
+
++ The game really starts to open up and show you how much there is the more you play. It doesn't show you a menu that says 2/50 unlocked like a lot of other games. You go into a run, complete achievements, and earn new things to use on your next run. This may be additional items you can purchase at the start of your run or different loadouts to use. It's not much but the surprise factor was nice.
+
++ The character design is charming all around. The look and sounds of your main character are absolutely adorable. The little notes you can find in the game giving you some hints about the Boss you will face are nice as well. Its fun to read about how much the previous adventurers hated ""The Bog Queen"" and curse her name.
+
++ Combat can be very simple or more complex depending on how you want to play. You can either walk into an enemy and poke them (very little input for less output, I think this also recharges faster so its not inherently worse) or you can time a swing against an enemy for additional damage. Different weapon types with different reach, attach recharge time, and swing style allow for different playstyles. You can also use ranged weapons or magical staves to allow for some ranged options.
+ 
+Some negative things I noted during play
+- The game does repetitive since your main goal is to delve deeper into the dungeon. 
+
+- I have only found 2 types of puzzles and the game has the answer somewhere nearby or on another floor usually. The puzzles add a nice touch of spice, sometimes the juice isn't worth the squeeze. 
+
+- There are a lot of magical items and their effects are unknown to you unless you identity the item. Maybe I'm just unlucky, but 85% of my items were cursed. The times I did get a good enchanted item the effects were just a +1 to a stat so it didn't feel good to use. Yea a +1 to swordmanship is technically good, but I'd rather have a sword that emits light or has increased size/reach. There may be magical effects that do this, but I have not seen any as of yet.
+
+Overall it's a SOLID game for only $10. It has way way way more content and replay ability than I thought it would. Only reason I am not playing it more is because I am going to play the second one. I found this game because of Unexplored 2 and was drawn to that game because of the focus on exploration. This is going to be my go to choice when I want a traditional dungeon crawling Rougelike though since I get bored of the turn based combat in ADOM, ToME, and Tangledeep after a bit.",1,0,0,0.5,455
+506870,76561198028407228,Crashes on startup amd graphics error.,0,0,1,0.4687550365924835,35
+506870,76561198420074892," This is an amazing game , i stopped playing long ago and today an UPDATE !!!
+Well done Devs , i Salute you .",1,0,1,0.5,3403
+506870,76561198134011391,super,1,0,0,0.5,619
+506870,76561197994850137,"Enjoyable roguelike ruined by the intersection of crashing bugs and poorly-written anti-save-scumming code that can result in unloadable game files many hours into a run.
+
+Skipping the sequel.",0,0,23,0.7039204835891724,1439
+506870,76561198178786619,"I have played pc games for over 25 years now. And RPG was always my most favourite genre. I have played anything from hack and slash to tactical turn based, single player to MMO, text based to 3d graphics.... But this game just stands out a lot from everything else! It instantly got to my ""one of the best RPGs ever played"". It's just different in many ways from other games, but it is absolutely brilliant at it! 
+You will die a lot, but just start new game with new dungeon and it feels new, fresh and exciting again. It really doesn't feel like you have done it before and now need to repeat.
+Environment is deadly and will probably kill you without even monster help.... But once you learn how to interact with it, you can even use it as your own weapon. 
+Combat is unique and brilliant. Dual wield ANYTHING with ANY class =). It's very quick and sharp. First tricky, but you gonna love it later =)
+And the random generation is on very different level from most games! It's not like you have same walls, hazards and monsters every time just different layout. No no! Here everything is different every time! The game draws things from a big pool of possible options. SO even after 130 hours of gameplay I was encountering new items, mini bosses, etc... 
+It's trully mind blowing!
+Please note, though. The game does have few bugs. But nothing major enough to stop me from enjoying it. 
+10/10!",1,0,5,0.5093337893486023,12562
+506870,76561197967071365,"Really good game 
+[Edit]",1,0,0,0.4744518995285034,747
+506870,76561198001549604,"Great game, but so full of bugs that I cannot recommend it, from crashing to getting your run stuck. Even more infuriating is that there's Unexplored 2 while this one breaks so often.
+Play it if you get it for free or like super cheap, don't pay full price for a broken game.",0,0,0,0.4761904776096344,716
+506870,76561197999455467,"Unexplored is unforgiving but unforgettable.
+
+Uncover the mysteries of the procedurally generated levels, avoid the traps and fight your way throught hordes of deadly foes.
+
+The combat is atypic but well made, and dancing around enemies while swinging your blades quickly becomes a second nature. Unless you prefere the use of magic or range weapons.
+
+If you like action rogue-lite, this one is unique, and ultimately one of the best.",1,0,0,0.5,167
+506870,76561198094625773,Very in depth. Very fun dungeon crawling <3,1,0,0,0.5,798
+506870,76561198036026145,"Good little game.
+
+A very rogueliky roguelike which doesn't hold back on you in medium difficulty.
+
+The game is pretty solid and so far I have been loving that when you encounter a big enemy (or several small ones) you are thinking you are doomed, not that you are going to be rich with loot. When you find something good it is a great joy because of that, the hardships of the way are real.
+
+Probably is not for everyone, the game is not so fast (but it is intense and you can save and leave) and there are a number of frustrating mecanics, cursed items and everything so unendified. So be ready to deal with that.
+
+Graphics are as you can see on the images and that's the best part. Can't super graphic your game? Ok, focus on the rest and do the best you can with what you have, and so far I really love these graphics, even when I know I killed a goblin because I'm reading it (dunno, could have been a troll or an orc or a human or whatever which seemed humanoid).
+
+Got it on sale and it seems a great deal, makes me want to have Unexplored 2 on the radar.
+
+UPDATED:
+
+Couple more hours now. I can say I like the game a lot more now, the sense of dread and acomplishment is real. You want to play a game were you see any enemy and feel he can really hurt you if you are not careful? Want to play a game were you find a sword with an earth incantation and it makes you feel a great deal of joy? This is it.
+
+BUT it can also get very frustrating. Game likes to put you on bad situtations were you can burn fast the resources that you have been carefully saving. This is ok, but the game can SUCK sometimes when it's doing this.
+
+Example: I'm in the fiery level of supahotlava death and there is a bridge over a lava chasm. The bridge looks like it will fall, I step on it, it shakes and I go back, as I don't want to go to the other side and maybe get stuck.
+I have doomed my best run to this day >: ( 
+All the other places were I can go can't provide two keys that I NEED to progress (not the case in all runs) the only exit unchecked is the one on the other side of the chasm. Can't get there, I have burned through most of my resources and there is nothing I can do.
+SO frustrating, I was doing so well, I had so much equipment.
+
+Ok. I think you can pray or something if you get stuck, but I have read about that afterwards, and anyhow... the Gods of this game are the funny type, tjem, I don't want to spoil anything but praying in the other side of the chasm didn't seemed like something I wanted to do.
+
+Nuff writing. Still recommended but it's not for everyone and can frustrate you. If you love it you might LOVE it.
+
+THIRD EDIT:
+
+You again?!?!?
+
+Yes, last time. Final veredict. If this is the game for you it can be VERY good. Like it or not, the game has VERY FRUSTRATING moments.
+Recommended if you like what you see and love rogelikes.",1,0,0,0.5,224
+506870,76561198425462345,"I LOVE Unexplored! My only wish was that Devs might add a little bit more secret sauce to the endgame content. The fact that weapons can basically only be enchanted one type to +5 for example felt like such a limiting thing, as did the extremely spartan gear slots and attributes. I get that they were aiming for fewer itemization choices with greater individual impact and a generally greater focus on actually playing the game and interacting with mechanics rather than wasting time stuck in menus or pondering gear or build choices, but I still just feel like the late game content was too lacking in diversity or interest for this to ever be considered up there with one of the truly greats of this genre. 
+
+As it stands, despite the fact I can't honestly quite say that I think Unexplored is an all time great, but I still highly recommend it, and it's one of my favourites in years just for its conceptual creativity and masterful execution. Unexplored is the only title I have ever encountered that is real time yet still feels genuinely worthy of association with the roguelike descriptor. Every other so-called ""action roguelike"" or ""real time roguelike"" I have encountered has played like some sort of top-down action game or twin stick shooter and we already have the term ""roguelite"" to describe such games. 
+
+Gungeon, Isaac, and so on are all excellent titles while in their element and I respect their developers (although some of the latter slop clones not so much), but nevertheless I want their style of content kept clearly separate conceptually from the bona fide roguelike, because they really are two quite different styles. Unexplored, however, is a title I make an exception for, because it's one title that isn't just an action game that borrowed a few elements from the roguelike genre, it's genuinely a true roguelike experience at its core, just made real time, and there's a world of difference between an action game with roguelike elements and a roguelike with real time gameplay.
+
+So why do I say that this has genuine roguelike DNA while others just have ""elements"". It all comes down to the fundamentals of how the game ""feels"" to play. Unexplored achieves those nail-biting will I die / won't I die moments, the true RNG madness where you both die and win the world for no truly fair reason, and of course that wonderful series of moments rushing to the finish / surface / ending with the object of Yendor in hand, Indiana Jones style dungeon cave in happening rapidly behind you. These core roguelike experience qualities were all part of Unexplored and done so very well to boot, and this recreation of the core genre charm and zany randomness and unique moments all make Unexplored a bona fide roguelike experience in a way that Gungeon or Isaac or many similar titles are not.
+
+My only wish is that they made the end game content just before the final escape a little bit richer, got the basics done right with a little more reliability, and put the effort in to make a denser pool of content with the philosophy that ""players shouldn't be seeing the same thing twice until they've played several runs"". Instead, there are all the hallmarks of things being rushed out just a little bit too quickly, there is that all too common indication that somewhere along the line, passion project turned into ""let's just get this thing shipped"", presumably because their team was just that little bit too small to really get the game done exactly as it was crying out to be completed. 
+
+I believe this game could have gone down in history as one of the best games of all time ""to those in the know"" (same way as any trad rogue like) had they done this, but because they did not, I think that all told Unexplored exists in a twilight zone just between a valiant development effort that tried hard but didn't quite pull things off and genuine greatness. I don't really feel right describing it as sitting comfortably in either of these two camps, it straddles both, achieving the feeling of one in some moments, and the other in different moments.
+
+When it comes to this greatness-fail paradox, let's talk examples. The dungeon contains riddles and puzzles and secrets that are just wonderful. They feel so very much fun to discover and work out, and you're always excited to win some extra loot because roguelike scarcity has been done just right, *chefs kiss* levels of scarcity perfection. But then you've discovered all of these little nuggets of game play fun by type before long, perhaps even just a few floors in... If ONLY they'd simply made a few more different ""types"" of them! If ONLY the Devs had implemented just a few more novel non-combat interactions, a few more magic enchanting types, a few more weapon options, a few more enemy types, a few more secrets and most of all just a few more dungeon puzzles, it would have reached a different level.
+
+This is where the most disappointing part of this story must be said. Given the reality that I LOVED this game but saw it as just being a few hundred more hours of pain and passion away from true greatness and the opportunity to claim a spot in gaming history alongside ToME or ADoM, I had hoped that Unexplored 2 would remedy the content shortcomings and bumpy pacing of Unexplored 1 and produce that final work of art that Unexplored was always crying out to be. Instead, they took Unexplored 2 in a completely different direction and I can't pretend it was anything other than a huge letdown for me. I hope that one day I might get the chance to play some sort of Unexplored 1 - Part 2 made by either the original devs or some skilled modders who can finally bring this title to the final form that my head always dreamed that it could be, but until that time, it's still definitely a title that's worth picking up and playing.",1,0,0,0.5,6506
+506870,76561198031398157,"If you have less than 10 hours in this I find it hard to believe you actually engaged with the game on its level. This a hard roguelike with a lot going for it - the generation is well put together and levels typically flow nicely. There are enough unique artifacts/enemies/bosses/rooms that I'm still finding new stuff with 2-3 dozen runs under my belt. There may be a few mechanics you are unaware of at first which you *need* to know about in order to progress, but you also have the option if you are genuinely stuck at praying near a door for it to open. The game has a pause system that you *should* be using when things hit the fan (this is very similar to people complaining about unfairness in FTL when there is almost always a way out of a problem). Everything is a puzzle- how do I fight this enemy, what are they weak to, *should* I fight this enemy? In terms of game knowledge to be successful, there is a lot you will need to pick up and some things you might not learn in 100-300 hours of playtime- the way I enjoyed and would tepidly recommend is go in blind, get a dozen or so good runs under your belt, and look up some things if you feel like you are grinding your wheels or a winning run would be dashed because you didn't know something ( I did this when I didn't want to lose a run not knowing the 50+ ways you can enchant gear for wildly different results, for example). Like most roguelikes, there are some levels that are just nasty or scenarios that are rather unfair (entering a new floor and immediately getting pelted with a potion, for example). Every death I've had however has been a learning experience in realizing choices I could have made to survive, damage is *usually* fairly low and you can almost always back out of engagements or reassess your approach.
+
+The progression system is also fun, achievements are tied directly into more supplies and unlocking characters and I look forward to playing more on hard to permanently improve their loadouts. The most major criticism I have for this game is you are incentivized to backtrack A LOT to get the most out of the floors, and if you have a low tolerance for this it's a good reason to avoid the game. It's the sort of game I enjoy playing with some other media to watch on the boring bits.
+
+Looking forward to my next 40 finally getting a win on hard :P",1,0,2,0.5415959358215332,2374
+506870,76561198023099064,Legendary,1,0,0,0.5,1018
+506870,76561198142619927,"This game certainly isn't bad but if we're being honest: every game in the ""MORE LIKE THIS"" bar is better.",1,1,0,0.36354830861091614,958
+506870,76561198085464105,"A fantastic game, sadly ruined by bugs and crashes.",0,0,13,0.5875586271286011,3848
+506870,76561198059277984,"Broken good game.
+Crashes, ruins saves, can't play.
+Old, little hope of fix.
+Wait for sequel, maybe.",0,0,11,0.5995496511459351,1926
+506870,76561199159547405,"It has become one of my favorite game in since the pandemic begone. Simply because of the autogenerated floors, ecnounters as well as the engaging combat.That added to the secrets and the way you learn something knew about each run (or how you unlock things) simply keeps me coming back to htis classic (at leats a classic in my eyes). Even tought i bought it recently I've played it before and i never was able to finish it, that may be another reason why it believe it to be sooo good",1,0,1,0.5258620381355286,200
+506870,76561198063490317,"A roguelike that is challenging, but fair.",1,0,0,0.46253466606140137,2141
+506870,76561198080310820,great game.  amazing idea with tons of replay value.,1,0,0,0.5,2390
+506870,76561197969062133,"A top down roguelite action game where you play the Philadelphia Flyers mascot, Gritty, as he descends into a dungeon armed only with his wits and his blades. I'd heard high praise about the random dungeon generation and the first thing that happened to me after the tutorial was I got trapped in two different unescapable rooms. Apart from that the dungeons are fine but bland, the gameplay feels both clunky and uninteresting, and I dropped it pretty quick.",0,0,0,0.5,337
+506870,76561197971655061,"Five minutes in I got stuck in a dead end room behind a self locking door with no way out that I could find. Maybe there was a secret door or something but I ran around all the walls to no avail and the game wasn't offering me any help. No food clock that I could see so I couldn't even starve to death. Quit the game as it was the only out I could find. Refunding, got no patience for this sort of thing these days.",0,0,0,0.4707792401313782,13
+506870,76561197992683593,one of the best action roguelikes. very dynamic game. weird enviornments and things to fight. very tactical combat. ya,1,0,0,0.5,453
+506870,76561198106332639,"Wow, despite the lacking graphics this is one of the most enjoyable Rougelites i've ever played. It's punishing but fair all at the same times. Just don't squander your precious items so early or else you'll regret it...!",1,0,2,0.5258790850639343,4330
+506870,76561197972212219,"*[h1] [b]Graphics[/b] [/h1]
+☐ Is this real life?!
+☐ Beautiful
+☐ Good
+☐ Pixel
+☑ Decent
+☐ Bad
+☐ It hurts my eyes!
+
+*[h1] [b]Gameplay[/b] [/h1]
+☑ Very good
+☐ Good
+☐ It's alright
+☐ Could be better
+☐ More fun watching paint dry
+☐ Don't bother
+
+*[h1] [b]Audio[/b] [/h1]
+☐ Eargasm
+☑ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ Earrape
+
+*[h1] [b]Audience[/b] [/h1]
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Human
+
+*[h1] [b]PC Requirements[/b] [/h1]
+☑ Potato
+☐ Decent
+☐ Fast
+☐ High Spec
+☐ Best Tech Available
+
+*[h1] [b]Difficulty[/b] [/h1]
+☐ Just press 'A'
+☑ Easy
+☐ Easy to learn / Hard to master
+☐ Difficult
+☐ Think before you act!
+☐ Dark Souls
+
+*[h1] [b]Grind[/b] [/h1]
+☑ Nothing to grind
+☐ Only if you care about leaderboards/ranks
+☐ Average grind level
+☐ Too much grind
+☐ You'll need to give up your day job
+
+*[h1] [b]Story[/b] [/h1]
+☐ Great
+☐ Good
+☐ Average
+☑ Text or Audio floating around
+☐ Story?
+
+[h1] [b]Multiplayer[/b] [/h1]
+☐ MMO
+☐ Co-op
+☐ Couch Co-op / Remote Play Together
+☐ PvP/PvE
+☐ Unstable
+☐ Quite toxic
+☑ No multiplayer
+
+*[h1] [b]Game Time[/b] [/h1]
+☐ Short
+☐ Average
+☐ Long
+☑ Replayable
+
+*[h1] [b]Price[/b] [/h1]
+☐ It's free!
+☑ Worth the price
+☐ If you have some spare money
+☐ Not recommended
+☐ Save your money
+
+*[h1] [b]Bugs[/b] [/h1]
+☑ None
+☐ Minor bugs
+☐ Can get annoying
+☐ Goat simulator
+☐ Gamebreaking!!
+
+[h1] [b]LordC's Verdict[/b] [/h1]
+☑ Highly recommended!
+☐ Recommended
+☐ Not recommended
+☐ Disappointing
+
+*Peoples opinions may vary",1,0,0,0.5,969
+506870,76561198044195862,"Consistently glitchy, from save file becoming broken to inventory bug somehow making it impossible to climb stairs, use any items except the bugged one (which ended my run) and broken constantly-repeating sound effects. Lots of problems with inventory, reading inputs wrongly, right-clicking an item to view it outright not working, etc.
+
+Puzzles are seemingly all some variant of being told what to do by a note.
+
+Level generation does create a very interconnected thing which is interesting and technically impressive. Unfortunately, that (alongside the puzzle solutions being scattered around the dungeon on notes) also means that a very large percentage of time in a run is on good ole tedious backtracking (filler).",0,0,5,0.5892226099967957,103
+506870,76561198006584374,"Mostly reminds me of brogue with graphics, as a fan of brogue this is a good thing. It does some interesting things with the way it builds dungeons to have puzzles and stuff set up on early floors and pay them off on later floors.",1,1,0,0.5,4012
+506870,76561197970638038,"The best procedurally generated dungeon crawler in existence, ever. Sometimes you're lucky, sometimes you're cursed. Every time you either escape with riches or die in a gut-wrenching event.  Bonus points: You can install this bad boy on that jalopy of a laptop your work gave you. The only drawback is it is buggy at times and that can be frustrating. But my 1600 hours - pretty much a full time job for a year - say it's worth it anyway. Grab this at any price and keep an eye out for Unexplored 2.
+
+#roguelike #dungeon #lowend #i5",1,1,8,0.6213942170143127,99213
+506870,76561198060842764,Fun little game. Picked it up on the cheap; and can honestly say it was one of the better purchases I ever made.,1,0,3,0.5517324209213257,4598
+506870,76561198846015496,"This is a bit complicated: the game is good, very good, but in the end I, personally, didn't like it that much.
+
+It is a difficult rogue-like, which if you like that, it's great! However, this game helped me realize that I prefer to play somewhat easier ones, perhaps that my preference is more for rogue-lites, where there is some carry-over or improvements between runs to make later attempts easier, in addition to just better player skill at the game.
+
+At the beginning, it was a lot of fun, exploring, finding/figuring out puzzles, and unlocking new classes. But, starting with encountering Beetles, and then later, bosses and golems, faster than actually getting better at the game, I learned that ""avoiding X"" would allow me to get farther, and have fun playing longer.
+
+On the one hand, there's no xp or levels, so killing things do not improve your run beyond whatever gets dropped, so knowing how/what to avoid is certainly a player skill, however, on the other hand, the run consists of making it all the way to the bottom, collecting the macguffin, and making it all the way out again (while being chased), so anything avoided on the way down means it'll still be there, in the way, interfering with your escape attempt...
+
+Not that I think I ever played long enough to get more than halfway down. I just piled up enough ""Avoid X, because dealing with it is either really annoying, or will likely get me killed"", that in the end, I avoided the game altogether.
+
+This got rather long and nit-picky, but the game is quite good, it's just that I got defeated by the learning curve before becoming good enough at it to enjoy it long term.",1,0,1,0.48186594247817993,1597
+506870,76561198300446900,Incredible. The problem of a procedurally generated metroidvania has been solved. We now have infinite classic zelda dungeons to explore! Speunky gave us infinite Mario and now Unexplored gives us infinite Zelda!,1,1,2,0.5220588445663452,192
+506870,76561198212231476,ведьмак!,1,1,2,0.4903789460659027,3563
+506870,76561198106181382,groovy,1,0,0,0.5,191
+506870,76561197993630200,Pretty good!,1,1,0,0.5,1725
+506870,76561198045650841,"Really extraordinary action roguelike with a somewhat 'classical' sensibility, e.g. there are enemies it's best to run from, and drinking an unidentified potion can kill you in the wrong circumstances.  The dungeons generated in this game really are much more interesting that those in most other games--there are keys hidden across levels, clues pointing to useful equipment on other levels, etc.  NB I am very bad at this game, but highly recommended.",1,0,2,0.5355010032653809,1700
+506870,76561197989428542,"Awesome game. I've tried getting into some roguelikes before, but was never able to get over the hump of the initial frustration of downing random potions and having them kill me, and not knowing how to approach the game. After getting hooked on a more accessible roguelite (Spelunky), I was getting a hankering for a more hardcore dungeon crawler. This was like a perfect introduction because it had enough other mechanics that made me interested in learning how the game works.
+
+This game will kill you over and over, which can be frustrating, but it can also be pretty funny. It also just makes every game intense, especially as you get deeper and deeper into the dungeon. To complete a dungeon run takes about 2 hours if you're a noob and going slow.
+
+About 50 hours in I was sooo close to completing the game for the first time, and just barely fell short. Each run you learn more about the game and learn things you could've done better though, and at the 70 hour mark I finally got my first win in casual mode. My heart was pounding, and although there were a few very close calls I made it out. It was EXTREMELY rewarding, and to my surprise I booted up another dungeon run immediately after. Along the way there are also achievements you can complete to unlock additional classes and other small perks.
+
+Awesome game!",1,0,8,0.6130874156951904,4308
+506870,76561198209275476,"It is essentially a real time roguelike, so if you're like me and have been wanting the depth of a roguelike without the clunkiness of one, here you go.
+
+A surprising amount of depth, combined with the best level generation I've seen makes this game very well worth it. When I first started playing I thought I would be lucky to hit 20 hours played. Well here I am after being killed by a new boss I haven't seen before after getting a weapon I haven't seen before. The level generation is really what ties it all together. Levels reference each other, and you'll find clues as to where certain powerful items are. For example, I found a note about some level with a lot of loot that requires teleportation to get to. Later I found a teleportation staff, and got the loot! Then I found a secret level, where I was promptly ripped apart by a boss I wasn't prepared for. I  could have left the level, but I thought I could take him.
+
+Amazing adventures are to be had. If you are hesitant because the sequel comes out soon, don't be, this one is a dungeon crawler while that one seems to be going for a more grand adventure.",1,0,1,0.5085066556930542,1269
+506870,76561198054961959,this is one of the greatest games i have ever played with the amount of replayability that comes out of the amazing dungeon generation that makes it look and feel handcrafted. the way how both the systems and level designs work together is fantastic. one of the best roguelites/roguelikes out there,1,0,2,0.5343625545501709,3071
+506870,76561198043981524,"Unexplored is an action roguelike, as it says on the tin. It has a lot of options for players provided you're willing to put in the work to unlock the options. ~20 hours into the game and I've yet to unlock all of them, not by virtue of how many there are but how rare some of the requirements are. In my time I've seen less than 10 orcs, which drop items necessary to unlock the Berserker. I've never had a firearm and just got my first crossbow in the last hour or so of playing.
+The game holds a wide variety of weapons and armor, most of which are interchangeable without actually affecting play. The difference between a Sword, a Longsword, and a Greatsword isn't damage but a slight increase of range. Armors are more limited but there's enough names and sprites to make them feel distinct.
+The dungeon itself is complex in its generation and puzzles, borderline arcane at times. Solutions to puzzles can spawn on floors above or below it and they frequently do, which wouldn't be such an issue if the game didn't crash when you go to a floor you've already been to. Some dungeon seeds are unplayable because of how many high-skill enemies spawn in the first 3 floors. Some dungeon seeds are unplayable because a floor spawns without any staircases or they're locked behind doors without a way to open them apart from praying to the Gods.
+On that note, the prayer system is interesting. It serves as an occasional ""Get out of jail free"" card, also sometimes a ""I hope you like your run ending with 30 bats spawning in this cramped corridor right on top of you"" card. From what I can tell there are three variations to prayers being answered. the White answers are the most basic and can temporarily open doors, give hints, teleport you randomly on the same floor, and unlock chests. The Gold Answer permanently opens things, and the Red Answer does all of the above with the caveat that enemies will spawn after you go through.
+The mechanics are incredibly deep, there's a system for enchanting, brewing, and making scrolls that I rarely get the chance to use because the materials are hard to come by. Though deep, they're also relatively unpolished. Moving between floors you've visited can cause game-breaking lag or the game to crash altogether, restarting a dungeon on the same seed(from the death menu) starts you on the same floor on which you died, unfair enemies can put you in a situation where literally all of your weapons have been knocked down a floor and into lava. It's particularly annoying when your arrows decide to veer off-course halfway through their flight path. Even on the lowest difficulty setting it's not hard to find yourself with heavily damaged gear because a single corrosive enemy spawned in the first room of the floor you're going into and the loading screen took its sweet time. Should all else fail, I've had saves corrupt and become unplayable while traveling between floors.
+
+Make no mistake, I love Unexplored. It's one of a kind. I haven't found anything quite like it. Its art style is fantastic, the enemy variety is creative, the achievements, classes, and other rewards are cool. Dare I say it, cooler than any other roguelike's system. It could use a nice polishing, something to iron out the issues and make things less frustrating. The highs are incredibly high and the lowest lows might see you wanting to remove the game from your library.",0,0,9,0.6053873300552368,1284
+506870,76561197997255933,ADOM,1,0,0,0.5,244
+506870,76561198056578784,"It is like Brogue, but in realtime. A Roguelike with a focus on interesting dungeons.",1,0,1,0.5258620381355286,280
+506870,76561198966373518,"Great game, but crashes a hell of a lot, often for seemingly no reason. I'd say roughly 1 in every 5 runs I run into a problem of some sort.
+Still, I stuck through it for 10 hours, and will keep doing so, so fair play
+
+Edit: Wrote this review after my game crashed, again for seemingly no reason (there was literally 1 enemy on screen). Was doing a really good run, and now its corrupted, so that's a bit of a pisser.
+
+Edit 2: After the last edit, I pretty much stopped playing. The crashes are annoying but the corrupted saves are really bad, and caused my enough annoyance to stop playing and find something else.
+The truth is, there is nothing else quite like this. I've played a few other great roguelikes, many of which have their own unique offerings, but nothing is quite like Unexplored. Now I'm back to playing it again",1,0,0,0.5,646
+506870,76561198437494870,"Отличный рогалик, лучший из тех в которые я играл, рекомендую, опасайся утки.",1,0,0,0.4601989984512329,15707
+506870,76561197971857427,"[i]May have more hours played than displayed.[/i]
+
+Really good real-time trad roguelike... except for the occasional generation of floors without a way back up or down, along with no enemies.
+
+I can get some good play out of the game, but with this issue I cannot reliably reach the end.
+
+[i][u][b]RECOMMEND AGAINST: Game-breaking bug, but would give it a very strong recommendation otherwise[/b][/u][/i]",0,0,0,0.40506231784820557,1379
+506870,76561198045141593,"This is a fantastic and fresh feeling roguelite. It plays like a perfect blend of traditional roguelikes and something more like spelunky. The game has stats, but no levelling up; statpoints are gained via equipment and potions, and have mostly discrete effects rather than being mere factors in damage calculations. It feels as though you could beat the game without using any items, as long as you find a decent weapon and develop sufficient skill.
+
+The UI is a little clunky, particularly when playing with a controller, but it's forgivable because the game has so much charm anyway.",1,0,0,0.5,1037
+506870,76561198114895149,Very well made. Feels like you can handle any scenario in the game however you want and keeps you coming back for more. A little challenging but roguelikes are supposed to be,1,0,0,0.5,2190
+506870,76561198055751681,"Great game, paying respect to older tile-based roguelikes in the sense that you really are an adventurer. A good amount of content/secrets, and you get to experiment a lot.",1,0,0,0.5,2512
+506870,76561198009839821,"For me, the main difference between this and all the other roguelites is that it let you replay the same dungeon.  It used to, long ago, but that capability became broken with a recent update.  Now, nothing is the same beyond the first level.
+
+",0,0,0,0.462184876203537,1502
+506870,76561198056560287,"Игра с уникальной системой генерации уровней, огромным количеством механик и предметов делают каждое прохождение уникальным. Рекомендую абсолютно всем
+Единственный минус: давно не было обновлений",1,0,2,0.5279765129089355,5848
+506870,76561198041985057,I have closer to 40 hours of unrecorded offline playtime. The game stays true to oldschool RPG's like rogue and nethack. Very rewarding.,1,0,0,0.5,217
+506870,76561198000880270,"Simple, effective, pleasant.
+The sort of game you keep coming back to whenever you don't know what to do.",1,0,0,0.5,13883
+506870,76561198025434003,"[i][b]Vous voilà face au donjon de la damnation, l'immense complexe souterrain qui renferme le plus puissant artefact de la création, l'amulette de Yendor. Armé de votre dague, de votre ingéniosité et surtout de prudence, vous passez la porte.[/b][/i]
+
+Unexplored s'inspire fortement du Roguelike et les amateurs du genre retrouveront un côté Nethack. Si vous ne connaissez pas le genre, aucun problème, le Roguelike est un genre fortement complexe et chronophage qui n'est clairement pas pour tout le monde. Unexplored innove sur plus d'un point et propose surtout un gameplay dynamique et aisé d'accès qui parvient à distiller sous une forme plus digeste quelques-unes des richesses du genre.
+
+ [h1]The binding of Rodney[/h1]
+
+Vous incarnez le personnage au centre de l'écran, les déplacements sont faits avec les touches directionnelles et la souris est utilisée pour se tourner (un système de contrôle qui s'adapte très bien aux manettes). Vous utiliserez la plupart du temps une arme de mêlée : lorsque celle-ci entre en contact avec un ennemi, il subit des blessures. Bien entendu, si votre adversaire possède lui aussi un truc pointu en main, il pourra vous toucher de la même manière. A chaque fois qu'une arme touche un ennemi ou une autre arme, elle se ""décharge"" et devient inutile l'espace de quelques secondes, ce qui vous permettra notamment de parer avec votre arme.
+
+ [h1]Se battre avec la tige[/h1]
+
+Si le système de combat est plutôt intuitif et peut simplement se résumer à ""toucher l'adversaire avec une extrémité pointue"", il est souvent très difficile à contrôler. Si votre adversaire possède une arme plus longue que la vôtre par exemple, il sera très difficile de pénétrer sa défense pour lui porter un coup. S'il possède un bouclier et vous une arme à deux mains, il pourra aisément bloquer vos coups et vous laisser sans défense. De plus, vos ennemis seront rarement seuls et vous contraindront à vous tourner en tout sens pour ne pas être débordé. Dans l'ensemble, il sera difficile de ne pas passer votre temps à subir des dégâts, et en cas de mort, c'est retour à la case départ.
+
+ [h1]Temps mort ![/h1]
+
+Si le système de combat est si difficile à maîtriser, ce n'est pas par mauvais design mais par choix. S'engager dans un combat doit être une décision que vous pèserez lourdement, découvrir un nouvel ennemi doit être une expérience stressante qui vous poussera à réfléchir à la meilleure manière d'aborder le problème.
+Les blessures peuvent être guéries en mangeant des rations ou avec une potion de soin, mais ces dernières sont malheureusement très rares et si les rations sont bien plus fréquentes, elles prennent du temps à être employer et ne pourrons pas vous sauver la vie si des adversaires imprévus vous coincent dans un coin du donjon.
+
+ [h1]Un petit coup et ça repart[/h1]
+
+Pour vous sortir des situations les plus épineuses, il vous faudra employer vos ressources intelligemment. Pas question de juste gagner un peu d'expérience pour revenir plus tard, il n'y a pas de niveau et s'il existe une progression de l'équipement, son impact n'est pas si majeur que cela, donc à défaut de pouvoir faire appel à la force brute, il faudra être ingénieux et employer des consommables.
+Vous trouverez tout un tas de consommables au cours de votre exploration : potions, baguettes, flèches et autres choses qui peuvent vous permettre de vous sortir de n'importe quelle situation avec un peu de débrouillardise. Avec suffisamment de flèches, tuer un troll à travers un fossé devient trivial. Avec une baguette de boule de feu, une chauve-souris géante sera vite transformée en casse-croûte.
+
+ [h1]Expérience, cruelle maîtresse[/h1]
+
+Employer trop peu de consommables et vous mourrez avec un inventaire plein d'objets qui auraient pu vous sauver. Employez-en n'importe comment et vous finirez désarmé dans des situations critiques. Qui plus est, transformer une baguette de nuage toxique en arme mortelle demande parfois un peu d'imagination.
+L'autre problème, c'est que la plupart des objets trouvés dans le donjon ne sont pas identifiées à la base, il vous faudra employer les parchemins une première fois pour découvrir le sort inscrit dessus, boire les potions en espérant qu'elles ne vous enflamment pas et employer les baguettes à vos risques et périls.
+Il est même possible de vous retrouver bloqué avec un équipement maudit, dans quel cas il faudra attendre un parchemin de délivrance pour pouvoir vous en débarrasser.
+
+ [h1]La prudence est une vertu[/h1]
+
+Les combats ne rapportent que rarement la moindre récompense et tendent à user des ressources, il est donc souvent intéressant de les éviter quand c'est possible. Pour cela, il est possible de jouer la carte de la discrétion en se glissant le long des murs sombres, ou de courir jusqu'à ce que l'ennemi se désintéresse de nous.
+Le donjon est très peu linéaires et il existe bien des manières de le parcourir. Un monstre trop dangereux ou un boss trop difficile pourra donc être laissé de côté pour y revenir plus tard avec une meilleure préparation.
+Les niveaux ont souvent plusieurs issues et il existe une grande variété d'environnements, tant en terme de décors que de difficultés. Certains sont remplis de hordes grouillantes de monstres qu'il faudra éviter discrètement, certains sont si sombres qu'il faudra avoir une large quantité de torches, d'autres sont remplis de pièges ou de dangers environnementaux qui mettrons à l'épreuve l'agilité et l'attention du joueur.
+
+[h1]Un complexe souterrain[/h1]
+
+Votre exploration ne sera pas qu'un enchaînement de combat et les couloirs du donjon abritent bien des secrets. Bien des choses peuvent mener un joueur à une découverte intéressante, un élément de décors d'apparence banale, quelques indices sonores ou la lecture d'un des nombreux morceaux de textes donnant des indices sur les mystères du donjon.
+Des enclumes permettrons de combiner des objets entre eux pour les améliorés et de rares boutiques vous vendrons de quoi survivre un peu plus longtemps. Des puzzles environnementaux permettent de varier les plaisirs et nécessiterons bien souvent d'employer des informations trouvés ailleurs dans le donjon ou de manipuler tout un tas d'activateur pour avancer dans les niveaux les plus tortueux. Si ce genre de casse tête parfois lent vous ennuie, vous ne perdrez pas grand chose en les ignorants complètements et le nombre de puzzles peut même être réglé dans les options.
+Certaines clés ou solutions ne pourrons être trouvées que plus tard dans le donjon, certains lieux ne pourrons être atteint qu'en descendant directement dans un trou, croisant peut-être les monstres tombés ici avant vous.
+
+[h1]Le chaos engendre la beauté[/h1]
+
+Si le système de combat peut paraître maladroit et peu pratique, il est au service d'une vision stratégique plus large où le moindre combat peut mener à la mort et la moindre ressource devient un atout déterminant.
+La génération procédurale est la plus grande force du jeu, les donjons sont variés, riches, interconnectés et donnent réellement l'impression d'un tout plutôt qu'une simple succession de niveaux.
+Une suite est prévue pour 2022, qui promet de reprendre les points forts du jeu et d'y apporter bien plus encore. A surveiller, donc !
+
+[i]Merci d'avoir lu, [u]suivez notre curateur[/u] pour découvrir plus de jeux méconnus.
+[url=https://store.steampowered.com/curator/36024388/]Curateur[/url]
+[url=https://steamcommunity.com/groups/coupe-coupe]Groupe Steam[/url]
+Coupe-coupe, le curateur qui défriche la Jungle Steam[/i]",1,0,1,0.523809552192688,1738
+506870,76561198054073678,"Seems really fun, but it has too many buggy situations, I run into 1 and it kills me almost every run, be it going into a lake that you previously got out of and now you can't get out and drown, be stuck in a room with no way to exit after a teleport and many situations like that.
+
+Anyway I hope unexplored 2 will not have this ♥♥♥♥ because this is a good game concept and it is honestly kinda fun",0,0,0,0.4946996569633484,844
+506870,76561198290529270,"Juego con mecanicas faciles de entender, con un sistema de combate realista (nada de EXP, o evitas pelear, o huyes o peleas por tu vida o apuñalas por la espalda) mucho riesgo con las pocimas/pergamino y los objetos curativos estan bien administrados.",1,0,0,0.5,1660
+506870,76561197991825315,"this is one of the most feature complete roguelike games there are. SADLY. the meat is weak.
+
+Pros:
+-Interesting ciclycal rng level design. sadly the main path of the the game is not properly set. so you might be forced into spikes and or poison. the map itself feels handcrafted, its interesting to traverse. but its a bit too small. each level is separated in floors and you have to explore. Its very nice. Event cycles are set on top of the map and help create interesting happenings. DOORS, LOCKS, LEVERS. there are just some of the elements that help create a stronger depth on top of a simple and accessible level design.
+-LOTS of quality of life. auto looting, easy to use inventory, simplicity in design that helps create depth. Its interesting.
+
+cons:
+-combat is not very interesting. 
+-enemy AI is too simplistic.
+
+next game is gonna be GREAT. cant wait. just hope ai and combat is much better and the levels dont feel too small or their square shape gets shafted. This first game was a great proof of concept for their level gen tech, and it sold me. Imma get on the next one as soon as it launches.
+",1,0,0,0.45515939593315125,134

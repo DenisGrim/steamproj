@@ -1,0 +1,196 @@
+app_id,user_id,review,does_recommend,funny,helpful,weight,playtime_at_review
+370360,76561198981689835,이 게임의 리뷰가 압도적으로 긍정적인 이유는 이런 걸 좋아하는 사람들만 찾아와 집어먹기 때문이다.,1,0,0,0.5,169
+370360,76561198426430311,"This is a nice little headscratcher for anyone interested in old school programming, or even just puzzles. The extremely limited fictional instruction set may actually be a good way to wrap your head around more complex real-world architectures, or learn assembly if you haven't got a clue about it. The manual is a simple read and quite helpful.
+
+That being said, though the ISA is simple, the puzzles really aren't. I'm not the best programmer (doubly so with assembly) but I've enjoyed struggling through this, with lots of breaks and a fair few sessions of falling asleep with the game running... probably inflated my playtime a good bit. Lot more puzzles to go!",1,0,0,0.5,2732
+370360,76561198803831158,"Esse jogo é devéras complexo para o pequeno feijão que reside em meu crânio, popularmente conhecido como ""cérebro"", enquanto eu jogava esse jogo meus dois neurônios estavam competindo pelo terceiro lugar da competição de neurônio mais inteligente.
+
+Se você gosta de BDSM e C&B Torture, você provavelmente vai gostar desse jogo, tirando minhas complicações cognitivas, o jogo é bom, mas vou reembolsar e economizar pra comprar Hatsune Miku: Project DIVA Mega Mix+",1,0,0,0.5,66
+370360,76561199230675746,"this game is ♥♥♥♥♥♥♥ masochistic . HONESTLY like at the start the puzzles poked my head a lot and it was enjoyable, but after the first row of puzzles i was . puzzled. i think maybe if you're into computer programming/old computer architecture or an electrical engineer/computer engineer AND also a puzzle liker you might like this, but this is genuinely kindof a difficult game to recommend",0,1,1,0.5020747184753418,186
+370360,76561199445576382,"基本情報の旧試験のアセンブラの過去問より難しいじゃないか…。
+え？これでお金もらえないの？ってか払うの！？
+噓だろ...どうしようもない変態だな君は…。",1,0,0,0.5,2637
+370360,76561198321071891,Good programming game,1,0,0,0.5,2221
+370360,76561198175769231,i think therefore i'm not,1,1,4,0.5833333134651184,689
+370360,76561198019799617,"If you're the kind of person who'd consider buying this, you'll most certainly enjoy it. Difficulty of the later level is nothing to sneeze at -- I never completed it back when I played it during my CS bachelor studies.",1,0,2,0.5454545617103577,197
+370360,76561198095080494,Once you get the hang of it and RTFM it's a pretty neat way to visually learn some lower level programming concepts.,1,0,1,0.523809552192688,421
+370360,76561198813768039,"this ""game"" is actually just a trap to make you learn assembly language. 10/10",1,0,5,0.5898073315620422,166
+370360,76561198001224083,"[b]TIS-100[/b] is not a game that tries to welcome everyone. It is a game that looks at your brain, hands you a tiny fictional computer, and says: “Good luck.” And somehow, that is exactly what makes it brilliant.
+
+At its core, [i]TIS-100[/i] is a programming puzzle game about moving data through a grid of small processing modules. Each module has extremely limited space for instructions, and they communicate with their neighbours to transform given inputs into the required outputs. That sounds dry on paper, but in practice it becomes one of the most satisfying puzzle systems I have ever played.
+
+The real magic appears when the game starts pushing you against its limitations. You are often one instruction too long, one timing cycle off, or one synchronization problem away from success. A module finishes in two cycles, another takes three, and suddenly the entire solution depends on whether one piece of data arrives at exactly the right moment. Sometimes everything collapses because a value was pulled too early or sent too late. Other times, one tiny optimization — a better jump, a reordered instruction, a clever shortcut — makes the whole machine finally click into place.
+
+That moment is incredible.
+
+[i]TIS-100[/i] can be exhausting. There were sessions where I played for two hours and felt like my brain was about to crack. I had to step away from the computer, do something else, and yet the puzzle would keep running somewhere in the back of my head. Then, out of nowhere, an idea would appear: a possible synchronization trick, a way to save one line, a different route for the data. I would come back, test it, and sometimes watch the solution finally work. Few games create that kind of “Eureka” feeling so intensely.
+
+This is absolutely a game for programming nerds, logic puzzle fans, and people who enjoy being trapped inside strict constraints until they discover something elegant. It is demanding, occasionally frustrating, and definitely not for everyone. But if its particular kind of challenge speaks to you, *TIS-100* is outstanding.
+
+It is one of the rare games that made me feel not just entertained, but genuinely mentally stretched. Hard, strange, minimalistic, and deeply rewarding — [i]TIS-100[/i] is a fantastic puzzle game for the right kind of player.",1,0,7,0.6260684132575989,1486
+370360,76561198261187702,She be tessellating on my intelligence system till I 100,1,2,1,0.47158098220825195,1475
+370360,76561199209155832,i have no idea what im doing,1,3,8,0.6211293339729309,186
+370360,76561198264047096,"This game was the reason why I made a steam account back in the day.
+My favorite game ever since.",1,0,1,0.5,1955
+370360,76561198447539082,good,1,0,0,0.5,287
+370360,76561198119311293,it's good,1,0,0,0.5,360
+370360,76561198347004978,Best programming game so far! I haven't tried Shenzhen IO yet.,1,0,0,0.5,154
+370360,76561198374060457,"Well i was told it was hard....
+
+They were right. But still very fun puzzel game.",1,1,1,0.5,339
+370360,76561198302954938,"This is a very difficult game where you have to really think outside of the box for some answers, I will say that when you learn to make a (for) loop things get a little easier, also you don't have to use only one node others can be used for storage or a different half of a function that you can't fit inside of one node.",1,0,1,0.5,717
+370360,76561198107440047,"Great game, but for some reason while the game is launching, my PC stutters the whole time, but runs completely fine once it's fully loaded",1,0,0,0.5,125
+370360,76561198045177753,"The game is amazing, buy it.
+
+Every Zachtronics game has the moment where you stop caring about the elegance of a solution, and you start barely scraping through levels until you have solutions that you don't understand that somehow still work. Its normally around the same time I turn off the histograms.
+
+That moment came pretty early in TIS-100, I'd have to check the Dosh video to see if this game is harder than Exapunks, I'll update this review if I ever beat it - April 12, 2026.",1,1,2,0.52173912525177,971
+370360,76561198068808986,Is it really a game?,1,0,0,0.5,2730
+370360,76561198134012458,Nice Game to learn Assembler and fumble around with complicated problems,1,0,0,0.5,474
+370360,76561198038152950,Excellent way to engage with assembly-type programming.,1,0,0,0.5,198
+370360,76561198070166403,"TIS-100向けの日本語化MODを公開しました。 MSIインストーラー付きで、Steam版にそのまま導入できます。
+https://github.com/tsuyoshi-otake/tis100-jp",1,0,0,0.5,73
+370360,76561197972177593,.,1,0,0,0.5,811
+370360,76561198158431657,"If you like puzzles and low-level assembly programming then you are going to like TIS-100. I was able to finish all the puzzles by myself for the first 100% with the exception of ""Sequence Sorter"". Anyway best of luck to you, it's rough.
+
+Edit: I was finally able to finish Sequence Sorter. Good luck to the rest of you!",1,0,5,0.599918007850647,3557
+370360,76561198341371895,"TIS-100 is an excellent game. It's not for everyone, and while I know some people may think I'm crazy for this statement, but it made me a better programmer, and I think that's one of the best things about it. 
+I enjoyed every minute of, and still occasionally go come back to refine a solution (or maybe I'll finally finish those last two unsolved puzzles.. calculating prime factors is hard!)",1,0,6,0.6153846383094788,4090
+370360,76561198045195226,"You should probably just grind leetcode and get a high paying job. But if you want to just do it for fun, this game is good, but Opus Magnum is better. Still a cool game and deserves a thumbs up anyways.",1,0,3,0.5555315613746643,262
+370360,76561198031984176,This what they doin on those computers in severance,1,4,3,0.5620437860488892,901
+370360,76561198869861037,learned the principles of assembly language along the way,1,0,2,0.5339805483818054,557
+370360,76561198985220203,"A: Mov pnis acc 
+Swp
+Mov balls acc
+Jpenis cck 
+Torture acc
+Mov acc up
+Jmp A
+Cck: swp 
+Torture acc
+Mov acc up",1,3,0,0.4848484992980957,3367
+370360,76561197987384547,"Somewhat competitive, somewhat parallelizable, pseudo assembler. All-around fun.",1,0,0,0.5,3253
+370360,76561198045376395,"Never used all 12 registers when taking Assembly and computer architecture. It was also conceptual as we usually wrote on paper or rarely compiled.
+
+fun puzzle game",1,0,3,0.5608108043670654,80
+370360,76561199619995250,okay i get it im dumb thanks,1,2,1,0.5,2237
+370360,76561197997530191,i star learn assembly but that doesn't help play that simulation,1,0,0,0.5,555
+370360,76561198085744605,"This isn't ""immerssive"" or ""difficult"" it's just obtuse. 
+
+Anyone who reccomends this game to ""learn"" assembly language is being actively malicious. It's not good for learning jack diddly squat, because I can't even go back and retrace my steps. I can't even get heads or tails of what's happening. This is like expecting an illiterate monkey to learn how to write shakespeare from scratch by written instructions they need to leave the room to access.
+
+I can't feel accomplished because there's nothing to ""learn""- just bumble finding the instructions. It's not a puzzle game- it's a poor excuse for instructions or introductions, and it's not even able to fit to my screen properly. I can't even tell if I've properly reset my progress- If it was ALWAYS this lacking in information outside of the PDF (that I can't use the text search function for. It's all an image only, and for ""internal"" stuff about the TIS rather than how to actually do what I need) that I need to use steam to open instead of having access to it inside the program itself.
+
+Each time I come back to this piece of junk my hatred for this game, the people who recomended it grow, and zachatronics increasing by an exponentially geometric measure. What was once flat frustration is multi-layered disgust with whoever thought THIS would help people do anything but resent computation at it's basic layer. The education system angered me less than this does.
+
+Heck, I've grown to resent people making reviews on steam. So many of you operate on layers of irony it makes telling if a game is actually good or bad impossible at this point. I'm going back to DSP or factorio- maybe try out hacknet. Anything that doesn't make me actively resent humanity's technological progress and distracts from our growing cultural stagnation and psychological decay.",0,12,7,0.4744758605957031,6628
+370360,76561198025906260,An enjoyable programming puzzle game!,1,0,0,0.5,3434
+370360,76561199099060985,"해본 프로그래밍 게임 중에 제일 어려움
+V1은 많이 쉬운데 V2가 진짜 상상 이상으로 존나 어렵다
+어셈블리에 익숙한 사람들만 도전하는 걸 추천
+
+한줄평: 감사합니다 C",1,0,0,0.5,1076
+370360,76561199029567202,i hate assembly i cant read my own code,1,2,0,0.5,541
+370360,76561199196625249,"たまに競技プログラミングの解説を見たりする程度で、自分はプログラミングには詳しくない(BASICなら本当にちょっとだけ分かるけど出来ない)し、そもそも文系畑でイプシロン-デルタ論法って難し過ぎないか？　レベルの人だと前提を置きます。そのためレビューの角度が90度ぐらい違います。
+
+結論から言うと低級言語の不自由さを知った気分になれました。いやぁ難しいですね……感情を言葉に表せれないことと同じで、語彙の不足を痛いほど感じるのがこのゲームです。
+我々は文法の順番さえ入れ替えても相手に感情を伝達できる非常に便利な自然言語を扱えますが、この言語はたったの13個ですよ！　何も伝えられません。
+
+曖昧さというものに何度救われたのでしょうか？　厳格なルールというものは時として不和を生みます。
+ルールに則ったやり方というものもまた同じことで、様々なスポーツにおいても一定の軽度なルール違反には慣習も含め許容されますが、ことコンピュータにおきましては人間の曖昧さが許されません。
+許さないということも、心因的なものではなく実際に行えないものなので仕方がないのですが……私が述べたいこととはつまり定義の強固さなのです。連続した物の中で無限の誤差を許容できるアナログと、一つの数として切り離すデジタルの違いとも言えます。
+その厳格さがコンピュータひいては自然科学においては重要なのでしょうが、前述の通り13個しか使えないのです。しかも行数に限りがあるのが故に不格好で非効率的なものも作りにくいのがとても大変なことで……と言いますかifだけでもあればどれだけ楽できたことかと思います。繰り返しはあるのに……
+
+ですが、だからこそ楽しいゲームです。乱数を持たず固定の結果をもたらす再現性の塊であるからこその面白さというものです。
+幾度と実行し推測した結果へと導く楽しさを知っているでしょう？　であるならばこのゲームは真に良きゲームとなるはずです。
+とはいってもそういうのが好きなのは理系ばっかだし、文系でも統計使う研究する人か経済学の人だと思うけどね。まぁ文理の境目は時を経る毎に混ざり合っているのでステレオタイプとしての意味合いでしかないです。英語能力が必要なのはストーリーぐらいだし、ガイドも和訳されているから安心安全！　うるせェ！！！　やろう！！！！",1,0,1,0.5205479264259338,211
+370360,76561198167781637,what am i doing,1,6,2,0.5454545617103577,177
+370360,76561198027532894,Feels like a tech-demo for Shenzhen I/O.,0,0,0,0.4241645038127899,57
+370360,76561199133167603,"想定通りに動かず泣きながら処理を追い、基本的な見落としに気づいて再び泣き、ちゃんと動いたのを見て滂沱の涙を流す。
+プログラミングの楽しい部分がぎゅっと詰まった神ゲーです。",1,0,1,0.523809552192688,163
+370360,76561199000888350,Fun puzzle game. The UI might be unappealing to some but I think its okay.,1,0,0,0.5,130
+370360,76561198184350094,Employment Final Boss,1,2,5,0.5940459966659546,122
+370360,76561198993585215,Interesting and addictive,1,0,0,0.5,325
+370360,76561198014762691,Let's you compete with your friends in Assembler. What's not to love?,1,0,0,0.5,2882
+370360,76561198020355089,This game gives me a much more joy of programming than my job.,1,2,4,0.5626966953277588,329
+370360,76561198985799685,"This game is really helping me put the pieces together for how computers work under the hood. So well designed, simple and accessible.",1,0,3,0.5447804927825928,814
+370360,76561198858428396,"Very difficult and Very unrewarding.
+Almost the foundation of all Zachtronics games though.
+
+Only for the diehards.
+
+
+",1,4,9,0.6279305815696716,228
+370360,76561198310865525,mt foda,1,0,0,0.5,474
+370360,76561197994435857,"игра о том, как впихать невпихуемое, только в виде программного кода на сильно обрезанном ассемблеро-подобном языке
+максимум 15 строк кода на блок, никаких встроенных операций умножения/деления и боже упаси памяти для хранения значений больше, чем на одно в блоке (закроем глаза на существование стека, который далеко не везде можно использовать)
+а ведь придётся на этом считать траекторию движения комаров, износ шин в процессе атаки на время на горе Акаги, рисовать тепловую карту погоды на месяц вперёд и многое другое
+интересно, что можно сравнить качество своего кода по сравнению с другими игроками по трём пунктам отдельно - по кол-ву использованных блоков кода, по кол-ву строк кода, по кол-ву циклов за которые программа завершает работу
+я люблю всякие штуки по оптимизации и выжимания всего из ничего, поэтому мне понравилось. очень сложно конечно
+только вот мой совет: когда дойдёте до Сортировщика Последовательностей - бегите. к нему не стоит возвращаться, пока не напишете все остальные программы",1,0,4,0.5833333134651184,9232
+370360,76561198147470218,"TIS-100 taught me assembly basics.
+I can not overstate how valuable this game is for any low level engineer.
+",1,0,7,0.6174506545066833,95
+370360,76561198411394060,Unemployment final boss,1,5,7,0.5815882682800293,77
+370360,76561198062414806,Awesome,1,0,0,0.497568279504776,30
+370360,76561198052108110,I've gotten further than I thought I would already,1,0,0,0.497568279504776,100
+370360,76561198148644578,깨도 내가 왜 깼는지 모르겠어요,1,0,0,0.5,802
+370360,76561198418785310,TIS-PMO,1,3,4,0.5809672474861145,225
+370360,76561198123568166,Actually good puzzle game,1,0,0,0.497568279504776,2884
+370360,76561199258695192,fun yk,1,0,0,0.497568279504776,109
+370360,76561198769242007,因为无六,1,0,0,0.5,1622
+370360,76561198144469469,"Takes a second to figure out the menus, but once you get going its very rewarding :)
+Fun little logic puzzles to train your brain to think in assembly.",1,0,1,0.4984190762042999,264
+370360,76561198416319678,"i went in knowing next to no assembly.
+i left knowing even less.",1,7,6,0.6117272973060608,738
+370360,76561198838905495,"Played up until the limit of my ability. I would highly recommend this to anyone with an interest in computer science! It's playable for anyone who has a very base understanding of what assembly code is or how it works, at least for the first few levels. After that it gets to an un-fun level of challenge, but I think someone smarter computer-wise than me will enjoy it greatly. I had a lot of fun getting to grips with the funky architecture.",1,2,1,0.5185301303863525,67
+370360,76561198031352675,"STRT: MOV UP, ACC
+
+This game is ridiculously difficult, and takes what I have to assume will amount to dozens of hours for someone with systems programming experience to master. It is also approachable to newbies, with a willingness to learn",1,0,3,0.5412003993988037,751
+370360,76561197988069596,IF文が使えたら瞬殺なのに！　と歯噛みするゲーム。,1,0,0,0.5,1166
+370360,76561198126761876,"Your mileage will vary from how familiar you are with assembly instructions, not for the faint of heart, but one of the best in the genre if it clicks for you.",1,0,0,0.497568279504776,2980
+370360,76561198130394208,I got tricked into doing assembly... 10/10,1,0,1,0.521382749080658,366
+370360,76561198074404413,"이거 겜 아님
+어셈블리 프로그래밍하는 느낌이고 실제로도 어셈블리 프로그래밍 하는건데
+왜 계속 하게되는건지 모르겠다
+로직 최적화가 계속 하고싶음",1,0,0,0.5,315
+370360,76561198890902092,开始给个手册和终端界面是要干什么呢,0,1,0,0.5,7
+370360,76561198448182601,help me,1,0,0,0.5,871
+370360,76561198239791188,I haven't finished it yet but definitely worth trying even if you are not a Programmer. this game change your perspective on how things are made,1,0,3,0.561098039150238,451
+370360,76561198310839712,"Gra jako łamigłówka jest nawet spoko, ale architektura wykorzystywanych w tej grze procesorów jest niezwykle uboga. Można działać na tylko jednym rejestrze - czemu??? Rozumiem, że to ma odwzorowywać bardzo stare procesory, ale wtedy w sumie problem rozwiązywano zgoła inaczej. W tej grze to bardziej sztuczna trudność, naprawdę dodanie więcej instrukcji by znacznie ułatwiło grę.",1,0,0,0.5,430
+370360,76561198265528117,"it feels like just a leetcode for assembly, not that interesting",0,1,1,0.4615384638309479,20
+370360,76561199099173661,"assembly go brrrrr
+",1,0,0,0.5,969
+370360,76561198043880889,It's a good game. Not really much more needs to be said.,1,0,0,0.5,393
+370360,76561198019334216,Amazing,1,0,0,0.5,1208
+370360,76561198007758345,Good game.,1,0,0,0.5,1483
+370360,76561198394064762,it's fun... first time programming in such a constrained environment,1,0,0,0.5,299
+370360,76561198137653879,"Even as a student of computer engineering, solving these puzzles without any outside help is a significant challenge. The process is quite different from modern programming, especially since the TIS language is inspired by assembly, and the resource-limited, modular node system is also quite unique, possibly inspired by interconnected microcontrollers. But this challenge is what makes it so entertaining. Repairing even one node can be quite a hurdle, but the satisfaction of seeing your code run so pretty and match the expected output makes the time puzzling over the solution even more worth it. Don't be discouraged if you can't solve it by just thinking about it. I've spent much of my time comprehending and planning solutions by writing it out. Overall, its a pretty fun game, especially if you enjoy solving puzzles.",1,0,5,0.5899471044540405,1874
+370360,76561199174335924,Fun,1,0,0,0.5,1281
+370360,76561198952272065,jro my goat,1,0,1,0.523809552192688,1013
+370360,76561199122366479,Pretty cool,1,0,1,0.523809552192688,342
+370360,76561198108165823,"There is much that can be said about TIS-100, its a coding game that professional software engineers spend dozens of hours if not more to complete. It will take significant effort to complete anything beyond the first 5 levels and the challenges only get more difficult from there. Getting every max score on every level is probably a better course on assembly/coding related problem solving then any university can offer. But Ill dumb down the decision on if you should buy this game to a simple question:
+
+Do you like the idea of solving complex problems with a very unique assembly based system?
+No: Don't buy the game
+What does that mean?: Don't buy the game
+Yes: Buy the game, seriously its the price of a happy meal for hundreds of hours of entertaining coding problems.",1,1,5,0.5759717226028442,310
+370360,76561198102931917,"I bought this game years ago, and just recently remembered I had it. It's pretty fun.",1,0,0,0.5,484
+370360,76561197998615371,Fun and challenging puzzles that as an added bonus teach you some of the ideas and challenges of assembler-coding.,1,0,0,0.5,836
+370360,76561198295650124,"If you feel good about yourself and think you're smart, you should play this game :)
+""Durr the computer must be wrong!!!""
+It never is.",1,1,5,0.598540186882019,404
+370360,76561197974408081,Top-tier Zachtronics game.,1,0,0,0.5,1340
+370360,76561198355670777,"A simple programmable device, what more could anyone need?",1,0,0,0.5,315
+370360,76561198298068185,It's a fun and comfy programming game. Great tool for learning,1,0,0,0.5,642
+370360,76561199510871995,Bit Tough,1,0,0,0.5,197
+370360,76561198343750034,jogo excelente,1,0,0,0.5,1106
+370360,76561199043203687,hard,1,0,0,0.5,1237
+370360,76561198020893874,Really cool puzzle game,1,0,0,0.5,1899
+370360,76561198076467404,"I played this game in highschol, came back after obtaining my bachelors in CS, and oh my god this is genuinely a hard game I have no idea how a high schooler managed to do play it.",1,0,1,0.523809552192688,618
+370360,76561198045751097,"I don't know why I bought this game. I'm not smart enough to play it. 
+
+10/10.",1,2,0,0.5,14
+370360,76561199090777017,GOD I LOVE CODING I NEED MORE CODING. I WANT TO PAY TO DO WORK. THE ONLY THING I DESIRE MORE IS TO FISH! TO FISH IS TO LIVE!!,1,2,6,0.6033444404602051,2555
+370360,76561198893086928,bão di maize!,1,0,0,0.5,430
+370360,76561199681125936,good,1,0,0,0.5,849

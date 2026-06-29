@@ -1,0 +1,529 @@
+app_id,user_id,review,does_recommend,funny,helpful,weight,playtime_at_review
+418120,76561199819631101,"Bom game, joguei antes de maneiras nao legais por nao ter cartao de credito e afins ""antigamente"" mas agora tenho recursos e comprei o game para platinar. bem melhor do que eu lembrava",1,0,0,0.5,856
+418120,76561199571402396,MUITO BOM! ADORO A FRANQUIA CALLY'S CAVES!,1,0,0,0.5,201
+418120,76561199029779418,"A very simple jump and shoot game, if you like what you see on the previews then you would 100% like the game, give it a try!!!",1,0,2,0.5416666865348816,152
+418120,76561198367471798,"Cally’s Caves 3, developed and published by VDO Games, is a fast-paced action platformer that channels the spirit of classic run-and-gun adventures while injecting a modern sense of progression and depth. It continues the story of the young heroine Cally as she embarks on another perilous mission to rescue her kidnapped parents from the clutches of the villainous Herbert. What begins as a simple rescue narrative soon unfolds into a surprisingly expansive adventure filled with dozens of interconnected stages, evolving weapons, and layered challenges. The game captures that nostalgic charm of early platforming titles while introducing a level of polish and mechanical variety that feels fresh. It’s a rare blend of straightforward action and thoughtful progression that manages to sustain excitement through sheer variety and pacing.
+
+The moment-to-moment gameplay of Cally’s Caves 3 is where it shines most. The controls are tight and responsive, allowing players to dash, double-jump, and fire in multiple directions with precision. Each level is designed with a blend of combat arenas, traps, and vertical traversal segments that reward both speed and exploration. Enemies come in various shapes and attack patterns, forcing the player to adapt quickly and make good use of Cally’s growing arsenal. The game introduces a robust weapon progression system that forms its mechanical backbone. Every weapon gains experience the more it’s used, gradually leveling up and unlocking new traits—some gain elemental effects, while others acquire faster fire rates or area-of-effect damage. This sense of growth transforms even early-game weapons into devastating tools later on, creating a rewarding feedback loop that keeps combat engaging long after the initial learning curve.
+
+Visually, the game embraces a nostalgic pixel-art aesthetic that pays homage to classic side-scrollers like Mega Man and Cave Story. The sprites are clean, colorful, and full of personality, with smooth animation work that gives each movement a satisfying sense of momentum. Cally herself is a lively and expressive protagonist, animated with a bounce and confidence that make her a joy to control. The environments range from dimly lit caves and industrial zones to lava pits and icy caverns, each offering distinct challenges and visual motifs. Though some level backdrops repeat, the use of lighting, color shifts, and environmental hazards helps maintain visual interest throughout the lengthy campaign. The pixel art may appear simple at first glance, but it’s packed with charm and attention to detail, complementing the game’s old-school identity perfectly.
+
+Combat in Cally’s Caves 3 is brisk and dynamic. The sheer number of weapons available—over 20 in total—gives players a wide range of playstyles to experiment with. From standard rifles and spread shots to ricocheting energy orbs and explosives, each gun feels unique and capable in the right hands. The inclusion of melee attacks and special gadgets adds even more tactical flexibility. Enemies are placed carefully across stages, often requiring the player to juggle positioning and timing rather than rely solely on brute force. Boss battles punctuate each major area, serving as skill checks that demand mastery of movement and weapon choice. While some of these fights are imaginative and thrilling, others can feel drawn out due to large health pools or predictable attack cycles. Even so, the challenge remains fair, and the satisfaction of finally defeating a tough opponent with a fully upgraded weapon never gets old.
+
+Progression in the game goes beyond weapon upgrades. As you advance, you unlock new movement abilities—such as dodges, triple jumps, and swimming—that open previously inaccessible areas and add a light Metroidvania flavor to exploration. Shops scattered throughout the world allow you to purchase health boosts, grenades, and passive upgrades, creating an RPG-like sense of advancement. The game encourages experimentation, offering hidden rooms, collectible coins, and bonus stages for players willing to search off the beaten path. Beyond the main campaign, additional modes such as Bera’s Adventure and Survival Mode extend the experience with different mechanics and objectives, offering replayability for completionists and those seeking a greater challenge. These additions give the game surprising longevity, ensuring that even after the credits roll, there’s reason to return and test your skills.
+
+The difficulty curve is well-structured, striking a balance between accessibility and challenge. Early levels introduce mechanics at a manageable pace, allowing players to become familiar with Cally’s abilities and the upgrade system. Later areas ramp up the intensity with tougher enemies, environmental hazards, and platforming sequences that demand precise timing. While some players may find the repetition of enemy types or level layouts noticeable in the later stages, the evolving weapons and constant introduction of new abilities help maintain a steady rhythm. Occasional frustration arises from uneven checkpoints—dying in certain stages may send you back farther than expected—but this reinforces a sense of accomplishment once you finally clear a difficult section. The inclusion of fast-travel and replayable levels helps offset these moments, making grinding or exploration feel purposeful rather than tedious.
+
+From a technical standpoint, Cally’s Caves 3 runs smoothly, with crisp input response and minimal load times. The game’s low system requirements make it accessible on virtually any setup, and the optimization ensures that even during chaotic firefights, performance remains stable. The soundtrack complements the energetic gameplay with upbeat chiptune tracks and driving rhythms that evoke the feeling of classic platforming adventures. The music shifts naturally between calm exploration and high-stakes encounters, enhancing the momentum without becoming intrusive. Sound effects are punchy and satisfying, giving each weapon a distinct auditory signature that reinforces their personality and power.
+
+Cally’s Caves 3 isn’t without its rough edges—its narrative is simple, its visual variety occasionally limited, and its enemy design sometimes repetitive—but its gameplay more than compensates. The combination of fluid controls, robust weapon progression, and a steady sense of reward creates a loop that’s hard to put down. It strikes the perfect balance between nostalgia and modern design, offering enough accessibility for casual players while providing depth for those who crave mastery. It’s the kind of game that reminds players why classic run-and-gun platformers have endured for decades, revitalizing old formulas through clever execution rather than reinvention.
+
+In the end, Cally’s Caves 3 stands as a love letter to retro action games—one that delivers on both heart and substance. Its cheerful tone, rich upgrade system, and variety of modes make it more than just another pixel-art homage. It’s a fast, fluid, and gratifying experience that captures the excitement of discovery and the thrill of progression in equal measure. Whether you’re a longtime fan of the genre or simply someone seeking a tightly crafted platformer with satisfying gameplay depth, Cally’s Caves 3 proves that even a simple premise can evolve into something genuinely special when crafted with care and passion.
+
+Rating: 8/10",1,0,1,0.52173912525177,788
+418120,76561198355752399,💋,1,1,1,0.523809552192688,519
+418120,76561198007627220,"[h1]Без приключений не прожить,
+Они везде нас поджидают,
+Как призрак в воздухе витают,
+Стараясь миг подсторожить.[/h1]
+
+Вы играете за девочку Кэлли, у которой похитили родителей. Это сделал злодей Герберт, проводящий страшные эксперименты в своей Пещере. Вам надо, с помощью морально поддерживающих вас друзей, победить Герберта и его приспешников. Есть, правда, у неё один дружок, медвежонок Бэра, крутой рукопашник. Иногда, дают и за него поиграть.
+
+Кэлли предстоит много стрелять и много прыгать, как в любом хорошем RUN & GUN. Уровни сделаны в виде небольших лабиринтов, наполненных противниками и хорошо спрятанными секретами. Мир поделён на эпизоды. В конце каждого эпизода будет босс. Боссы в игре большие, живучие и скучные. Ничего интересного они не делают, а бить их приходиться долго. Как и в любой уважающей себя стрелялке, у нашей героини будет куча разного оружия. Арсенал весьма большой: от простого пистолета и дробовика, до самонаводящейся ракетницы и такой экзотики, как бумеранги и копьемёт. Каждое оружие можно прокачать. При его использовании, оружие получает опыт и, со временем, увеличивает урон, и даже меняет внешний вид. Ещё у нашей девчули есть огромный меч. Очень полезная штука, если наловчиться им пользоваться. При ударе, он оглушает врагов и позволяет отбивать некоторые выстрелы.
+
+Из побитых врагов и из многочисленных сундуков выпадают монеты и опыт. Опыт поднимает уровни, которые дают дополнительные сердечки к жизням. Монеты можно потратить в специальной лавке. Там продают, как дешёвые расходники, типа лечилок, так и дорогие улучшения. Дополнительные монеты, сердечки, регенерация, более крутой меч – улучшений много и они очень полезные. Когда денег станет очень много, можно ещё добавить элементальный урон для любимого ствола. 
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3316941934
+
+Нарисовано всё простенько, но со вкусом. Противники крупные, фоны разнообразные, оружие меняется со временем. Звуки среднего уровня, в музыка ничего, весёлая.
+
+Если, после прохождения игры, Вам показалось мало, то в Cally`s Cave есть, чем заняться и потом. Например, есть Новая игра+, где на тех же уровнях бродят куда как более сильные монстры. Ещё есть отдельный эпизод про лабораторию. Самое весёлое – это отдельные уровни про Бэра, который ищет путь домой. Деньги, кстати, там текут рекой и можно очень хорошо подзаработать. В итоге, хочу сказать, что игра очень интересная и затягивающая. Очень рекомендую попробовать, на скидках бывает очень недорого.",1,2,18,0.6592015624046326,972
+418120,76561198271046781,"前作に比べてビジュアルとかプレイ感が改善されてていい感じ
+ストーリーもいい余韻で終わるのもすき",1,0,0,0.5,1430
+418120,76561197968658621,"Too easy, too simple, too dull.  I can see someone else finding it fine enough, it's like a lot of simple itch io games.",0,0,2,0.5198413133621216,135
+418120,76561198920142728,Played on OG 512 Steam Deck without issues despite it being labeled as unsupported. This is a fantastic fun Metroidvania-esque game. So much fun.,1,0,1,0.5006808638572693,99
+418120,76561199048691503,"Mejor que el cally trails, pero mas largo tambien y un poco mas dificil de farmear.",1,0,0,0.5,892
+418120,76561198102451152,👍,1,0,0,0.5,85
+418120,76561198338038707,"Sympa, j'ai bien aimé. La difficulté est pile comme il faut, et les différents modes de jeux et bonus permettent de rallonger la durée de vie.
+
+Seul vrai reproche, c'est la [b]gestion des armes[/b]. Il faut appuyer sur un bouton pour faire défiler les armes une par une. Or, comme il y a en beaucoup, si on appuie une fois de trop sur le bouton, il faut ""refaire un tour"". Un peu pénible dans les niveaux qui nécessitent le Spike gun. 
+Certains boutons de la manette sont inutilisés, il aurait été plus judicieux d'attribuer les changements d'arme avec les gâchettes de la manette : gâchette gauche pour l'arme précédente, et gâchette droite pour l'arme suivante.",1,0,0,0.5,1753
+418120,76561199364754373,很精致,1,0,0,0.5,1256
+418120,76561198370020840,"un plateformer qui se défend très bien! addictif et très fluide! un gameplay changeant de temps en temps. une découverte des + appréciable pour la rétro que je suis. bonne petite musique et graphismes sympathiques. un petit jeu qui se laisse siroter tranquillement, pas trop dur, ni trop peu. nickel-chrome!",1,0,0,0.5,444
+418120,76561197990406921,trash,0,0,0,0.47101446986198425,5
+418120,76561198218855369,Jogabilidade ruim e ações descalibradas (salto e ataque). Não consegui aproveitar o jogo.,0,0,0,0.5,15
+418120,76561199407132677,Awesome platforming!,1,0,0,0.5,970
+418120,76561198393084459,It's good!,1,0,3,0.5214948058128357,1131
+418120,76561199039190401,"Cool looking game, but I really don't like the hitboxes.",1,0,0,0.5,46
+418120,76561198255580860,its pretty fun yeah its not the greatest thing in the world but it was made by 3 dudes after making freakin phone games ill cut em some slack plus the musics great also the flamethrower does the most damage just so you know,1,0,0,0.5,1633
+418120,76561198171480173,when in doubt just mash laser,1,0,0,0.5,1394
+418120,76561198007618693,"Empecé con el 4 en mi movil, la verdad es que aunque es un juego simple, se le nota el cariño que se le puso. Me gustan este estilo de juegos porque siempre desde niño tuve la idea de hacer juegos similares, de armas e historias así. 
+
+La variedad de armas es enorme, los cambios en las mismas una gozada. El juego va al tema, o sea, hay diálogos pero no molestan demasiado. 
+
+tiene algunos problemas sí, por ejemplo, cuando llegas al punto de ser prácticamente invencible. Vi que hay un logro de morir unas 100 veces... difícil lo veo, no hay muerte instantánea, te tienen que bajar toda la vida, y si bien hay jefes que hacen eso rápido, hay maneras de escapar antes de morir, generalmente si uno muere es por un gran descuido o intencional.
+
+Por otra parte Si encontrás un stage bonus, tené cuidado, no salgas de él, agarrá el premio que te dan al final, porque si salís de ahí sin agarrar tu premio lo pierdes.
+
+Si jugás con un mando con un botón turbo, se hace un juego super facil en muchos sentidos.",1,0,0,0.5,745
+418120,76561199010042150,"I am 32 years old.
+
+My ex-wife and I have a daughter together, and we adopted our son together. Both are now 4 years old.
+
+When we were going through our separation, I felt lost and unhappy. I was self-destructive. One day, I was so angry with everything spiraling out of control that I punched a concrete wall in a moment of overwhelming emotion. This resulted in breaking my fifth metacarpal in my right hand—the hand I worked with, played games with, and used to carry my children to bed—the hand I desperately needed to ensure I could continue providing.
+
+Upon learning the severity of the self-inflicted damage, I became almost suicidal. Keep in mind that just a few months before this, I was the happiest man, with no history of depression or anxiety. I had never experienced anger outbursts, nor was I the type to break down and cry, but I was in a tough situation that truly prevented me from seeing the light on the other side.
+
+With nothing better to do, I looked for a game I could play WITH ONE HAND while recovering. Somehow, I stumbled upon this game and read some of the comments. I decided it was worth a try... I must admit I didn't beat the game, nor did I play as much as some of you. In fact, I may have played this game for only a day or two. That being said, after doing so, I had a new joy and hope for life. I managed to leave behind the pain and suffering that had been thrust upon me. I could experience the joy and happiness of other people. I relaxed for 5 ♥♥♥♥ minutes listening to this music, long enough to realize that I would be okay.
+
+After realizing this, I turned off the game and went back to work. My hand hurt a lot, but I was motivated. I stopped feeling so sorry for myself and became the father I needed to be at that moment, not the weak boy I was behaving like.
+
+Today, I am close friends with the mother of my children. We don't fight, argue, or say hurtful things to each other. We are parents and friends.
+
+Now I have 3 children. My third child is, wait, ALSO 4 YEARS OLD. The woman I am with was going through a very similar situation at the time of my separation, and we just unexpectedly stumbled into each other's lives. We have been dating for a year and are very happy together.
+
+Moral of the story: you never know what life has in store for you, and if I had given up when all odds were against me, I wouldn't be where I am today. This silly little game helped me realize that.
+
+Thank you.",1,0,3,0.44418448209762573,63
+418120,76561197970193418,"⣿⣿⡻⠿⣳⠸⢿⡇⢇⣿⡧⢹⠿⣿⣿⣿⣿⣾⣿⡇⣿⣿⣿⣿⡿⡐⣯⠁ ⠄⠄
+⠟⣛⣽⡳⠼⠄⠈⣷⡾⣥⣱⠃⠣⣿⣿⣿⣯⣭⠽⡇⣿⣿⣿⣿⣟⢢⠏⠄ ⠄
+⢠⡿⠶⣮⣝⣿⠄⠄⠈⡥⢭⣥⠅⢌⣽⣿⣻⢶⣭⡿⠿⠜⢿⣿⣿⡿⠁⠄⠄
+⠄⣼⣧⠤⢌⣭⡇⠄⠄⠄⠭⠭⠭⠯⠴⣚⣉⣛⡢⠭⠵⢶⣾⣦⡍⠁⠄⠄⠄⠄
+⠄⣿⣷⣯⣭⡷⠄⠄⢀⣀⠩⠍⢉⣛⣛⠫⢏⣈⣭⣥⣶⣶⣦⣭⣛⠄⠄⠄⠄⠄
+⢀⣿⣿⣿⡿⠃⢀⣴⣿⣿⣿⣎⢩⠌⣡⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠄⠄⠄
+⢸⡿⢟⣽⠎⣰⣿⣿⣿⣿⣿⣿⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠄⠄
+⣰⠯⣾⢅⣼⣿⣿⣿⣿⣿⣿⡇⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠄
+⢰⣄⡉⣼⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠄
+⢯⣌⢹⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⢸⣇⣽⣿⣿⣿⣿⣿⣿⣿⣿⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⢸⣟⣧⡻⣿⣿⣿⣿⣿⣿⣿⣧⡻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⠈⢹⡧⣿⣸⠿⢿⣿⣿⣿⣿⡿⠗⣈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠄
+⠄⠘⢷⡳⣾⣷⣶⣶⣶⣶⣶⣾⣿⣿⢀⣶⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠄
+⠄⠄⠈⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄
+⠄⠄⠄⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠄⠄",1,0,0,0.35393232107162476,91
+418120,76561199141424897,"从以前Ipad上的体验版接触到，很精致好玩的横版闯关小游戏，音乐非常好！！！
+武器也会随着升级变化形态，就是有时升级不如不升（比如满级了的刀片枪还不如没满级的好用）
+还有主菜单挂机一定时间之后BGM就会暂停并且有打雷音效，伴随着死亡画面的出现。。。
+Rupert他爹不是很友好啊",1,0,0,0.5,1248
+418120,76561199020382046,MUITO BOM,1,0,0,0.5,193
+418120,76561199183033577,"Cally's Caves 3 - это игра, которая оставила глубокий след в моем игровом сердце. Еще с первых минут я почувствовал ностальгию по старым платформерам, которые меня увлекали в детстве. Игра смогла воссоздать тот самый волшебный дух, который заставлял меня сидеть часами перед экраном и наслаждаться каждой секундой игрового времени.
+
+С Cally's Caves 3 я снова стал мальчишкой, который с нетерпением ждал момента, чтобы погрузиться в новые уровни и встретиться с увлекательными персонажами. Геймплей просто завораживал: красивая пиксельная графика, плавное управление и куча интересных врагов, которые требовали от меня смекалки и ловкости.
+
+Каждый уровень был уникален и динамичен, и каждый раз, когда встречал сложности, я не сдавался. Возвращался снова и снова, пока не преодолевал каждое препятствие. Это были не просто уровни, это были испытания, которые делали меня сильнее и умнее.
+
+Персонажи в игре были яркими и харизматичными. Я полюбил Cally и ее команду, которая путешествовала по опасному миру, сталкиваясь с разнообразными врагами и раскрывая захватывающий сюжет. Все они стали моими друзьями, и я радовался, когда их истории развивались вместе с моим прогрессом в игре.
+
+Cally's Caves 3 - это не просто игра, это опыт, который привнес в мою жизнь множество эмоций и воспоминаний. Она напомнила мне о том, как важно сохранять детскую радость и не бояться вызовов. Эта игра не только развлекла меня, но и научила многому, и я благодарен её создателям за это.
+
+Спустя время, когда я вспоминаю Cally's Caves 3, сердце снова наполняется радостью и теплом. Это не просто игра, это часть меня, которая навсегда останется в моем сердце и продолжит приносить улыбки на моем лице. Если бы мог, я бы поблагодарил команду разработчиков лично за это волшебство и за воспоминания, которые они дарят всем игрокам.
+
+Единственное, очень жаль, что Cally's Trials для смартфонов (Cally's Caves 2) забросили и нет возможности пройти на смартфоне с новой версией Android. Всё нормально, но карта не открывается, а на ПК карты вообще нет. Всё же кнопка ""MAP"" в тысячу раз удобнее того, чтобы либо заново всё каждый раз проходить, либо идти до уровня, откуда, каждый раз, можно попасть лишь в начало главы, а не на тот уровень, на котором закончил. Это очень огорчает, но, скорее всего, игру уже никогда не обновят. Писал это в Play Маркете, напишу и здесь, шансов очень мало, но я буду верить, что кнопку ""MAP"" починят и я снова смогу играть в самую любимую часть - Cally's Caves 2.",1,0,0,0.5,12252
+418120,76561198237676960,2d platform kontrolleri iyi ama çabuk sıkıyor,0,0,1,0.523809552192688,199
+418120,76561198051886825,"Um jogo divertido, cheio de upgrades e equipamentos q evoluem com a exp adiquirida, me agradou mt, se torna um pouco enjoativo com o tempo, mas a busca pelos upgrades e pelas conquistas te insentiva a jogar o new game +. bom jogo recomendo.",1,0,0,0.5,1185
+418120,76561198081293192,нет,0,0,0,0.5,371
+418120,76561198267932159,"для 2-d игры довольно таки прикольная + несколько режимов (сюжей,выживание,berra quest((играешь за мишку)),melvin`s zone). 
+в общем играешь как-будто на сеге, но всё сохраняется *есть чек-поинты"" и постепенно ты получаешь оружия, а там они довольно интересные все, есть ракетница которая позволяет крысить и самонаводкой бить врагов. или гарпун weapon позволяющая стрелять штырями на которые можно становится и так подниматься туда, куда раньше вы не могли попасть допустим, можно перезаходить на стейджи и всё будет обновляться, награды-враги. это очень интересно, с каждым 5 уровнем ваше оружие будет увеличиваться как визуально - так и по статам.(19лвл макс.) играл в неё лет пять назад пооткрывал немного оружия, прошёл немного и подзабросил, сейчас вернулся поиграл ещё часа полтора и кайфанул нереально. советую.",1,0,0,0.5,331
+418120,76561198267442074,感觉设计上中规中矩，比较经典。,1,0,0,0.5,32
+418120,76561198004585919,I liked it at first but the charm VERY QUICKLY wore off . It is klunky and unforgiving. There is not even analog support and the changing of controller mapping seems nonexistent. It is also bizarre that achievements you get don't actually trigger when you get them but when you quit the map you are on or advance to a new one. Cute characters but wish this behaved better.,0,0,0,0.5,699
+418120,76561198146083624,"我从别人哪里抱了一只猫猫过来，欢迎摸摸
+　　　　 　　 ＿＿
+　　　 　　／＞　　フ
+　　　 　　| 　_　 _ l
+　 　　 　／` ミ＿xノ
+　　 　 /　　　 　 |
+　　　 /　 ヽ　　 ﾉ
+　 　 │　　|　|　|
+　／￣|　　 |　|　|
+　| (￣ヽ＿_ヽ_)__)
+　＼二つ
+最近建了闲聊群变得冷清了起来，想和大伙一起在群里聊天QAQ（QQ371175687）",1,0,0,0.5,99
+418120,76561198422485424,"《Cally's Caves 3》是一款由「VDO Games」獨立開發製作的2D像素平台橫向卷軸冒險遊戲。^^在我才剛創立這支Steam帳號不久的時候，Steam的探索佇列便推薦了這款遊戲給我，當時我對於這款遊戲就已經感到興趣，不過當時的我還沒有自己的金融卡，因此並沒有購買下來。QWQ後來辦了金融卡想要回來買這款遊戲的時候，我卻有好長一段時間一直想不起這款遊戲的名稱。QWQ好在去年特賣活動之前終於再次找到這款遊戲，並且在最終順利購買下來了。XD整體而言，我認為這算是一款看似簡約，實際上的內容卻相當豐富的小品遊戲呢!^^
+
+遊戲的劇情偏向單純而且有一點無厘頭。XD玩家扮演一位7歲(?的小女孩Cally，其父母在遊戲開頭因為不明原因遭到科學家Herbert綁架，Cally為了拯救被綁架的父母而踏上了冒險旅途。XD，在冒險的過程中，Cally會遭遇到各式各樣的敵人，玩家可以操作Cally運用手上的劍和槍枝等武器，將敵人擊敗並拿取其身上的現金和寶物。^^隨著遊戲的進行，玩家取得的武器也會愈來愈多，雖然遇到遊戲後段，敵人也會變得愈強，同時隨著Cally擊敗愈多敵人，Cally本身和手上的武器也都會累積經驗值並提升等級，Cally也會因此增加生命值與武器攻擊力，武器的性能也會愈來愈強，甚至強到一個非常浮誇的境界。XD(如果玩家將RPG和Assault Rifle練到最高等級，就幾乎能殺遍整個遊戲的每一種模式。XD)
+
+本編的遊戲一共有8張地圖關卡，每張地圖關卡的最後都會有相對應的Boss，在每張地圖關卡當中，玩家會遇到的障礙物，以及敵人的攻擊模式都有非常多種，玩家可以運用遊戲當中取得的武器和道具，來度過或是破壞障礙物以繼續前進，同時也可以用手上的劍來格擋和反擊敵人的攻擊，以及運用翻滾的技巧通過低矮的通道和閃避敵人的攻擊。^^雖然遊戲的整體操作稍嫌複雜，但其實整體的難度並不算高，玩起來也相對輕鬆有趣呢!^^
+
+在冒險的途中，Cally也會來到他的好友Rupert經營的商店，玩家可以運用手上的現金，來購買食物和升級技能與武器。另外還有一名吉他手Lloyd也會不時出現在冒險途中幫助Cally，為Cally介紹武器和道具的使用方式，以及每張地圖關卡Boss的弱點等等。最後就是在每張關卡地圖當中，都會有一些記錄檔、日誌和水晶球等物品可以收集，如果將這些物品全部收集完，Cally將會自動進入Bonus關卡，裡面將會有意想不到的寶藏和武器在裡面呢!XD
+
+玩家如果玩完了主線劇情，可以挑戰難度更高的New Game +遊戲，裡面的敵人和Boss將會全面升級，並且還會添加新的敵人與新的收集物品，更重要的是，還有和主線劇情完全不同的真結局!XD確實可以讓玩家好好來挑戰一下呢!XD除此之外，遊戲中還有額外的生存模式(Survival)、小熊Bera的特殊關卡，以及最高難度的後日談Melvin’s Zone等等，玩家如果已經可以輕鬆對付New Game +的敵人和Boss，也可以繼續來挑戰這些額外的遊戲模式呢!XD
+
+如同前面所說的，這款遊戲的劇情設計並不算突出，但是New Game +的結局設計，雖然有些出現得有些突然，卻還是讓我有些感動呢!^^遊戲的美術設計也還不錯，有許多關卡的背景設計得還蠻漂亮的，至於角色和敵人大多是走可愛風格，除了女主角Cally之外，遊戲中的史萊姆同樣也是非常可愛呢!XD而音樂設計則是這款遊戲的一大特色，主要是以輕快和冒險風格的電子樂為主，我個人很喜歡遊戲首頁的幾首輕快的曲目，以及Rupert、Lloyd和Bera的主題曲，聽起來格外放鬆身心呢!XD至於遊戲中可以改進的部分，大概就是在某些有池水或岩漿的區域，一旦掉入池水或岩漿，有機率會卡在牆角無法自救。QWQ還有在Melvin’s Zone某些有大量機槍塔的關卡，一旦翻滾進機槍塔所在的位置，便無法再翻滾出來，不知道遊戲官方還會不會修復這些問題，但目前還是先盡可能不要掉入岩漿，以及避免翻滾進狹窄的空間吧!QWQ
+
+整體而言，我認為《Cally's Caves 3》是一款難度偏低，卻也不錯玩的2D像素平台橫向卷軸冒險遊戲。^^雖然在劇情方面沒有太多讓我印象深的部分，但是遊戲的美術與音樂設計卻很出色，玩法上也具有多樣性，可以運用不同的武器與道具來嘗試通過各種關卡，並且還有New Game +和其他模式可以遊玩，從這些特點來看，我認為在特賣期間購買這款遊戲，也確實是物超所值了呢!XD如果官方在未來還願意修正遊戲中的一些小問題，相信這款遊戲的評價應該會更好吧!XD我會將這款《Cally's Caves 3》推薦給對於2D像素平台橫向卷軸冒險遊戲有興趣的玩家。^^",1,1,18,0.6839406490325928,1290
+418120,76561198147855843,"험블 번들에서 껴주지 않았으면 건들지도 않았을 개똥 병신겜
+안 쓰고 싶은 무기를 풀에서 제외하고 싶으나 그러지도 못 함
+그리고.. 폭탄이 있어야만 갈 수 있는 구간을 만들어놨으면 폭탄을 무기 풀에 넣을게 아니라
+별도의 키로 배정해놨어야 하는거 아님? 
+시발 대학생들이 만들어도 이것보단 잘 만들듯
+
+이런 겜이 취향에 맞다면 상점에서 코인 배수부터 업그레이드 하면 훨씬 수월함",0,0,0,0.4663212299346924,75
+418120,76561198050146637,"the game is cute but its also very much a ""if this is your thing"" kinda game. not really my thing but stiill gets the thumbs up fr its cuteness and the musioc",1,0,0,0.5,981
+418120,76561197992438116,"[h1]FR/EN Cally's Caves 3[/h1]
+https://steamcommunity.com/sharedfiles/filedetails/?id=3700987065
+[h3]---FR---[/h3]
+Cally's Caves 3 est un très bon roguelike. Ici la formule est sensiblement la même qu'avec Cally's Trials. Nos parents ont été enlevés une nouvelle fois par Herbert qui a renforcé ses défenses dans les caves. On repart donc à l'aventure avec plaisir. 
+[h3]---EN---[/h3]
+Cally's Caves 3 is a very good roguelike. The formula is essentially the same as in Cally's Trials. Our parents have been kidnapped once again by Herbert, who has reinforced his defenses in the caves. So, we happily embark on another adventure.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2905235153
+[h3]---FR---[/h3]
+Le système est semblable, on joue, on meurt, on gagne de l'expérience, on devient plus fort et on avance. Le jeu propose toujours de faire évoluer les armes en les utilisant ce qui permet de gagner en puissance. Il y a de nombreux objets cachés à trouver et le plaisir d'explorer est réel lorsqu'on gagne en puissance.
+
+Les graphismes ont progressé et sont très réussis. Le jeu est coloré et les animations sont bien faites. La musique est énergique et dynamise le tout. Le jeu propose un new game + qui permet de relever le challenge une fois le jeu terminé en changeant les ennemis et la cartographie des niveaux. 
+
+Il y a également un mode survie composé de 3 niveaux où il faut simplement résister au 50 vagues d'assaillants. Au final on prend plaisir à parcourir les donjons pour se surpasser et compléter ce jeu très réussi qui devrait vous occuper un bon moment si vous souhaitez tout débloquer à 100%.
+[h3]---EN---[/h3]
+The system is similar: you play, you die, you gain experience, you become stronger, and you progress. The game still allows you to upgrade your weapons by using them, which increases their power. There are many hidden items to find, and the pleasure of exploration is real as you gain power.
+
+The graphics have improved and are very well done. The game is colorful, and the animations are well executed. The music is energetic and energizes the whole experience. The game offers a New Game+ mode, which allows you to increase the challenge after completing the game by changing the enemies and the level layout.
+
+There's also a survival mode consisting of three levels where you simply have to withstand 50 waves of attackers. Ultimately, you'll enjoy exploring the dungeons to challenge yourself and complete this highly successful game, which should keep you busy for quite some time if you want to unlock everything 100%.",1,0,0,0.5,1278
+418120,76561198380375303,I really had fun of this game.,1,0,0,0.5,672
+418120,76561198049368871,.,1,0,0,0.5,317
+418120,76561197989268630,"This was fun, from what I remember. Might have to go back and replay it to remember exactly why (it's been a long time, dunno why I didn't write the review back then. Probably was because I wasn't into writing reviews back then), but I think I can at least safely recommend playing this. So play this!",1,0,0,0.5,1649
+418120,76561197972560532,"This is a great game, albeit I think it's aided a lot by a turbo controller or macro keyboard.  Otherwise you  might lose your mind.",1,0,0,0.5,2497
+418120,76561198080260825,This game lets me eat glasses of milk as a little girl.,1,0,0,0.5,1225
+418120,76561198091933835,"more depth than skyrim, just get it",1,0,0,0.5,1134
+418120,76561198836476491,"totalmente recomendable 100%.
+",1,0,0,0.5,633
+418120,76561198357471215,Да.,1,0,0,0.5,602
+418120,76561198005341943,"Parece mucho mas cutre de los que es... a medida que vas jugando vas desbloqueando habilidades y nuevas armas que, ademas con el uso, también mejoras. No es ni mucho menos una obra de arte pero cumple su funcion sobre todo con la deck.
+Cuando quieres echar unas partidas rapidas porque no tienes mucho tiempo como para jugar a juegos que requieran una inmersion importante para disfrutarlos. De hecho, era uno de los muchos que tenia pendientes de jugar ""algun dia"" de esos que nunca llegaban pero con la SteamDeck, no solo ha llegado sino que ademas lo disfruto bastante.",1,0,0,0.5,442
+418120,76561198207083779,"I LOVE THESE GAMES!  Primarily because I don't have to think and can go through the levels with ease...  Just leveling those delightful weapons and trying to find things and do bosses and oh my goodness!  That was a lot of fun!
+
+Oh and the soundtrack!  IT'S AWESOME!  You can just listen to it the whole day!
+
+Smokers are the hottest enemy, apart from Herbert...  But they are annoying with their bullets >.> and Herbert...  If you pull off your glasses you look better...
+
+AND THE BEAR!!!  That was the most adorable cutie ever!!!!!!!!!
+
+I tried everything and did almost everything!  Know why?  BECAUSE...  I can then play it again and do even better!!!  Woop woop!!!
+
+THANK YOU OH SO DARN MUCH!!! :D ;+) =)",1,1,2,0.530469536781311,863
+418120,76561198004546096,"Christ, what a broken mess of a game. Where do I even begin?!
+
+- First and foremost: almost all weapons fire as fast as you can physically press the firing key
+- Ring finger blisters and keyboard replacements should be on the features list
+- You have 16 or so weapons and the only method of switching between them is by using the ""next weapon"" key. No wheel, no hotkeys, not even a ""previous weapon"" key!
+- Levelling up each weapon individually basically means that only one of your weapons actually works and the rest sucks until you grind a lot
+- The AI is extremely primitive, you'll see it immediately on the first level and it never gets any better
+- You quickly become [b][i]immortal[/i][/b], having up 22 hearts + regen
+- I'm already immortal at lvl 3 regen and there are at least 5 levels of it
+- I literally took a bathroom break during a bossfight without pausing and came back to finish it
+- The hardest achievement to get is - no joke - dying 250 times in this game. I'm serious
+- You must press Esc and go three sub-menus deep to use a consumable item
+- Weapon mods are extremely expensive (after 100% completion grind I could only afford [b][i]one[/i][/b])
+- The game was probably done with mobile microtransactions in mind, they're not on PC but prices are the same
+- Just bloody ridiculous amounts of grinding required to fully level up almost any weapon
+- Enemies become incredibly bullet-spongy later on, it's not even remotely fun
+- The continuous sword attack stuns any enemy permanently if you want it even easier
+- No continue button. You spawn at the beginning and must manually find the latest checkpoint on the map
+- Entire survival mode must be done in one sitting for its achievements which takes 3-4 hours
+- Story sucks and apparently assumes you're well-familiar with the first two games (which aren't on Steam, or PC at all)
+- You can just open the plain-text config file and set your level/money/etc to whatever you want :V
+- Erasing profile data crashes the game then literally deletes the whole config file (even audio settings etc)
+- You can start Melvin's quest on your first run of the game but you physically can't complete it because you can't swim yet",0,0,14,0.6344957947731018,741
+418120,76561198241194438,Fun platform shooter to pass the time,1,0,0,0.5,377
+418120,76561198309506048,WHEN YOU PLAY THIS GAME YOUR FINGER MAY BREAK FROM SPAMMING Z BUT ITS TOTALLY AWESOME,1,0,0,0.5,563
+418120,76561198019125511,"いいか、このゲームは「セール中に欲しかったゲームと一緒にちょっと駄菓子が欲しくて買うタイプのゲーム」だ。
+略して言うと「駄ゲー」だ。
+全うなアクションゲーマーなら開始３分でこのゲームのその後の出来栄えが分かる事だろう。
+つまりだ、キミが全うにゲームというものを楽しみたいと思うならばこのゲームは買うべきではないし、キミが駄ゲーを遊びたいと思っているならセール中に買うだけの価値はあるかもしれないだろう。
+
+
+
+とまぁメチャ辛口から始まるレビューだが、つまるところはこのゲームはだ。
+「アクションゲームとしての出来栄えはそんじょそこらのド素人が作った習作」レベルと言った作品だ。
+「アクションエディターとかアクションツクールとかで中高生が手始めに作るゲーム」とも言える。
+そのへんのゲーム作りをした人ならば「こんなゲーム作ったなぁ」と思うだろう。
+
+
+左右にしか動かない敵、創意工夫の無いマップ、考慮されない僅かな段差、大して強くもないボス……。
+画面ギリギリか画面外に向かって連射制限のない、使い所のないチャージされないチャージショットを携えて基本的にひったすら遠距離からパンパン撃ちまくる。
+拡大のやり過ぎで作者本人は分かっていてもこっちはこのドットは何だか分からない演出を散々見せられる。
+
+このゲームはそれで全てだ。たまに敵が弾を撃ってくるとかはどうでもいい。
+どうせ回復手段は山のようにあるし大して強くもない。
+
+
+という、「ゲームの面白さ」を欠片も分かっていないゲームなので駄ゲーをやりたいというネタ欲しさ以外であればこのゲームを買うのはやめておいた方が良いだろう。",0,0,0,0.5,35
+418120,76561198975161144,"0 Min: Install was fast and worked fine.
+2 Min: Game looks promising, Controller works. ""I'll go to settings and change the resolution and than i'm go to go""
+2 - 40 Min: Bugs. I had i white screen. Couldn't reset the game. Installed it twice ... the fullscreen doesn't work if you have a custom resolution, but besides that i had a few other bugs with the menu ...
+40 - 50 Min: I try to confic the controller, which doesn't work, and is complicated as back in the very very olden days. 
+After nearly an hour. 
+I'm not so sure if i should play the game, cause if you have tons of bugs before even started, than maybe it's better to stop?",0,0,0,0.5,56
+418120,76561199185562221,"Un juego muy simple, estilo metroidvania, relativamente facil y entretenido, me gustó más que los otros juegos de cally que hay 
+
+",1,0,1,0.523809552192688,358
+418120,76561197977931444,"Super solid platformer with great guns. This is the first of the series I've tried, going to try the others soon.",1,0,0,0.5,2213
+418120,76561198036538203,"32 hours in and I'm still grinding. This game has plenty to do.
+
+Cally's Caves 3 is a platformer-shooter, which seems to be modelled most after the early Nintendo console sidescrolling shooters that I, for one, never partook in; only saw. Even so, I still have found Cally's Caves an engaging, and at times addicting, title in its own right.
+
+Positives:
+
++You can level up very much in this game. The individual guns, each and all; Cally's ""sword""- really just a metal plank that gets bigger and fancier and works increasingly well for stunlocking enemies, and has a niche use of being able to deflect projectiles- and even Cally herself are all possible to make more formidable. There is even a multiplier you can raise for wealth collection.
+
+I will leave the masterwork that introduced this gratification to be mentioned when it wants to be. I will say that at long last I've found that- or a convergently evolutionary experience anyway- in the form of this sidescroller. Levelling up anything in Cally's Caves 3 feels very satisfying. It's one of the reasons I don't mind grinding. 
+
++In world-building, there are details that add up to make Cally's Caves memorable, rewarding, and give it a character. As an example, In gameplay, Cally can gather up edibles that can be eaten from a menu. These edibles are almost all themed around things we, or our peers, loved to eat as kids. Glasses of milk; roasted bird legs; orange slices; this may be a detail, but it's a great detail that makes the simple task of gathering and using recovery items embody character and immerse us with our kiddo heroine.
+
++The story and dialogue, while predominately simple and cliche, also have moments of depth, world-building, intrigue, and some self-aware humor. This really gives the game a charm and memorability. I frankly did not expect these moments, or what we learn about the C'sC-verse, let alone to like them, let alone as much as I did.
+
+There's even some heft involved in some words and scenes. The scene that plays during the credits comes to mind. These feel cinematic, even.
+
+Net Neutrals:
+
+=While the aforementioned moments about the story and dialogue moments still stand, otherwise the story's simplicity is both appealing and dissuading. Cally's parents get kidnapped by some evil scientist and she has to go stop them. This reflects in the way the dialogue is written; the interesting stuff is closest together early on and near the end, and in between dialogue and important scenes are few and far between. Level design, both in aesthetic and functional layout, also have this desolate feel, sans for enemies and in some cases treasure chests.
+
+While I can appreciate that this plot doesn't try to pretend to be bigger than it is, and I like that it doesn't impose itself too much,  the hands-off experience can go too far in the other direction and leave us- or me at least- feeling like Cally has been abandoned, save at times for that one advising guitarist.
+
+This could actually be a good thing, if the purpose of Cally's Caves was an ultimate story of desolation, loneliness, and fear of being lost. Cally's Caves however seems to have no intention of this, therefor the long times without important new developments come off as out of place and counterproductive for the power rush we're supposed to be getting.
+
+=Everything thus written also applies to the soundtrack. Every time these tracks come on I get chills, in the sense that Cally's walking through a lonely purgatory. This soundtrack is grimly beautiful, but it's likewise so out of place in a game about plowing through baddies, winning big fights, sticking it to bosses and bringing parents home.
+
+Negatives:
+
+--Minor per moment, but collectively one of the biggest drawbacks of the game, is the tedium of choosing a weapon. As you discover the weapons in the game Cally holds onto *every single one*. It is a fair amount. I have found more than ten- quite easily twelve, I count, at least- and there are still other weapons hidden around that I haven't found yet.
+
+There is no locker or armory to put away ones not in use like in Bastion; once you have that weapon, you have it, which means you absolutely must scroll through it in order to get to others you want. 
+
+This might be manageable, if not for one other downside that makes this the biggest turn-away of the game: There is only one button to scroll through the weapons. There's no back-and-forth option; no menu to click on to arm Cally with the weapon you want, or need. I often start scrolling at high speed through the hammerspace armory Cally keeps on herself, I almost always overshoot, and then I must scroll through each weapon again. Every. Single. One.
+
+---
+
+Now that that's off my chest...
+
+-Many weapons have predominately niche use, compared to the ones most favorable for combat. On its own this wouldn't be an issue, but for the major downside listed above. The machine gun, the slime gun, and the rocket launcher are my leading weapons for general combat use, and it can get irritating to have to scroll through countless weapons that each are needed only in four or five, maybe six levels in the entire game, just to get to them, every time.
+
+This saddens me, because every weapon really has potential. The aesthetic, the satisfaction of landing hits with them, the fun of leveling them up, and their unique combat uses and/or out-of-combat uses each appeal strongly, enough that I would still like to have them in the game if we would just get an armory where we could store out-of-use weapons.
+
+-Cally's jump is very stiff. This may lend itself well to precision platforming, and if that's all the jump was for I'd say it's quite okay. However, dodging enemies in as many ways as possible is important, and to that end it can impede. [spoiler]Granted I may be spoiled on the momentum-including jumps of Genesis and other Sega games.[/spoiler]
+
+-Cally's aim is locked ever forward, which can make fighting some foes tedious, especially in conjunction with the stiffness of the jump. In my opinion, the ability to aim up and diagonally-up would have been a good addition to make gunplay in Cally's Caves 3 truly fun.
+
+-Cally's Caves 3 has a mechanic whereby after waiting long enough, some weapons will ready a larger shot that deals extra damage and has extra range. This is a well-intended mechanic to add strategy, but it's a missed opportunity. It's only one shot, then the timer starts again. Compared to the stream of damage you'll be doing with button mashing and/or holding down, that damage bonus is almost insignificant. The wait is hardly worth it. Moreover, once that shot is ready, your next shot from any compatible gun *will* be that big shot. You cannot simply keep using single-shot weapons normally then save the big one for a finisher.
+
+---
+
+Cally's Caves is a deceptively multi-faceted game with much to explore and to see. If you're willing to forgive its awkward and clunky controls, and the irritating side-effects of good intentions, this is an adventure that could be worth looking into. If you're interested and want to give it a try, I advise picking it up on sale, when it's the cost of a Kit Kat bar and will entertain you for much longer.",1,0,0,0.4559270739555359,1920
+418120,76561198969987969,A little more vania then metroid but it is a fun simple metroidvania,1,0,0,0.5,573
+418120,76561198967163039,"Игра панравилась в первую очередь своим божественым соунтреком .Ну и сама игра очень дабротная  простенькие и кароткие уровние слегкими босами неплохая прокачька оружыя ево выгре хватает и есть прокачка самова персанажа но эта прокачка не как невлияет на сам геймлей игры , из минусов можно тока выделить тока што игра слегка кароткая!!",1,0,3,0.5297325253486633,549
+418120,76561198260862544,"ジャンプアクションゲーム。
+ゲームを進行していくと、膨大な数の武器が手に入る。
+武器は使用する毎に経験値を貯めて、レベルアップしていく。
+Levelとして表されるフロアを進んでいき、各マップのボスを倒していく。
+2周目要素あり。
+
+[h3]あまりに平凡なアクション
+地獄のような武器システムと収集要素
+数字の設定が全て常軌を逸している[/h3]
+
+[h1]いいところ[/h1]
+[h3]操作のレスポンスは普通[/h3]
+[h3]マップのファストトラベルもある[/h3]
+…あとはもうクソの山だ。
+
+[h1]わるいところ[/h1]
+[h3]オートファイア(連射)が遅い[/h3]
+→[b]1番クソなところ[/b]。アサルトライフル以外は、手連でないとまともな速度で連射されない。
+　→NewGame+モードでは[b]バカみたいに敵が硬いので、プレイそのものが地獄[/b]。
+[h3]武器が多すぎる＆存在価値がない[/h3]
+・[b]武器チェンジがメニューからできない＆順送りしかできない[/b]。
+　→多分15個ある武器の中から、1つ手前の武器を選択したければ、[b]14回武器チェンジボタンを押す必要がある[/b]。
+　　→勢い余って通り過ぎて、また武器チェンジボタン連打。[b]武器チェンジ一つとっても地獄[/b]。
+　　→[b]爆弾、火炎放射器等の、特殊なブロックを破壊できる武器の、切り替えが面倒[/b]。
+・火力の出る武器、地形を貫通する武器、移動の補助になる武器、特殊なブロックを破壊できる武器、[b]以外は使う意味がない[/b]。
+　→画期的な事に、[b]火力の出る武器と、地形を貫通する武器は同じ武器[/b]である。
+　→ピストルのレベルを上げると、弾が拡散して広がるようになり、[b]ショットガンと同じような使い心地になる。武器が無個性[/b]。
+　→[b]ブーメランと地雷が、ゴミとしか言いようがない性能[/b]。
+[h3]武器のレベルアップが苦痛[/h3]
+・15の武器をレベル20にあげるのは、[b]心を無にして作業に徹する他ない[/b]。
+[h3]収集要素が地獄[/h3]
+・マップにバラバラに隠された収集要素、日記、オーブ、レコード、生首をそれぞれ20個ずつ集めるという、[b]収集要素が地獄そのもの[/b]。
+　→収集要素はそれぞれ[b]ノーヒント。取り忘れがあった場合、どこのものを取り忘れているのか等は一切不明[/b]。
+　→しかも[b]マップ上から見えない位置に隠されている[/b]場合もあるという、[b]常軌を逸した外道ぶり[/b]。
+　→すべて集めるとボーナスステージに進めるが、[b]ボーナスステージに大したものがない[/b]
+　　→一応ボーナス1には武器があるらしいが、[b]私のプレイでは見つからなかった[/b]。
+　　　→しかもボーナスステージを出ると、[b]収集物を1から集め直しになるという心折設計[/b]。
+[h3]主人公が死ぬ要素がない[/h3]
+・最初の方はともかく、強い武器が手に入ると、主人公がまず死ぬことがない。
+　→[b]アクションとしてあまりに退屈[/b]。
+[h3]何もかも桁がおかしい[/h3]
+・武器の数が多いのに比べれば些細だが、[b]あらゆる数が狂ってる[/b]。
+・ショップの売り物が、25万とか100万とかする。
+　→[b]通常のゲームを1周クリアしても、25万も金は貯まらない[/b]。
+・実績解除に必要な数が、正気の沙汰じゃない。
+　→ほとんどのザコ敵にそれぞれ、100体倒すという実績が用意されているが、[b]どう考えても100体も出ないザコにも設定されている[/b]
+　→250回死亡するという実績があるが、[b]普通にプレイしても30回も死ねるか怪しい[/b]。
+　　→この実績がどれほど現実に即してないかというのは、[b]グローバル実績で最も達成率が低い[/b]といえば伝わるだろうか。
+　→サバイバルモードでは敵集団を倒す=1WAVEとして、全WAVEを乗り越えるとクリアになるが、[b]WAVE数ももちろんおかしい[/b]。
+
+[h1]総評[/h1]
+まだコレをやるなら、100円のHENTAIゲームでもやってた方がいい。
+全くオススメしない。やめとけ。興味も持つな。今すぐ引き返せ。私は親切で言ってるんだ。
+
+[table]
+ [tr][th]クリア[/th][th]NewGame+クリア[/th][/tr]
+ [tr][th]実績達成[/th][th]57/64[/th][/tr]
+ [tr][th]難易度[/th][th]苦痛なほど簡単
+ただし連射機能付コントローラでプレイすること[/th][/tr]
+ [tr][th]満足度[/th][th]0％
+この忌まわしい存在を記憶から消したい[/th][/tr]
+[/table]",0,1,1,0.47748324275016785,980
+418120,76561198076577229,"This game gives a nice little fun experience for about 4-6 hours. The gameplay is smooth but not exceptional and the story is better left ignored.
+
+Recommended for some casual fun night.
+
+Only buy when on heavy discount.",1,0,1,0.5148601531982422,407
+418120,76561197984192860,"На удивление годная игруха, но есть несколько не слишком существенных минусов:
+- Неудобство навигации в менюшках ( зачастую на B или кружок нельзя выйти из открытой менюшки, что может раздражать)
+- Всё в этой игре приедается, причем заметно быстрее, чем вы пройдёте её целиком ( прокачка оружия - монотонное его использование на врагов, куча собираемых предметов и т.д.)
+Плюсы:
+- Приятная система поощрения за сбор коллектаблсов: открывается бонусный уровень, дающий вам некую плюшку
+- Неплохой саундтрек, не шедевр, но и поиграть под него приятно
+- Пиксель-арт без излишеств
+- Наличие некоторого сюжета
+Вердикт: Из-за ""приедабельности"" игра может подойти не всем на полное прохождение ( с НГ+ и т.д.), но по скидосу за 33 рубаса это просто мастхев, рекомендую!",1,0,0,0.5,445
+418120,76561198946457367,A great platform/run and gun game with a awesome soundtrack its well worth the money,1,0,0,0.5,160
+418120,76561198079199690,"3と4を一緒に買ったのですが、3よりも4の方が軽快に動いて遊びやすくて良いです。
+どちらか1本買うなら4をおすすめします。",1,0,0,0.5,27
+418120,76561198045625409,"Decently-fun roguelite platformer. A bit formulaic like other games in the series but decent enough. Fairly good graphics, Bit of fun to dip into now and again.",1,0,0,0.5,75
+418120,76561198190542426,pretty fun game,1,1,0,0.5,355
+418120,76561198093939352,"Simple, yet easy to enjoy.",1,0,0,0.5,235
+418120,76561198128260304,"画风可爱的刷子游戏
+喜欢刷刷刷的朋友可以入。
+流程不算很长，操作稍微有点僵硬，有些关卡需要一点操作，总体不难。
+值得通关一下",1,0,0,0.5,218
+418120,76561198390657306,"like a castlevaania is so boring and to mutch repetitive, you need to farming, and even if the concept of one or two weapons are cool, really dont make shine all the problems and bad design of colyders and platforms",0,0,0,0.5,1275
+418120,76561198059871260,"I started downloading Warframe and Path of Exile, and I figured I'd try this game as I waited.
+
+Warframe and Path of Exile have been downloaded for hours, and I just want to keep playing Cally's Caves.",1,1,1,0.4923076629638672,796
+418120,76561198018185604,"Lets do an Oreo sandwhich for this game.
+
+The good: Chill Side-Scrolling Shootem-Up with enough exploration to keep you entertained. A well done soundtrack, and a wide host of different RPG elements to allow you some flexible carnage.
+
+The bad: Some buggy achievements. Some VERY buggy achievements. The grind can be very slow when you're trying to be an achievement ♥♥♥♥♥ like myself. Some of the guns were designed to give you carpal tunnel.
+
+The good again: After searching my issues online I discovered that the developers were very active, always looking for feedback, and providing bandaid fixes to users when they didn't have a formal fix in the place. When I see the developers care, I want to root for them.
+
+By no means a great game, but it was a good game - and I'm looking forward to seeing some more releases from this group.",1,0,1,0.523809552192688,931
+418120,76561198175987913,"it is a nice game better than the second one, if you love run and gun games, the game is not that difficult difficult but getting all upgrades and weapon mods will surely keep you busy to get all the money to purchase everything on the store  just try to make the achievement of DIE 100 times and 200 times on the beginning because doing it when you are fully upgraded will be tedious",1,0,0,0.5,2750
+418120,76561198121112670,"Cally's Caves 3 is a 2d, button-mashing shoot'em'up game.  Beat it in under 8 hours (got through NewGame+, the bonus modes, and all three survival modes in 13 hours total) using a game controller.  Difficulty is easy.  The objective is to save Cally's parents from a mad scientist named Herbert.
+
+This is the sort of fun little game you can blow off some serious steam on.  Your thumb will be sore.  Your eyes will hurt.  The music will have your head bobbing rhythmically for hours on end.  But the many enemies are pretty easy to thwart, there are some decent bosses to decimate, there are an absolute jack ton of guns to discover and level up, and replay value is crazy good.  There are also a bundle of achievements to lose time on, various items to seek out and collect, elemental mods for the guns, and a cute cub that can kungfu kick some serious tail.  
+
+Cally's Trails looks to encompass the first in the series.  That said, Cally's Caves 3 nods a lot to the previous parts of the series in regards to Herbert, but there isn't much plot to begin with (You're in this to blow confused bats from the sky and tank robots for kicks after all).  Therefore there's seriously no harm in playing the series out of order. 
+
+In the end, I highly recommend Cally's Caves 3 if you need to slice at missiles with a giant sword, you haven't had your glass of milk this morning, or you've got a love for purring bears.  
+
+
+
+*** Special epilepsy warning: the enemies blink white when you hit them.  Not much of a problem if they're small, but when you start launching hundreds of blades out of your gun at a larger boss there may be a trigger.  Take heed and stay safe!",1,0,1,0.52173912525177,778
+418120,76561198002506911,"Cally's Cave 3 is a casual platforming shooter of Cally going after Herbert, her best friend's father, to save her family.  The game offers close to ten worlds with many levels within each world.  Each world has multiple save points and typically a single shop.  You collect experience and coins from each enemy you kill and money from the treasures you find.  You get to use over a dozen weapons and each weapon has many upgrades that are automatically obtained as you use each one to kill enemies.
+
+The graphics and gameplay reminds me so much of the good old days of Apogee and ID Software platforming games.  While the game was fantastically easy, hence why I stated it was a casual game, it still offers some good old fashioned fun.
+
+If you find this for cheap, like I did, it could be worth your time to play this game.  Pretty easy to obtain the achievements as well if you are a hunter.",1,0,5,0.610912561416626,1281
+418120,76561198721232956,"캘리의 부모님이 미친 박사에 잡혀서 구하러가는 스토리
+
+총이 연속으로 나가지 않는 것들이 있어서 손이 많이 아프지만 초반에는 어려움이 있겠지만 후반으로 갈수록 오히려 쉬워지는 난이도로 바뀜(레이저 갓갓)
+
+다양한 무기가 있어 다용도가 있지만 무기를 교체할때 일일히 교체해줘야 되어서 귀찮다
+ 
+계속 비슷한 방식으로 하면 지루하지만 중간에 머리끈을한 귀여운 곰돌이로 진행을 해서 그 지루함을 덜어주었고 다양한 모드로 인해 그 재미는 두배로 되었다
+
+7500원 치고는 플탐이 길어서 가성비가 엄청 좋아 뽕을 뽑을수 있는 갓겜",1,0,4,0.5634095668792725,1186
+418120,76561198116084308,"Cally's Cave é daqueles típicos jogos que custam uma ninharia, tornado sua aquisição um excelente negócio, considerando o alto nível de diversão e excelente custo-benefício que o jogo oferece. Penso que aqueles que apreciam uma fórmula boa de retro game composta basicamente por gráficos pixelados, temática simples e fluidez absolutamente total de jogabilidade, sem se preocupar praticamente nada com enredos complexos, vão apreciar com certeza esse título. 
+
+Aprofundando um tanto mais essa simplória e resumida análise, afirmo que o game conta com um sistema de arsenal relativamente rico, sendo que cada arma possui uma escala de upgrades, assim como a própria personagem protagonista que com o tempo vai desenvolvendo novas habilidade de combate e exploração dos excelentes cenários muito bem pensados, com level design inteligente. E não para por aí. O jogo fica cada vez melhor conforme você avança, e novos poderes, armas e inimigos vão surgindo. Só não curti a música, uma breguice eletrônica excessivamente melódica. Simplesmente horrível. Ainda bem que existe opção de remoção de trilha sonora.",1,0,4,0.580890953540802,197
+418120,76561197978674491,"I'm torn on this one. Can't really call it a Metroidvania because you only ever need to backtrack I believe three rooms at most. It's also pretty easy...I like that it's a run and gun button masher, but it needed a shot limit. I don't think the devs themselves are mashers because the rate of fire on the two automatic weapons is so low. The game ends up being easy for mashers; if you're comfortable playing Mega Man games (esp 1-3) then you'll have zero challenge here.
+
+It also has a number of bugs and incongruities to the design. Roll was kind of a mistake to include, as it can only be used while standing still and can actually get the player stuck if used too far back from a one tile gap. The fact you can buy a money multiplier is awful design -- of course you have to max it first as it's like wishing for more wishes, and it takes the entirety of the main game to do so. Pro games do this too and it's also terrible there.
+
+Oh, and you can't change the default keyboard controls to WASD. That's a major sin that nearly turned me off to the game entirely, as the Xbox 360 controls force you to use the 360 controller's terrible dpad.
+
+On the other hand, I played the thing for almost 15 hours. It's packed with content, and while it is riddled with flaws and was in no way challenging, it was cathartic. If you're moderately into run-and-guns and just want a quick pick-up-and-play game that gives a good bang for your buck and won't stress you out, go for it. That said, take my thumbs up with a grain of salt. A lot of people will not be satisfied with this experience.",1,0,0,0.5,882
+418120,76561198247620684,Sweet,1,0,0,0.43441227078437805,356
+418120,76561198206912751,"This game is too much work to play. 
+
+There are a lot of plusses to the game: The graphics reminds me of some semi-ancient DOS era sidescrolling games... in a good way. The level designs feel pretty good. The platforming isn't that hard, but has enough variety. The game length is quite good for what I paid (under $2), though the length might be due to how weak the weapons are (see below). The music is decent, if you don't mind listening to a single soundtrack of mixed songs on loop (that's all I seem to remember anyways). The game feels level-based and linear with a few optional subpaths you can take for items (easily discernible on the map). You can warp to checkpoints to search for collectibles (but if you're thorough, you won't need to backtrack for anything). 
+
+However, the problem with this game is that either the weapons are way too weak (even after reaching their penultimate form) or the enemies have way too much HP. Or maybe the shop item upgrades are way too expensive even though I spent all my time upgrading the coin multiplier (which I still have not maxed even upon beating the game).  The weapons are so weak I found myself attacking an munchkin enemy 20-40 times just to kill one (or it felt like that anyways). That's a lot of button mashing to make any progress.
+
+The weapon variety is nice, though all of the guns feel almost equally weak. I got a gun I thought would be really powerful and leveled it up and it still took way too many hits to kill anything. Also, certain guns later in the game are required to pass certain in-level obstacles. It wouldn't be so bad if I didn't have to cycle through my whole gun list every time I needed to use them (and if there was a way to shortcut guns, I probably missed it because of a lack of tutorials in this game). 
+
+No, I haven't played new game+ aside from a few minutes. And I don't plan to. The enemies there take even more bullets.. so much so that just thinking of the weapons I'm using makes me feel sad (I have no confidence in them). 
+
+If you're looking some nostalgia and a ton of button mashing, this game might be for you (especially if its on sale). Otherwise, I feel that this game is more work than its worth.
+",0,0,3,0.5290102362632751,528
+418120,76561197990789743,good fun little platformer,1,0,0,0.5,527
+418120,76561197967685535,"Solid indie metroidvania. It's not a very long game, but the controls feel good and the power ups and progression is well paced.",1,0,0,0.5,328
+418120,76561198042881794,"Very affordable and fun little 2D-Platformer. Dpad only for controllers, as far as I could tell when I played through it.",1,0,1,0.5185185670852661,488
+418120,76561198439220645,Zaman geçirmek için güzel bir oyun.,1,0,0,0.5,739
+418120,76561198055417402,"Cally's Caves 3 is alright. 
+I don't think it will amaze you like other platformers,
+But the game is really cheap so I can accept it. 
+
+PROS:
+
+-Pixel Art is pretty good, however some sprites look a lot better than others.
+-Levelling up weapons mechanic is fun in my opinion. Similar mechanic to the weapons of Ratchet And Clank. Every level up makes them stronger but on certain milestones they will gain something new.
+
+CONS: 
+
+-Story and characters aren't interesting
+-You have unlimited ammo so youre just spamming one button.
+
+It's definitely not for everyone but I had a decent time with it.",1,0,0,0.5,313
+418120,76561197993531522,"A very average, very ""bog-standard"" action platformer that has all the usual mechanics that you've already played dozens of times before. Just click the fire button very fast, kill and move on.",0,0,1,0.5,198
+418120,76561198345354392,"相當簡單的動作遊戲
+不管是敵人還是關卡的設計
+幾乎不太會有挑戰失敗的現象
+比照現在很多困難傾向的動作遊戲來說這一款遊戲真的難度很低
+可以說是徹底放輕鬆來玩都沒問題
+
+唯一的小缺點大概就是要購買的武器強化價格實在太貴了
+貴到可能兩次遊戲全部通關還買不到幾樣",1,0,0,0.5,1181
+418120,76561198079743599,Entretenido para matar el tiempo. Te encariñas con el oso,1,0,0,0.5,409
+418120,76561198860959520,"This game is just amazing, if you are browsing reviews to decide whether or not to buy it, stop reading and buy it already, you won't be disappointed.",1,0,1,0.523809552192688,637
+418120,76561198432193388,"Not a particularly ""artsy"" game as is my usual taste, but still a fun enough platformer with an RPG-like level-up system and some nice weapons (everything from rifles to lasers to webshooters). There's many hours of addictive gameplay to be obtained from this game, but get used to hearing the same 10-15 songs many many times (The soundtrack has sort of a techno-pop feeling, not really my taste, but not bad either). If you play through the main campaign there's an ""extra"" mode, which is basically the same but with harder enemies. They also introduce new enemies and bosses in the bonus campaigns. Dialogue is very sweet and the story is surprisingly sweet. Not a bad game for something that was made by only three guys.",1,0,0,0.5,1787
+418120,76561198126965867,"A simple game that isn't too remarkable. Unfortunately the awful controls hurt the game massively and what makes it worse is that the gameplay can get quite boring after a while. The level design too is not that great either, however there is a bear in this game and I like bears. You might get some enjoyment out of this game but don't go into it expecting something amazing because it's pretty average.",0,0,1,0.5,269
+418120,76561197970538611,"Solid action-platformer for the casually inclined. Laid back but packed with content. The soundtrack is also worth a shout out. My only concern would be the premise: you play a small girl on the way to school when her friends and family are kidnapped by a mad scientist. Her solution? Load up on weapons and kill everything in her path. If you can get past such silliness, many fun times are to be had.",1,0,2,0.43657031655311584,2791
+418120,76561198203177297,第一个全成就游戏，纪念下,1,0,0,0.5,1727
+418120,76561198001070313,"The game is a very generic platformer with some exploratory elements. There's nothing technically wrong with it, but it lacks any real spark to separate it from all the other similar games you could be playing",0,0,1,0.497925341129303,41
+418120,76561197961903671,Cally's Caves 3 is a simple but sweet shooter that has you blasting your way through hordes of enemies spread over some well made 2D levels. A great way to kill an afternoon and a horde of dire wolves.,1,0,0,0.5,192
+418120,76561197968357132,"A very cute little run & gun shooter. Has a surprising amount of content. Gameplay is simplistic, and most of the game is extremely trivialized if you have a turbo controller. It's pretty fun though, and the sprite art is colorful and cute, with simple but effective animations. Cally has 12 different weapons to use that change in function as they level up, sometimes quite radically. There are loads of secrets to find, and best of all, the music is fantastic. (SFX are only OK.)
+
+Don't get me wrong, it's not flawless. The weapon balance is nonexistent - the RPG is easy mode - and selecting weapons is downright tedious thanks to weapon selection being down to a single ""cycle weapon"" button. You can't disable or ""turn off"" weapons, either, so you're stuck cycling through every single weapon to find the one you need to break this block or kill that enemy.
+
+You collect money in the game, which you can spend on upgrades, but the cost to acquire the upgrades is completely insane. I don't know if the developers expected players to be such huge fans of the game that they put tens of hours into it, but I beat it without unlocking 75% of the upgrades simply because the cost for the upgrades was so exorbitant.
+
+Cally can diveroll to either side, but you have to use separate buttons for left or right, and you can't do it while moving. I ultimately found this function to be pretty useless aside from using it to move through tight gaps, because you can parry any ranged attack with your offhand melee anyway. The parts of the game where you play Bera the Ninja Bear are incredibly tedious padding. Bera plays fine, but you can't make progress on your weapons while playing her, so it feels like wasted time. The only saving grace of these sections is that Bera is ridiculously cute.
+
+The consumable items are the worst part of the game. You have a six-slot inventory of consumable items. Using one requires pressing start, then navigating a menu, navigating another menu, and then selecting an item, before finally confirming you want to use it - a choice which defaults to ""no,"" and if you click the wrong thing, it boots you back to the menu. All of this should have been drastically streamlined, because there's no way to dispose of these items, and enemies drop the worst one constantly, which means your inventory is forever being filled with garbage healing items when you'd really rather have the damage-tripling sandwich item.
+
+I don't know if these problems are down to the developers' age, inexperience, skill level, or the quality of the developers' tools, but they definitely detract from the experience. The game is still worth playing, though!",1,0,0,0.4893617033958435,325
+418120,76561198365789806,I really looked forward to play this game. But the contoller dosen´t work. can´t do any settings and the originak settings won´t let me swap guns. when ever i try do some settings for contreller the game sstops working. damn!,0,0,0,0.5,48
+418120,76561198167303824,"It's ok I guess. 30 fps lock and pretty awful controls aren't too great, but I cant say I'd expect much from a mobile game.",0,1,0,0.4761904776096344,13
+418120,76561198856411781,"เล่นได้เพลินๆ เกมนี้ มีอาวุธค่อนข้างเยอะและสามารถอัพเกรดอาวุธได้โดยการใช้บ่อยด้วย
+ 
+ระหว่างเล่นเราสามารถพัตนาตัวละครเราโดยการเก็บ item ต่างๆ เช่นกระโดนสามจังหวะ หรือลงน้ำได้
+
+game play ถือว่า ok ครับ แต่เสียตรงเรื่องของ sound ประกอบ ส่วนตัวคิดว่าไม่ค่อยโอเท่าไรครับ",1,0,0,0.5,287
+418120,76561198177302274,"I first tried out this game on my ancient 2nd generation Kindle Fire a year or so ago. Unlike this version it was free, with the caveat that adds would occasionally play between levels. It was great for those long car rides when there was nothing to do but sit and listen to music on the old brick. I ground up my weapons, cheesed King Carl Slime for easy XP and worked my way through the various worlds until Herbert fell to my overpowered arsenal. The game got less enjoyable to play after that. Bera's Quest was a nice distraction, but once my weapons all hit level 20, there was little reason to keep playing.
+
+So why did I pay two bucks for this game? Because it's still a fun experience in hindsight. The mobile controls were a little clunky for obvious reasons, but the Steam version has much better controls. The presentation is a little cheap, but ultimately charming. The story is basic, but the flavor text makes the characters endearing. The weapons are fun to use and level up, even if it takes forever. The metroidvania aspect makes every new discovery feel great. I never got all the collectibles in my first playthrough, so I don't know what they do, but I still went out of my way to collect them when I saw them. The enemy variety and placement makes you think a bit about your positioning, which makes the simplistic combat a bit more fun than it ought to be.
+
+Maybe I'm just gushing. Maybe I ended up falling in love with a mediocre game because I had good memories with it and it has a pretty coat of retro paint. Don't take my word for it. If you have any doubts about the game's quality, try it on mobile first. If you like what you see, get it here and support the developer. If you don't have a mobile device that can play it (don't worry, I can relate), get it on sale. It's a competent game, just don't expect to surprise you.",1,0,0,0.5,71
+418120,76561198124759962,"부모님 찾아 삼만리, 그러나 Cally 버젼.
+
+하루에 다깰려고 하면 질려서 못하지만 하고싶을때 틈날때마다 하면 재미있다.
+난이도는 처음에는 압박을 조금 느끼겠지만 갈수록 쉬워진다.
+그리고 캘리랑 곰돌이(Bera)는 귀엽다!
+
+뉴게임+와 Melvin's zone은 스토리와 연관되어 있으니 꼭하자.",1,0,1,0.5,1058
+418120,76561198094074131,"묘하게 중독성있습니다.
+플랫포머게임 취향아닌사람도 강력추천합니다",1,0,0,0.5,182

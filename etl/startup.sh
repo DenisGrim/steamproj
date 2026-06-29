@@ -13,7 +13,11 @@ done
 #  --index-url https://download.pytorch.org/whl/cu121 \
 #  --break-system-packages
 #echo "done"
-
+apt-get install -y locales
+locale-gen en_US.UTF-8
+export PATH="/usr/lib/postgresql/18/bin:$PATH"
+export LANG=en_US.UTF-8
+export LC_ALL=en_US.UTF-8
 echo "Starting PostgreSQL..."
 # Start PostgreSQL in the background
 docker-entrypoint.sh postgres &

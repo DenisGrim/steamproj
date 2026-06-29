@@ -1,0 +1,605 @@
+app_id,user_id,review,does_recommend,funny,helpful,weight,playtime_at_review
+428860,76561198059115958,Decent horror game with a good degree of eeriness.  I would recommend you get at least a couple of different endings as there are several.,1,0,1,0.5,508
+428860,76561199881947484,"literally my FAVORITE GAME EVER, every playthrough is uniquely terriyfying and i love starry and rockette 💖",1,0,1,0.5,94
+428860,76561197993151824,"I wanted to get all the endings but on the linux native build steam overlay and triggering achievements dont work at all, and even through proton loading saves is completely borked...",0,0,2,0.5280236005783081,70
+428860,76561198833761901,"Not yet finished, but it looks promising.
+I do, however, implore you to heed the content warnings, because they [i]mean it[/i].",1,0,3,0.5336279273033142,80
+428860,76561198046641173,"Great Horror Game, Bit underrated and overlooked. but has a great soundtrack and story that you don't see in most games cause they're really afraid to cover that type of life style in a story. 
+
+Drug Use, And Selling your body, causes, effects, addictions. it is something to be addressed. and this game does it pretty well in my opinion.  Take it from a horror loving stoner germ. :3",1,0,1,0.5,165
+428860,76561198060740451,"Self-aware but not self-indulgent, heavy but meaningful and using repetition in a correct way, that is how I would describe Red Haze. This might be my favorite RPG maker game to date. It shows how despite having limitations in budget, it still delivered a great experience by making the most out of their creativity and limited resources. It is one of those games that you either love or hate. So, if this sounds like something up your alley, please try it.
+
+Before continuing, a short stop to reiterate a massive trigger warning. This game very openly deals and shows violence, drug use, nudity, sexual assault, prostitution, homelessness and many more heavy topics. I’m of the mindset that Yai Games tackled these topics with respect but still.
+
+This game tells its story with the premise that it will be played several times and made the most out of that. In theory each playthrough can be different, showing you new sequences and getting new endings. In practice you will get stuck and you will endure frustration, but just enough to immerse you in the mindset of the main character. Every time you make progress it feels meaningful and usually progress comes in chunks, with several roads opening at the same time. It uses repetition in a way that has meaning for the experience they are creating and it kept me engaged thanks to that. Still this is one of those aspects that you either love or hate, so keep this in mind before you buy the game.
+
+The tone of the game is a balance between creepy, depressing and funny. Usually at least two of those emotions are present at every moment creating a rather unique game. Although, one thing that can take you out of the experience is that for several endings you must get the main character nude and control her like that. Personally I didn’t find it to be meaningless but my wife didn’t agree, feeling it was a bit too voyeuristic without much reason.
+
+The art style is a very interesting aspect as it was what motivated me to play the game but also was one of the things that almost made me stop playing the game. All the scene illustrations are very well done, delivering on the emotions they should and without being exploitative of the characters. On the other hand, many of the sprites and animations feel way more rough, which at the start pulled me out of the game. In the end I thought the concept was interesting enough and ignored those thoughts of stopping. Funny enough, the more I played, the more I enjoyed the art in the game. It feels very unique to it and also shows how the developer did everything they could to make this game a reality, even if something wasn’t their forte.
+
+I love this game and hope it reaches all the people that are looking for this very unique type of experience.",1,0,1,0.5,2308
+428860,76561197970193418,"⣿⣿⡻⠿⣳⠸⢿⡇⢇⣿⡧⢹⠿⣿⣿⣿⣿⣾⣿⡇⣿⣿⣿⣿⡿⡐⣯⠁ ⠄⠄
+⠟⣛⣽⡳⠼⠄⠈⣷⡾⣥⣱⠃⠣⣿⣿⣿⣯⣭⠽⡇⣿⣿⣿⣿⣟⢢⠏⠄ ⠄
+⢠⡿⠶⣮⣝⣿⠄⠄⠈⡥⢭⣥⠅⢌⣽⣿⣻⢶⣭⡿⠿⠜⢿⣿⣿⡿⠁⠄⠄
+⠄⣼⣧⠤⢌⣭⡇⠄⠄⠄⠭⠭⠭⠯⠴⣚⣉⣛⡢⠭⠵⢶⣾⣦⡍⠁⠄⠄⠄⠄
+⠄⣿⣷⣯⣭⡷⠄⠄⢀⣀⠩⠍⢉⣛⣛⠫⢏⣈⣭⣥⣶⣶⣦⣭⣛⠄⠄⠄⠄⠄
+⢀⣿⣿⣿⡿⠃⢀⣴⣿⣿⣿⣎⢩⠌⣡⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠄⠄⠄
+⢸⡿⢟⣽⠎⣰⣿⣿⣿⣿⣿⣿⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠄⠄
+⣰⠯⣾⢅⣼⣿⣿⣿⣿⣿⣿⡇⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠄
+⢰⣄⡉⣼⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠄
+⢯⣌⢹⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⢸⣇⣽⣿⣿⣿⣿⣿⣿⣿⣿⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⢸⣟⣧⡻⣿⣿⣿⣿⣿⣿⣿⣧⡻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⠈⢹⡧⣿⣸⠿⢿⣿⣿⣿⣿⡿⠗⣈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠄
+⠄⠘⢷⡳⣾⣷⣶⣶⣶⣶⣶⣾⣿⣿⢀⣶⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠄
+⠄⠄⠈⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄
+⠄⠄⠄⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠄⠄",1,1,3,0.449352502822876,78
+428860,76561198973036554,One of the weirdest games ive ever played.,1,0,4,0.5467742085456848,268
+428860,76561198058999733,"I wanted to like this game, I wanted to 100 percent this game. But there are just so many unfair and unfun mechanics in this game. First off almost all monsters insta kill you, you are giving a item to undue the death. This is a finite resource that DOES NOT RESET FOR OTHER RUNS, you have to either find more or just take the death. I sometimes would use the item and get booted to the start screen. It would still waste a use. Saves cannot be used if you've been caught or get an ending. Sometimes they just stop working all together. I could still play the game with all this, but the real killer is the curse. If you open a certain room in the game, your game is forever cursed. Dolls will appear block door ways so you can just get unlucky and have to do a run over because there is an unmovable doll blocking the door. It just leads to some much frustration and waste of time. I really really wanted to like this game but there are just so many little things that add up to me not recommending it.",0,0,10,0.616368293762207,385
+428860,76561198203671184,"虽然作者拖了如此之久才做了更新。
+但是游戏本身质量还是不错的
+各种隐藏触发以及各种道具用处在自行探索中一步一步挖掘
+很多尤里卡时刻的存在
+虽然游戏有的地方设置的确实难度颇高
+人物移动速度实在太慢了，而且经常有随机性的突发事件吓你一跳
+总体还是非常推荐游玩的
+如果你是喜欢传统探索类RPG的话
+可惜没中文",1,0,1,0.5,749
+428860,76561198336554711,man please just release the game we paid for in its entirety its still not finished,0,0,13,0.6405448913574219,1634
+428860,76561199025708441,最近游戏更新。游戏流程有很多不可逆的 事件/剧情，把在steam安装盘根目录的save文件夹里的内容删了，可以删档重来,1,0,1,0.5,2679
+428860,76561198064629970,controller support is a lie,0,0,0,0.5,8
+428860,76561198137756016,"One of my all time favorite Rpg maker horror games. Everything from the art style choices, to the story, to the different endings is great. It has a lot of charm, and at first it feels like a very jokey and silly game but hides its more serious psychological horror elements under the guise of being a take on the red-riding-hood story to sort of mask its more serious story elements and I like that ambiguity at times it makes the different endings more interesting as well as make the game have moments of pause between the more serious points, it has a lot great aspects about it. I'm glad I got to play this gem.",1,0,2,0.523809552192688,2444
+428860,76561198157869878,red haze bring up the young homeless hardship and drug use and how others use them in many ways,1,0,0,0.5,257
+428860,76561199038978923,"Jogo de maluco. Realmente um jogo de terror único, não existe nada igual no mundo de rpg maker.
+Red Raze tem uma temática muito pesada e quase tudo que acontece no jogo é perturbador, desconfortável e enigmático. Sempre tem algo a mais para descobrir aqui.
+A história é algo a ser decifrado, não é coisa fácil.
+Se você gosta de terror, recomendo muito.",1,0,1,0.5,197
+428860,76561198355919406,Yo anywhere I can Buy the soundtrack for this?,1,0,1,0.4941176772117615,393
+428860,76561197971480527,Abandonware,0,0,2,0.49464669823646545,127
+428860,76561198356591846,"As i said in the discussions, GTA 6 is probably gonna be finished before this
+Still no news about that big update",0,0,3,0.47253307700157166,183
+428860,76561198068910168,"Going back to edit my review as I actually went back to replay the game again and found a tedious chore rather than an enjoyable game. Perhaps the way that the developer have handled their other games/transparency on releases etc have coloured by view of their games in general. 
+
+To have to start over when the randomly roaming enemies get you is just not a fun mechanic. And a lot of things are just pure luck if you make it or not. Which is perhaps fine if the experience is shorter. But when it can take upwards of 30 minutes to get to a point only to get royally screwed by a rather unreliable ""random"" pattern of an enemy, it just does not translate to a lot of fun. 
+
+I just found no enjoyment returning to the title years later. It was tedious and felt half broken at times. It might be someone else cup of tea but it sure was not mine.",0,0,1,0.5,1827
+428860,76561198178288010,"This game truly is an experience, a one that is best to be your personal. With that said there are not many words I can use to recommend this storytelling masterpiece. Even though not all the puzzle pieces are present, the main idea is there and in my opinion it's executed as well as can be. If you are looking for a horror game, there is undoubtedly no second game like this and every horror fan should give it a try. From the heavy themes to emotional outcomes, through unlimited scares Red Haze has it all. Looking forward to full release.",1,0,1,0.5,701
+428860,76561198326600683,"Red Haze, oh boy where do I start?
+
+For as much as I like the atmosphere and creepiness of this game, I sadly can't say I'd recommend it. For starters it isn't finished, in the sense not all of the endings are in the game nor do I have hope that they will be. So as of this review, you can't fully complete this game and get what I'm assuming would be the true end. I think this a case of being a little too ambitious with all the endings (there's supposed to be 26, one for each letter of the alphabet). 
+Edit 1: Currently as of editing this there are 4 endings that are missing from the game so some achievements are not possible to get (despite the fact Steam says 0.6% of people have those particular ones).
+
+I just want to get this point of the way now and just say that this game is kinda too difficult to play. I'm not talking in sense of the gameplay mechanics but more of how you get the endings. Some are easy, you just go through and do your base goal. Then others are basically impossible without some kind of guide or lots of trial and error. 
+
+Edit 2: After going through the game some more and being able to get a total of 11 endings, I believe the previous point still stands. This game requires a lot of trial and error as I've already stated. Guides have been helping me through some points of the game but honestly gameplay videos and written walkthroughs are rather sparse so it's been quite the task. I want to continue to try and get at least a few more endings but I don't know know if I'll be able to get all of the currently available ones.
+
+[spoiler]One particular ending is linked to the creature in the well and being able to successfully play through a game of hide and seek, failing to find said creature within the allowed time will automatically be a fail and you will get one of the other endings. This is a clever way to make the player tense when trying to find the creature as it's within a maze, but if you don't take a very specific path, you will not find it and therefore always fail. The time you're given it just that tight. Not an enjoyable experience.[/spoiler]
+
+As for the puzzles, well let's just say they vary from fairly easy to figure out to down right headache inducing. You may even get different puzzles during separate playthroughs depending on which key you are given near the start (it can be one of three and it's dictated by how observant you've been) so certain endings are only available with certain keys. Don't get me wrong, I do enjoy the challenge but some of these puzzles are really just left up to guess work.
+
+[Spoiler]I think one of the best examples I've experienced and remember was the puzzle related to the abomination in the underground dungeon. There is three points on that part of the map that have electrifyable floor panels with switches. You have to lead the abomination to each of these panels and shock it. The catch being, you only have one chance to get it. Also, if you die to it you have to use one of the adrenaline to revive yourself. When I first went to this area I didn't know about the abomination and when I found one of the panels, I immediately used the switch, not realising what it was. The game then doesn't really tell you that you have to go to a generator to charge the panel again (I believe this may be the case for each panel), I then found the abomination but then remembered the panel, so I led it over there, to then find out that it didn't work anymore and then died. I ended up giving up on that playthrough cause I wasn't sure what I was supposed to go or do and wasted about 2-3 hours of work. What I learnt for this? Red Haze needs to have better sign posting to let players know if they're doing something right or wrong, if even just a little bit.[/spoiler]
+
+This is just one thing players will become accustomed to when playing Red Haze, the other is the player character's stamina bar. It is so small. You are not able to sprint for that long and normally that wouldn't be so bad, this is a horror game after all, but there's just one little factor that makes this more frustrating than anything. The Janitor. Ah yes my favourite character, the Janitor. This guy can move the same speed as your sprint but he never has to stop for a breather, making him a pain to maneuver around cause as soon as he sees you, that's it and he'll make a b-line for you. Get caught and it's into the well with you. Though after being caught a certain amount of times you'll get the option to use an adrenaline to get rid of him for the rest of that playthrough. But hey, that's great right? Well not exactly. You see the adrenalines are limited and once you've found and used them all there's no more in the entire game. That means certain endings will become impossible to achieve if they require at least one adrenaline.
+
+[spoiler]Edit 4: Once I completed Ending V in the well (it's the one you get from the arcade machine) the janitor has been changed permanently to now make things harder. Before I could use the adrenaline to poof him away for the rest of that run but now I can no longer do that. On top of that, he's now able to enter rooms when I'm in there.[/spoiler]
+
+Any who, rant aside, final thoughts time. Red Haze had potential to be rather great, the developer clearly shows that they can do good sound design and there is a genuine mystery in this game that I would love to see resolved by the end but with how things are right now, I don't see that happening. Even though I said I don't recommend this game, I can see why some people may like it and in a way, I kinda like it too despite all the flaws.
+
+Edit 5: I just want to add this onto the end but after getting some very helpful unlocks in the game [spoiler] the fairy outfit and teal key shortcut [/spoiler], some stuff has become a little easy, especially in terms of travel. I think I have become more neutral on the game and less negative leaning, I might even go as far as to say I'm starting to lean a little to the positive but I think my original rating still stands as of now.",0,0,4,0.48828125,869
+428860,76561198353396494,"such a great game, even though they never finished it there's so many endings to this",1,0,0,0.5,655
+428860,76561199229692413,Red Haze works on steam deck I uploaded a control schematic please give it a playable rating steam I would appreciate it.Thank you steam and the creator of Red Haze.,1,0,1,0.5,335
+428860,76561198306893439,"My favourite horror game ever! Red Haze has an amazing story, really interesting characters, and awesome monsters/enemies. The voice acting is great! The random events that happen throughout the game are always surprising and always so cool. It can definitely take a long time to see everything the game has to offer, but it is totally worth it!!",1,0,0,0.5,2268
+428860,76561198056253768,"I got all 22 endings and had i not been bullied by friends I would've stopped at 3.
+
+Nothing about this game works. Play it if you want I guess, I'm not a cop.",0,0,2,0.4941176772117615,1216
+428860,76561198102020074,"As of 2021, within two months of its final update, I find myself greatly surprised by Yai Gameworks spirit in general and Red Haze. Duskgolem, depicting a great knack for showmanship, enjoys engaging with its niche audience in many different ways, and loves making each individual experience unique and even exclusive at times.
+
+This pholosophy is better seen in Red Haze, an apparently generic RPG horror game that doesn't mind holding back a lot until you're really engaged with it. The more endings you get, the more the game plays a masterful dance of streamlining boring events and making chill events difficult or tense. The element of permadeath and what ""continue coins"" that disappear permanently from the game after being picked up, Surprise encounters that are triggered on rare ocassions each run, and some game overs being but the tip of a thread to yet more discoveries.
+
+These are just some examples to what makes Red Haze a truly special game that really grows on you the more you play it, the more you explore it. Even if its tone can be a bit overly angsty at times, the honesty, bluntness and passion with which it delivers itself will be something you'll draw charisma from. A game I truly recommend despite its traditionally unfair design at times. But that it's appropiately on it for the show.",1,0,6,0.5949500203132629,955
+428860,76561198305243120,Amazing and fun game,1,0,0,0.5,197
+428860,76561198012718940,"This game was clearly made for someone with much more patience than me, but if you're looking for a creepy puzzle/adventure horror game with extremely and difficult-to-decipher cryptic clues and an interesting narrative, check this out. Keep in mind, however, that this game asks for a lot of patience and has a frustrating permadeath mechanic - the main ""challenge"" in this game is accidentally getting caught by enemy and receiving an ending you've already seen 10+ times, which happens often.",1,0,0,0.5,188
+428860,76561198258832888,"this is a amazing game with many different endings and secrets to find.
+through it can be challenging to find most of the paths,that's what makes it rewarding!
+I recommend this game to anyone who likes finding secrets or even just having a good time playing a horror game",1,0,3,0.5345557332038879,882
+428860,76561198011871624,"[u][b]味のあるグラフィックとボイスで狂気の世界を描いたホラーADV[/b][/u]
+
+日本語非対応。
+プレイに必須ではないが、読めた方がストーリーを楽しめる。
+RPGツクールMV製の見下ろし型ホラーアドベンチャー。
+
+廃墟寸前のマンションに住む、麻薬中毒者の少女が主人公。
+薬を求めて売人の部屋に向かおうとするが、その途中で様々な怪異に巻き込まれることになる。
+
+上記の目的を果たすことは必ずしも重要ではない。
+自由にマンション内を探索してフラグを立て、エンディングにたどり着くタイプ。
+周回前提のマルチエンディングで、エンディング数は2021年1月現在22個。
+その中にはフラグが非常に分かりにくいものもあり、すべて見るのは難しい。
+ストーリーは重く絶望的。
+
+システム・プレイ面では不親切なところもあるものの、ホラー演出は秀逸。
+オリジナルのグラフィックと音声の不気味さは言うまでもなく、
+ランダムで起こるイベントがあり、周回でも変化があるのでプレイごとに新鮮な驚きがある。
+
+個人的には開始直後はいまいちでとっつきにくいゲームかと思ったが、
+やっているうちにフラグを立てるために試行錯誤する作業が面白く感じるようになった。
+（ノーヒントだときつかったので一部ガイドのヒントを頼りました）
+一部未実装のエンディングがあるものの、現状でも不条理系のホラーが好きならお勧めできる。",1,0,2,0.523809552192688,1999
+428860,76561198130460025,"[h1] 좋은 아이디어, 부족한 실행력 [/h1]
+개발자의 전작인 Close Your Eyes를 인상 깊게 플레이했기에, 유료인 이건 더 다양한 컨텐츠가 있겠거니 하고 구매한 게임이다.
+
+물론... 더 다양해지긴 했다. 엔딩이 8개인 Close Your Eyes와는 달리, 26개의 엔딩, 더 다양한 맵과 숨겨진 요소들이 있고, 더 다양한 아이디어들이 사용되었으며, 공포 쯔꾸르의 기본 덕목인 묘하게 기괴한 요소와 좋은 퍼즐들도 (많지는 않지만) 있다. 특히 3D 미로를 구현한 맵에서는 감탄하기도 했다.
+
+하지만 문제는, 이 좋은 아이디어들을 디자인이 따라가지 못한다는 것이다. 우선, 인터페이스가 별로다. 주인공의 기본 이동 속도는 너무 느린데, Shift로 스프린트를 할 수 있지만, 얼마 지속되지 않아서 뛰었다 걸었다를 반복하게 된다. 만약에 짧은 게임이라면 상관 없겠지만, 26개나 되는 엔딩의 경로가 이리저리 꼬여 있고, 겹치는 부분도 있기 떄문에, 새로 게임을 시작할 때마다 그 넓은 맵들을 반복해야 할 때는 짜증이 날 때가 많다. 이외에도 맵 디자인이 난해하다는 점, 괴물에게 너무 쉽게 잡힌다는 점이 아쉽다. 아마 이 점은 아마추어 개발자인 이상 전문적인 피드백을 많이 받지 못해서 그런 게 아닌가 싶은데, 이후 작품들에서는 고쳐졌으면 좋겠다. 
+ 
+ 두 번째 문제는 이 게임에 세이브 장소가 있으나, 생각만큼 쓸모있지 않다는 것이다. 작중에서 조사를 하다 보면 ""아드레날린""이라는 것을 주는데, 괴물에게 잡혔을 때 이 아드레날린을 사용하면 세이브 장소에서 다시 시작할 수 있으나, 사용하지 않으면 리스타트를 하게 된다. 문제는 아드레날린은 줍게 되면 이후 회차에서 다시는 등장하지 않기 때문에, 다 쓰고 나면 사용할 수가 없는데, 괴물에게 자주 잡히는 게임 특성상 무한 리겜을 하게 되는 불상사가 발생한다...
+
+ 세 번째는 너무 많은 엔딩인데, 다양한 엔딩은 좋지만 각 엔딩의 경로가 서로 꼬이고, 겹치는 경우가 많아서 역시 또 잦은 리겜을 유발한다... 특정 엔딩은 공략을 보지 않고서는 깰 수 없을 정도로 사소하거나 난해한 경로를 가지기 때문에, 이 점 역시 아쉬운 부분이다. 주인공의 아파트가 가진 기괴한 비밀들과 다른 인물들의 이야기를 알아가는 것도 하나의 요소인데, 이게 그 26개의 다른 경로 사이에 걸쳐있기 때문에 두서가 없이 튀어나오고, 이해할 수 없는 경우도 많다. 가장 큰 문제는 이 게임이 아직 미완성이다;; 26개 중 22개만 접근 가능하며, 나머지는 업데이트로 추가한다는데, 유료로 작품을 낸 이상 조금 무책임하지 않은가 싶다.
+
+ 이 게임이 정말 아쉬운 이유는, 정말 다양한 아이디어가 사용되었고, 공을 많이 들였다는 게 보이기 때문이다. 대부분의 대사에 음성 녹음(아마 Patreon을 쓴  것 같은데)을 더하고 수많은 일러스트들을 사용해서 지루하지 않게 만들었고, 엔딩에서도 다른 곡들이 사용되는 등 노력을 많이 했다는 것이 느껴진다. 하지만 아쉬운 레벨 디자인과 인터페이스가 너무 큰 단점으로 작용한다. 다른 작품들을 아직 플레이하진 않았지만, 많은 발전이 필요할 것 같다. (그래도 개발자님 응원하는 마음에서 추천드립니다)
+
+6.5 / 10",1,0,5,0.5897903442382812,1008
+428860,76561198007656280,"I don't really know how to properly describe the game or how to give a proper review of it, but I can definitely say that playing it will be an experience. From multiple endings adding more to the full story and changing events in the game, to relying more on ""Tension, Discomfort, and Surreal elements"" to get a scare out of you, rather than relying on ""Loud, In-Your-Face Jumpscares"". It's really good for a horror game with encouragement for multiple playthroughs and I'd highly recommend it.
+
+Word of Warning though: this game can get really uncomfortable with it's themes and event implications, so it's not exactly ""Streamer Friendly"". But it's for the best; Some horror games are best experienced by yourself.
+
+Again, Give it a shot and help support the Game Dev. He's a cool guy with lots of ambition and passion for his work. And remember: ""Facing the Fear of the Unknown isn't easy, but sooner or later, It'll face you, so be prepared.""",1,0,1,0.5,430
+428860,76561197995600246,"Good, but don't expect the dev to finish it any time soon.
+Been waiting years for the so called ""big update"" but the dev just keep making new games without finishing the old ones.
+
+I get it, he needs the money to make a living as a game dev, but i really hate this trend of half-finished games that never get done.
+
+Until we get the full game, i cannot recommend this, regardless of how much i like the current content. 
+Good game, maybe one of the best horror rpg maker games i have played, but bad development practice keeps it unfinished right now.
+
+",0,1,33,0.7165659666061401,1651
+428860,76561198389074770,"A great game if you're a fan of horror and puzzles that require a bit of thinking. Nothing terribly complex, especially with the developer's fixings to help give enough clues to get different endings and achievements. But just enough to have you wondering what to do next. Plenty of tasks, random events, scares, and ambiance galore. And if you're a fan of horror based on true events, then congrats! This game would be great for you, as it takes a lot of inspiration from real life events. But still very fictional, of course. I've spent many hours playing this (not actually as many as my profile says cause I've had to leave it sitting for longer than I had thought plenty of times :') ) and still tend to find new things in the game. As I'm writing this, it is before the final update and I'm so excited for the last bit of content. Can't wait to finish this game!",1,0,1,0.5,3344
+428860,76561198008412062,"Hands down one of the heaviest and most moving games I've played in a while. Definitely not without some difficulty, but the puzzles, gameplay, graphics, and story (especially the story) are very engaging overall. I look forward to the final product of Red Haze when the last pieces of it are completed. Same goes for the rest of Yai Gameworks' creations!",1,0,1,0.5,842
+428860,76561198025223116,"When I first played this game, I was absolutely annoyed by it. I felt like it was just going to be really cheesy and the story wouldn't be worth the effort of playing on repeat. Thankfully, I continued to try to get more endings and to my surprise, the game is a lot more complex than I thought. 
+
+This game rewards you for being patient and curious with your choices, it ended up enticing me so much with what I uncovered. The story starts off simple, and if you're like me it might frustrate you at the start with what it is thrown at you. But everything has an explanation and I mean EVERYTHING, it just needs to be uncovered. That is the biggest charm about the game.
+
+If you prefer a more linear experience or if repeating segments of the game gets you annoyed, this might not be a game for you.",1,0,1,0.5,770
+428860,76561198163466540,"underrated
+mark plz play",1,0,2,0.5,711
+428860,76561198064242864,Definitely not for kids. Red Haze conveys a deep and surprising story over multiple runs with a protagonist that you learn to care for quickly. Something you can lose yourself in over hours of play.,1,0,1,0.5,1877
+428860,76561198089748004,"I've been meaning to review about this game for quite some time. I gotta say I love it. I always love the ideas this developer comes out with. There are so many positive things I can say about this game that I don't even know where to start. But overall, I really enjoy it. However...(Here are my critiques):
+1. It is an extremely tedious adventure. If you so much as make 1 mistake, or decide to save up your adrenaline and get a game over, you have to start from the beginning with whatever endings you've unlocked that can affect the rest of your game play. The save feature won't 'save' you, either. There are times where I wanted to start all over again from scratch, but I don't think there's any way to do so. I'm pretty sure this is all a one-time play through, and then the game's done. It'd be nice if I can erase my progress and start all over without having to continue off from whatever endings I've unlocked that affect the rest of the game.
+
+2. I don't think this game's still finished being made ever since I last played it a few years ago...I can't even think on anything else to do to unlock the rest of the endings, and walkthroughs don't really help, either. Last I checked there were only 18 or 20 out of the 26 or 27 endings that have been implemented into the game. It'd be nice if this game got a major update so that it can be a fully complete game (Gonna have to play this game again some day to see if anything's changed).
+
+3. In the medical-looking room, my computer lags like crazy. I have a Windows 8.1 Acer Espire laptop that converted into a Windows 10. Don't know how that room's programmed to cause so much lag, but the rest of the game runs fine.",1,0,2,0.5172414183616638,717
+428860,76561198310688801,等汉化组给一个中文,1,0,1,0.4861111044883728,20
+428860,76561198084662559,This game is glorious! Has my adrenaline surging constantly and once you think you know whats up BAM it's something totally different! Worth every single penny and then some!,1,0,3,0.5336279273033142,594
+428860,76561198289931518,"Red Haze is a fantastic experience that allows the player to experience a true nightmare that changes over multiple playthroughs. Like all of Aestheticgamer's works, it allows for a broad palette of interpretation interwoven with disturbing connotations and unknowable horror. I thoroughly enjoyed/enjoy this game and very much encourage others to play it.",1,0,1,0.5,1430
+428860,76561198132735701,Its a truly under-rated Horror game that uses the fact the no run is the same to an amazing effect.,1,1,4,0.5273295640945435,506
+428860,76561198150379988,Great game!,1,0,1,0.5,788
+428860,76561197999256854,"[i]Red Haze[/i] is a curious game.
+It kind of jump-ropes between the supernatural horror genre and a much more credible human horror element.
+You take the role of Rockette, who embarks on a quest to score more for her spoon and lighter with a visit to the enigmatic Auntie G.
+
+Your protagonists, Rockette and Starry, are done in a charming artstyle that clashes jarringly against the pencil-whipped horrors you encounters who are drawn in a manner reminiscent of the Underground Galleries of Yume Nikki and .flow; exaggerated features and proportions and scratchy artistic stylings.
+
+The supernatural elements present, I find, take a backseat in [i]Red Haze,[/i] with the sincerest horror elements coming from its human element and unabashed approach to fear, filth, nudity, addiction, murder, and vulnerability: 
+The disgust of scrubbing out a vomit-caked bath-tub is sincere. 
+The helplessness of waking-up naked in a freezer full of meat is disconcerting.
+The discomfort of stepping around the (presumed) dead body of a (presumed) fellow addict slumped in the parking-lot is unnerving and tragic.
+
+[i]Red Haze[/i] isn't perfect, but it is capable of producing a sincere uneasiness. And its realest monsters are human beings that come to life with their surreal depictions and the world's the undertones of sexuality, loss, addiction, lawlessness, and uncleanliness.
+
+Nonlinear and surreal story elements from AestheticGamer / Dusk Golem will have you second-guessing the integrity of your few happy endings and the talented artwork of Rincs adds a depth of visual storytelling you don't typically get with Indie Horror titles. I recommend [i]Red Haze[/i] even in its mostly-complete state. Updates [i]do[/i] occur and there is readily so much to experience.",1,0,2,0.5344129800796509,270
+428860,76561198038688248,"Okay this review has been loooooong overdue.
+Simply one of the best and most unique RPGMaker games I have ever played.
+Multiple endings is nothing new I'm sure, but the way Red Haze changes and moulds itself the deeper you go, while still remaining the same game is... I suppose... unheard of.
+There is so much content in Red Haze that despite lots of endings only being less than 5 minutes into the game, you can get 10-15 hours into the game and still be finding new endings, not to mention other tidbits along the way completely unrelated to them.
+My only issue is any update to the game just doesn't last long enough, I just end up at the end wishing for more. Ah, but that isn't really a complaint, just a testament to my love for this game.
+
+I suppose the plot does seem sporadic at times and a lot of endings just seem a bit out there and nonsensical, but there's usually something important there and at the very least none of them are boring.
+
+Regardless the game is cheap! Unless you despise RPGMaker horror then you will get something out of this, even if you never manage to beat every ending, or find all the hidden depths and secrets, you still get your moneys worth and then some.",1,0,5,0.5897709131240845,3300
+428860,76561198275282497,"I really adore this game, I've put in countless hours trying to figure out how to work most of the endings out, but that makes it decently challenging so that's honestly a nice factor to me personally. 
+
+I do have one issue though, it seems when I get endings it doesn't show up in my steam achievments and doesn't actually GIVE me the achievment, is this just a bug issue?... I'm not sure if anyone else is having the same issue? Comment below if you are so I know that it's not just me.",1,0,2,0.5040798783302307,1156
+428860,76561198074249779,Buy it buy it BUY IT,1,0,1,0.4553868770599365,1009
+428860,76561198069813479,"Well, I think it does have some replayability!",1,1,2,0.5345557332038879,8579
+428860,76561198430153424,虽然语言有点障碍，但并不妨碍我欣赏小姐姐的声音，个人感觉感情很到位。,1,0,1,0.5,151
+428860,76561198035833547,"At first it looks primitive and simple then becomes quite complex, surprising and challenging.
+
+Since Maniac Mansion no adventure game gave me so much fun, frustration, despair and satisfaction as Red Haze..",1,0,4,0.525424599647522,1173
+428860,76561198408668752,"Another Yai Gameworks game i greatly enjoyed. The games by this developer are simply so good and underrated. I love the art, story, soundtrack... The different endings are very interesting. Some parts of the game almost make one sweat. I'd say the negative point is that there's only one save file and that when you die, you have to restart or use one of a limited number of adrenalines, but I understand why it was made that way. Again, some endings were very difficult without a guide, and I can't help myself from looking at guides when there are some.",1,0,1,0.5,1184
+428860,76561198339016557,One of my most favorites games ever! This will entertain you for days.,1,0,1,0.4553868770599365,1470
+428860,76561198259380107,"I've been playing this game for a while now and I got to say it's pretty good. Highly recommend. It is a sort of Art House type of game, I can also see hints of Yume Nikki in the game as well.",1,0,2,0.4761904776096344,104
+428860,76561198259874293,"Yai Gamework's biggest game as of now.
+
+I used to hate the graphics this game had, but from a more educated perspective in terms of how it effects moods, the graphics are a masterpiece and not many recognise this.
+
+Progress is based off collecting endings, you must problem solve to figure out how to get the next ending and figure out what's not been done yet. I heard this game was meant to be just 3 hours long but that is a lie, it's actually more like 30 hours, then again I have 70 hours in this game.
+
+-- Spoilers -- I also found this game make me sad. -- Spoilers --",1,0,2,0.5,2592
+428860,76561198858227797,"TL;DR SCORE: 10/10
+I've been a lifelong fan of horror, and I admit to having pretty high standards. I can't stand triple AAA hide-and-seek snoozefests, and most indie horror is ""ooooh look HP Lovecraft and SCP very spoopy!"" Yai Gameworks sets itself apart as a reliable source of top-quality horror experiences. Excellent story, flawless presentation, endless replayability, and genuine fear are all brought to the table here. If you, like me, loved the creepypastas of yesteryear and the feeling of deep-web found .exe files, this is PRECISELY where to look. I'm more than satisfied with ALL of my experiences with this developer, and I look forward to purchasing and playing more.
+Graphics: 9/10- perfectly fit the style of game
+Voice Acting: 8.5/10- Well above expectations for Indie development
+Gameplay: 10/10- simple, without being stupid
+Story: 9/10- replayable, with multiple endings and tons of secrets
+BUY THIS GAME",1,0,3,0.5,229
+428860,76561198079294555,"The voice acting is some of the worst I've heard in a game, it doesn't need to be used in this game and would have been move effective without it.
+I think it has a fantastic horror element, however, a sense of terror pervades. However the voice acting as mentioned and the repetitiveness loses some of its allure.
+I'd say buy on discount early but it's not a game that will linger or leave a mark on you, apart from the terror.",0,0,2,0.4329896867275238,59
+428860,76561197992200165,"Yai Gameworks manages to create some truly haunting games, accomplishing a lot in tone and atmosphere with very little. Each of their games is a work of art, and Red Haze is probably my favorite of the bunch. There's just so much to this game... it's impossible to do it justice with a simple review. Every time I go back to play it, there's more to discover, and different endings to unlock.
+
+Red Haze deals with some dark, depressing themes, and may not be for everyone, but for me, it's perfect. 
+
+10/10",1,0,3,0.5,6665
+428860,76561198273557209,"heres a tip a game that revolves around replays, is a waste of the quality you put into it, 3 times playing anyone is bored of it",0,1,5,0.4336559772491455,44
+428860,76561198098776664,"The game starts a little slow, the voice acting needs work..., some of the creepy elements are a little try hard...
+But! It's worth a couple playthroughs. I'm not gonna get all the endings...as much as I love achievements I just can't be that invested for this game. However, there is a certain...""thrill?"" (couldn't think of a better word...) to being chased down by an ugly creep. (Creeps, don't do this IRL you'll get arrested.) IF I could give a ""maybe"" review for this game I would, but since I liked it more than I disliked it...I'll lean towards recommending this game.",1,0,4,0.5254732966423035,529
+428860,76561198053613472,"Weird little game that's kind of addictive. So many ways to die...
+The more ♥♥♥♥ you do and the more endings you unlock, the more ♥♥♥♥ changes. 
+Voice acting isn't bad. Main character has an accent that kinda reminds me of BMO. And who doesn't like BMO!?",1,0,4,0.5258620381355286,565
+428860,76561198355851194,"One of the most best games on steam, its atmosphere is amazing, scary and sinister. This game contains lots of dark themes like Drug abuse, sexual contenct and more. overall 10/10. recommended to buy and play",1,0,3,0.523809552192688,530
+428860,76561198054662713,"This game is hard as balls, but if you're willing to put up with that (and I know I am), then a truly unique horror experience awaits you. One of the most interesting games I've come across on Steam in general, and I know I'm going to continue to play it for a very long time. Things change nearly every time you start a new game, adding an intense amount of replayability. 
+However, I will say you should only play this game if you're okay with being exposed to some rather brutal content. If you have extreme sensitivities to things such as drug use, sexual abuse, or gore, you might want to think twice before purchasing. Though I will say that from what I have experienced, the game approaches these issues tactfully and with a serious tone.
+TL;DR- Game is hard af, the content shown is brutal, but if you have the stomach for it then I could not recommend this game more.",1,0,5,0.548872172832489,885
+428860,76561198030868932,Love it,1,0,3,0.52173912525177,3664
+428860,76561198127609156,"YEEESSS!! I love Yai Gameworks/AestheticGamer games! Close your eyes, Red Haze, and Close me are some of my favorite games! No matter what you guys make, It's always eerie and keeps me on edge- the voice acting, the noises and ambiance are fantastic!! looking forward to more of your games!",1,0,2,0.5,374
+428860,76561198072182182,"A branching adventure that's a little [i]ghetto[/i] and a little [i]awesome[/i].  You control Rockette, a young junky squatting in an abandoned apartment complex.  As the story opens, she's used up her last rock and feels compelled to seek Aunti G, an obese pusher touched by the Cthulhoid influence of Pale Smile -- a dark deity whose mission is to twist human beings into forms that will let them best find . . . ""happiness.""  Will you successfully thread the mounds of decaying kipple to the dim room where Aunti G pulsates (yes, pulsates) in trailer park chic?  Or will you fall victim to some other nameless horror on the way?
+
+The simple graphics and excellent sound really play on your imagination.  I only wish the writing style was not so clumsy; I fear it might turn off some who would otherwise love the game.  But if you can get over that (and it shouldn't be hard), prepare to lose yourself in a wonderfully dark little universe.
+
+(The cartoon stills are great, and I hope there are a lot more coming in the December update.)",1,0,5,0.5517392754554749,578
+428860,76561198351929310,"Im a little dissapointed because even though it is only three hundred yen, many of these small indie games are free and have a much better story and gameplay. I bought this because it seemed like it would have the same effect that Close your eyes had on me. It did not, and I have only gotten four endings so far but getting them was feeling like I just wanted the achievement, not actually enjoying it. I will keep playing to see the rest of the ends, but the ends seem so simple and having to restart the same parts over and over made me tired and uninterested. If you let people start from their saves maybe it would be a bit more fun. Lastly, the voice acting made me cringe. I enjoy the man in the beginning that i think was in Close your eyes, but the main girl and Starry are not good at all. Another reason why Im not sure this costs money because I hope they were just happy to voice, and not getting paid for those. They were forced, and either too fake and bubbly, or too edgy and try hard feel to them. I am finishing it because I paid for it, so I will update later if i like it but i would never recommend this to someone as i have the other game.",0,0,7,0.4597403109073639,89
+428860,76561198169368632,"just why isn't it done....? were paying full price here and I hit one door that said ""content available next update=......so i'm like ""okay....weird but okay..."" But no sooner than 1 minute later I hit another ""content available next update*....just wut???? I feel like my path is stuck and i'm not getting what I paid for.  are there even 24 paths available atm? I'm so confused. there's nowhere else to go other than to the game over in teh path im on with those 2 ""next update= blocks. I feel rather cheated here. Am I not able to play the game as its meant to be played atm? feels like it.
+
+I'll buy this again in december then on sale....? Is that what I should do....? I was enjoying it and all, but like if its not done and ur gonna make me wait till december anyways.....ill just pick it up on sale then and play the proper game I guess. its been over a year since release, I was gonna stick with the game and play it through and leave u my money....but this isn't fair in this state. i'll pick it up when its done. ur va's are pretty awesome.",0,1,10,0.5154504776000977,83
+428860,76561198423934188,"Agghiacciante, tragico e pieno di mistero... Ad ogni nuova partita c'è sempre qualcosa di nuovo e terribile... La parola ""incubo"" rende bene l'idea, tra un'atmosfera di realtà (orribile) e di irrealtà allucinante. Non c'è bisogno dell'ultima evoluzione della grafica 3D per fare un gioco incredibile. E' un pugno nello stomaco... Solo per 18+. Voto: 9/10. Con le ultime updates va a finire che si becca un 10/10 soprattutto se presenti molti segreti e... strani fenomeni soprannaturali!",1,0,1,0.5,287
+428860,76561198273899625,"Great game. each ending is about %5 of the story/possible outcome, so every time you do play, you can figure out a new ending and keep it fresh. I should also state that this game does deal wiith some topics that could offend(?) not really sure but it's rated  pg-not-for-kids. you should buy it, even if your on the fence
+",1,0,1,0.5,375
+428860,76561198367882132,Nothing beats little red riding hood on crack.,1,9,6,0.5628467798233032,20
+428860,76561198006982036,"This is such a tryhard horror game. It's clear the developers know SOME of what can make a game creepy but don't entirely understand what makes the good horror games good. You can't just start out with a damaged protagonist, throw them into a creepy environment with spooky sound design and expect us to give a crap.
+
+I highly recommend watching AesirAesthetic on youtube and his retrospectives on Silent Hill 1 and 2 to see a really in-depth look of what actually makes a good horror game and the amount of thought and work that goes into it beyond just creepy noises and dark environments.",0,0,7,0.38555359840393066,14
+428860,76561198415249861,"More than meets the eye!
+ A very cool Different and almost limitless possible endings Game, just when I think I have anything figured out, I'm Proven Wrong..  Good Soundtrack and simple but not distracting Visuals, Plus some automatic coaching to keep you Going!  easy to control Game play, Give this Great Indie Game a Chance and you won't be dissapointed.",1,0,1,0.5,543
+428860,76561198102700771,"Pretty nice experience your journeys is not always same and you may find a different
+ending...
+
++ Time for some spooks he he. (random spooky events)
+
++ Deep lore with interesting characters.
+
++/- Don´t mind the graphics they are not really that important.
+
++ Variety of enemies you meet. Note that they will chase you mostly.
+
++ Tons of rooms to explore.
+
++ Skip able cut scenes thank god.
+
++ Worth full price.
+
+- The only issue is with corners= game fills up like 60% of my screen [strike] and an fps drop issue in one room but not a big deal. [/strike]
+
+- Game is not yet 100% finished but i hope it will be... Right now I would say It is about 85% done.
+
+? Game might have logical or non logical solution to an ending so if you are really lost it's no shame to look it up
+
+PS: Starry is a  [spoiler] ♥♥♥♥♥♥♥♥ xd [/spoiler]",1,1,5,0.5591433048248291,824
+428860,76561198066793896,A weird and trippy little game where you always want to play it again the explore new things and endings.,1,2,3,0.5118343234062195,280
+428860,76561198153263772,"I am really impressed by this game. Like it says, it boasts multiple endings, features a unique save system, and can really challenge your critical thinking skills (if you're playing to completion). Admittedly, there are a few upolished aspects to it; however, the game makes up for it with both its story and its ability to convey the intended tone/ atmosphere.
+I've been playing for 3.9 hours (in total currently), and haven't even gotten half of the endings yet. And that's with using clues/ guides as crutches here and there!
+The replayability isn't very high, but the game will pay forward its worth in the enjoyment you will have playing it, and in the time it takes to truly ""win"".
+And yes, it is for more mature audiences. It can get dark, and depressing, but all in the right ways.
+I give it my vote of support and recommend it to anyone who loves RPG-Horror style pixelated games.
+PS, ending H is a doozy! My favorite so far.",1,0,9,0.6175910830497742,233
+428860,76561198085744382,"First of all, the voice-acting sucks. Hard. Mainly ""Rockette"", the main character. She's not convincing in accurately portraying feelings or even scenes and it sounds as though she can barely speak English, much less read her lines. Also, the sort of announcer guy at the beginning stating the obvious, saying, ""she's a drug addict"" or whatever sounds way too goofy for a game that's trying to touch on serious topics/themes.
+
+Other than that, I have to say I am kind of liking the gameplay. It's a sort of classic ""move and click"" with some interesting segments that do diversify the overall play-style. I plan on getting as many endings as possible, and uncovering a little more lore but, so far I'm not too interested in the actual story.
+
+There's too much of an exposition dump in the beginning, and ""Rockette's"" responses to things also aren't very subtle. Better writing could have helped, alongside better voice-acting-- but it is a decently priced indie game that has lots of replayability, which isn't always easy to find.
+
+Check it out. It's worth a small look, and don't let ""Rockette's"" voice irritate you too much.
+
+I know it bothers the hell out of me.
+
+P.S.
+
+Some of the music is actually pretty decent. Really liked the song at the end of Ending K.
+Voice-acting from ""Rockette"" is also slightly more tolerable in certain endings (K).",1,0,4,0.5223933458328247,90
+428860,76561198008282906,"Check out my Steam Curator page, ""Minorthreatt Gaming Reviews."" I have the most organized and extensive genre lists on Steam! Be sure to ""FOLLOW"" for more of my recommendations: http://store.steampowered.com/curator/31339849-Minorthreatt-Gaming-Reviews/?appid=257170
+
+The Short of it: Really unsettling, really got to me. Not everyone is looking for an experience like this, but if you're looking for a playable nightmare, Red Haze is a safe bet. Very indie, imperfect in the best way.
+",1,0,2,0.5037660598754883,85
+428860,76561198117114255,i like it,1,0,2,0.4642857015132904,266
+428860,76561198078032072,"So-much-funn
+https://www.youtube.com/watch?v=ZTo_ELSo22s",1,0,1,0.4642857015132904,876
+428860,76561198045144512,"Interesting title covering a lot of heavy topic.
+Red haze is a old school style adventure game with some interesting gameplay mechanics. The voiceovers are kinda terrible but I still think it is worth a play through or a few to see some of the odder endings.",1,0,2,0.4735526740550995,18
+428860,76561198193952650,"Good game for people who love to indulge in a easter egg hunt and search for clues and lore, you have to work hard to uncover the mysteries of this game. And it truely is worth it. I think I have maybe 8 of the 26 endings so far and I'm still marching on trying every little thing and doing little things differently every playthrough. I feel like this game is a hidden gem amongst horror and would gladly give it a 10/10. Here's hoping that this game possibly trends, and my friends don't bully me for loving an indie horror. :(",1,0,2,0.5,772
+428860,76561198106690926,"Red Haze is a game about a girl named Rockette, who do drugs and lives in an abandoned apartment complex. All she wants is her next fix, but things are not so easy when you're homeless, are they?
+
+Throught twisted corridors and unrelenting enemies, Rockette must solve puzzles, escape mazes, stab things and remember her own past while prisioner of this wretched place, with a story of its own, perhaps even more tragic than her's.
+
+With multiple endings, Red Haze has a lot of replayability, though the middle of the playthrough may get a little repetitive, it'll be rewarded with more interesting things happening the more endings you achieve.
+
+If you enjoyed Close Your Eyes, I'm sure Red Haze will not let you down.",1,0,8,0.6178067326545715,1253
+428860,76561198012310051,"Red Haze is an indie surprise of the last year. It is incredibly original and somehow really addicting, while it is able to create its own mythology and setting without stealing ideas from other horror games (maybe just a little from Silent Hill, but who doesn't). And if you look in STEAM between the hundreds of uninspired copies of P.T. and Amnesia, you will have an idea of how much a rare quality this is right now. The game is really harsh, mature and disturbing, so surely it is not for everybody.
+
+The game is build on trial and error, but in an effective way. Red Haze right now has around 20 different endings and multiple replays are necessary to discover everything. Some endings are very straightforward and the player can obtained them in few minutes of gameplay, or just by failing. However, other endings are incredibly difficult not only to achieve, but also to just figure how to get them.
+
+The atmosphere is interesting, disturbing and innovative. A constant sense of uncomfortable dread will always follow the player around, while exploring the bizarre and surreal guts of this abandoned building. Every new room is a terrible and disturbing surprise, a new grotesque character or an unexpected enemy. 
+
+Red Haze is a really unique game, with a personal mythology and an interesting concept for an intense and fresh surreal-horror experience. It draw inspiration from very few things, creating something very unique and self-referenced. The game is long and always enriched with new and interesting discoveries. If you are not afraid of a bit of repetitiveness and a rough art-style, Red Haze is a game that can really surprise you.
+
+Complete review: https://surrealandcreepy.wordpress.com/2018/04/16/red-haze-nudity-drugs-surreal-abominations-and-multiple-endings/",1,0,1,0.5,567
+428860,76561198296620024,VERY GOOD. Story is fun. Voice acting isn't perfect but it's still fitting. Too scary for me so I had to get a friend but good!,1,0,1,0.5,42
+428860,76561198070325466,"Yai's most thematic work so far, dealing in a number of mature and complex topics including drug addiction, human trafficking, poverty, homelessness, among other things. Getting to ""the end"" should only take you about 10 minutes, but there's 19 endings so far and each one slowly allows you to access new things or new endings. It can get a bit repetitive and is definitely overly cryptic, and for that reason I would recommend using a guide for some portions of the game. At almost every moment where you feel like you've reached a dead end, there is something you're probably missing. 
+I did really enjoy the ""story"" of the game and the implications behind a number of the game's events and endings. Surreal horror is very difficult to pin down, but this one gets it right.
+
+Just remember, this has all happened before.",1,0,15,0.6752752661705017,684
+428860,76561198343268234,"failed to load gamefont 解决方法
+找到游戏路径依次打开文件夹WWW-fonts  从系统的字体文件夹里复制一个英文字体到前面路径文件夹里然后 右键点击gamefont用笔记本打开src: url(""arial.ttf"") 括号里面的字体改成刚才复制进来的字体就ok了",1,0,2,0.5462251901626587,28
+428860,76561198267598412,"Don't bother playing.  
+
+I loved Close Your Eyes and excited for this one (followed the development for a year).  However, the game is bugged out the butt. 
+
+ If you're on Windows 10, telling you now, you're effed.
+
+Radom crashing, frame rate drops so bad you have no chance to outrun enemies when you should (I checked the guides), and rooms that slow the processing speed down so slow you can't even click on the freaking keys.
+
+In the months after the release I went on the thread to point out the specific issues like everyone else so they could be fixed.  Instead, they appear to have been ignored.
+
+""Due to a technical limitation, the Steam Achievements for Red Haze are limited right now to the Windows PC version of Red Haze. The game is fully playable on Mac, but achievements unfortunately cannot be unlocked due to how they're handled. I'm sorry for the inconvenience.""
+
+So, he left the game mostly broken and abandoned it to do the other projects.  No wonder the next one was only a buck and the one after free.  This one was a garbage fire in its implementation.  A pity given the promise its story had but it's too broken for many players to enjoy.
+
+",0,4,22,0.6060430407524109,699
+428860,76561198311161291,I really enjoyed playing this game thus far and am really excited about the rest being released. My only issue is i had to look up a play through for 75% of the endings to save myself hours and hours of searching (maybe im just bad lol). I wish the hints given were for all endings especially because its optional to look at them.,1,0,2,0.5161290764808655,749
+428860,76561198112354839,"Так, с чего бы начать хммм. А да [spoiler] Из 19 концовок, имеющихся сейчас 15 трагические.	[/spoiler]
+Конечно, не совсем понятно, что происходит после концовок, но ясно одно: [spoiler] Рокет Возможно мертва, а возможно и нет, как кот Шредингера короче, [strike] как и её младшая сетсра. хе-хе...	[/strike]	[/spoiler] Сюжет интересен, местами пугают звуки, скримеров вроде нет [strike] за исключением проклятой комнаты возможно, хех, она же проклята.	[/strike] Игра реально крутая, 8 концовок без подсказок заняли у меня около 8 часов игры. Покапаться в настройках стоит, если хотите из хоррора сделать новеллу вам туда.
+Если что-то изменится, обзор допишу, а так
+10 голых Рокет из 10",1,2,6,0.5769230723381042,665
+428860,76561197971472890,Played 10 minutes. Was bored. Nonsenical crap happened. It was boring. Game ended. Made no sense. Did not enjoy enough to puruse the remaining 90% that the game promised me a dozen times at every opportunity it could remind me.,0,2,6,0.35537150502204895,18
+428860,76561198007906700,"[u]На данный момент в игре всего 19 концовок (не верьте ачивкам) и отсутсвует доступ к еще одной локации. Разработчик не поставил свой проект в статус раннего доступа и игру не доделал. Будьте бдительны[/u]
+
+Red Haze - это хоррор. Хоррор про коллекционирование концовок, коих аж 26 штук. Самые первые концовки можно получить буквально после 5 минут игры. В большинстве своем многие концовки трагические, и напоминают сцены смерти несчастной девочки из игры demonophobia. Кстати, достаточно много деталей роднит Red Haze c той игрой. Повышенная жестокость к женским персонажам, обноженка иногда с самоцензурой, всемогущие жуткие ебаки от которых нужно прятаться, простенькие загадки и около-анимешная стилистика. И стоит упомянуть, что некоторые действия и концовки влияют перманентно на следующие игровые сессии, так что это немного скрасит переигрывание одного и того же.
+
+Если кратко про сюжет, то эта игра про девушку-наркомана, которая ищет себе новую дозу, но находит неприятности.  И по атмосфере игра немного похожа на silent hill: игра не торопится объяснять что происходит в апартаментах, почему некоторые персонажи исчезают сами по себе, происходит постоянное изменение реальности и тд. Историю некоторых персонажей частично объясняют соответсвующие концовки, а другие являются живыми метафорами для главной героини. Как мне кажется. 
+
+Кстати, это еще и спин-офф к игре [url=http://store.steampowered.com/app/377330/Close_Your_Eyes_Old_Version/]Close your eyes[/url](игра бесплатна). Сюжет этой игры так же не совсем понятен, но можно познакомиться с некоторыми персонажами, которые будут присутствовать в этой игре.
+
+Что у игры получается делать, так это пугать. Представьте, что после определенной концовки, маньяк-уборщик, который постоянно преследует главную героиню вдруг исчезает и вы начинаете слышать безумный смех.... ""Почему все поменялось?"" - этот вопрос вы будете частенько задавать себе. Эта игра пугает непостоянством и своим звуковыми эффектами. Конечно, игра иногда опускается до обычных ""БУ"" моментов, но в основном предпочитает медленно и размеренно протягивать к вам свои мертвые, белые руки.
+
+В плане механики здесь все просто. Передвижение, сбор предметов и их автоматическое использование на других ключевых предметах. Если в начале ты изучаешь местность и используешь логику, чтобы пройти дальше/получить новую концовку, то чуть позже ты сталкиваешься с совершенно неочивидными вещами. Чтобы получить одну концовку, нужно увеличить свой счетчик морали(?) до определенного уровня(спасибо прохождениям из стим-комьюнити). Этот счетчик никак не показан, про него нет упоминание нигде в игре. Еще есть такой момент, что ты заводишь генератор в подвале и нажимаешь какую-то кнопку в параллельном мире и..... ничего не происходит. На самом деле, нужно еще раз пережить одну из концовок и тебя выбросит на новую локацию. Где здесь логика? Почему после этих действий одна из ""концовок"" оказалось продолжением игры? Игра бывает иногда совершенно неочевидной.
+
+Огромный минус этой игры в том, что приходится каждый раз повторять одни и те же однотипные действия. И кроме того вам частенько придется пересматривать некоторые катсцены. Причем многие нельзя пропускать. Ситуацию исправило бы частое сохранение, но вот ирония заключается в том, что после прохождения концовки, игра не разрешает загружать старое сохранение. Приходится начинать каждый раз сначала. 
+
+Проблем еще добавляют и монстры. Ладно бы они просто убивали персонажа, так еще к этому блокируется последний файл сохранения. Конечно, есть шприцы адреналина, которые ты ищешь по комнатам. Они по идее позволяют переместиться к последней точке сохранения. Но их всего 12 штук. На всю игру. То есть сохраняться имеет смысл только первые 12 раз, дальше можете пропускать все эти бочки (там где ты сохраняешься). Еще плюс адреналина в том, что он убирает уборщика-маньяка с локации и можно спокойно исследовать локацию. Но это распстраняется только на этого монстра, так что что услугами горящих бочек можно пользоваться только когда хочешь сделать перерыв. В остальном сохраняться смысла не имеет.
+
+В итоге, я склоняюсь к тому, что игру рекомендую. Постоянные переигрывания, бесполезные сохранения почти перевесили все достоинства игры. Большая часть моих 12 часов, которые я наиграл были бессмысленной тратой времени, но игра все же сильно увлекает, особенно в начале. Если вы любите запутанные сюжетные игры завязанные на загадках и изучении местности, но не боитесь всех перечисленных неудобств, то можете попробовать этот бюджетный инди-тайтл.",1,0,12,0.679160475730896,789
+428860,76561198389395508,"昨晚买下的游戏没几分钟迎来了第一个bad end
+开二度发现记录不见了，所以说这存档究竟是干嘛用的？
+涉及剧情的吐槽暂且不提
+以下是我的心得体会…… 请留意观看
+
+
+
+请在这款游戏特价时购买（我指的是一元或者免费的情况下） 这句可能是我最应该放在开场的",1,1,5,0.5341207385063171,44
+428860,76561198388757927,"Questo titolo è stata una rivelazione . Ho sempre adorato il genere horror , in ogni usa forma , e da tempo cerco e colleziono avidamente quelle opere (film , videogiochi etc) che mi facciano effettivamente provare ""orrore"" , una sensazione che nella nostra quotidianità è quasi impossibile provare( per fortuna aggiungerei) . Eppure questo giochino , all'apparenza uno dei tanti horror-puzzle game in 2D , me l'ha fatta provare . Più che definirlo banalmente come un videogame lo defnirei come ""esperienza"": non ci ho speso ore perchè mi divertiva , ma perchè mi disturbava , mi incuriosiva e mi coinvolgeva . 
+
+C'è poco da dire sulla trama , che verrà rivelata sempre più ad ogni run : quel poco che ci è dato sapere all'inizio è che vestiamo i panni di una ragazza tossicodipentente , che vive da senzatetto in un complesso abitato abbandonato e il cui unico desiderio a breve termine è quello di raccattare un'altra dose , da brava drogata . Fine . Per avere altri dettagli sulla vita della protagonsita e sul luogo in cui si trova bisognerà giocare una partita dopo l'altra , esplorare i vari scenari e provare raggiungere le varie ending(alcune davvero ostiche), in modo da svelare via via parti sempre più importanti della trama . Ed è proprio questa che mi ha fatto davvero appassionare a red haze : la creatività e l'immaginazione che c'è dietro ad un lavoro del genere è da lodare , il concetto di orrore e terrore viene sviscerato e trattato nella sua purezza . A far paura non sono i morti viventi , i vampiri  o roba simile , a far paura sono principalmente gli esseri umani , o almeno una parte di loro : quella oscura e animale che tutti noi teniamo repressa nel profondo del cuore .. come fosse una specie di belva incatenata . Non che manchino i ""mostri"" , ma questi sono intesi nel vero senso della parola , cioè come un qualcosa che ci incute terrore e paura : non hanno quindi forme particolarmente definite  , sembrano più le immagini distorte che ci inseguono negli incubi . Non capiamo bene cosa siano .. però ci disturbano , sono raccapriccianti e fuori dal nostro controllo . L'unica cosa che possiamo fare è starne alla larga . Forse è proprio questo che vuole essere red haze , la metafora di un incubo . 
+
+Per concludere , poco mi interessa del gameplay e del comparto tecnico (comunque azzeccatissimo , secondo me , per il tipo di gioco) . Questo non è un gioco per chi cerca meccaniche complicate e grafica da paura , questa è una piccola perla nel panorama horror, una dimostrazione di immensa creatività da parte degli sviluppatori che hanno sicuramente una grande ""esperienza"" nel genere . Lo consiglio quindi a chi non vuole semplicemente divertirsi a rilassarsi , ma cerca un'esperienza in grado di fargli provare sensazioni contrastanti , che lo confonda , lo coinvolga nelle vicissitudini della protagonista e lo porti a riflettere sulle ""zone scure"" della natura umana.",1,0,4,0.5457028150558472,553
+428860,76561198155882365,An intresting game whit so much feeling,1,1,2,0.41588154435157776,222
+428860,76561198275814548,"TL;DR THIS IS A VERY GOOD AND UNIQUE HORROR GAME 
+The PROS of this game definitely outweigh the cons.  I absolutely love that there are more than 20 endings to get; it gives the game a lot of replay value.  I also love the fact that aside from dialogue and comments made by the player character, there is a bigger story that you need to piece together by playing the game again and again, each time uncovering different secrets.  The premise is very original, as you play a drug-addicted squatter in an abandoned apartment building navigating her way to her dealer's room to get more rocks.  I also love the art style and the controls.  Would be super convenient if she could sprint forever, but that would nullify one of the game's main scare mechanisms.  Another thing that I really liked is that while this game is mainly a third person adventure/psychological horror, it does incorporate survival horror elements here and there, which are good for keeping you on your toes!  The game has frightened me to the point of being afraid to play it alone.  The sound effects are also on point.  
+The cons, albeit few, are still there, for sure.  Yes, I understand the point of having some playthroughs that are 5 minutes in length and others that can be upwards of an hour.  But many times you accidentally get the same ending because of the aforementioned limited sprint time, which is fine, except for the fact that it does not allow you to return to your last save and makes you restart from the very beginning.  Imagine spending an hour collecting secrets and items and building up for a new ending, and then you accidentally get caught and get the same ending you've gotten several times before and all of that work went to waste.  Other than that, though, the only thing I didn't like very much was the voice acting, but it certainly did it's job and it is subjective.  
+
+Also, I'm not sure if this is a mac thing or if my computer just sucks, but I've had issues with lighting and contrast.  There were certain parts of the game where it was so dark that I could barely make out certain objects, which I thought was just an aesthetic horror touch, until I played the game on my friend's Windows computer, on which everything could be made out clear as day.  I mainly play it on his computer now, for that reason.  
+
+Overall, I would honestly give this game a 9/10.  I hate first person survival horror and am not fond of first person games in general.  This game is different from most horror games I've played and accomplishes its goal extraordinarily well.
+
+EDIT: Regarding my dissatisfaction with losing saves after dying, collecting/hoarding adrenaline makes this a non-issue if you know what you're doing.  It is frustrating that the game has been out for several years and still isn't finished, but I know that when it is, it will be incredible.  So far, I've gotten every single possible ending (on a friend's computer, hence the short playtime), and I can feel the game finally coming to a close.  I can't wait to finish this masterpiece.",1,0,6,0.5308445692062378,287
+428860,76561198202613271,"DISCLAIMER: I have not completed the game 100% yet as I still have several endings to get.
+
+
+
+But, that being said, I love this game. In fairness I have a soft spot for RPG Maker games and games like them. (Ib, Yume Nikki, OFF and 7th Stand User are my favorites.)
+
+Red Haze goes the extra mile in several departments.
+
+The first thing that springs to mind is the voice acting, most RPG Maker games don't do this cause it can be a a make or break thing. (You don't want your game to sound like House of the Dead 2.) But thankfully, the people they chose for this game are quite talented and fit the characters quite well. Rockette and Starry especially. 
+
+The artwork is also great, the in-game artwork is a lot better than the off-model art in the title card. The character design is very well done without being overdesigned and the monster design does its job at being nightmare inducing. (The eye-scratching ending comes to mind.)
+
+
+
+The horror in the game very well done, and harkens back to old PS1 horror like Clock Tower. Encounters in the game are very well designed in that they bring a sense of paranoia. The most of the rooms in which the Custodian appears are dimly lit, so most of the time you won't know which direction he's coming from. And unlike the Clock Tower games, where a change in music was your cue to start running, the only indication that the Custodian is close is that unsettling laugh of his. All these factors together provide a satisfying challenge, and very interesting design choices when you take the time to examine them.
+
+
+The story so far is very engaging. With a simple premise that becomes complex as the game progresses. Our protagonist is Rockette. A young adult who is also a drug addict. She begins wandering the abandoned apartment building inhabited by druggies, homeless people, and for some reason, creatures. In search of Aunti G a woman who can provide her with a new supply of drugs, it is established early on that Rockette has some kind of history with this woman, no specific details are provided at the start, but it is heavily implied to be nothing good. 
+Along the way, Rockette meets a naive but well meaning girl named Starry. They apparently have met before. Upon meeting her, Rockette, and in turn, the player, is given several options. But they boil down to either letting her come with you or leaving her to fend for herself in an abandoned apartment complex. 
+
+In several endings, the fate of Starry is left purposefully unexplained. This only adds to the horror as the player is left to wonder what happens to her in these endings.
+
+The recurring motif of abandonment and decay is very well written and effective. I think the one of strongest examples of this theme was a room where you can examine old newspapers from decades ago that are now falling apart and nigh unreadable. 
+
+Earlier, I mentioned how events change depending on which endings you get and how many. For example, you may encounter a short new scene, or unlock an entire new area. You may find a note lying around that displays different text than it did before. 
+
+The music is also great, each piece fits the mood perfectly and whoever does the vocal songs has a superb voice.
+
+The designs of the areas are quite nice, but the area near the begining with all the hallways stuck out to me. The reason for this is because when I was little, my mom would visit a friend who had an office in a building that had wallpaper that looked remarkably similar to the one in the game.
+
+There is also a permadeath mechanic, if you are killed by the enemies, you are either locked into an ending or receive a game over. There is a way around this, throughout the game, you may find Adrenaline, which can be used to escape the aforementioned permadeath. These are not easy to come by, though, so use them wisely and sparingly.
+
+All in All, I highly recommend this game, It's got a great story, great voice acting, great music, superb gameplay and an overall engaging experience that keeps you coming back. I would like to warn you though, if you have Anxiety like I do, you should be careful about playing this, maybe take a break if you aren't feeling well. Take it easy on yourself, please.
+",1,0,6,0.544295072555542,163
+428860,76561198070369444,"This game has a nice story, great scary stuff and really neat ideas.
+
+But the restarting the whole game for every 10 seconds ♥♥♥♥♥♥♥♥ ruins it for me.
+
+0/10",0,5,14,0.4897305965423584,1231
+428860,76561198060101867,"(For the developer: I don't know if you read reviews, but if so, I would like to say fans would just wait for updates and indeed I'm just looking forward to them, whenever they will come. You have already given me the best 20 hours ever. I really love and enjoyed it (and I am getting scared/feared from everything in my real life again). In addition, the works you're on take you long time. You don't need to hurry. Fans would be just waiting and looking forward to them, and no fan would blame you for updates/releases being late.)
+
+上に書いてあるのはもし製作者がレビューを全部見ていた場合の応援の言葉なので気にしないで欲しい。
+
+どうあれ、私はこのゲームを1週間かけて約20時間プレイした。
+端的に言って17時間の地点までずっと気が狂いそうだった。怯えていない時間など1秒も存在しなかった。
+キャラクターを1歩動かすたびに何が起こるのか分からなかったし動かさなければまた何が起こるかも分からずただただ腕が震えていた。途中から左腕は使い物にならなくなった。動悸は止まらず頭の中で恐怖に抵抗する物質が限界まで分泌されているのが分かるくらいに気が狂いそうで、それが17時間も続いた。
+
+そんなホラーゲーム、有り得ない。
+
+誰だって、どんなホラーゲームだって、ぶっちゃけ数時間もあれば慣れる。ビックリさせられることはあるかもしれないにしても、どんな化物が出てくるかは分かってしまうし、""筋""のようなものだって見えてしまう。それはもう「恐怖」ではなく「ドッキリ」でしかない。
+
+このゲームはそんなんじゃない。
+
+樹海や廃病院を次から次へ1人で渡り続けているような感覚を、一体何に襲われるのか分からないという恐怖を、次に視界に映る光景を想像しただけで総毛立つ状態を、あるいはそれが想像もつかないこと自体による恐怖を、もはや発狂にも近いほどの恐怖を、""未知""による恐怖に囚われた状態を17時間も持続させられるゲームなんて、現実的に有り得ない。
+
+だけど事実としてそれは起こっている。少なくとも私の身には。
+
+内容について何か具体的に書くよりも、プレイしていた間の日記にある私の精神状態の記録をまとめ直した方がこのゲームがどのようなものであるのかについてずっと伝わりやすいと思うので、そうしようと思う。
+
+
+
+2017年10月23日
+ゲームがあまり進んでないので、そこまでまだ怖い要素はそこまで無いです。でもこれでも十分怖い。
+だけどそれ以前の問題として、ゲームとしてむっちゃ面白いですねこれ。ホラーとか抜きにして普通に面白い。
+頭使うし謎解きやマップもかなり作りこまれてる。
+
+
+
+2017年10月24日
+このゲーム凄いなぁ……内容についてはマジでなんも書けないですね……
+何をどうやってもspoiler(ネタバレ)になる……
+今日は特に進行自体は無かったのですが、しっかしこれはもうほんと凄い……
+よく出来てるしマジで面白いです。オススメ。
+
+
+
+2017年10月25日　プレイ時間: 12h
+嗚呼、畜生、畜生、分かりきっていたことじゃないか、分かりきっていたことじゃないか、畜生、何が良く出来たゲームで普通に面白いだ、嗚呼、嗚呼、畜生、馬鹿野郎、分かりきっていたことじゃないか、そんなの分かりきっていたことじゃないか、ああ、ああ、ああ、ああ、ああ、ああ、なあ、分かりきっていたことじゃないか、このゲームを作ったのは誰だ？あの作者だ。なあ、分かるだろう、そんなの分かりきっていたことじゃないか、分かりきっていたことじゃないか、お前は愚かなのか？そんなことがあるわけないじゃないか、これがただの""ゲーム""だなんて、そんな馬鹿なことが……
+
+畜生……何もかもがspoilerだ、だから、ああ、ええと、
+嗚呼、畜生、なんて単語を使えばいい？脳がおかしくなっててもうそれすら分からない……
+
+嗚呼、畜生、なんだこれは、製作者は本当にヒトなのか？なあ、教えてくれよ、一体このゲームを作ったやつは何なんだ？化物か何かか？ああ……
+
+なあ、コレは一体何だ？嗚呼、分からねえよ、なんだよ、なんだよ、なんなんだよ、なあ、教えてくれよ、誰か教えてくれよ、アイツは一体なんだっていうんだよ、なあ、RPG Maker MVの起動時間が4000時間を越えている事がその条件か？それを成せるだけの生まれつき気が触れていることが条件か？本当にそう思うか？なあ、なあ、なあ、なんだよ、あいつは人間の恐怖について何を知ってる……
+
+
+分からない、、、
+
+ 
+
+分からない、、、
+
+ 
+
+分からない、、、
+
+ 
+
+分からない、、、
+
+ 
+
+分からない、、、
+
+ 
+
+分からない、、、
+
+ 
+
+分からない、、、
+
+
+、、、
+
+
+なんで私は同じ絵を──恐らくは50回以上、ゲームを進めるために──見ているのに、
+[b]全く同じ事が起こるのに、どうして同じ事が起こる度に怖くなるんだ？[/b]
+[b]どうして同じものを同じ場所で見るたびにそれに対する恐怖が増すんだ？[/b]
+[b]こんな馬鹿な話が有り得るのか？[/b]
+
+そしてこのゲームに出てくる絵は、「グロデスク」ですらない、、、強いて言うなら、ただの、ただの、、、「不気味」程度の絵だ。
+
+ああ、確かに不気味ではあるかもしれない、それはそうだ、だけどそれが、、、他のホラーゲームに出てくる絵に比べてどれだけチンケな怖さしか持たないっていうんだ？[b]そしてどうしてそれを見る度に私は更なる恐怖をそれから得るんだ？[/b]
+
+、、、なあ、、、
+
+誰か教えてくれよ、、、
+
+アレは一体何を見てるんだよ、、、
+
+アレがヒトなのかどうかすら、もう私には分からない、、、
+
+
+
+
+
+
+2017年10月26日　プレイ時間: 15.7h
+助けてくれ
+
+
+
+
+
+
+2017年10月27日
+リアル都合でゲームをプレイ出来なかったから、その分明日感じる恐怖は減ると思う。
+
+
+
+
+
+2017年10月28日　プレイ時間: 15.7h
+もうだめだ。結局ゲームを進行させる事は叶わなかった。
+それはたった2分にも満たないことだった。
+ゲームを起動する瞬間に既に手が震えていた。スタートボタンを押す瞬間に怯えた。キャラクターを一歩動かす度に怯えた。あるいは止まる度に怯えた。ゲームが少しラグるだけで叫び声を上げそうになった。
+完全に駄目だった。
+1日空けたのにたった2分で精神が完全に限界に達していた。
+
+ああ。
+
+ああ。
+
+ああ。
+
+ああ。
+
+ダメだ。
+
+あの空間に数分立っているだけで。
+
+だめだ、、、、、、、、、、、、、、
+
+
+
+
+2017年10月29日（今日）
+恐怖が酷すぎて頭がラリったような状態になり恐怖が減じられ、そのままの勢いでぶっ通しでプレイしようやく全て終わらせることが出来た。
+ここからゲームについて注意事項を書こうと思う。
+
+まずこのゲームを十分に楽しむには英語を結構読める必要がある。
+また、英語を読めても知らないと分からない知識があるので添付しておく。
+ストアページにある通り、主人公はヤク中である。オープニングに出て来る""rock""や""pebbles""は、岩や小石でなく、ヤクの塊の隠語である。ガンコロという単語でググればどういうものかわかると思う。
+
+次に、このゲームは基本的に、完璧に詰まるまで自分で考え得る事を全て試行錯誤し終えてからガイドを最低限だけ読むような人に向いていると思う。詰まる前にガイドだけ読んでサクサク終わらせようというプレイスタイルの方には絶対にオススメしない。
+
+詰まったときに恐らく最初に試すべきなのはこのガイドで、最も実績解除率が高い方から最初の13個について載っている。しかし最初の5個の実績は自力で解除して、もう1度試してみて、それでも尚何も分からないというときに開いた方が良いだろう。
+ttps://steamcommunity.com/sharedfiles/filedetails/?id=870558497
+
+あるボタンを押せたのであれば、指示に従い、このガイドが役に立つだろう。でも詰まるまでは見ない方が絶対に良いだろう。
+ttps://steamcommunity.com/sharedfiles/filedetails/?id=872964703
+
+他のものについてはガイドページから適当に探せば良いだろう。
+
+ただ、一つ注意しておかなければならないこととして、実はこのゲームの最後半については公開されていない。実績解除率0.2%になっている部分がそれにあたる。完成予定アップデートがハロウィンに告知されているものの、この製作者は他にも色々なプロジェクトを同時進行しており、遅れることがままあるので期待しない方がよい。
+
+しかし現在公開されている範囲でも20時間程度は（私ほど神経質でないなら恐らく15時間程度）遊ぶことが可能であり、一秒たりとも油断を許さない恐怖と二度と起動したくないという感情が貴方を支配するだろう。貴方は途中でプレイをやめなければならないかもしれない。そして私は十分満足した。
+そして、上のガイド群は[b]断じて[/b]、本当に詰んだ、あるいはこれ以上は自力で解くのは困難だと感じるまで決して見るべきではない。
+このゲームは自分でグルグル回りながら試行錯誤しないと貴方に何の恐怖ももたらさない。
+貴方が適切に精神的対価を払った分だけこのゲームは貴方が望む全てを提供してくれる。これはそういうゲームだ。
+そしてそれが成されたとき、貴方は人生で最悪の恐怖を得ることになるだろう。",1,4,18,0.5674996972084045,1248

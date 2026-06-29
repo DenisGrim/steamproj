@@ -1,0 +1,395 @@
+app_id,user_id,review,does_recommend,funny,helpful,weight,playtime_at_review
+411370,76561198337845118,Footjob from Akiha must feel unreal.,1,0,0,0.5,2890
+411370,76561198929900615,В эту игру ващеникто неиграит,1,0,0,0.5,237
+411370,76561199106847505,neco arcs aura is too strong,1,0,0,0.5,215
+411370,76561198968721874,"very good. the network is mainly non existent but if you imagine hard enough, its almost like you are playing with real people! this is my favorite fighting game:steamthumbsup::steamhappy::steamhappy:🥰😇",1,0,0,0.5,2457
+411370,76561198860003110,"одна половина играет ради Арквейд, а другая половина ради... неко арк...",1,0,0,0.5,693
+411370,76561198966176918,zankei ni shosu,1,0,0,0.5,314
+411370,76561199137804555,"Es un re juegazo donde no solo ves a la gata estupida siendo estupida, sino que también todos los otros personajes son bien chistosos y su jugabilidad en cuando a adaptarse al juego en si es super sencillo, en 5 pedos te aprendes a hacer una definitiva.",1,0,0,0.5,3069
+411370,76561199653464839,jogasso da prr,1,0,0,0.5,23
+411370,76561199060647206,супер клас 67,1,0,0,0.5,91
+411370,76561198379585539,"Probably my favorite fighting game of all time. You should use the ""community edition"" for multiplayer, buy this if you want the arcade mode in english.",1,0,0,0.5,2402
+411370,76561198800322013,Impressive. Don't mess with the classics.,1,0,0,0.5,351
+411370,76561199221052896,nb,1,0,0,0.5,144
+411370,76561198864252311,my all time favourite fighting game,1,0,1,0.52173912525177,8308
+411370,76561199266691900,it runs well on my steamdeck but when i try to play this on my pc the game starts freaking out. Just get a community edition its free and works much better. Buy only if you want to support devs,1,0,2,0.540229856967926,693
+411370,76561198140375567,Yes. I am  buying the game because of the funny cat.,1,1,4,0.5817490816116333,250
+411370,76561198104731688,"Jogavel no Linux na configuração padrão do Proton
+",1,0,0,0.5,1802
+411370,76561198864022752,Wifina je ok,1,0,0,0.5,766
+411370,76561199111563587,"это реально круто 
+я сионист кстати",1,0,0,0.5,1611
+411370,76561198072951855,I love it when girls beat me up,1,4,7,0.6210862994194031,121
+411370,76561198709261945,"TS SO FYE
+",1,0,0,0.5,231
+411370,76561198815479575,"Противоречивая игра, даже на моей пеке умудряется подвисать. В комьюнити версии таких приколов нет. Сразу предурежу, со своими друзьями из воюющих стран у вас не получится, прийдется накатывать Радмин, но в целом, Слешер неплох, я не биг фан таких игр, но даже МНЕ это зашло, а вселенная Fate добавляет своего шарма",1,0,1,0.523809552192688,822
+411370,76561199179776664,nyan,1,0,0,0.5,189
+411370,76561199784290552,peak,1,0,0,0.5,2003
+411370,76561198069432276,"
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⣿⣿⣿⡿⣿⣻⡿⣿⡿⣿⣟⢿⡛⡗⡿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⡿⣽⢾⢽⣳⢯⢿⢽⢯⢷⣳⣟⡷⡛⢕⢎⡪⡪⢎⢯⢿⣿⣿⣿⣿
+⣿⣿⣿⣿⢿⢿⡿⣿⣻⣟⣯⢯⢿⢽⡽⡯⣯⢿⢽⢯⢿⣽⣳⣗⣟⡷⣝⢜⡘⣜⢜⢼⢽⣿⣿⣿⣿
+⣿⣿⡓⡯⡍⡇⡏⠮⣸⢨⢪⡿⡽⣯⢯⡿⣽⡽⣯⡿⣟⡾⣞⡷⡯⣯⢯⡷⡩⡒⡝⣮⣿⣿⣿⣿⣿
+⣿⣿⣞⢜⢌⢖⢜⢝⢜⢼⢽⣞⣯⢯⡯⣯⢷⣻⣳⣟⣽⢽⢯⢯⢿⢽⢽⣽⣳⢧⣳⣷⣿⣿⣿⣿⣿
+⣿⣿⣷⡝⡎⡎⣕⢅⢧⢿⡽⣞⡾⢯⣟⣽⢽⡳⡏⡾⡱⢷⣧⡛⣬⣭⣷⣵⣫⢟⣞⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⢵⡹⡢⣃⣯⢯⡯⣷⢋⣟⠮⣞⣏⣪⣗⢕⢱⣫⣾⣇⠈⣿⣿⣿⣿⣿⢵⡫⣟⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⡽⣞⣦⢯⡯⣯⢣⣪⡆⠙⣿⣿⣿⣿⣷⣟⣿⣿⣿⡄⢸⣿⣿⣿⡿⡙⢷⢮⣎⣻⣿⣿
+⣿⣿⣿⣿⡿⡽⡋⡢⡿⣽⢣⢱⣿⣷⠀⠘⣿⣿⣿⣿⡿⣾⣟⡿⣿⣼⢿⣟⣿⠰⡑⡍⢯⢿⣿⣿⣿
+⣿⣿⣿⣿⣹⣼⡧⡱⡿⡝⢔⢹⣿⣿⣧⡀⣿⣿⡿⣻⣾⣿⣽⣟⣿⣺⣿⣽⡏⢎⣬⡊⡆⡻⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣇⣾⣯⣮⣼⣐⢍⢻⢻⣷⣽⣷⣟⢿⣻⣾⣺⣽⣯⣾⢿⢞⢜⠔⢼⣿⣷⣮⣿⣿⣿
+⣿⣿⣿⣿⣿⢿⣽⡷⣿⢾⣻⣿⢷⡡⡣⢫⢳⢿⣽⡿⣷⣟⣯⣿⡾⣻⡑⢽⣷⣧⣹⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣟⣿⣽⢿⣻⣿⣻⣽⣿⡇⢎⣮⡢⡣⡩⡝⣝⣭⣹⣲⣮⣿⣟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣚⣿⣽⣿⣻⣽⣿⣽⡾⣝⢶⣧⣻⣿⣿⣷⣿⣿⣟⣯⣿⣿⣽⣿⣷⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣷⣎⡕⡟⢯⢻⢺⢓⢝⢝⢼⣿⣷⣿⡷⣿⣿⣿⣿⣿⣿⣿⣷⡹⡝⣟⣿⣾⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣾⣾⣾⣾⣗⢵⢱⢿⢿⢟⢯⣚⣿⣿⣿⣿⣿⣿⣿⣿⢪⣾⢿⣿⢯⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣷⣿⣿⡪⡲⡵⣿⣿⣿⣿⣿⣿⣿⡽⣟⣿⣷⣻⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠫⣇⢯⣻⣿⣿⣿⣿⣿⣿⠛⣿⣯⢿⣻⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⡻⡐⠅⠀⠄⠄⢄⠡⢉⠛⡛⢋⢐⢈⢿⣾⢿⣻⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢽⢏⢇⣮⠀⠁⠌⠌⡐⠨⢐⠐⡠⢁⠢⢐⢨⣶⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⢯⢫⣾⣿⡇⠀⠨⠨⢐⠠⢑⠐⠨⢐⢐⠨⢐⠸⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⢷⢯⣳⣿⣿⡟⠀⢈⠨⠠⠡⠨⢐⠨⠨⢐⠠⠨⢐⠐⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣻⡽⣽⣿⣿⣿⠃⠠⠐⠨⢐⢁⢊⢐⠨⢐⢐⠨⢈⢐⢈⢻⣿⣿⣿⣿⣿⣿⣿
+⣿⣯⡿⣿⣿⣿⣿⡽⡗⣽⣿⣿⣿⡟⠀⠠⠨⠨⢐⠠⠂⠔⠨⢐⠠⠨⢐⠐⠠⢺⣿⣿⣿⣿⣿⣿⣿
+⣧⢓⢿⣝⣟⡯⡾⣛⣼⣿⣿⣿⣿⣧⡔⠀⠌⡐⡐⠨⢈⠌⡨⢐⠨⢈⢐⠨⢨⣶⣿⣿⣿⣿⣿⣿⣿
+⣿⣧⣇⣝⣚⣝⣼⣿⣿⣿⣿⣿⣿⣿⠀⠠⢀⣷⣶⣧⣦⣂⣂⣂⣬⡤⠀⡂⢼⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠀⠅⢸⣿⣿⣿⣿⣿⣿⣿⣿⡁⢐⠠⢈⠙⠻⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⢁⠨⠐⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⠂⠨⠐⡈⢙⢿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⢀⠂⠄⣡⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣄⠂⠐⡀⠢⣍⠻
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠃⡐⠠⢈⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣀⡁⠄⣂
+⣿⣿⣿⣿⣿⣿⣿⠋⠄⢌⠔⡁⢌⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣴⣈⣀⣁⣤⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+",1,0,6,0.6140351295471191,217
+411370,76561199203292357,dfghjk,1,0,1,0.5020747184753418,206
+411370,76561198739053977,game fye play it,1,0,0,0.5,249
+411370,76561199576856560,"Tava vendo as análises e achei isso aqui kk
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡔⣻⠁⠀⢀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢀⣾⠳⢶⣦⠤⣀⠀⠀⠀⠀⠀⠀⠀⣾⢀⡇⡴⠋⣀⠴⣊⣩⣤⠶⠞⢹⣄⠀⠀⠀
+⠀⠀⠀⠀⢸⠀⠀⢠⠈⠙⠢⣙⠲⢤⠤⠤⠀⠒⠳⡄⣿⢀⠾⠓⢋⠅⠛⠉⠉⠝⠀⠼⠀⠀⠀
+⠀⠀⠀⠀⢸⠀⢰⡀⠁⠀⠀⠈⠑⠦⡀⠀⠀⠀⠀⠈⠺⢿⣂⠀⠉⠐⠲⡤⣄⢉⠝⢸⠀⠀⠀
+⠀⠀⠀⠀⢸⠀⢀⡹⠆⠀⠀⠀⠀⡠⠃⠀⠀⠀⠀⠀⠀⠀⠉⠙⠲⣄⠀⠀⠙⣷⡄⢸⠀⠀⠀
+⠀⠀⠀⠀⢸⡀⠙⠂⢠⠀⠀⡠⠊⠀⠀⠀⠀⢠⠀⠀⠀⠀⠘⠄⠀⠀⠑⢦⣔⠀⢡⡸⠀⠀⠀
+⠀⠀⠀⠀⢀⣧⠀⢀⡧⣴⠯⡀⠀⠀⠀⠀⠀⡎⠀⠀⠀⠀⠀⢸⡠⠔⠈⠁⠙⡗⡤⣷⡀⠀⠀
+⠀⠀⠀⠀⡜⠈⠚⠁⣬⠓⠒⢼⠅⠀⠀⠀⣠⡇⠀⠀⠀⠀⠀⠀⣧⠀⠀⠀⡀⢹⠀⠸⡄⠀⠀
+⠀⠀⠀⡸⠀⠀⠀⠘⢸⢀⠐⢃⠀⠀⠀⡰⠋⡇⠀⠀⠀⢠⠀⠀⡿⣆⠀⠀⣧⡈⡇⠆⢻⠀⠀
+⠀⠀⢰⠃⠀⠀⢀⡇⠼⠉⠀⢸⡤⠤⣶⡖⠒⠺⢄⡀⢀⠎⡆⣸⣥⠬⠧⢴⣿⠉⠁⠸⡀⣇⠀
+⠀⠀⠇⠀⠀⠀⢸⠀⠀⠀⣰⠋⠀⢸⣿⣿⠀⠀⠀⠙⢧⡴⢹⣿⣿⠀⠀⠀⠈⣆⠀⠀⢧⢹⡄
+⠀⣸⠀⢠⠀⠀⢸⡀⠀⠀⢻⡀⠀⢸⣿⣿⠀⠀⠀⠀⡼⣇⢸⣿⣿⠀⠀⠀⢀⠏⠀⠀⢸⠀⠇
+⠀⠓⠈⢃⠀⠀⠀⡇⠀⠀⠀⣗⠦⣀⣿⡇⠀⣀⠤⠊⠀⠈⠺⢿⣃⣀⠤⠔⢸⠀⠀⠀⣼⠑⢼
+⠀⠀⠀⢸⡀⣀⣾⣷⡀⠀⢸⣯⣦⡀⠀⠀⠀⢇⣀⣀⠐⠦⣀⠘⠀⠀⢀⣰⣿⣄⠀⠀⡟⠀⠀
+⠀⠀⠀⠀⠛⠁⣿⣿⣧⠀⣿⣿⣿⣿⣦⣀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣴⣿⣿⡿⠈⠢⣼⡇⠀⠀
+⠀⠀⠀⠀⠀⠀⠈⠁⠈⠻⠈⢻⡿⠉⣿⠿⠛⡇⠒⠒⢲⠺⢿⣿⣿⠉⠻⡿⠁⠀⠀⠈⠁⠀⠀
+⢀⠤⠒⠦⡀⠀⠀⠀⠀⠀⠀⠀⢀⠞⠉⠆⠀⠀⠉⠉⠉⠀⠀⡝⣍⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⡎⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⡰⠋⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⢡⠈⢦⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⡇⠀⠀⠸⠁⠀⠀⠀⠀⢀⠜⠁⠀⠀⠀⡸⠀⠀⠀⠀⠀⠀⠀⠘⡄⠈⢳⡀⠀⠀⠀⠀⠀⠀⠀
+⡇⠀⠀⢠⠀⠀⠀⠀⠠⣯⣀⠀⠀⠀⡰⡇⠀⠀⠀⠀⠀⠀⠀⠀⢣⠀⢀⡦⠤⢄⡀⠀⠀⠀⠀
+⢱⡀⠀⠈⠳⢤⣠⠖⠋⠛⠛⢷⣄⢠⣷⠁⠀⠀⠀⠀⠀⠀⠀⠀⠘⡾⢳⠃⠀⠀⠘⢇⠀⠀⠀
+⠀⠙⢦⡀⠀⢠⠁⠀⠀⠀⠀⠀⠙⣿⣏⣀⠀⠀⠀⠀⠀⠀⠀⣀⣴⣧⡃⠀⠀⠀⠀⣸⠀⠀⠀
+⠀⠀⠀⠈⠉⢺⣄⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣗⣤⣀⣠⡾⠃⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠣⢅⡤⣀⣀⣠⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠉⠉⠉⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠁⠀⠉⣿⣿⣿⣿⣿⡿⠻⣿⣿⣿⣿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⠀⠀⠀⠀⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⣿⣿⣟⠀⠀⢠⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⠀⠀⢸⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⡏⠀⠀⢸⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⠀⠀⠀⢺⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠈⠉⠻⣿⣿⣿⠟⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣿⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",1,1,2,0.54356849193573,235
+411370,76561199112032318,peak anasını sikeyim,1,0,2,0.5454545617103577,210
+411370,76561199120547544,'ta bueno,1,0,0,0.5,144
+411370,76561199098985878,бураня,1,0,0,0.5,14
+411370,76561199476381872,"Если Tsukihime — это исповедь о смерти, крови и тонкой границе между человеком и чудовищем, то Melty Blood Actress Again Current Code — словно та же мрачная вселенная, но переведённая на язык стремительного 2D-файтинга. Здесь атмосфера Nasuverse никуда не исчезает: ночь всё так же тревожна, а персонажи по-прежнему несут в себе следы старых конфликтов. Но вместо долгих размышлений история раскрывается через удары, рывки и яростные воздушные дуэли.
+
+В эту игру входишь как в знакомый, но более жёсткий и динамичный срез мира TYPE-MOON, где каждый бой ощущается не просто матчем, а столкновением характеров. Misaki Town снова становится сценой для странных и опасных встреч, а возвращение кошмара TATARI придаёт всему происходящему нужную долю мрака и внутреннего напряжения.
+
+Главная сила Actress Again Current Code — в том, насколько глубоко она раскрывает боевую систему. Это не просто аниме-файтинг с красивыми спецэффектами, а игра, где один и тот же персонаж может ощущаться совершенно по-разному благодаря трём стилям Moon. Crescent, Full и Half Moon меняют темп, поведение и сам подход к поединку, поэтому поиск “своего” бойца превращается почти в отдельное приключение.
+
+Особенно запоминается чувство, когда после первых хаотичных боёв ты вдруг начинаешь понимать ритм игры. Всё, что казалось шумом из прыжков, атак и воздушных серий, внезапно складывается в точный рисунок, и бой начинает напоминать агрессивный танец, где каждая ошибка наказывается мгновенно.
+
+Если другие игры TYPE-MOON чаще предлагают читать и погружаться в сюжет, то Melty Blood Actress Again Current Code просит чувствовать и реагировать. В итоге это не просто файтинг, а яркий взрыв скорости, стиля и лунной мрачности, где каждое сражение выглядит как маленькая сцена из тёмного, красивого аниме.",1,0,2,0.523809552192688,1707
+411370,76561198880554082,Runs like sht,1,2,1,0.5,165
+411370,76561198935297658,ciel is hot and she makes me hard,1,2,13,0.6406458616256714,1490
+411370,76561198263002765,weebslop? nah...weebgem <3 this is an actual treasure of a FG,1,0,0,0.5,259
+411370,76561198009345212,"Probably one of THE core anime fighters you're going to see on the market.  Easy enough to get into but contains a huge depth of play for those that take the time.  I might not have many hours in this one, and you'll see a lot of people in the same vein.  
+
+Most who have played go back way farther than what your hours may suggest due to the community version that exists with rollback.  That is the one negative to give for this.  Most simply choose to buy this version to support French Bread but leave the actual gameplay for the rollback/community version instead.  Had they invested in rollback, I am pretty sure the numbers for current play would be far higher than double or triple digits, but I digress.  Fortunately, its successor is very well off in that respect but this one comes with a lot more characters and a far more fleshed out story mode, for those interested in single player content.  
+
+Even without that, the core gameplay of this, 1v1, is a lot of fun and certain worth the price of entry.  Sales of this happen often enough (this is currently five dollars) and I cannot think of a better fighting game to recommend at this price offhand.",1,0,0,0.5,202
+411370,76561199728365971,"buggy but its great in general, insane ost , good game mechanics and storyline. (like 75% recommend it)
+",1,0,1,0.5,197
+411370,76561199126790148,Однажды Киноко Насу ответит за все свои деяния,1,1,2,0.5258620381355286,183
+411370,76561198899797271,Kohaku is goat,1,0,0,0.5,131
+411370,76561199173025415,"⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⢀⡔⣻⠁⠀⢀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢀⣾⠳⢶⣦⠤⣀⠀⠀⠀⠀⠀⠀⠀⣾⢀⡇⡴⠋⣀⠴⣊⣩⣤⠶⠞⢹⣄⠀⠀⠀
+⠀⠀⠀⠀⢸⠀⠀⢠⠈⠙⠢⣙⠲⢤⠤⠤⠀⠒⠳⡄⣿⢀⠾⠓⢋⠅⠛⠉⠉⠝⠀⠼⠀⠀⠀
+⠀⠀⠀⠀⢸⠀⢰⡀⠁⠀⠀⠈⠑⠦⡀⠀⠀⠀⠀⠈⠺⢿⣂⠀⠉⠐⠲⡤⣄⢉⠝⢸⠀⠀⠀
+⠀⠀⠀⠀⢸⠀⢀⡹⠆⠀⠀⠀⠀⡠⠃⠀⠀⠀⠀⠀⠀⠀⠉⠙⠲⣄⠀⠀⠙⣷⡄⢸⠀⠀⠀
+⠀⠀⠀⠀⢸⡀⠙⠂⢠⠀⠀⡠⠊⠀⠀⠀⠀⢠⠀⠀⠀⠀⠘⠄⠀⠀⠑⢦⣔⠀⢡⡸⠀⠀⠀
+⠀⠀⠀⠀⢀⣧⠀⢀⡧⣴⠯⡀⠀⠀⠀⠀⠀⡎⠀⠀⠀⠀⠀⢸⡠⠔⠈⠁⠙⡗⡤⣷⡀⠀⠀
+⠀⠀⠀⠀⡜⠈⠚⠁⣬⠓⠒⢼⠅⠀⠀⠀⣠⡇⠀⠀⠀⠀⠀⠀⣧⠀⠀⠀⡀⢹⠀⠸⡄⠀⠀
+⠀⠀⠀⡸⠀⠀⠀⠘⢸⢀⠐⢃⠀⠀⠀⡰⠋⡇⠀⠀⠀⢠⠀⠀⡿⣆⠀⠀⣧⡈⡇⠆⢻⠀⠀
+⠀⠀⢰⠃⠀⠀⢀⡇⠼⠉⠀⢸⡤⠤⣶⡖⠒⠺⢄⡀⢀⠎⡆⣸⣥⠬⠧⢴⣿⠉⠸⡀⣇⠀
+⠀⠀⠇⠀⠀⠀⢸⠀⠀⠀⣰⠋⠀⢸⣿⣿⠀⠀⠀⠙⢧⡴⢹⣿⣿⠀⠀⠀⠈⣆⠀⠀⢧⢹⡄
+⠀⣸⠀⢠⠀⠀⢸⡀⠀⠀⢻⡀⠀⢸⣿⣿⠀⠀⠀⠀⡼⣇⢸⣿⣿⠀⠀⠀⢀⠏⠀⠀⢸⠀⠇
+⠀⠓⠈⢃⠀⠀⠀⡇⠀⠀⠀⣗⠦⣀⣿⡇⠀⣀⠤⠊⠀⠈⠺⢿⣃⣀⠤⠔⢸⠀⠀⠀⣼⠑⢼
+⠀⠀⠀⢸⡀⣀⣾⣷⡀⠀⢸⣯⣦⡀⠀⠀⠀⢇⣀⣀⠐⠦⣀⠘⠀⠀⢀⣰⣿⣄⠀⠀⡟⠀⠀
+⠀⠀⠀⠀⠛⠁⣿⣿⣧⠀⣿⣿⣿⣿⣦⣀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣴⣿⣿⡿⠈⠢⣼⡇⠀⠀
+⠀⠀⠀⠀⠀⠀⠈⠁⠈⠻⠈⢻⡿⠉⣿⠿⠛⡇⠒⠒⢲⠺⢿⣿⣿⠉⠻⡿⠁⠀⠀⠈⠁⠀⠀
+⢀⠤⠒⠦⡀⠀⠀⠀⠀⠀⠀⠀⢀⠞⠉⠆⠀⠀⠉⠉⠉⠀⠀⡝⣍⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⡎⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⡰⠋⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⢡⠈⢦⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⡇⠀⠀⠸⠁⠀⠀⠀⠀⢀⠜⠁⠀⠀⠀⡸⠀⠀⠀⠀⠀⠀⠀⠘⡄⠈⢳⡀⠀⠀⠀⠀⠀⠀⠀
+⡇⠀⠀⢠⠀⠀⠀⠀⠠⣯⣀⠀⠀⠀⡰⡇⠀⠀⠀⠀⠀⠀⠀⠀⢣⠀⢀⡦⠤⢄⡀⠀⠀⠀⠀
+⢱⡀⠀⠈⠳⢤⣠⠖⠋⠛⠛⢷⣄⢠⣷⠁⠀⠀⠀⠀⠀⠀⠀⠀⠘⡾⢳⠃⠀⠘⢇⠀⠀⠀
+⠀⠙⢦⡀⠀⢠⠁⠀⠀⠀⠀⠀⠙⣿⣏⣀⠀⠀⠀⠀⠀⠀⠀⣀⣴⣧⡃⠀⠀⠀ ⠀⣸⠀⠀⠀
+⠀⠀⠀⠈⠉⢺⣄⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣗⣤⣀⣠⡾⠃⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠣⢅⡤⣀⣀⣠⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠉⠉⠉⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠁⠀⠉⣿⣿⣿⣿⣿⡿⠻⣿⣿⣿⣿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⠀⠀⠀⠀⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⣿⣿⣟⠀⠀⢠⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⠀⠀⢸⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⡏⠀⠀⢸⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⠀⠀⠀⢺⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠈⠉⠻⣿⣿⣿⠟⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣿⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀
+",1,5,12,0.6840593218803406,117
+411370,76561199045811653,Shiki Ryougi :),1,0,3,0.5652173757553101,53
+411370,76561199336700961,"rise of the cat people
+glory to neco-arc",1,1,0,0.5,104
+411370,76561198797623468,Бурение,1,1,1,0.5,176
+411370,76561199827917912,"好玩的但是没有中文
+",1,0,0,0.5,456
+411370,76561198198631886,"честно говоря, купил эту игру только ради Neco Arc...",1,1,8,0.6321409940719604,145
+411370,76561199635077495,"The game may be old, but it's the best fighting game I've played so far.",1,0,4,0.5656176209449768,1787
+411370,76561199377148141,"I'm not usually into fighting games, but MBAACC is so fun to play both in casual and competitive level that I got invested. Community version is better than this one tho cuz it's has a wider player base. Kohaku and Hisui mis viejas",1,0,1,0.5153061151504517,404
+411370,76561199696978076,"no players to play against, matched against the same Russian guy 11 times, didn't lose once
+though the fighting mechanics are good so only recommend it to play with your friends and nothing other than that..
+also has Neco arc lol 
+7.5/10 would play more if there were players to play against",0,4,2,0.4928097128868103,761
+411370,76561198914033448,"Jogo muito bom, recomendo para aqueles que suportam uma curva de aprendizagem. add if you are playing the game i need to play some matches",1,0,1,0.523809552192688,3722
+411370,76561198417368366,"GREAT
+",1,0,1,0.5138888955116272,3129
+411370,76561199060821823,Ryougi Shiki.,1,0,0,0.5,1298
+411370,76561199547753377,Chair,1,0,2,0.5319148898124695,1971
+411370,76561199445755980,this chair.,1,0,2,0.52173912525177,1134
+411370,76561198299543421,LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN LEN,1,1,1,0.523809552192688,451
+411370,76561199087364629,всё ради смайлов с неко арком,1,0,0,0.5,1451
+411370,76561199236853687,Es excelente pero seria bueno una remasterisación de los personajes.,1,0,0,0.5,309
+411370,76561199232934992,whether ur a fighting game fan or a type moon fan i certainly recommend this its very fun both in story aswell as in in everything the game has to offer im still learning whats all possible with the characters it never gets old,1,0,1,0.5138888955116272,1704
+411370,76561198411590156,Why do people like this?,0,4,0,0.4254039227962494,172
+411370,76561198999418975,Aozaki Aoko/10,1,0,4,0.5651269555091858,536
+411370,76561198136146812,"對我來講這作品最出色的地方在於他的音樂 
+不管是最開始的 MELTY BLOOD 又或著本作的 Blood Drain
+兩首主題曲雖然完全不相同卻又很好的呈現了本作的氛圍
+當然! 遊戲內的場地音樂也都皆上乘之作 總是會讓我在某處聽到時又想起遊玩本作的時光
+如果是型月粉絲 或者說 原作月姬粉絲的話是非常推薦入手的
+相當於一片大型fan disk 雖然有著舊作的劇情要自己上網找 以及已經可以對後續劇情放棄希望這些缺點
+但買一片放在收藏庫裡偶爾打開看看裡面自己曾經熟悉的角色 聽著音樂去懷念當年坐在電腦前的自己也是不錯的選擇
+
+但我來給這遊戲好評單純是因為我給不了快打六兩次差評
+",1,0,1,0.52173912525177,6640
+411370,76561199202133947,"My only and truly reason to buy this game was because of Neco -arc, it's so silly and funny, give it a chance XDD",1,1,4,0.5324727892875671,15
+411370,76561199486256732,"Зашёл, подрочил на некоарк,вышел",1,3,7,0.6006017327308655,42
+411370,76561199023040024,콤보가 매우 어려워요,1,0,0,0.5,11101
+411370,76561199005849747,kohaku my beloved,1,0,4,0.5510203838348389,3019
+411370,76561199070939852,I love the old school fighting games!!,1,0,0,0.5,3165
+411370,76561199541864294,"Pretty good game. This version is playable, though the game crashes whenever I tab out unlike the community edition. The game itself is peak",1,0,0,0.5,542
+411370,76561199869938529,你要想买，我的差评也不会影响到你；你要不感兴趣，那大概也看不到这篇测评,0,0,2,0.4745020568370819,929
+411370,76561199237196060,yes.,1,0,0,0.5,243
+411370,76561199666594582,Burunyuu,1,0,0,0.5,185
+411370,76561198397314356,"queria dedicar essa minha análise da steam pra falar que meu amigo Dial rouba nesse jogo, esse desgraçado sempre vira o Deus do jogo quando ta quase perdendo",1,4,2,0.5454545617103577,479
+411370,76561199200870654,кал,1,0,0,0.48245614767074585,171
+411370,76561198971232974,esta funny,1,0,0,0.5,214
+411370,76561199082659799,i bought this for the points shop,1,0,3,0.5089285969734192,216
+411370,76561198071417714,"PEAK fighting game that also runs great on the Steam Deck (with the correct Proton version). In my opinion, Melty Blood is a game that's easy to pick up but hard to master. If you have never played Melty Blood before, it's a fighting game with 31 characters from the visual novel Tsukihime and anime/novel Kara no Kyoukai (Garden of Sinners). Takashi Takeuchi's classic older art style is on full display here and the TYPE-MOON team always has great soundtracks.
+
+This is a must have for any TYPE-MOON or fighting game fan.
+As for TYPE-MOON, please bring the Tsukihime remake to Steam!
+
+10/10 - The Blood is indeed very Melty. Now excuse me while I go argue with someone about power scaling and the intricacies of TYPE-MOON lore...
+",1,0,6,0.5862800478935242,436
+411370,76561199497691697,[eqyz,1,0,0,0.4761904776096344,416
+411370,76561199053045789,适配不尽如人意，月p收藏品,1,0,0,0.5,247
+411370,76561199013663722,É top.,1,0,0,0.5,136
+411370,76561199579316834,可以玩到紫苑，还可以玩到希翁，还可以玩到Sion，非常棒,1,1,0,0.5,2326
+411370,76561199123026838,хехехе,1,0,0,0.5,782
+411370,76561198877731159,:steamhappy:,1,0,1,0.5175438523292542,661
+411370,76561198041730488,"[h1]🎮 Reseña de Melty Blood Actress Again Current Code[/h1]
+
+[h2]Resumen del Juego[/h2]
+Melty Blood Actress Again Current Code es ese juego de [b]Acción[/b] que te mira a los ojos y te dice: “¿Te sabes mover o solo vienes a apretar botones con fe?”. Es un fighter 2D rapidísimo, lleno de saltos, presión constante y castigos tan violentos que tu orgullo va a pedir respawn.
+
+La primera impresión es clara: [b]esto no viene a consentirte[/b]. Se siente como un club secreto de gente que habla en términos como “confirm”, “neutral” y “okizeme” mientras tú intentas recordar qué botón era el de “no morir”. Y sí, tiene multijugador y JcJ online… pero con [b]12 jugadores actuales[/b], a veces el verdadero jefe final es encontrar a otro ser humano.
+
+[h2][Lo Rico y lo “¿Quién Diseñó Esto?”][/h2]
+
+Lo Bueno:
+✅ 🥊 [b]Jugabilidad veloz y técnica[/b]: el tipo de Acción que premia reflejos, lectura y manos firmes.  
+✅ 🎮 [b]Compatibilidad total con mando[/b]: porque este juego exige dignidad, no teclado sufriente.  
+✅ 🏆 [b]53 logros de Steam[/b]: para que tu sufrimiento tenga medallas y tu terapeuta tenga contexto.  
+✅ 🌐 [b]Online + tablas de clasificación[/b]: perfecto para que te humillen con ranking oficial.  
+✅ 🧩 [b]Remote Play Together[/b]: excelente para perder amistades sin que el otro tenga el juego.
+
+Lo No Tan Bueno:
+❌ 🧍‍♂️ [b]Comunidad pequeña ahora mismo (12 jugadores)[/b]: el matchmaking puede sentirse como pescar en una taza.  
+❌ 🧠 [b]Curva de aprendizaje alta[/b]: si vienes por “pegar bonito”, te vas a quedar por “¿por qué me borraron del mapa?”.  
+❌ 🥀 [b]No es el típico juego “moderno”[/b]: si esperas comodidades actuales por defecto, aquí te reciben con “aprende o perece”.  
+❌ 🧩 [b]El online depende de encontrar o coordinar gente[/b]: a veces el mejor modo multijugador es tener amigos… qué concepto tan anticuado.
+
+[h2]Tabla de Evaluación[/h2]
+[table]
+[tr][th]Aspecto[/th][th]Puntuación (0-10)[/th][th]Comentario[/th][/tr]
+[tr][td]Jugabilidad[/td][td]9[/td][td]Rápida, técnica y satisfactoria; castiga errores sin piedad.[/td][/tr]
+[tr][td]Dificultad / IA[/td][td]7[/td][td]Exigente; el juego te entrena a la mala.[/td][/tr]
+[tr][td]Contenido[/td][td]7[/td][td]Suficiente para dominar y rejugar, pero brilla más en versus.[/td][/tr]
+[tr][td]Gráficos / Video[/td][td]7[/td][td]Estilo 2D clásico: cumple y tiene encanto, no presume.[/td][/tr]
+[tr][td]Historia[/td][td]6[/td][td]Está ahí; la mayoría viene por los golpes, no por la novela.[/td][/tr]
+[tr][td]Ambientación[/td][td]7[/td][td]Vibra anime oscura/extraña; muy de culto.[/td][/tr]
+[tr][td]Efectos (VFX)[/td][td]7[/td][td]Impacto claro y vistoso sin saturar demasiado.[/td][/tr]
+[tr][td]Música[/td][td]7[/td][td]Acompaña bien el ritmo; funcional para el caos competitivo.[/td][/tr]
+[tr][td]Voces[/td][td]6[/td][td]Cumplen, pero no son el gancho principal.[/td][/tr]
+[tr][td]Diversidad[/td][td]6[/td][td]Variedad suficiente para estilos, aunque es un nicho marcado.[/td][/tr]
+[tr][td]Rendimiento[/td][td]8[/td][td]Ligero y estable en general; ideal para partidas constantes.[/td][/tr]
+[tr][td]Rejugabilidad[/td][td]8[/td][td]Altísima si te importa mejorar y jugar vs humanos.[/td][/tr]
+[tr][td][b]Total Puntuaciones ([Excelente])[/b][/td][td][b]7.1[/b][/td][td]Gran fighter de culto: mejor con comunidad, brutal sin ella.[/td][/tr]
+[/table]
+
+[h2]Conclusión ([Muy Bueno])[/h2]
+Melty Blood Actress Again Current Code es [b]Acción competitiva pura[/b]: rápido, técnico y con ese sabor de “si pierdes es tu culpa”. No te vende fantasías: te da herramientas, te exige precisión y luego se ríe cuando intentas escapar de un combo que ya estaba escrito en tu destino.
+
+La controversia está servida: [b]es excelente juego, pero no es “cómodo”[/b]. Con [b]12 jugadores actuales[/b], el online puede sentirse como buscar vida inteligente en un servidor vacío. Aun así, las [b]3731 recomendaciones[/b] no salen de la nada: este título tiene mérito real, especialmente si te gusta entrenar, mejorar y vivir del versus (o si tienes amigos para Remote Play Together y ganas de discutir).
+
+[h3]Recomendación de Compra ([Recomendado para fans del género])[/h3]
+
+Puntuación Total: 7.1/10
+Número de jugadores activos al momento de hacer esta review: 12
+Descuento máximo registrado: N/A
+Veredicto: [i]Muy Bueno: un clásico de nicho que brilla cuando hay gente (y paciencia) para jugarlo.[/i]
+
+Si quieres un fighter de Acción con identidad, velocidad y profundidad, aquí hay oro. Si lo tuyo es entrar, ganar sin estudiar y sentirte protagonista… mejor busca algo más “amable”, porque Melty Blood no te va a aplaudir: te va a perfeccionar a golpes.",1,0,1,0.5,123
+411370,76561199406958434,I only got it for the Neko-Arc emotes,1,1,3,0.5147058367729187,130
+411370,76561199058745075,"====(( Графика ))====
+☐Real Life
+☐ Красиво
+☐ Хорошо
+☑️ Пойдет
+☐ Плохо
+☐ Кровь из глаз
+
+====(( Геймплей ))====
+☐ Не заскучаете
+☑️ Хорошо
+☐ Пойдет
+☐ Не очень
+☐ В тетрис веселее играть
+
+====(( Музыка ))====
+☐ Оргазм для ушей
+☑️ Отлично
+☐ Хорошо
+☐ Пойдет
+☐ Плохо
+☐ Её как будто и нет
+
+====(( Сложность ))====
+☐ Лёгкая пробежка
+☑️ Нормально
+☐ Баланс
+☐ Сложно
+☐ Разбил клавиатуру
+
+====(( Сюжет [основной] ))====
+☐ Один на миллион
+☑️ Хороший
+☐ Пойдет
+☐ Не очень интересный
+☐ Он тут вообще есть?
+
+====(( Сюжет [побочки] ))====
+☐ Каждый как основной
+☐ Хорошие
+☐ Пойдет
+☐ Не очень интересные
+☐ Подай, убей, отнеси
+☑️ Отсутствуют
+
+====(( Длительность ))====
+☑️ Часов от 2 до 10
+☐ Часов от 10 до 20
+☐ Часов от 20 до 40
+☐ Часов от 40 до 60
+☐ Часов от 60 до 80
+☐ Часов от 80 до 100
+☐ Часов от 100+
+[Для 100% надо - 10-20 часов]
+
+====(( Баги/Вылеты ))====
+☐ Баги? Вылеты? Не, не слышал
+☐ Совсем немного
+☑️ Бывают когда как
+☐ Приличное количество
+☐ Симулятор неисправного кода
+
+====(( Сетевая игра ))====
+☐ Отсутствует 
+☑️ Онлайн мёртвый
+☐ Вроде кто то есть, но не так много
+☐ Ещё играют
+☐ Без проблем можно найти людей
+
+====(( Достижения ))====
+☐ Отсутствуют
+☐ Очень лёгкие
+☐ Довольно лёгкие
+☐ Проходимо
+☑️ Душновато и сложно
+☐ Тильт
+☐ КАКОЙ МУ*АК ЭТИ ДОСТИЖЕНИЯ ДЕЛАЛ???!
+
+====(( Оценка ))====
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☑️ 6
+☐ 7
+☐ 8
+☐ 9
+☐ 10",1,0,0,0.47486037015914917,1010
+411370,76561198152586739,Melty Blood Type Lumina интереснее.,0,1,0,0.4761904776096344,196
+411370,76561199498689110,game mad fun will post good gameplay on tiktok and youtube once i get good . @supaperc on all plats,1,0,0,0.4761904776096344,367
+411370,76561198363014921,👍,1,0,0,0.5,31
+411370,76561199434939806,"오모시로이,,, 후후,,
+",1,0,0,0.5,533
+411370,76561199155378408,I freaking love to kick people in the gut,1,0,5,0.5875925421714783,3756
+411370,76561198029674593,Peak Kusoge!,1,0,0,0.49180325865745544,129
+411370,76561199859207957,под пивас заебок,1,1,0,0.5,38
+411370,76561199163760266,"i highly recommend the game, consider playing the top tier neco-arc if you're a beginner she's the best character",1,2,10,0.6134368181228638,848
+411370,76561199744511587,Una joyita 10/10,1,0,2,0.54356849193573,1736
+411370,76561199201866694,Sigma Game!,1,0,0,0.5,286
+411370,76561199322887725,it's like the game with the funny internet cat!,1,0,5,0.5356305241584778,964
+411370,76561199104272428,"[h1]遊ばせる気が感じられない[/h1]
+操作説明なし、言語設定が日本語なのに項目は英語固定、フォーカス外したらフリーズ",0,1,0,0.4761904776096344,5
+411370,76561199834710277,"Неко арк смешная а как рулить тут хз
+",1,2,6,0.5940959453582764,267
+411370,76561199074171181,мне дали пизды,1,0,1,0.5,16
+411370,76561199814299033,"I won't lie, this is my favorite fighting game, as someone who has played many fighting games throughout the years. The lore, the OST, are amazing, in my opinion. One of the most fun and difficult, fighting games I played. (I suck.,.)
+
+The gameplay is fast paced, with a huge learning curve, many characters with their own unique moveset, and different 3 different play styles to choose from, for each character. 
+
+I highly recommend you look at a Wiki page, for this specific character you want to play as, and how to play with the moon style/play style you set as. If you're a fan of ""Tsukihime"" (original), ""Kagetsu Tohya"", or a fighting game lover. This might be the game for you.
+
+For those familiar with UNIB (Exe:Latest, cl-r, UNI2), the composer for that game, also composed for Melty Blood Actress Again Current Code. (And you notice Sion Eltnam Atlasia/Eltnam, obviously.)
+
+If you want to give it a try, go for it, but I highly recommend you learn how to play the game. It's not only insanely fast, it can also be difficult with learning different characters, and what playstyle you choose for them, unlike ""most"" fighting games. Saying this as a fighting game lover for years, who sucks at the game.
+
+it will take a lot of getting used to. The wiki page I mentioned to look at how to play each character, and what playstyle you gave them, will be a life saver, if you're a beginner. 
+
+The Steam version is nice for offline play, local, and with friends online. (If they have it). I highly recommend you download the community version of Melty Blood Actress Again, if you prefer to play the game online, and have no friends to play with.
+
+Update: My apologies if my grammar was off, or this didn't make any sense. It's like 1:28 am, and I'm tired as hell...lol...",1,0,0,0.5,1852
+411370,76561199435922822,This chair this chair this chair this chair this chair this chair  this chair this chair this chair this chair this chair this chair this chair,1,0,2,0.5454545617103577,306
+411370,76561199207234414,its good or something,1,2,1,0.523809552192688,760
+411370,76561199692434023,"멀티 들어가면 고인물 천지임 ㅇㅅㅇ 멀티들어가면 유비들은 그저 속수무책으로 당할것임 ㅇㅂㅇ 
+고인물들이 아니면 멀티는 ㄴㄴ 친구들이 있으면 멀티 신청하고 같이 하면 될듯 
+친구 있으신분들은 게임 선물해주고 같이 해보시길 단 랜킹매치는 절대 실력자들 아니면 왠만하면 들어가지 마세요 고인물들이 유비분들을 17둥분으로 토막내주실거임 ㅇㅇ",1,0,0,0.5,175

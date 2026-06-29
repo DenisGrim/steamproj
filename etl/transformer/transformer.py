@@ -5,8 +5,7 @@ import os
 import pandas as pd
 import loader as l
 from encoder import embed_text, embed_batch, log_vram
-import tracemalloc
-
+import psycopg2
 
 
 class Handler(FileSystemEventHandler):
@@ -18,37 +17,36 @@ class Handler(FileSystemEventHandler):
     def on_moved(self, event):
     """
     def __init__(self):
-        tracemalloc.start()
         # remember all files it handles
         self.processed = set([])
         self.batch = {}
-        self._snapshot = tracemalloc.take_snapshot()
 
     def on_closed(self, event):
         if event.src_path.endswith("reviews.csv"):
-            if event.src_path in self.processed:
-                return
             file = event.src_path
-            print("ready: ", file)
-            df = pd.read_csv(file)
-            self.append_review_length(df, file)
-            self.convert_recommend(df, file)
-
-            l.db_copy_reviews(file)
-            self.add_embed_to_game(df)
+            try:
+                process_file(file)
+            except psycopg2.Error as e:
+                 print(f"Skipping {file}: {e}")
+                 with open("/errorfiles.txt", "a") as f:
+                     f.write(file)
+                 conn.rollback()
             # TODO: os.remove(file)
             # move instead of delete for now
             os.rename(file, "/mydata/del/" + file.lstrip("/mydata/"))
             self.processed.add(file)
 
-            # TODO: this just writes into root directory rn, prob shouldnt always
-            with open("/transformerlogs.txt", "a") as f:
-                 snap2 = tracemalloc.take_snapshot()
-                 top_stats = snap2.compare_to(self._snapshot, 'lineno')
-                 f.write("[ top 10 diffs ]\n")
-                 for stat in top_stats[:10]:
-                     f.write(str(stat) + "\n")
-                 self._snapshot = snap2
+
+    def process_file(file):
+       if event.src_path in self.processed:
+           return
+       print("ready: ", file)
+       df = pd.read_csv(file)
+       self.append_review_length(df, file)
+       self.convert_recommend(df, file)
+
+       l.db_copy_reviews(file)
+       self.add_embed_to_game(df)
 
 
     def append_review_length(self, df, file):

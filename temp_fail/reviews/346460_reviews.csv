@@ -1,0 +1,411 @@
+app_id,user_id,review,does_recommend,funny,helpful,weight,playtime_at_review
+346460,76561198067372301,"Almost 10 years and it's still pretty much my favorite game in VR. Hover racing but with real physics sim (not arcade controls) and racing over a real landscape is something I haven't found anywhere else, though I really wish there were more games like this! I would love a DLC or sequel with additional tracks and environments. We might have to leave mars to do it, but racing through a forest and/or a city would be really cool. Mapping the controls to a HOTAS with the throttle set to the Bias control makes it the most active game to move the throttle around, which is really fun. Ugh I just love this game.",1,0,0,0.5,1819
+346460,76561197982000984,dogwater abandonware,0,0,0,0.5,10
+346460,76561199746996678,"Awesome game.. bit of a shame that there is only a small following. Not seen anything like it. Could have some improvement in control mappings but nothing major. Have to say im a bit addicted to it. From the workshop to the racetrack. Great concept, great idea, great physics, great execution. Love it!",1,0,0,0.5,1929
+346460,76561197971508249,"This game is clunky, unintuitive, frustrating, and unfair. It is also one of the best racers I've ever played, and definitely the best in the anti-gravity racing genre.
+
+When I say ""anti-gravity racing"", it's possible that you might think of games like wipeout, redout, pacer, f-zero, ballisticNG and the like. This is a pretty unfair comparison... for those other games. You see, while most of these racing games are just essentially faster, driftier variations of car racers with maybe some pitch control gimmick, Vector 36 goes all the way in the opposite direction, going for a simmy, incredibly complex experience more akin to [i]very[/i] low flying spacecraft. Forget about crazy loop-de-looping flat tracks, you are now ripping ass through the uneven, craggy Martian circuits these hovercraft were designed for. There are no split-second, twitchy turns or shield management, instead you will be maneuvering your incredibly fast low-altitude missile through tracks via momentum, strategy, systems management, and physics. In a sense, this is the rallycross of its genre, if rally cars were able to fly at 500+ kmh.
+
+It's not only the fact that you can basically trim your power to lift ratio on the go, or that you will need to make full use of rudder, roll and pitch to keep your craft precariously skimming past outcrops and obstacles, but you can also purchase, swap, install and fine tune the placement and orientation of all the components in your ship, which in turn will also affect its behavior, center of mass, thrust pitch and performance. As you climb the ranks you are perfectly able to simply race on the stock configurations of your ships, but if you [i]really[/i] want to get your hands dirty, prepare to spend hours upon hours just fine tuning your components on your garage and test runs to push your designs to their limit. Not only does V36 manage to offer a very unique experience, its complexity and granularity would already stand out even if the rest of the games in the space managed to come close to it. 
+
+With that complexity, however, comes a good deal of frustration. The game has a pretty in-depth tutorial that tries its damn best to get you used to all aspects of controlling and building your craft, and the player is given a reasonable amount of tools to gauge how their design will run, however, it will be up to the player to learn and understand the whats and whys of everything that goes into a vehicle. This means that, if you really want to become proficient at the game, you will need to spend more time than one would prefer [i]ever so slightly[/i] tweaking a value, and doing a test run to see these changes in action. It's not like DIRT, where you are told in more or less certain terms what increasing your wheel camber will do, moving a repulsor slightly backward and outside, for example, will not only affect the lateral control of your ship but also the lift on that section, which also can alter your pitch, which can also alter its center of thrust, and this butterfly effect can end up in very frustrating moments where you're trying to improve your design, but end up making it worse. It's simply very hard to gauge total performance in the garage, and the process doesn't usually matter too much because, outside of category restrictions, buying a new craft tends to just be a net positive anyway. But when you pull off a modification and it works, it really feels awesome.
+
+The amount of content in the game is alright. There are quite a few circuits to be run under different conditions, featuring jumps, craggy technical sections, tight caves and wide open desert runs, spanning over several formats of tournament which will reward money to be used to purchase new parts and ships. I don't have much complaint in regards to the variety offered, but I would be remiss to not kinda wish for more intermediate parts and vehicles to mess around with. For all the mind boggling variety of construction that the game allows, the 5 stock skimmers feel a bit bland and tinkering with a design, as I pointed out, tends to be more of a frustrating waste of time than it should, so it feels like a lot of its mechanical depth is locked behind this often obtuse facet. There are some custom skimmers available for purchase on the shop, but it would have been dope if you could win or buy templates from your rivals, or get them from other players in the workshop.
+
+Vector 36 also has VR support. And honestly, it feels incredible. When it works. The sense of speed and scale is really well done and I'll be honest, I kinda can't go back to pancake mode now having tried it in VR. But the game can get super stuttery when even relatively small amounts of models are on screen, terrain does tear quite a bit on your peripheral vision, and it's generally just not pleasing to play. I stopped my last session over 2 hours ago, and my eyes still kinda hurt since, not to mention the queasiness. I have played a good bunch of VR games, so something's definitely wrong here. In addition to that, and while it makes a valiant effort to integrate VR controllers into experience, the motion controls are really uncomfortable and imprecise to use, although fortunately, you can just disable them and use either a joystick or a controller to play. 
+
+EDIT: Having played it a couple more sessions, I would say you can actually play it for a good deal of time in one sitting, but you will probably need a day or two to get used to it.
+
+VR aside however, the game does also have some weird technical quirks, like locking into a sound output and simply not playing any music or sounds when selecting a different one on windows, its lack of video options beyond a few simple selectors for resolution and general video effects. and its graphical performance isn't exactly great, even in pancake mode. The sense of speed is great and everything is really well modeled and thought out, although even for 2018 standards, the textures and effects already felt kind of cheap, but this is the small price to pay for the niche, complex and uncompromising uniqueness of small team indie developers that would otherwise not be possible when considering the ""safer"" alternatives released prior or since. I was surprised to see that the developers have kept support up with updates dating as recently as 2023, which is an incredible amount of commitment and dedication that must be mentioned.
+
+The racing itself is really fun, and the AI will sometimes derp out, but you'll see opponents crash, lose components (oh yeah, there's an in-depth individual component damage system, did I mention that?) and nursing their damaged skimmers to pit for repairs and refuel. Likewise, if you mess up, you might need to hang in there with a repair, or even retire for that race and hope to do better down the championship.
+
+Also the music slaps and the menu theme will live rent free in your head.
+
+Overall, it really is a shame that V36 did not make the splash it should have among its target demographic, because it really is a truly groundbreaking videogame, with very solid fundamentals and a mind boggling amount of complexity and nuance, despite sometimes failing to fully accomodate the player into its more advanced features. It is also a shame that its VR mode is physically unpleasant to play for more than a race or two, as even today there is nothing else like it on the genre and with just a little more outreach I am sure would have managed to grow one of those cult followings that persist through the ages. All in all, it is a bit of a diamond in the rough, and a definitely unique racing game that deserves to be experienced.
+
+8/10.",1,0,16,0.7077952027320862,2827
+346460,76561198846965994,YO THIS ♥♥♥♥ IS TIGHT! TAKES A WHILE TO GETS MY HOTAS RIGHT BUT THEN ITS FUN AS HELL,1,0,1,0.478723406791687,196
+346460,76561199439480543,"VR用户别买。
+自己看看VR的视角定在哪儿吧，根本进不了驾驶舱，也没有任何可以校准的入口。",0,0,0,0.5,10
+346460,76561198059814826,"It was interesting, i would like a sequel, feels a bit dated, still fun if you get it cheap, not worth buying a dead multiplayer game tho for most lol, like how the game description has skimmer,tracks,etc.  updates as a feature and there were none",0,0,6,0.5948877334594727,36
+346460,76561198065561053,This game has killed two of my PSUs.,1,0,5,0.5507559180259705,828
+346460,76561198394336550,"I don't know what the hell I was on when I initially tried this and left a poor review - maybe something was off with my VR controls, but after the dev responded to my initial dismissal I felt compelled to give the game a second chance and I'm glad I did. It's pretty good, actually, provides a good ""edge of control"" feeling to games like Dirt Rally or perhaps, more relevantly, BallisticNG.",1,0,7,0.6226522922515869,22
+346460,76561198072431491,"Its good, but I hope they will improve the VR controls to be a bit more responsive, sometimes I need to lean really far forward to accelerate with my pico controller which is quite annoying.",0,0,0,0.5047618746757507,618
+346460,76561198009788028,Come simulatore di corse spaziali è validissimo,1,0,0,0.5,230
+346460,76561198097423229,"Be prepared for a learning curve, I feel a lot of these negative reviews are from impatient players who refused to go through the tutorial or didn't take seriously the need to learn a new gameplay style.
+There's nothing else quite like this game- it's one of those ""one of a kind"" kinds of things. 
+
+If if looks interesting to you at all, get it. 
+this is the sort of game that has the potential to become a cherished part of your library for decades.",1,0,1,0.5,1073
+346460,76561198944505333,"Управління дуже складне, але від того і цікаво. Ну і музика в цій грі просто ідеальна!",1,0,1,0.5230607986450195,106
+346460,76561198007241058,"Not without it's flaws for sure but still one of the absolutely best games I have ever played!
+I have 53hr on record and having just upgraded my setup to VR+HOTAS I see a few more in the future.
+Physics are one of the most rewarding around. Nuanced control. With 6dof. Your lift and forward thrust are combined however, so less lift equals faster propulsion. This creates a fantastic balancing act while racing. Only complimented by the ludicrously free customisation. 
+Truly deep and rewarding game. MUST BUY!",1,0,5,0.5752212405204773,3210
+346460,76561198023427739,"Bad Ass! Seriously could use some TLC at the garage for placing things more precisely but, an absolute BAD ASS game.",1,0,1,0.5,381
+346460,76561198117586604,SUPER FUN !!! VR IS AWESOME!!!,1,0,1,0.5,981
+346460,76561198004846753,"This is an immersive VR sci-fi racing experience, I'm hooked!! I haven't even began to tinker with my skimmer yet, I've gone in to practice mode to get comfortable with the controls and flight experience and can already tell this game will be joy to master. It's easy to keep the skimmer in the air but that's not the point of racing these skimmers it's all about maintaining high-speed at low altitude and that's a rewarding experience. 
+
+My setup is Valve Index, Flight Stick and Pedals. On a RTX 3090 i'm maintaining 90 fps around 98% of the time.",1,0,1,0.5,236
+346460,76561198085508021,I dont have VR just a potato PC. This game is a dream come true.,1,0,1,0.5,284
+346460,76561198242933822,"this game has potential.  It is cool.  But the fact that I can't change vr controls is ridiculous.  Especially when I'm trying to go forward and my arthritis kicks in.  Until I have the option to allow throttle on buttons, I can't recommend this game.",0,1,8,0.6141982674598694,18
+346460,76561198161180100,good ♥♥♥♥,1,0,0,0.5,972
+346460,76561198042238818,"This feels a bit like Kerbal Space Program turned into a VR racing game. It does have a rather steep learning curve - the editor is quite in depth and things like weight distribution, thrust vectors, and all that stuff matters. It gives you a lot of freedom to customize your craft, but unless it's done well you'll just nosedive into the ground.
+
+Once you're in the game, you're probably best off doing the tutorial and then going back out into the main menu. There you'll find ""instant"" races at the top of the menu. These don't cost you money when you crash, they give you a stock craft better than your career mode starter one, and they let you choose a difficulty level (Hard seems to be about where the career races sit). You can do these a few times (I farmed medium a bit) to practice and you also gain a small amount of money to use in career mode. That'll let you buy a better craft to use there (the next step up from the starter is the one you get in the instant races).
+
+Just don't play with the VR motion controls. They're really hard to use. A controller works well for me, but a HOTAS setup would probably also get the job done.",1,0,1,0.5,455
+346460,76561197996696789,Good premise undermined by terrible UI and obtuse technical settings for modifying ship. Very difficult to get into game and actually play. Lack of support.,0,0,1,0.47177714109420776,164
+346460,76561198160144592,"[i]I can't comment on gameplay because I couldn't even get that far.[/i]
+
+Control bindings for my X-55 are completely broken. The throttle axis also triggers the X-Axis on the stick and vice versa.
+VR controllers are about 7inches off centered, but you can disable them.
+VR centering keeps resetting improperly by itself, and sometimes gets off-set by some random amount so in order to center again I have to look away and guess.
+Mouse sensitivity (at least in VR) is [i]way[/i] off. 0% on the slider is slow but usable, 1 tick up is ridiculously fast.
+
+Maybe in the future it will be fixed, or maybe it'll work for you.
+It's good that steam has an amazing return policy.",0,0,1,0.47843530774116516,39
+346460,76561198085910718,This game is amazing and needs more attention! This is the only game like this i have ever played and so far I am 100% satisfied with the entire concept of it.,1,0,1,0.5,477
+346460,76561198229284372,Now THIS is Podracing. When it works.,1,0,0,0.5940959453582764,54
+346460,76561198029274813,"What a PURE GEM this game has turned out to be. I'm not the racing type but the PHYSICS here are fantastic and got me hooked. Sure, it's not easy and you need to experiment a lot, but it is soooo satisfying! This is what SW podracing could/should have been! Can't wait to try this with my upcoming YAW VR 2 - will be the best use for motion sim for sure. Please Ryan (the sole Dev behind this, amazing), give us more!!!",1,0,4,0.5305888652801514,543
+346460,76561197973287620,"It is Podracing in VR.  
+
+But this is more than a quick cash grab taking advantage of Lucasarts/Disney completely failing at capitalizing on their IP.  
+
+The real standout feature makes this actually more of a scifi 'land craft' building simulator with physics than anything else.  The garage gives you wide freedom to apply different components in a range of placements where you can also set the rotation of each component.
+
+This is not just cosmetic, though;  every placement of components has mass and, based on placement and rotation, changes your craft's Center of Gravity (COG).  In turn, your lift and thrust components exert force in a VECTOR which radically changes your craft's performance based on their angle and relation to COG.  If that wasn't enough, you can also program how the thrust/lift components perform when given the various pitch/roll/yaw inputs.  
+
+This results in a great physics simulator where based on your level of engineering a craft, you can accidentally make a dud that can't fly straight  or an amazing racer that performs with some maneuvering quirks that fit your playstyle.",1,0,1,0.5,229
+346460,76561198074672567,"It's unlike any other racing game you've played - the physics-based ""Skimmers"" operate like a hybrid between hovercrafts and quad-copters, with interesting and dynamic interactions with the environment.  The closer your craft is to the ground, the stronger the ""lift vectors"" interact with the ground, improving your maneuvering at the cost of a greater risk of crashing.  The faster your skimmer is moving, the better it cools, and so on.  No tracks, no guard-rails, no rules.
+
+You can design your skimmers to match your own unique piloting/racing style with an astonishing amount of flexibility in controls and handling - you decide where to place your components; how you distribute your weight, and even the weight itself, directly impacts how your skimmer handles.  Beyond that, you can effectively program each of your vectors to respond to inputs exactly how you want, whether you want to turn on a dime, cling to the ground, soar overhead, or drift around corners to take advantage of extra cooling, it’s up to you.  There's a lot of trial-and-error here but MAN is it satisfying when you get your design to work just how you want.
+
+Beyond the gameplay, for a racing game with as much physics integration as Vector boasts, the 3D modeling, textures, and maps look fantastic.  Those cockpits make me wish I had a VR headset!
+",1,0,5,0.5577000379562378,7272
+346460,76561197999980849,"Adds an extra dimension to the driving genre.
+Rough around the edges though.
+The dev does add/fix stuff requested by the people.",1,0,1,0.5,631
+346460,76561197975813773,"The first fifty hours, they were the worst.  The second fifty hours, they were the worst too.  The third fifty hours I didn't enjoy at all.  After that I went into a bit of a decline.
+
+So why play for so many hours if the game's that appalling?
+
+Ah hah.  Ah hah.  Taste the soup...
+
+Yes, Vector 36 is actually very good - the first few hours or so are a bit dry figuring out how to build and fly the basic low-powered skimmer and getting enough credits from racing to buy the next one (the Phi 90 - a lot more fun; a bit like an underpowered sports car).  Keep plugging away and eventually you get the Quill which has buckets of speed, handles well and doesn't require too much modification (I suggest a larger fuel tank and an extra radiator or two).  This machine is fun to fly and wins the races.  There is also a faster beast (that looks like a fish, moves like a fish,) but it steers - like - a - cow.
+
+This is a different racing game (you're racing at 1000 kph through the canyons of Mars - the freakin' canyons of Mars, man!).  The skimmers have some altitude control whilst moving, but they don't fly like an aeroplane - if you go up too high you can come crashing back down with extreme rapidity.  You have a normal throttle that basically sits on full* and a booster throttle you apply as often as you can but make sure to watch your temperature - get too hot and bits fall off or worse.
+
+There's lots of good and a little bit of annoying bad to this game.  The bad - ordinary menu interface, limited number of race courses, freezes often for Linux users (serves them right I suppose), you can lose previous craft modifications (only two craft at a time, with three versions each). 
+
+But the good - so much good - the way the skimmers handle, multiplayer works very well, the environment, the look and feel,  the speed rush - the vibe of the thing - magnificent.
+
+Short version; game's great, lots of fun, you buy now.
+
+*Most proper joysticks have a sliding throttle you can leave at 100% (and you can use the trigger or another button for boost).  I use a Logitech game controller which does not, but I've mapped the normal throttle to the up arrow on the keyboard and use a $1.20 cruise controller (six twenty-cent pieces resting on the up arrow key hold it down for the duration of the race).
+",1,3,15,0.6605738997459412,11182
+346460,76561197974017105,I got all my friends to buy this game and we've barely played it lol.  It lacks a lot of basic things that should be there and is super stingy with garage slots considering how finicky the vehicle design is.  A lot of issues could be forgiven with more garage space but the dev must be a real miser.  It doesn't give you a lot of freedom to experiment without forever losing your design and understanding why it was working.  Has a ton of other issues I won't get into but it had potential to be a great game but stops at being a barely passable one.,0,0,2,0.4753698408603668,707
+346460,76561198072876066,"EDIT: I had to change my review to recommended. I just can't stop playing this game. Although I still insist on what I wrote about unbalanced racing career, the feeling from insane speed over the Martian surface is priceless.
+
+EDIT 2: 16K damage penalty for Quill skimmer?? Are you serious??? This game is the best anger management training program I've had for years...
+
+EDIT 3: One of the best VR experiences I have ever came across. Full immersion, no nausea, great fun!
+
+TL;DR: Excellent physics and immersive driving in contrast to unbalanced, frustrating and grindy racing career.
+
+At first, I had one of my best gaming experience in years. After polishing my controls and finishing orientation tutorial I decided to train myself first. There are some training laps and instant races without any damage or fail penalties. Skimmer physics, original way of controls (thrust vs. bias) and overal driving immersion are just great. At least for me (HOTAS and Eyefinity with 3 monitors). Indeed, driving is hard to master, however I managed to win some instant races with small reward in credits. I felt so satisfied with this investment.
+
+Then I went to actual racing... Well... the biggest problem is its poor balancing. NPCs are insanely fast and winning the regular race is incredibly difficult. On the other side, making single fatal mistake (or taking hit from your opponent's fireball) is quite easy. $6000 damage penalty without mercy.
+
+So you try customizing your skimmer to improve the performance and controls. Editor is clunky, but you can get over it. Actually, it gives you plenty of possibilities with significant and realistic impact. You spend time trying, adjusting, testing and finally you decide to join the race again. BAM, another $6000 down the drain before you finish your first lap. Soon you end up with $zero or even in debt. Forget about buying high end skimmers or, at least, better parts...
+
+You can try to earn some safe money in instant races. It is about $1000 in average, so it takes around 6 at least partly successful instant races to compensate single accident. Unfortunatelly, you cannot use your customized skimmer, just the default one. It starts to be grindy, tiresome and boring pretty soon. Also racing tracks are locked unless you progress. If you race 2-3 tracks which you managed to unlock, it wears off quite quickly.
+
+To get your credits back, you can also reset the whole game. This deletes your racing history, and your skimmers too, so whereever you got with your customizations, you have to start over. And it also resets all your game settings (except for controls, thank god...), including video and sound settings, where volume goes to max, especially surprising in the middle of the night. But I think it is more a bug rather than the feature.
+
+The game has huge potential, especially for its unique and excellent driving mechanics and customizations. However, the motivation for trying or even participating in races is close to zero. And, I think, races and racing career are what this game was made for. Maybe, just reducing damage penalty to 1/10, or possibility to save the game into 1-2 slots would easily solve those drawbacks.",1,0,5,0.5686274766921997,3852
+346460,76561198052949037,"Very intriguing and full of potential
+
+Sadly it doesn't supports the Valve Index to a playable extent yet (even in the beta branch)
+Will absolutely give it another try when it does",1,0,3,0.54356849193573,7
+346460,76561198966293269,"Ever since I got a Hotas controller, I was looking for a speed racing game compatible with Hotas. I only played for about an hour but I think this is the game I was looking for.   It's really hard to control the ship at first and the learning curve is really stiff .... but I guess it's pretty much worth to try.  As a new comer, I wish I could chose any ships in practice mode before I buy them. I want to try different ships but they are way expensive... I think it's gonna take years to buy them with prize credits.  And one thing I found a bit strange in this game's control is 'roll' is actually 'yaw' and 'yaw' is 'roll'.  With rudder control, the ship rolls.  After I switched the control roll and yaw, it was much easier to control the ship.  
+
+If you have Hotas controller and VR headset, if you're looking for a racing game compatible with Hotas, This game is it.",1,0,1,0.5,70
+346460,76561197966447329,"What a pointless piece of ♥♥♥♥. Looks like it could be a good game, saw all the promise and then the devs completely let themselves down with an unfathomable editor for their ships (ps: the whole game is about editing your ship not as much about racing)
+Another few hours coding and it might be nice but  . . . . . instant refund idiots.",0,1,2,0.2834889888763428,337
+346460,76561198123122615,"It's not super pretty to look at and the menus could use a lot of work, but the core if this is a hell of a lot of fun in VR. I really hope this gets the updates it deserves!",1,0,1,0.5,51
+346460,76561198081071865,"I'm going crazy with this game.
+
+I grew up (5 years old) playing an old DOS game called ""Street Rod"", a 60s themed game where you'd buy a classic/muscle car from the era and tweak with its parts until you could beat The King of your town before the end of summer break. While the themes are unrelated and that game was quite basic, that experience sparked in me this beautiful sense of engineering a vehicle from the ground up and being fully responsible of its performance, to the point you'd pride in having built the perfect racing machine.
+
+Add sci-fi, add (optional) VR, add a career mode with tournaments and leagues, add multiplayer, add functional, modern graphics that can run on a toaster, add comprehensive but easy to learn customizations, add *spot on* physics, and add Linux support, and I'm totally in love with it. There simply is no other thing out there like this
+
+My only regret is to see the popularity of this did not transcend as I think it should have. I'm totally recommending this to all my friends and see if I can race them with my absolute pride of a skimmer.",1,0,3,0.5436308979988098,505
+346460,76561198124275076,"Esta medio abandonado e incompleto, ademas de contar con un muy confuso menú de customizacion de tu aeronave en el garaje. Unido a ello, cuenta con una curva de aprendizaje bastante dura, tanto por la jugabilidad como por lo confuso del menú para diseñarse tu Skinner ( Tu aeronave).
+
+¿A que entonces una reseña positiva?. Muy sencillo, es tanto el potencial que se adivina al jugarlo, que prefiero conservarlo y no pedir un reembolso, los desarrolladores se lo merecen por haber construido esto.
+
+Si tienes paciencia y dominas el ingles, los tutoriales de Youtube te ayudaran a disfrutar y dominar este titulo. Lastima del modo multijugador que no llego a tiempo y solo puedes competir contra el fantasma de otros players que han subido sus récords para que intentes batirlos.
+
+Ojala este titulo renaciera. Las físicas  y la idea de juego de carreras es brutal. Es lo más parecido que encontraras a una carrera de vainas de Star Wars.... 
+
+Ademas corres en Marte, soy apologista Marciano y no puedo ser imparcial...
+Normal que los milennials  impacientes hagan reseñas negativas tras jugarlo 15 minutos...",1,0,5,0.5959596037864685,177
+346460,76561198082136162,Pretty fun game but controls are difficult to master.,1,0,2,0.523809552192688,18
+346460,76561198048981562,Needs valve index support....,0,1,3,0.47048190236091614,6
+346460,76561197971709506,"Feels like a ""realistic"" Wipeout. Fantastic physics. Stunning in VR. I bought it a few years ago, and it has improved a lot since then.",1,0,3,0.5,302
+346460,76561198173588467,"It may not have machine guns, missiles, or a quake.. but this is likely the closest to a real nitty-gritty Wipeout you will get these days. I'v played so many sci-fi racers, and always felt left wanting more when it came to building and getting to really 'know' my craft. Test, tweak, test, tweak, race, repeat. 
+It's a physics racer, so angles and power and gravity all play a part. the learning curve is steep but, if you are a true sci-fi racing fan, then you'd not be put off. If anything, the challenge is learning is what makes this rewarding.",1,0,2,0.5,1526
+346460,76561198285977426,"dunno how fun this game is with flatscreen and keyboard, but with a joystick like the HOTAS, it's fun, and if you put on your VR headset it's a blast!
+
+the ingame HUD, like gauges and so on, of your ""ship"", are actually functionally and important to read, the physics of the game feels realistic, and once you have reached the midlevel skill floor and try out a race, you realize it has a high skill ceiling!
+
+the customizationing of the ""ships"" can feel a bit wonky at first, but doesn't take to long to learn.
+
+all in all... I highly recommend it if you have a HOTAS, and if you have a HOTAS and a vr headset it's a must buy! :)",1,0,1,0.5,67
+346460,76561198027123060,"Definitely a niche racing game where vehicle design and tuning is a large factor of winning on a level that it is a required activity. Personally why I got it, but if you are looking at this as a pod racer successor, you might get frustrated with how much time you spend in the garage. The level of customization is pretty overwhelming from the start and there is little guidance to what works and what doesn't. It would be nice if they had a few preset configurations targeting certain characteristics so you had some examples to get you started. I accidentally cleared all my components first time in the garage, and it took me around 2 hours to get it back into a usable configuration. It would also be nice to have a sandbox mode, the cash grind for upgrades is pretty slow and in my first couple hours playing, I frequently find myself in races where I just can't keep up using the components within my budget.
+
+Overall it's awesome and I highly recommend it for nerds who enjoy the build as much as the race. There's really nothing else out there like this game.",1,0,1,0.5,244
+346460,76561197984094862,"Incredible in VR, and I don't even like sim/racing games.",1,0,3,0.5,370
+346460,76561197995515685,"Store page: Valve Index
+
+In Game: Only Supports HTC Vive and Oculus. 
+
+
+I wanted to like this game, and I was actually excited about getting it. But this kind of lie really rubs my rhubarb the wrong way. Just give me my money back.",0,0,7,0.5072863101959229,6
+346460,76561197970536135,"I've sat down to write a review of this game a bunch of times, and each time I do I think that my time is better spent actually playing it. This is a hovercraft-style racing game that actually plays like you're in a repurposed mining vehicle hurtling through Martian canyons. It's got an incredible sense of presence in VR. Unlike most hover-racing games (looking at you, Wipeout), Vector 36 doesn't just take a 2d racing game and slap fancy sci-fi skins on it; you modulate thrust and lift to safely race through the 3d environment, making split-second decisions to trade between speed, altitude, and maneuverability. If you don't like the balance, you can customize and tweak your vehicle in a physics sandbox garage that sends me back and forth between test races to adjust part alignment by inches and degrees.
+
+The downside to all this control and freedom is a cliff-steep learning curve that at times feels more like engineering homework than a video game. The road to proficiency in this thing is paved with flaming skimmer parts. Do it, though. It's worth it.",1,0,3,0.5,1801
+346460,76561198326239738,Great game. The learning curve is steep but once you figure it out this game is a blast. Exactly why I bought VR gear.,1,0,2,0.5,2844
+346460,76561198057279595,"Not a bad game, but let's talk about that.
+
+When I first saw this game, Star Wars pod-racing immediately came to mind, but after buying and playing V36 I no longer have the same thoughts since it is more of an air-racing experience with some pod-racing similarities. The game can be fun, but it is slow starting out to unlock better parts. The starting ship comes with standard parts and overheats like a junk car you have to pull over every mile and let the radiator cool down while it constantly dives into the ground as if the game physics encounters minor spasms. Aside from that, I did find the VR experience to be thrillingly fun.   
+
+ I feel if it were not for VR tho, the game would be dull and lacking any real substance. Having said that, can I recommend V36? The VR mode yes, as I believe it does have some play value, but in standard non VR mode the answer is NO. A final thought, is that V36 is a $9.99 max kind of game in my opinion rather than $24. After the Ooh and awe-struck experience wore off I realized it was only held together by VR and actually sucked as a racing game.",1,0,1,0.4724409580230713,54
+346460,76561198093791911,"What's Great: The Racing. Which is why I bought it. I'm super happy with it. 
+What's Difficult: Modding your Racer. there are tons of parts and different skimmers to buy. But modding them on your own is a chore to get correct.  Although it is uber rewarding when you get it right. ( I haven't figured it out yet). The UI for modding sucks but its easy to get over the few downfalls of it. 
+Helpful hint: IF you have a Joystick - USE IT. it is sooo much more rewarding with a Joystick. 
+Looking Forward to: VR, I haven't tried it yet. I have the rift, just waiting until tomorrow to try.",1,0,2,0.523809552192688,242
+346460,76561197988706630,"This is maybe the coolest racing game I've played. It's a physics based hovercraft racer that lets you control pretty much everything! Even the stock skimmers are a blast to pilot, and the game is breathtaking in VR.
+
+Strong recommend for anyone interested in this sort of thing.
+",1,0,2,0.523809552192688,166
+346460,76561197994872232,fun fun fun,1,0,1,0.45561593770980835,4524
+346460,76561198032740001,best with VR must have,1,0,1,0.45561593770980835,1053
+346460,76561198145861887,"A really disappointing game, was looking forward to a VR racer but instead got this low-graphics, nauseating pile of rubbish. Controls are ridiculously complicated and you can't even use your VR controllers so unless you can adapt your setup so you can use a keyboard and mouse then it's literally unplayable. Wait until it's free if you want to play it.",0,1,4,0.4642040729522705,8
+346460,76561197980178164,"Calibrated controls in the game 3 times, and once out side of the game with the actual controllers built in calibration tool. Game would recognize the calibration reading, in the calibration menu, but in game just defaulted to hard pull to one side and would not let any axis function properly. 
+
+Sorry, but due to the short amount of time for refunds, and me getting screwed on a few games because I kept trying to make them work past the mark... I'm refunding and can not recommend. 
+
+In game calibration looks good, actual game running doesn't even follow it's own calibration tool and you just spin in circles. Bummer too. Looked cool. 
+
+",0,0,3,0.4984045922756195,15
+346460,76561197993404613,"Highly recommended! This game is a blast to play.  Here are a few points:
+[h1]The Good[/h1]
+* Visuals.  Especially in VR.  Looks great on Index.
+* Feel.  The feel of the game is great.  There seems to be a lot of nuance to the way the machines react in the environments.  Includes racing UI/UX.
+* Machine customizability.
+[h1]The Not So Good[/h1]
+* Garage UI.  I think this is the weakest part of the game, as it lacks in documentation and doesn't have the most intuitive UI.  In VR, the controller is awkward for interface because you use the stick to move the cursor around (mouse emulation).  Upcoming VR controller support will help here.
+* Steep learning curve.  Because documentation is a little lax, it's harder to learn how to fully play the game.  There is a tutorial for racing and the garage, but it could be better.",1,0,2,0.5,732
+346460,76561198011181172,"This game is AMAZING, the graphics, though not the best is perfectly suited to VR and look as good as most modern titles. 
+The skimmer building is a massive part of the game and making tiny tweaks to make your skimmer glide just right is extremely satisfying though with a massive skill floor and ceiling so be prepared for the learning curve.
+The handling is similar to a jet powered quadcopter and worked with minimal keybinding on my x56.
+I really want the Elite Dangerous crowd too see this because it adds the planetary racing we've wanted for ages, also I much prefer the handling of this to frontier pilot simulator. If only we could cram all 3 games into 1.
+Must have vr game.",1,0,2,0.5,1141
+346460,76561197982448779,"Sic* game. Definitely recommended for Oculus or Vive users tho the flat-screen mode is great fun as well.
+
+Not for the impatient gamer tho: the mechanics has a steep learning curve and the modifications can be extremely frustrating in the beginning when you don't understand the consequences of your changes. I swore like a sailor multiple times. In fact sailors probably would've been ashamed of some of the cussing that went on but if you stick with it, you'll get there, and then it becomes some serious fun. Admittedly, I still suffer from VR motion sickness but d**n... it's glorious regardless. I'd probably rate it around moderate ""comfort"" rating in the beginning but definitely extreme when you finally hit speeds in excess of 1000km/h and boost around the track constantly between the occasional narrow canyons, or through mountain-side tunnels, and in VR mode your stomach will turn upside down and inside out... and it's the best darn rush out there... 
+
+Due to my still being prone to vr motion sickness, 50% of my game time so far is actually on flat screen but it's still seriously fun. Otherwise I play with an Oculus Rift v1 and HOTAS and can't comment on other HMD's or controllers (incl KBM) but definitely recommend it if you have a HOTAS and Vive or Oculus HMD (i think those are the only two supported so far according to in-game menu).
+
+PS. there is NOT a lot of guidance on the net or in-game. Sp4m made 3 player guides on steam and I'd seriously recommend reading each of them after doing the tutorials.
+
+PSS for the developer (solo project, I understand?) ... congratulations on a great game! and for bringing us a great experience.",1,0,6,0.5761739611625671,1563
+346460,76561198189098966,looks promising but needs a ton of work. maybe new engine?,1,0,2,0.5,64
+346460,76561197995492833,"De très bonnes sensations de pilotage !! Sur triple écrans, il doit bien donner en VR !!",1,0,1,0.5,412
+346460,76561197987456609,"Extremely steep learning curve. This game makes the learning curve on Elite Dangerous look easy. 
+
+You literally have to fine tune your ship and its various components including thrust angle/angle of incidence of each individual thruster or else your ship will be all over the place.
+
+No real decent way to earn cash for ship upgrades and the way the races are set up its hit or miss. I would consider myself a newbie in the race world but every race I have access to to make money i'm pitted against veteran npc bots.
+ I went in debt because i crashed my ship and that was that. My current funds total 0. 
+
+No campaign. Nothing whatsoever. This game could use a campaign.
+
+Graphics are poorly optimized for VR, i run the valve index and a 2080 ti overclocked with a water cooled gpu. 32 gb ram 
+(he good stuff) and a ryzen threadripper 1950X overclocked, and yet this game on high settings causes horrendous frame rate stuttering, especially when other racers are in my field of view.
+
+Multiplayer is ok but you can't earn any cash for upgrades unless you wager with your friend who, if new like you, is too broke to wager anything so you just race each other and get nothing out of it but laughs as you each wipe out over and over.
+
+
+This game needs better guidance for  newcomers. I love elite dangerous so a high learning curve isn't necessarily going to put me off from a well done game but this game is another level and considering the game needs a bit more polish i've opted to try it again at a later date to see if it improves. For now it's a good foundation at best.
+
+I can't recommend buying at this point in time unless it's on sale and you have a few bucks burning a hole in your pocket for Vr content. 
+
+
+
+",0,0,6,0.5799533128738403,265
+346460,76561198157867413,Love this game already after playing for a few hours. SciFi theme is great! I never thought I would love a racing game! It's now one of my favourite VR games :),1,0,2,0.52173912525177,224
+346460,76561198428854542,"Лучшие футуристические гонки в VR на PC! Геймплей, графика, звук, атмосфера в VR просто потрясающие!",1,0,4,0.5798383951187134,365
+346460,76561198301669039,"[strike]Very cool idea and execution, but this game is now an abondonware, game doesn't feel complete or fun (at least from flat screen), multiplayer is dead.
+It would be cool if game was re-made and it's made easy enough to play, Also i think it needs more weaponry (like missiles or machine/plasma gun).
+If the game was re-made to be a f2p and more polished, i am very sure that it could have survived, maybe other game modes would be added (like team deathmatch or running from missiles or something)
+I don't recommend buying it at this form because it gets boring realy quick.[/strike]
+Ok I think my old review isn't  representative of the game and is influenced by my daily life.
+First thing is that this game is not a Vehicle Warfare game. But its combination of realistic racing game (such as dirt rally and grand turismo) and unique racing game (only example i can think of right now is [url=https://store.steampowered.com/app/233610]Distance[/url]). It has realistic pyhsics applied to unique consepts which are not found in real life and to fully understand these consepts you have to go through tutorial and also play the game for a bit to find better ways to control vehicle by time progresses.
+I bought the game when Gaming on Linux made an article about it this year [url=https://www.gamingonlinux.com/articles/unique-racing-game-vector-36-adds-online-multiplayer-in-the-latest-update-and-a-free-weekend.14367]Gaming on Linux made an article about it this year[/url].
+Its not an abondenware but since its an unique game it suffers from lack of players for multiplayer. So if you can add me if you want, my time zone is GMT +3.",1,2,4,0.5559437274932861,80
+346460,76561198001288855,"This is what Wipeout wants to be.
+
+Pretty difficult but rewarding. 
+
+A lot of quality of life improvements could be done on menus though.",1,1,2,0.5090634822845459,185
+346460,76561197997303624,"Fantastic ""Pod Racing Simulator"".
+Imagine Star wars pod racing, implement some physics and place it on mars - and fully customize your ride with angles for lifters and thrusters. 
+Steep learning curve, but great when you learn it.
+Use with HOTAS, and map bias to throttle and you are good to go :)
+
+",1,0,3,0.5406360626220703,2535
+346460,76561198822401357,"This game is sort of fun? I got it on sale and was a good price for what it is. This game reminds me of the Star Wars hover racers. I like the game, graphics seem solid, but haven't really got too deep into the game. I am still on the lookout for the best racing VR games.",1,0,1,0.5,38
+346460,76561197998299079,This is a fun and unique racing game. The building mechanics and actual race physics are amazing. You and a friend can have the same skimmer and parts and tweak them to both play as totally different beasts. It's really satisfying to get a ton of extra speed out of a craft by shifting around it's weight and playing with it's lift bias. The tracks are visually interesting and having to balance speed with keeping yourself from smashing into the ground gets pretty intense.,1,0,2,0.523809552192688,837
+346460,76561197996055125,"It's like if someone had the weird complexity of mechwarrior except for a racing game. Lots of fun, definitely a right challenge if you enjoy simulation but looking for something outside the box. Great to have something to use my t16000m outside of DCS",1,0,1,0.5,58
+346460,76561198007389515,"Thrilling experience, great graphics, fun and the developer keeps updating thank you
+Definite buy",1,0,1,0.4685314893722534,62
+346460,76561197989629558,"Steep learning curve.  You definitely have to go through the tutorial!
+
+Works well with gamepads and Steam Link,  but I expect the best experience will be with a HOTAS and VR headset.
+
+(I'll try that out and update this review.  If the review isn't updated, I'm just being lazy as usual.)
+
+Works on linux :)  (message me if you want to try a linux<->linux race online)",1,0,15,0.6356573104858398,121
+346460,76561198021370798,"Davvero un hidden gem del mondo VR. E' diventato velocemente uno dei giochi dove spendo più tempo in VR, con Oculus CV1 funziona perfettamente, si apre anche senza steamvr. E' sostanzialmente un gioco di corse con una fisica molto ricercata e la possibilità di costruire e modificare i propri skimmer (i veicoli che si usano nel gioco) abbastanza liberamente. All'inizio non sarà per nulla semplice, risultando come esperienza simile a giochi come KSP ma anche altri sandbox di costruzione come besiege, scrap mechanic o altri dove il trial and error è fondamentale. I mezzi che si controllano sono una via di mezzo, come comportamento, tra quadricotteri e hovercraft anche se in realtà sfruttano il nucleo ferroso di marte per levitare magneticamente. La curva di apprendimento è abbastanza ripida sia per quanto riguarda il pilotaggio che la costruzione, ma molto gratificante, e in breve tempo vi ritrovere a sfrecciare su marte a 1000km/h. Segnalo alcuni problemini di performance con la mia 1060, soprattutto quando si passa attraverso i gate/checkpoint ho dei rallentamenti, il popup è un po' troppo evidente e aggiungerei una modalità di ""test"" dello skimmer vera e propria.",1,0,1,0.5,439
+346460,76561198025555640,"Its incredibly rare that i find a game that i can lose time on. my first real experience with this game was in a 14 hr stretch. i've had a lot of fun with it, and i'm really looking forward to further updates and development. this game has so much potential.
+
+i bought this for 25 bucks, and id have to say i'm THRILLED with this price and this purchase.
+
+THERE IS A LEARNING CURVE
+i found my experience in gameplay and skimmer building very similar to the learning curve i had to overcome when i started playing KSP.  meaning, it gets scary messing around with a working ship, without understanding how things like center of gravity, center of thrust, really work within this application. it takes some tinkering, but eventually you'll learn through operating how different setups affect performance, speed, and stability
+
+ 
+4-AXIS FLIGHT STICK USERS BEWARE. this game, to play correctly requires a 5th axis X-Y-Z for pitch, yaw, and roll, a 4th axis for throttle and a 5th axis for your bias between vertical and lateral thrust. this axis is absolutely required to play competitively.
+
+This is still LOADS OF FUN outside of vr, and its a simple enough game that i doubt most people would have an issue running it.
+
+As far as bugs go, i've only found a few. some minor collision and placement issues in the build mode being the only one that was frustrating for me, really. 
+
+As of right now there are a few different aspects of the game that are never really explained to you, but you have to learn on your own. this game does very little hand-holding and it can make the game seem harder than it really is. its challenging, but definitely not rage quit worthy. ill be following its development closely. RRS have done an AMAZING JOB so far. GET THIS GAME NOW.
+I'd call this game a must-have for racing and sim fans alike",1,0,10,0.6008197069168091,1171
+346460,76561198042625608,"One of my favorite VR games, for sure. It's like a simulation version of Wipeout, Redout, etc. So cool skimming above the ground at 1000 mph! 
+
+Half of the game is spent racing around the surface of Mars on, admittedly, monochromatic and very similar tracks. Still fun- and, you know, it's the surface of Mars so, I suppose, it's not that interesting. Although it is supposed to be terraformed so I would like to see trees, rivers, maybe some cities... I don't know. Scenery's not amazing but totally passable.
+
+The other half of the game is spent in the garage trying to learn advanced aerophysics. Very intimidating, at first, but so worth it to slowly learn the various effects of weight placement, gyro power, rocket angle, etc. on your skimmer. It's a tiny bit frustrating to have to continually test the racer on the practice tracks because the testing facilities in the garage just don't work that well. But the garage is very fun and it's satisfying to tweak a skimmer to it's best performance.
+
+Just a couple of bugs... one race is mislabeled. It says Steel League but it's actually Titanium League (trial and error to finally figure it out). Then there are two races that say you need a skimmer of greater value than X. When I make one with a greater value it says it's too cheap. When I make one of lesser value it says it's too cheap. When I make one of the same value it says it's too cheap. When I make a skimmer using every singe of the most expensive parts that can be bought it say's it's too cheap. So I just finally gave up on two of the races. But I managed to beat all the others in first place.
+
+Which brings me to the final negative: It's a little too easy. Once you design a killer super fast supper skimmer you end up lapping all the competition several times. There aren't too many nail biting races with skimmers all around you fighting for first place. I feel like the races are mostly won in the garage.
+
+Still, amazing game. Absolutely worth the price. Big thumbs up here.",1,0,3,0.523809552192688,1977
+346460,76561198039662795,TrackIR is in and implemented!  YAY!!!,1,0,0,0.47964009642601013,11
+346460,76561198274521842,"This game is awesome.  If you have a H.O.T.A.S. like an x56 rhino, this is a must-own game for VR.  If you like racing, get it!  If you like building up funds to upgrade and customize your own unique vehicles, get it!",1,0,2,0.5,404
+346460,76561197971860053,"VR and HOTAS (Hands On Throttle And Stick) go together like chocolate and peanut butter, and this is one of the seemingly few games that comes through on that combo.
+
+I enjoy the unique physics of this game and look forward to delving deeper into it.
+
+Had an issue with the mode where you mod your racer, but the dev came through with a fix.",1,0,2,0.5,62
+346460,76561198386342421,.........The  opration a little different...,0,0,0,0.5,44
+346460,76561197981478486,"Game made me sick right out the gate.  Wasn't able to play.  Hoping the new update fixes this, will give it a try soon.",0,0,1,0.4588574469089508,10
+346460,76561197971646735,"Despite the really steep learning curve this is a damn good racer and I'm not even into racers that much.
+
+I bought this early access in desperate need for VR content. I came back playing in times when I had pretty much given up VR and actually enjoyed it as a 2D screen game. Now that I revived my Vive and have been reminded of the game by the unexpected update I have to say: This is just brilliant! It's cool on a flat screen and is so much better in VR!
+
+Just one note why I think it's so much better in VR beyond the obvious: The perception of altitude. Once in VR you will never watch your altimeter again. Being able to look around in your cockpit also helps a lot.",1,0,2,0.5,3034
+346460,76561197991391747,"Pretty fun game so far. Dev is responsive, understanding, and some issues that existed in the past have been addressed, so if you’re looking for a VR racer title, give it a shot!",1,0,3,0.5394166707992554,32
+346460,76561197972266460,"This is a game I really wish I could like, but just couldn't get there.
+
+While I assume this changes with better ships down the road, the default ship controls like a beached whale and any tiny mistake you make essentially means you may as well restart the race.
+
+I did everything in my power to get it to run efficiently and smoothly, and never got anywhere remotely near first place. Parts and new ships cost UNREAL amounts of money, and unless you get first place you essentially get close to zero money.
+
+The default ship makes playing the game with any sort of enjoyment impossible. I'm 6 hours into the game and the next ship isnt even anywhere on my radar yet, which is IMO kind of ridiculous.
+
+The incredibly steep learning curve combined with unbelievably punishing races make this game impossible to recommend.",0,1,2,0.5002915859222412,441
+346460,76561198263169115,this is terrible and so expensive. i lost my money...,0,2,0,0.4155251383781433,18
+346460,76561198014448211,"I really like the concept of this gamel, and I may need to give it more time, but I found the controls and flight model a little too unforgiving for a brand new player. I got stuck in the tutorial where you have to jump a ravine. I couldn't get the game to recognize controller button 4 (default jump mapping). I had to use left shift on the keyboard, but this meant taking my hand off the controller, which meant losing control while jumping.  I'd like to see a free flight mode that lets you explore and take in the amazing landscape for a while. I'd also like to see some new instrumentation that gives you some feedback about the avoidability of obstacles. (I found the existing instruments a little hard to understand.) For a craft this amazing, I think it should be harder to crash. Like I say, I might need to spend more time with it, but these are my first impressions: need a free flight mode that lets you enjoy the landscape, and flight controls should be more forgiving and straightforward (i.e. Jump should just work).",0,0,5,0.5296449661254883,25
+346460,76561198268935127,"Este  juego es un asco, pesimo, los graficos de plastation 2",0,1,1,0.42797592282295227,41
+346460,76561198107800399,"Especially on my HOTAS this has the potential of being a thoroughly enjoyable game, given some spit and polish. However, what the game sorely lacks at this point, and this is the reason I am going to get a refund, is the lack of any and all indication of what I am actually doing with my controllers; am I in the zero? (There's no tactile feedback for it on the Thrustmaster t.16000 throttle, for instance) - am I maxing it out? 
+
+Also the ability to reverse my throttle setup - the in-game animation of the pilot moves their throttle in the opposite direction that I move it myself - would be nice.
+
+A visual representation of controller actions, possibly controller actions versus projected movement (speed, maxspeed, vector indicator, vector target indicator) would not only be very helpful but also, in my opinion, add a wow factor to an otherwise - I hate to say it - largely unanimated cockpit and non-present HUD.",1,0,0,0.5,19
+346460,76561198346036971,Jogo Merda,0,1,0,0.5,13
+346460,76561198086481602,"When I bought this game and started playing it, I started to have doubts because these things are rather difficult to learn to control. But once you start getting the hang of it, it's actually really fun. Some of the premade skimmers needs to be adjusted for your personal racing habits and this takes allot of time and testing. The skimmer you start out with isn't really anything to write home about, but once you get a hopper, then the rules of engagment changes.
+
+This is the kind of game that you might hate it when starting out, but if you stick to it, you'll love it more and more.
+
+I've only spent a few days with it so far and I'm to the point that I'm playing it all the time. Usually I'd just use my mouse and keyboard with games like this (or a joystick) but I'm using an off brank PS3 style controller and I find it the easiest and most convient way to play.
+
+Tutorials are very helpful but I think there needs to be more of them so I hope to see this in future updates. Until then, be sure to check out youtube and discussion forums to understand custom builds and racing more clearly.
+
+I'd only recommending this game for people who are willing to take time with it and enjoys hover racing... but keep in mind this is extremely detached from AG racing (like Wipeout and Fusion).",1,0,2,0.5,363
+346460,76561198333627253,"Really amazing game. 
+
+Basically Wipeout, but with more customization and more intense physics.
+
+The landscapes are beautiful. Launching across Mars with basically just a thruster on a cockpit is an awesome feeling.
+
+I hope there is more content released, but am glad I am able to experience this game.
+
+Edit: Dev has been adding updates over the years and I really appreciate it. Nothing else even feels close to this game.",1,0,2,0.5,1998
+346460,76561198282220413,垃圾游戏，Rift居然需要用键盘才能控制,0,0,1,0.47826087474823,5
+346460,76561198037608384,"Catchphrase: 
+Anyone looking for a ""Real"" Pod Racing game should try this game.
+
+Advice: 
+Its an amazing racing simulator first and foremost. Expect to crash and edit a lot. 
+
+Review: 
+This is not your average arcade game, It is clearly designed for racing enthusiast that like to Pilot, manipulate, overhaul and customize their vehicles innards.
+
+It is one of the few racing games that every curve on the track will feel unique and constant feedback will keep you busy. It will challenge your pilot talent as well as your assembly skills.
+Give it a try.",1,0,4,0.523809552192688,5183
+346460,76561197967304590,"i can recommend this for VR, the racing is realy fun so far and the physics engine seems solid.
+been playing around with the vehicle editing for some time now and think im getting the hang of it. the rules of physics based building aply, just like in kerbal or from the depth. there are 3 or 4 frames and about 5 parts per 5 categories, which gives a good diversity of buildoptions.
+the penalty for failure is pretty harsh, so you want to play it like a rally game.",1,0,3,0.523809552192688,355
+346460,76561198009067077,"EDIT:  The game now supports Multiplayer.  Definitely recommended
+
+Well,  I was hesitant until the sale.  I had read mixed reviews and was worried it would be half finished.
+
+After some time reading the developer's blog and comments towards other players, I was sold on it. It was made by someone who truely set out to make a good game.  Hell, he even took the time to port it o Linux on request (Thank You).
+
+Yes, it could use some polish, but I am already pleasently surprised.  
+
+The only thing I would really want in it is multiplayer to race alongside my buddy.  Ghosting will have to do, and I have read the developer's comments on it.  Doesn't change that it's what I'd like to see in it.
+
+So happy that it has Hotas Support.",1,0,2,0.5,288
+346460,76561198029930948,"Great game , give it time and you will love it.",1,0,2,0.523809552192688,515
+346460,76561198051934110,"I was sceptic about geting this at first, I done a little reserch first and read what others have to say about it.
+I mainly read first the negative reviews as i feel they tend to give information about problems that possative reviews miss out, Keeping in mind that we all diferent points of view whether the same problem will affect us personaly , which mostly dont apply to me, then reading the posatives to get the missing info from the neg.
+
+Anyway i decided to give it a go, I can safely say this game has a lot going for it and is defo unique, I dont realy play racing games but from time to time i do dable, i play flight games where as my son is the racer in the family. Am i a pilot? am i a racer? Well this game fits both, it looks goood the maps are bland empty and not very impresive, However the game and craft itself is realy good,  The controlls spot on the movement spot on and after a while you will see a big diferance to how you now fly/drive, Its a very enjoible experience and gives very lttle motion sickness iff any.
+
+I do recomend this game whether you are a pilot or driver. No weapons but it dose have some sort of what lookes like an oil slick you can drop. the learning curv is short  and you will soon be skooting around with eas, however winning is another story. to win you will defo need to upgrad thrusters and other things , but this also adds to the games fun element too. I would get this game on sale , its worh a £20 at full price , i wouldnt pay more , it is a essential to any vr library.",1,1,5,0.5642110109329224,121
+346460,76561197982356433,"Love this game.
+
+Let me throw out that I'm a big Forza and Project Cars fan. Racing is not only about moving a joystick but thinking and analyzing your vehicle, both when you are tuning and while driving. This game captures that perfectly. 
+
+Another feature, terrain. Funny since you are flying, but the terrain causes your ship to bounce, roll, or crash if you don’t handle it properly. Steering over the terrain and planning how to handle each ridge, dune, or gulch, is just one more joy of racing. 
+
+Played it both with and without VR (vive) and I love the feeling of flying over mars or looking over your shoulder as you drift through a corner with your afterburner firing as you try to pass underneath an opponent. Or your “oh **** PULL UP” moments, well love might not be the correct descriptor for those moments. 
+
+The dedication the lone developer deserves respect, from what I learned he sold his car to help fund the game. Not a fan of DLC normally but I might just buy it to help the guy out. Really looking forwards to what his next game might be. Till then I guess I’ll probably keep clocking in some hours to Vector 36!
+",1,0,3,0.5258620381355286,495
+346460,76561197970577848,"[h1] Love it[/h1]
+
+Very cool game, remembers me at the old wipeout days on ps1.. not easy to fly but when you got it very much fun. little issues are supported by developer, good game, good developer, linux support and i love to support supporter by paying. But i enjoy playing very much, i would recommed to all who like wipe out!",1,0,3,0.523809552192688,1372
+346460,76561198812257481,"В первую очередь удивила реалистичность поведения летательных аппаратов ""скаймеров"" особое впечатление PH90 - лётные качества лично на мой взгляд на высоте!.
+А доработать пожалуй в первую очередь - задержки при загрузке полётного уровня, они очень некстите в момент начала полёта. И было бы хорошо добавить русскую локализацию.",1,0,8,0.6289088129997253,1093
+346460,76561197991243175,"Hidden Gem;  if you like racing sims and want a different (proper) take on physics with sci-fi thrown in, I'm pretty sure you'll like Vector 36!.  This game works well either on a normal monitor or in VR.",1,0,4,0.519615650177002,102
+346460,76561198021395128,This will make you puke. I highly recommend it. Make sure to eat a big lunch.,1,8,3,0.5377147197723389,30

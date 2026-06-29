@@ -1,0 +1,280 @@
+app_id,user_id,review,does_recommend,funny,helpful,weight,playtime_at_review
+387290,76561199499656612,"This game is driving me insane. First off Ori and The Blind Forest is amazing. It’s a really fun and chill/challenging game to kick back and relax on. The visuals are beautiful and the story very well made and intriguing. With the movement system being clean and crisp, and the flow of combat between traps and enemies, the games works out great. But I’ve sunk over 50 hours into one life difficulty and I gotta say I have died more to the environment than I have to mobs and it is really frustrating. This game is proving to be a really hard challenge to master and although I salute you I hate you at the same time. 10/10",1,0,0,0.5,5381
+387290,76561198031815012,"Score: 9/10
+An emotional wonderland, exceptionally well crafted rewarding masterpiece straight to the heart.
+
+✅(+1)
+Story
+World
+Characters
+Music & Sound Elements
+Mechanics & Physics
+AI
+Graphics
+UI
+Replayability
+
+🆗(+0.5)
+Everything
+
+⛔(0)
+Customization
+
+----------
+1: enhances the feeling, something special
+0.5: okay, usual stuff
+0: breaks immersion, shallow",1,0,0,0.5,1033
+387290,76561199529026862,Big bird,1,0,0,0.5,428
+387290,76561199067304068,"Realmente precioso, no podía parar de jugar. Me gustaría poder volver a jugarlo por primera vez.",1,0,0,0.5,1594
+387290,76561199887632305,"jogo lindo, muto bom.",1,0,0,0.5,914
+387290,76561198076262789,A delight,1,0,0,0.5,959
+387290,76561198328161124,Sensational,1,0,0,0.5,735
+387290,76561197993618969,Great!,1,0,0,0.5,978
+387290,76561198021045675,"Enjoyed it just as much as I did the first time I played it several years ago. The art, sound and music is fantastic. The gameplay feels good, and the map is well layed out. Some sections can feel a little bit tedious because of the frequency you're going to die, but the deaths are generally not that punishing so the game flows very well. Easy recommend.",1,0,0,0.5,552
+387290,76561199413657344,"Very beautiful graphics, very emotional story and good gameplay!",1,0,0,0.5,1378
+387290,76561199592459792,god game fantastic art,1,0,0,0.5,1520
+387290,76561198432957965,"Brilliant metroidvania, there is no much more to say just get it and try it.",1,0,0,0.5,629
+387290,76561199528670648,It's just...... beautiful.,1,0,0,0.5,80
+387290,76561198779001230,es ist perfekt,1,0,0,0.5,601
+387290,76561198427284817,"Ori and the Blind Forest is a well-loved game and sold very well, but I would still say it is underrated. Not because people don't appreciate it, but because I genuinely don't think even all the praise it receives is enough for what this game is
+
+This game has a special place in my life. I still remember playing it years ago, and every time I revisit it, I get the same feeling all over again. The art style is breathtaking, the soundtrack is absolutely incredible, and while the story is simple, it is told beautifully and leaves a lasting impact.
+
+Another aspect that deserves praise is the platforming. I genuinely think Ori has some of the best platforming in gaming. The controls are incredibly responsive, movement feels smooth and satisfying, and as you unlock new abilities, traversing the world becomes more and more enjoyable. Few games have made movement itself feel this rewarding.
+
+The highlight of the game for me was the escape sequences, especially the first one. It remains one of my favorite moments in gaming, and I don't want to spoil it because I'm sure many of you will be surprised when you reach that point. As a small request, I would encourage you not to play on Easy mode. At least for me, it takes away some of the tension and excitement that make those sequences so memorable.
+
+In the end, this is a game I will always recommend to people. It's the game that made me fall in love with the Metroidvania genre as a whole, and even after all these years, it remains one of the most memorable gaming experiences I've ever had.
+
+Also do check out the sequel - its nothing to sleep on!!!",1,0,0,0.5,2066
+387290,76561198101681276,"From a gameplay perspective, this is not a metroidvania. It is a very linear game.
+
+About the story, and major spoilers below -
+
+F**k that tree. You may say that the tree did not know about Kuro and her children and so everything was an accident. But when you're an ancient and godlike being responsible for maintaining balance for an entire ecosystem, you don't get to make mistakes like that. You should be aware of the lifeforms living around you, you should be aware of your own power, and you should not be blasting enormous amount of energy into the air for a single child when sensible options are available.
+
+Leaves a foul taste to clean up this mess just to hear the tree criticize Kuro for what is ultimately his own negligence and stupidity.",0,0,1,0.5,680
+387290,76561198864511794,cried,1,0,0,0.5,769
+387290,76561198719543326,pasenme plata para comprarme el segundo santi.1029,1,0,0,0.5,2013
+387290,76561199217977050,"Довольно неплохо. 
+Прошел за 9 часов 30 минут. 
+Вообще не знал что за игра перед стартом, но решил что пройду её без прокачек и на сложной сложности.
+В итоге 485 смертей, из которых штук 100 по глупости, 300 из-за недостатка скилла, 85 - из-за незнания карты/евента.
+
+Из минусов: 
+1)Нельзя перебиндить клавиши не влезая в файлы.
+2)Алтари на которых сохранения можно сделать не отмечены на карте.
+3)Иногда слишком еб*нутые этапы/тайминги надо ловить.",1,0,0,0.5,647
+387290,76561198995837063,"Good game, good characters, good story, great gameplay.
+
+8/10",1,0,0,0.5,1464
+387290,76561199816266455,Enjoyed most of the game except for the stupid chase sequences. Certainly the best 8/10 metroidvania I've ever played,1,0,0,0.5,495
+387290,76561198898223753,good game,1,0,0,0.5,1263
+387290,76561198018140466,"⚠️ CRITICAL FRAME PACING AND STABILITY ISSUES ON HIGH-END HARDWARE ⚠️
+
+Do not let the age of this game fool you. If you attempt to play Ori and the Blind Forest: Definitive Edition on a modern flagship system (particularly with an Nvidia GeForce RTX 4090) you may encounter severe engine-level incompatibilities that render the experience effectively unplayable out of the box.
+
+Problem Overview
+
+This is not a performance limitation, but a fundamental architectural issue. The game runs on an older version of the *Unity engine*, where timing loops, animation systems, and physics are tightly coupled to a fixed 60Hz baseline.
+
+When paired with ""ultra-high-end GPUs"" and ""high-refresh-rate monitors (144Hz, 240Hz, or higher)"", the engine fails to scale correctly, resulting in >>systemic instability<<
+
+Technical Symptoms:
+
+Severe Frame Pacing Issues:
+Frequent and aggressive micro-stuttering occurs every 2,3 seconds, regardless of resolution or graphics settings.
+
+Game Speed Acceleration:
+The internal game clock incorrectly syncs with the GPU’s output, causing animations, physics, and gameplay to run at abnormally high speeds.
+
+Engine-Level Conflicts and Crashes:
+Interference between Windows Fullscreen Optimizations and the game’s native V-Sync implementation can lead to black screens, freezes, and crashes to desktop.
+
+🔴 Verdict 🔴
+
+The raw performance of modern GPUs like the RTX 4090 overwhelms the game’s legacy timing systems. Without manual intervention (such as driver overrides, Nvidia Control Panel adjustments, or third-party framerate limiting) the experience is *unstable and inconsistent*.
+
+If you own high-end hardware, be prepared to rely on community fixes immediately after installation.
+
+⚠️ The game is incompatible with the latest generation Nvidia GPUs and 4k or 8k monitors ⚠️",0,0,0,0.43478259444236755,109
+387290,76561198088498811,Amazing on Steam Deck,1,0,0,0.5,970
+387290,76561199037349515,juegazo vale la pena jugarlo,1,0,0,0.5,2065
+387290,76561199698053194,The mechanics are great. The game does not get boring throughout.,1,0,0,0.5,813
+387290,76561199034917968,ultra méga chouette,1,0,0,0.5,1151
+387290,76561199639354124,"Que jogo incrível, cinema completo",1,0,1,0.5,649
+387290,76561199025921058,"hollow knight, só que mais bonita, amei!",1,0,1,0.5,565
+387290,76561198034874550,The soundtrack just robs you away. This is a must play game.,1,0,0,0.5,1597
+387290,76561198019087529,"What a game, the sound and design are just insane! You must do it, it is an excellent game.",1,0,0,0.5,2103
+387290,76561198792174237,AMAZING GAME!!! JUST PLAY IT!!!,1,0,0,0.5,690
+387290,76561198074235904,"Tremenda sorpresa que me he llevado con este juego. No me terminaba de enganchar al principio, pero ha terminado haciéndose un hueco en mi corazoncito gracias a su equilibrio perfecto entre su apartado visual y una banda sonora magistral. A nivel jugable es fluido y muy pulido. Aunque no es un título imposible tiene picos de gran exigencia (como las secuencias de escape). Lo mejor es que no llega a ser frustrante: el diseño está tan bien medido que superar cada reto resulta sumamente gratificante y eso es lo que más me ha gustado. Lo único que no me ha enamorado es la historia en sí, pero tampoco está nada mal a pesar de su simpleza.
+Es un juego ideal para echar partidas rápidas con la Steam Deck y se tarda en torno a 20 h. en platinar. 
+Me ha gustado tanto mecánicamente que ya he empezado su segunda parte: Will of Wisps.",1,0,0,0.5,1244
+387290,76561198165214470,"The definition of a Pixar metroidvania, every frame is a wallpaper, every mechanic is as smooth as silk and the music is just something else
+This is a game you won't forget, the second one is somehow even better, I don't know how, just get this, combat isn't that bad",1,0,0,0.5,627
+387290,76561198844980717,"If I were to roll for DEX, normally, I would land on a 4. This game made me feel like I rolled 2 after 2 after 2. The 'easy' playmode is def not 'easy'. It makes up for being pretty, but I am rather disappointed.",1,0,0,0.5,1259
+387290,76561198015841130,"i really wish i could like the game, but its impossible. these are the things i found infuriating:
+-the terrible controls. the only way you can cheange them is by going into the game files and messing with the code and if you do that theres no guarantee it will work anyways! its not that hard to make cheangeable controls, really.
+-the combat. its really just mashing one singular button and maintaning your distanse from the enemy. even with the upgrades and stuff its still just mainly mashing buttons, it makes combat very boring and not-fun.
+-the movement. not only the game feels like its in slow-motion but it also feels like im walking on ice. when i stop holding any of the arrow keys my character keeps sliding for a second anyways and for a game thats supposed to be a platformer in some way it makes things VERY frustrating.
+-the saving system. why do i need to collect some blue orbs that i use for attacking so i can save my game? what if i dont find any at all do i just have to hope i find one asap or die and have to redo everything again? oh forgot to add if you die before saving you have to do everything ALL OVER AGAIN (this includes abilities you just gained, bosses or even cutscenes!) and if you dont have any of these blue orbs and die a lot youre just goanna need to keep doing things ALL OVER AGAIN.
+i really rarely not finish games but its just not fun to play. the only thing i can say that is good about this game is the general concept and the artstle. the artstyle is amazing! but everything else is not. not even the lore! its super generic and unoriginal, and it feels like some sort of a bedtime story for a kid. (but thats just my opinion about it!!!)",0,0,0,0.5,170
+387290,76561198260401448,"[b]9/10[/b]
+
+This game is like a thorny flower. It's pretty, but you will get hurt.",1,0,0,0.5,978
+387290,76561199140079708,노말 난이도로도 1200번도 넘게 죽었지만 끝까지 해낸게 너무 뿌듯함!,1,0,0,0.5,1193
+387290,76561198339188149,Yes,1,0,2,0.54356849193573,1045
+387290,76561199091100876,"VERY BAD CONTROLLER REFLEXES!!!!!!
+VERY BAD COMBAT!!!!!",0,0,0,0.4761904776096344,301
+387290,76561199808814824,GOAT,1,0,0,0.5,653
+387290,76561198398063029,ii,1,0,0,0.5,903
+387290,76561198168147713,четко,1,0,0,0.5,1614
+387290,76561198740874948,"Great game! Highly recommended!
+",1,0,0,0.5,617
+387290,76561199108592638,Интересная история и геймплей. Поиграла все части очень затягивает,1,0,0,0.5,267
+387290,76561198190983622,who the hell took the eyesight from the forest,1,0,0,0.5,576
+387290,76561198148789845,"Double edged sword on this one
+
+con's
+- ♥♥♥♥♥♥ combat
+- Platforming is terrible in the first 1.5 hours untill you get double jump
+- People say that the story is good? I can not get invested into it
+- Game is graphically wavey, but there is little room for error in movement sometimes, really a wrong approach to get the feeling right for people who play
+
+pro's
+- If the platforming lends itself to it the wavey flow feels really nice
+- Enough different interactions/abilities troughout the game
+- Art style is beatifull
+
+With all that said, got play Hollow Knight if you want a good game on your hands, can't really recommend this outdated game if you havn't played that one yet.
+
+If you actually play this game, do not turn on vsync since this causes massive input delay",0,0,0,0.5,328
+387290,76561198127774973,"Гра має красиву мальовку.
+На складному рівні можна отримати челендж.
+
+На жаль, продовжувати проходження гри на даному етапі не можу, як і повернути кошти.
+Сьогодні знайшов ці дві розмови які стосуються іншої гри від цього розробника. У висновку вони відмовились від свого видавця, щоб продавати гру на болотах.
+знайшли кошти для того, щоб опублікувати гру самим, адже усі мають отримувати задоволення від гри. Це слова СЕО цієї компанії.
+
+На жаль, це правило поширюється тільки на росіян, оскільки обговорення про додавання української локалізації було проігнорованим.
+
+ПЕРЕД ПОКУПКОЮ, пошукайте тут коментарі Thomas Mahle і вирішуйте, чи варте воно покупки.
+
+https://steamcommunity.com/app/1371980/discussions/0/7179373376273443861/?ctp=8
+https://steamcommunity.com/app/1371980/discussions/0/691999715068277602/",0,0,2,0.5315985083580017,500
+387290,76561198033979481,jest fajna i w ogóle123,1,0,0,0.5,814
+387290,76561199441511472,Suprisingly axcessible for a Metroidvania. The ability to create your own save points takes getting used to so save often and especally after hard sections. Combat is not this game's strong point but movement is good.,1,0,0,0.5,574
+387290,76561198061855677,Great platforming and great exploration once you get a few abilities. Really good metroidvania and great visuals,1,0,0,0.5,617
+387290,76561199883238013,bom demaize,1,0,0,0.5,1129
+387290,76561198304113910,"Jogaço da porra.
+
+Não é meu estilo de game mas sempre ouvia falar bem, é bem bão e reflexivo tambem, gostei mt
+",1,0,0,0.5,1053
+387290,76561198330505008,"Un pedazo de metroidvania precioso, precioso, con una BSO magica y un juego muy emotivo cuando toca y dificil también, de los primeros metroidvania que jugué en su día, siempre vivirá en mí. 10/10",1,0,0,0.5,860
+387290,76561198984332486,Nie jest zła ale mało wymagająca.,1,0,0,0.5,964
+387290,76561199439327008,"Que jogo lindo! É um dos jogos mais bonitos que já joguei. Os cenários são incríveis, cheios de vida, iluminação e movimento, quase como se cada área tivesse sido pintada à mão. A direção artística inteira consegue transformar o mundo do jogo em algo mágico e melancólico ao mesmo tempo.
+
+A trilha sonora é simplesmente espetacular e tem um papel gigantesco na imersão. Cada música acompanha perfeitamente os momentos de exploração, tensão e emoção.
+
+A movimentação é extremamente fluida e satisfatória, e conforme novas habilidades são desbloqueadas, explorar o mapa fica cada vez mais divertido. Apesar da aparência delicada, o jogo é bem desafiador em vários momentos, principalmente nas sequências de fuga e nas partes de plataforma mais precisas.
+
+É uma experiência muito emocional, imersiva e cuidadosamente construída do começo ao fim.
+Facilmente um dos jogos mais bonitos e memoráveis que já joguei.",1,0,2,0.5454545617103577,568
+387290,76561198166889201,muito bom,1,0,0,0.5,975
+387290,76561198216649569,One of the best games I’ve ever played. The atmosphere is absolutely beautiful.,1,0,0,0.5,1030
+387290,76561198085524323,Excelente jogo.,1,0,0,0.5,222
+387290,76561198873029079,평가가 압긍인 것과 별개로 메트로베니아 플랫포머이면서 조작감이 구린 큰 단점이 있음. 후속작에선 해결이 되었지만 이 작품에 가장 큰 짜증 요소중 하나임.,1,0,0,0.5,497
+387290,76561199538489393,um game bem divertido para as horas vagas,1,0,0,0.5,495
+387290,76561198755003647,Yes. ✨,1,0,2,0.5454545617103577,886
+387290,76561198280567075,"La historia empieza por lo alto y ahí se queda, me gusto muchísimo el estilo artístico y el mundo del juego, como plataformeo es muy bueno y como metroidvania tambien. Vas progresando y regresando, puedes perderte horas en el mundo pues el mapa es super amplio y conforme avanzas mas exploras, volviendo a lugares que ya viste por esa recompensa que te faltaba. Comprarlo este juego es algo de lo que no te arrepentirás.",1,0,0,0.5,776
+387290,76561198775932211,This game is fantastic!,1,0,0,0.5,419
+387290,76561198356058598,아 진짜 재밌는데 매트로배니아에 벽 느낌 ㅇㅅㅇ;;,1,0,0,0.5,335
+387290,76561198048383200,"Très content de ce jeu, il est magnifique, il procure de belles émotions, il est difficile. J'y jouais sur la Nintendo Switch et maintenant je le refais sous PC Gaming Linux sans  un seul soucis tout est fluide et fonctionnel avec une manette Xbox One sans fil et son adapteur usb. La configuration de la manette est non intuitive sous la distribution CachyOs mais réalisable.",1,0,0,0.5,606
+387290,76561198030305259,아트 브금 스토리 다 맘에 드는 플랫포머게임,1,0,0,0.5,2193
+387290,76561198006807283,"Ori and the Blind Forest - це гра, яка виглядає як казка для дітей... аж поки не змушує тебе 47 разів поспіль померти на одній секції й переосмислити власну координацію.
+
+На старті все дуже красиво й ніжно: ліс, світлячки, симфонічна музика, маленький пухнастий герой. А потім гра дістає весь арсенал платформера:
+- подвійні стрибки
+- ривки
+- плавання
+- ковзання по стінах
+- ""а тепер зроби це все одночасно під таймер""
+І ти такий: ""О. Це вже не казка. Це співбесіда.""
+
+Світ тут шикарний. Вогонь, вода, вітер, печери - усе виглядає настільки насичено й живо, що іноді забуваєш рухатись і просто стоїш, дивишся на фон... а потім тебе вбиває якась колюча рослина. Природа у Ori дуже красива, але поводиться як HR-відділ: посміхається й одразу робить боляче.
+
+Мапа цілісна, велика й постійно відкриває нові проходи через здібності. Класичне metroidvania-""повернись сюди через 6 годин, коли навчишся літати як білка-карлсон"". І це працює прекрасно, бо світ реально хочеться досліджувати.
+
+Окрема магія - музика. Саундтрек тут настільки епічний, що навіть коли ти втретє падаєш у кислоту, мозок усе одно каже: ""Зате як красиво загинув"".
+
+А ще Ori дуже любить втечі від босів. Не ""бий монстра 20 хвилин"", а ""тікай через палаючий ліс, поки екран вибухає спецефектами"". І це, чесно, набагато цікавіше за черговий boss fight із трьома фазами й любов’ю до губок для куль.
+
+Так, Definitive Edition зараз місцями виглядає трохи замилено в 4K. Але стиль усе ще витягує гру на рівень ""живого мультфільму"". Moon Studios буквально зробили платформер, який одночасно хочеться поставити на паузу для скріншота... і видалити після чергового складного стрибка.
+
+І головне: не соромтесь легкої складності. Ori навіть на ""лайті"" періодично поводиться так, ніби хоче перевірити, чи достатньо ви гідні бачити фінальні титри.",1,0,1,0.523809552192688,740
+387290,76561198844187487,"Плюсы:
+-Музыка
+-Сюжет
+-Анимация
+
+Минусы:
+-Короткая",1,0,0,0.5,1311
+387290,76561198314430637,LAN HOLLOW KNIGHT PİÇİ BABAN BURDA,1,0,0,0.4761904776096344,773
+387290,76561198045484624,I hate this game with burning passion.,1,0,0,0.5,843
+387290,76561199868359474,"Beautiful game, very hard for my skill level (took a very long break from gaming, still need more practice) so i like that you can save along the way",1,0,0,0.5,688
+387290,76561198053787100,"It has good art but it is a bad game. Maybe when it released and there wasn't as many metroidvanias it was comparatively better but now it doesn't have neither fun combat, platforming nor progression. Second metroidvania out of dozen or so that I just dropped out of sheer boredom.",0,0,0,0.4564315676689148,202
+387290,76561198019386647,"Poor level design. 
+Having pitch black area as the second zone with loads of blind jumps into spike traps is not fun when you have to start at the beginning of the zone each time you die.",0,0,0,0.47826087474823,109
+387290,76561198394941354,Vaya banger. La música y el estilo artístico me vuelven completamente creisi hamburguer.,1,0,0,0.5,77
+387290,76561199525097278,"Absolute stunning in not only visual but also gameplay and story!! I have always wished for a chance to play, to enjoy this game since it first release and i can't believe there would be a day i finished it ! It's just wonderful.",1,0,0,0.5,853
+387290,76561199040769225,Me gusto mucho el juego lo recomiendo y la banda sonora una locura,1,0,0,0.5,952
+387290,76561198790787443,"Хорошая, яркая, добрая игра. Исследовать лес довольно интересно, но наверное надо было добавить побольше врагов, а то всю игру стреляешь в одних и тех же червячков и паучков",1,0,1,0.523809552192688,910
+387290,76561198157072233,Nice game. Does not take too long too complete and it has a pretty art and emotional story.,1,0,0,0.5,1079
+387290,76561199595317253,it's amazing game,1,0,0,0.5,737
+387290,76561198020627598,"沒什麼好說的
+畫面美、音樂神、操作手感流暢
+對於喜歡類銀和平台跳躍的人沒有不推的道理",1,0,0,0.5,1576
+387290,76561198820903899,"Really good tbh. Good story, good graphics and ambience, and Ori's mobility feels so smooth and satisfying.",1,0,0,0.5,569
+387290,76561198714198423,"Ori and the Blind Forest and Ori and the Will of the Wisps are by far the best Metroidvania games I've come across. Beautiful, rhythmic and challenging!! Highly recommend.",1,0,0,0.5,216
+387290,76561199833099407,"I enjoyed it. Controls were a little bit confusing at first but were not very difficult at all to get the hang of. Visuals were stunning, soundtrack is amazing, and the gameplay was good. Overall in my opinion great game.",1,0,0,0.5,715
+387290,76561199205803001,非常棒的遊戲 不過相對來說還是比較喜歡二代,1,0,0,0.5,488
+387290,76561199250835043,"A very fun metroidvania, which purely focusses on the movement and exploration part of the genre. So if youre into that definetly buy it. The game feels very alive and imo the story is alot more captivating, then the sequel. Each biome has its own unique movement skill to explore, the characters are also very charismatic. I do think that Ori is kinda a lame character, with not that much depth to him.",1,0,0,0.5,755
+387290,76561198979602413,foda demais,1,0,0,0.5,678
+387290,76561199480600836,"This game has a charming world (gorgeous graphics) with beautiful music. The game's mechanism is awesome, everything is captivating and wonderful.",1,0,0,0.5,249
+387290,76561199825720116,fun,1,0,0,0.5,313
+387290,76561199873461833,Great fun to play. Very vivid and enjoyable art style.,1,0,0,0.5,705
+387290,76561199004555955,Good looking and that`s all,0,0,0,0.5,764
+387290,76561198767746128,a,1,0,0,0.5,260
+387290,76561198810117962,"PERFECTION !
+
+I know I'm late to the party, but dont be fooled by the date of this title ! 
+
+Ori and the blind forest has everything you ever wanted in a video game. every single element was crafted with excellence and great passion and it shows throughout the game. 
+the art style and ambience itself is absolutely eye-gasmic, accompanied by Gareth Coker's wonderful OST and the lovely, heartwarming storytelling... you're guaranteed to have an incredibly everlasting unique experience.
+
+the gameplay, controls, mechanics are flawless and very entertaining ! 
+
+the devs delivered the audience a top notch title and I think the majority of studios in the gaming industry nowadays should take notes from Moon studios !
+
+Hats off to everyone who worked on this title and a heartfelt thank you for giving us such a gem <3
+
+
+10/10
+
+",1,0,0,0.5,1025
+387290,76561199760897622,"Absolutely loved this game. I am not good at games like this(hollow knight) but this one was manageable, still hard but also very fun until the end. Although the last chase scene did make me rage hard, it was all worth it for that beautiful ending.
+Can't wait to play the second game.",1,0,0,0.5,1664
+387290,76561199486375418,"good game
+",1,0,0,0.5,599
+387290,76561198040454487,"This game is fun to play, has a great soundtrack, and is visually stunning.",1,0,0,0.5,1501
+387290,76561198375885772,"Wow, wow, wow. First off, Ori and the Blind Forest is like no other metroidvania/platformer game I have ever played before. By no means is this a perfect game, but truly peak storytelling. Right from the beginning of the game I was so blown away by the gorgeous atmosphere. The combination of visuals, OST and gameplay really made the overall gaming experience enjoyable for me. Gameplay wise I have mixed thoughts about some things. Some ‘boss’ encounters and chase sequences just felt lackluster because of the use of mixed abilities/timing. There were times where I just wanted to quit because of how frustrated I got (lol skill issue). I definitely thought those parts could've been improved. Towards the end/epilogue, I lost it. This game showed a great example of grief, redemption, found family and how far a mothers love would go to protect her children. 
+
+Overall, Ori and the Blind Forest was truly a great experience. Beautiful game and good platforming. 
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3721283405 
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3721283418
+",1,0,4,0.5849056243896484,1963
+387290,76561199330611778,Non mi piace particolarmente ma è caruccio se hai un po di pazienza,1,0,0,0.5,1218
+387290,76561199538245640,ОБОЖАЮ МЕТРОИДВАНИИ,1,0,0,0.5,894
+387290,76561198868067381,"This game saved metroidvanias for me, more games in this genre should allow you to make a save point wherever you want in exchange of a resource",1,0,0,0.5,492

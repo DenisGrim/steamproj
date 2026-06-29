@@ -1,0 +1,443 @@
+app_id,user_id,review,does_recommend,funny,helpful,weight,playtime_at_review
+490950,76561198823966874,"Eu gostei da mecânica do jogo, mas vou dar review negativa porque tinha um símbolo maçônico no jogo.
+Não entendo essa insistência dos devs de colocar esses símbolos em quase todos os jogos, que estranho! Já basta isso acontecer na indústria da música e dos filmes..",0,0,0,0.5,1859
+490950,76561198367471798,"Frost is a survival card game that understands how to make players feel hopeless in the most effective way possible. Set in a frozen world slowly being consumed by an endless winter, the game transforms survival into a constant battle against exhaustion, starvation, and inevitable collapse. Unlike many deckbuilding games that focus on empowering players with flashy combinations and increasingly powerful abilities, Frost takes the opposite approach. Every mechanic is designed to make survival feel fragile and temporary. Progress is not about becoming unstoppable but about delaying death for one more journey through the snow. That harsh philosophy gives the game a unique identity that separates it from almost every other survival deckbuilder on the market.
+
+The core gameplay revolves around managing a group of survivors through card-based exploration and resource management. Every card represents something important, whether it is food, tools, weapons, injuries, ideas, or the survivors themselves. Players travel between locations by meeting card requirements while constantly balancing limited resources and trying to avoid complete collapse. At first, the mechanics seem manageable, but the game gradually introduces more pressure through fatigue, weather conditions, deck pollution, and difficult moral decisions. The further players progress, the more overwhelming the struggle becomes. Every successful move feels earned because the game rarely allows players to feel truly safe.
+
+One of Frost’s greatest achievements is its atmosphere. The visual style perfectly captures the emotional emptiness of a dying frozen world. Nearly every environment is covered in pale white snow, faded blue shadows, and bleak grey ruins that create a constant sense of isolation. The artwork resembles dark illustrations from a post-apocalyptic storybook, with exhausted survivors wandering through endless storms searching for warmth that may not even exist anymore. The minimalist presentation works incredibly well because it allows the world to feel cold and lifeless without relying on excessive detail. The game’s environments rarely feel welcoming, and that emotional discomfort becomes one of the experience’s defining strengths.
+
+The audio design contributes just as much to the atmosphere. Frost rarely uses dramatic or overwhelming music, instead relying on quiet ambient sounds, distant wind, and unsettling silence to create tension. The constant sound of snowstorms and harsh weather makes the environment feel hostile even during calm moments. Music appears only when necessary, and when it does, it reinforces the desperation and exhaustion that define the experience. The restrained soundtrack combined with the bleak visuals creates a remarkably immersive atmosphere that few survival games manage to achieve this effectively.
+
+Mechanically, the game blends survival management with deckbuilding in creative ways. Every action affects the deck directly, meaning poor decisions can slowly poison future turns with useless or harmful cards. Hunger, injuries, exhaustion, and emotional strain all become physical obstacles within the deck itself, forcing players to constantly think about long-term survival instead of short-term victories. Building an efficient deck is not about creating unstoppable combinations but about reducing suffering and keeping the group functional for as long as possible. This creates a very different pacing from traditional roguelike deckbuilders where players usually become stronger over time.
+
+The game’s scenario structure also adds a significant amount of replayability. Different missions introduce unique conditions, starting resources, and survival goals that force players to rethink their strategies constantly. Some scenarios become brutally difficult, demanding careful planning and efficient resource management from the very beginning. The game rewards adaptation and patience more than aggressive experimentation, which helps every successful run feel meaningful. Even failure often teaches players something valuable about resource priorities and deck efficiency.
+
+One of the most interesting aspects of Frost is how emotionally draining it intentionally feels. The game constantly pressures players into uncomfortable decisions involving sacrifice, rationing, and survival at any cost. There are moments where keeping the group alive may require morally questionable actions, and the game never tries to make those choices feel heroic or satisfying. Instead, survival often feels desperate and exhausting. This emotional weight gives Frost a stronger psychological impact than many survival games that focus primarily on action or spectacle.
+
+However, the game’s oppressive design can also become one of its biggest weaknesses. Frost is extremely unforgiving, especially for new players still learning how the systems interact. Early runs often end quickly and brutally, sometimes because of bad luck or unclear mechanics rather than obvious mistakes. The tutorials and explanations are limited considering how punishing the systems can become, forcing players to learn largely through repeated failure. Some players may appreciate this harsh learning curve, while others may simply find it frustrating.
+
+The game’s pacing can also feel slow and mentally exhausting during longer sessions. Because every decision carries consequences, even relatively small actions require careful thought and planning. Combined with the bleak atmosphere, this creates an experience that can become emotionally draining over time. Frost is not designed for relaxed or casual gameplay sessions. It constantly demands focus, patience, and attention to detail, which may not appeal to players looking for faster or more rewarding progression systems.
+
+Readability can occasionally become another issue. The muted art style and minimalist interface fit the atmosphere perfectly, but some cards and information can blend together visually during complex situations. While the presentation is beautiful in its own bleak way, it occasionally sacrifices clarity in favor of maintaining the oppressive aesthetic.
+
+Despite these flaws, Frost succeeds because of how completely it commits to its vision. Every mechanic, visual element, and audio cue reinforces the feeling of surviving in a hopeless frozen world where every victory is temporary. The game never breaks its atmosphere for convenience or accessibility, and that commitment makes the experience feel far more immersive and emotionally memorable than many larger survival games.
+
+For players who enjoy difficult strategy games, survival mechanics, and atmospheric deckbuilders, Frost offers a uniquely bleak and rewarding experience. It is harsh, exhausting, and unforgiving, but beneath that frozen exterior lies one of the most emotionally immersive survival card games available. Players willing to embrace its brutality will discover a deeply strategic and unforgettable journey through a world where hope slowly disappears beneath the snow.
+
+Rating: 8/10",1,0,2,0.5080334544181824,914
+490950,76561197970193418,"⣿⣿⡻⠿⣳⠸⢿⡇⢇⣿⡧⢹⠿⣿⣿⣿⣿⣾⣿⡇⣿⣿⣿⣿⡿⡐⣯⠁ ⠄⠄
+⠟⣛⣽⡳⠼⠄⠈⣷⡾⣥⣱⠃⠣⣿⣿⣿⣯⣭⠽⡇⣿⣿⣿⣿⣟⢢⠏⠄ ⠄
+⢠⡿⠶⣮⣝⣿⠄⠄⠈⡥⢭⣥⠅⢌⣽⣿⣻⢶⣭⡿⠿⠜⢿⣿⣿⡿⠁⠄⠄
+⠄⣼⣧⠤⢌⣭⡇⠄⠄⠄⠭⠭⠭⠯⠴⣚⣉⣛⡢⠭⠵⢶⣾⣦⡍⠁⠄⠄⠄⠄
+⠄⣿⣷⣯⣭⡷⠄⠄⢀⣀⠩⠍⢉⣛⣛⠫⢏⣈⣭⣥⣶⣶⣦⣭⣛⠄⠄⠄⠄⠄
+⢀⣿⣿⣿⡿⠃⢀⣴⣿⣿⣿⣎⢩⠌⣡⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠄⠄⠄
+⢸⡿⢟⣽⠎⣰⣿⣿⣿⣿⣿⣿⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠄⠄
+⣰⠯⣾⢅⣼⣿⣿⣿⣿⣿⣿⡇⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠄
+⢰⣄⡉⣼⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠄
+⢯⣌⢹⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⢸⣇⣽⣿⣿⣿⣿⣿⣿⣿⣿⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⢸⣟⣧⡻⣿⣿⣿⣿⣿⣿⣿⣧⡻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⠈⢹⡧⣿⣸⠿⢿⣿⣿⣿⣿⡿⠗⣈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠄
+⠄⠘⢷⡳⣾⣷⣶⣶⣶⣶⣶⣾⣿⣿⢀⣶⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠄
+⠄⠄⠈⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄
+⠄⠄⠄⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠄⠄",1,0,3,0.5588235259056091,112
+490950,76561198054516852,Absolutně ta hra nemá logiku ani systém. Random padají věci kvůli kterým nemáte sebemenší šanci něco udělat.,0,0,0,0.5,235
+490950,76561198046216371,"Liked the idea but gameplay comes down to random luck for card draws and outcomes. After a couple failed playthroughs, I'd felt like I'd seen enough.",0,0,2,0.5419847369194031,46
+490950,76561198080024817,"Frost est un agréable jeu de carte solo dont la force est de raccorder son gameplay à son univers.
+Vous devez généralement atteindre une certaine distance tout en étant poursuivi par le frost, une tempête qui mettra fin à votre partie si vous traînez trop.
+Les cartes au milieu représente une région à passer avec les ressources nécessaire (bois - nourriture - survivant) pour avancer ainsi qu'un événement négatif ou positif.
+Votre pile de carte représente votre groupe de survivants et ses ressources.
+Votre main, les actions que vous pourrez faire avant la fin du tour représentant le temps qui passe et le frost qui se rapproche. 
+Ainsi, surcharger votre groupe de ressources risque de vous ralentir en vous faisant piocher trop de fois avant de trouver ce qu'il vous faut. 
+Mettre en place une idée, comme fabriquer un outil ou apprendre une capacité à un survivant (via les cartes du haut) pourra vous faire perdre du temps et des ressources, mais peut s'avérer un bon investissement pour la suite.
+
+Frost se joue vite avec des parties assez courtes.",1,0,0,0.5,3238
+490950,76561198025479206,got this on the nintendo Switch and it for some reason is alot harder.  Needs to get a table top version of the game released.,1,0,0,0.5,22
+490950,76561198063286982,incredibly underrated tbh,1,0,0,0.5,392
+490950,76561198021706661,"An underrated gem. Challenging and brutal, though only the last scenarios does RNG start to become an issue. This may well be intentional given the theme of the game.",1,0,1,0.52173912525177,1189
+490950,76561197972299895,"Awesome game, simple concept, very fun, always keep coming back.",1,0,0,0.5,2710
+490950,76561199408795789,ce jeu et abandonné les succès sont bug et le jeu frezze a certain moments ne surtout pas l'acheter ):[,0,0,0,0.5,230
+490950,76561198049097607,Only offers easy mode to begin with; if you are experienced with such games then it takes boring grinding before you can unlock anything more interesting.,0,0,2,0.47487497329711914,50
+490950,76561197996207273,"Buen juego de cartas en solitario con mecánicas de gestión de recursos y deckbuilding, con dificultad adaptable y varios modos de juego, con desafios a modo de escenario para desbloquear personajes (algunos desafios muy muy dificiles de conseguir). Tiene un factor azar bastante fuerte, pero conforme vas jugando, puedes cogerle el tranquillo y minimizarlo y reducir las cartas de cansancio que sirven como cartas inutiles que estorban en el mazo. pero al ser partidas cortas hace que te enganches bastante. Ese desafio del recruiter como se me enquista!!!
+
+El arte minimalista muy bonico además.",1,0,0,0.5,1948
+490950,76561198030940597,Eh.,0,0,0,0.5,25
+490950,76561198012848150,"Wasted potrential. The game mechanics rely to much on luck. You will find yourself surviving to the next round just by pure chance, only to find in the next turn that you ended the gamy also just because you draw unlucky card. This game need reworking, feels unfinished.",0,0,0,0.5,377
+490950,76561198083784864,"I wish I could love this game, but no one can possibly love this game as much as the developer clearly did.
+Everyone who loves deck building strategy and experimenting with card synergies should give this game a chance.
+
+3 Main Resources: Survivors, Food, Wood
+Countless Resource Variations and Combinations:
+- Survivors: Hunter, Trader, Healer, Shaman, and far more
+- Food: Dried Food, Cannibalism, Plant Pot, Excavator, and far more
+- Wood: Tools, Cleaver, and... hey, it's a free Cleaver! (you'll never have enough wood unless you have too much wood)
+
+Countless special and wonderfully thematic cards: Forced March, Clothing, Fire, Fire, and please give me more Fire!
+Countless special and wonderfully thematic events: Depression, Cannibals, Blizzards... there are good ones too, I promise!
+Countless special and wonderfully thematic places: Plains, Swamp, Volcano... you probably should look where you're going!
+Countless special and wonderfully thematic characters to play: Leader, Skeptic, Meditator, Hunter, and that's not even half!
+
+This game was an act of true love, and I keep coming back to it again and again so I can deeply enjoy freezing to death.
+When I get too greedy in the main game and die, there's always a wonderfully thematic scenario to play instead.
+My favorite scenario is the very last one. (At least, I assume it's the last; they're always such a delightful surprise to unlock!)
+
+And Author, if you are the survivor reading this, I want to thank you for your hidden message, and I'd like to say in return:
+Yes, your story resonates. Continue on towards your Refuge, and may there be many sunny days along the way.",1,0,4,0.5652173757553101,1817
+490950,76561198238946714,간간히 하기 좋은 게임. 로그라이트 게임 처럼 매판후 카드가 언락 됩니다. 캐릭터도 언락되는데 frigomancer 가 제일 좋습니다. 바로 중간 난이도로 하지 마시고 이지난이도로 룰을 다 파악하고 하세요.,1,0,1,0.47990620136260986,1200
+490950,76561198072290170,sí,1,0,0,0.5,231
+490950,76561198826770231,"愚蠢的概率随机的游戏，很多方面都需要运气，例如开局人去寻找其他东西如果连续3次都是给诅咒的话感觉直接没法玩了。但是作为简单玩玩的游戏还是值得一玩，可惜的是没中文加上没人传播这款游戏，也没人汉化。
+简单的运气游戏罢了。",1,0,0,0.5,195
+490950,76561198378043997,"Nice little puzzle card game, well worth it",1,0,0,0.5,482
+490950,76561198980333279,"good game 
+but  we need  Chinese",1,0,0,0.5,68
+490950,76561198004415733,El mejor deck building que existe! Super sencillo y adictivo. Una compra recomendada al 100%.,1,0,0,0.5,2361
+490950,76561198216282732,The frost approaches. The visuals and sounds put you back in the ice age. You'll be reaching for your pelt for warmth just playing this.,1,0,0,0.5,912
+490950,76561199015254019,calming,1,0,0,0.5,807
+490950,76561198063087474,"fun game, rng with the clock makes the game challenging, rogue like aspect changes the expirience every run. wildly entertaining",1,0,0,0.46979865431785583,243
+490950,76561198033861960,"Too much bad random. The outcome of cards you play are random. Scavenging (which is one of the way that you can get cards) is random.  All of this just hides the fact that core gameplays isn't very deep. When you're not being screwed by random, you don't put many cards in you deck. Most of the cards that you can add are bad.",0,0,5,0.5632481575012207,248
+490950,76561198026663817,"It's quite interesting, if flawed here and there. It sucks that the game came out before the explosion of roguelike card battlers, I believe it would've been much more successful otherwise. It's designed in such a way that you could easily play a board game version if you wished to, and that's nice.
+
+The objective is to reach the Refuge, which you do by completing a set amount of regions. In order to complete a region, you must ""tap"" (as in: use but not sacrifice from the deck) a given set of resources. You can only hold 5 cards at a time, so you have to figure out ways to draw more cards. And you do need to hurry up - the Frost is coming. Every turn you do not travel, you lose one point in the Frost counter. Luckily, when you travel the counter goes up by one. 
+
+And that's pretty much the entire game in a nutshell. Keep that deck lean and powerful. As you unlock content, you'll have to deal with ""events"" - some dangers which require you either to use a specific card, sacrifice some resources, or lose either a hit point (you have 4 of those) or a survivor. Both are valuable, so be careful. Sadly, this is also where the game starts to get a little too RNGy - it feels like sometimes you just lose because you didn't have enough luck with the cards. But perhaps that's just because I'm not so good at it. That said, I managed to beat the game on Hard, and to me that's completion - I'm satisfied.
+
+Another thing that could be different is the unlock system. To keep things short, you never know when you'll unlock things or what do you need to do to. I unlocked a few scenarios - beat them all - but I know there's far more, and I don't think there's much point in replaying this too much. Although I probably will return to this game every now and then, we'll see.
+
+Overall - I recommend it if you're into card games. This is quite different from whatever offerings there are on roguelike deckbuilder market now, simply because this is mainly a resource management/survival game. If nothing else, you'll appreciate the fresh and creative design.
+",1,0,1,0.5258620381355286,273
+490950,76561198005360055,"Ok, wow.... I`m like 5 years late for a Positive review
+So.. yeah..
+
+Pretty interesting game:
+- Challenging
+- Different from your usual Spireclone
+- Very boardgamey
+- Cheap
+- Healthy amount of content
+- Demo!
+
+As someone who played way too many card-somethings, this was a very satisfactory buy.",1,0,3,0.5454545617103577,638
+490950,76561198063322340,"Есть желание биться в стену головой (читать: воевать с рандомом)? Да?! Тогда игра для вас! Как бы вы не старались, как бы не просчитывали варианты - все бесполезно, последние 3 хода игра не даст пройти пока вы не отыграете пару часов =) Вэлком ту хэлл!",0,0,0,0.4729729890823364,207
+490950,76561198015171654,"As someone who loves the card game Dominion, I obviously had to pick up this title. It did not disappoint! Although it isn't multiplayer and plays very different than Dominion the core mechanic is there and it's lovely. Building a deck that means survival can be a little tricky due to RNG but that just means you aren't glued to one play style and have to think and strategize differently with what you have during each play through. Sometimes it's a gamble and you lose but the moments that pay off and get you to the end are rewarding and keep you coming back to play more.",1,0,3,0.5721980333328247,84
+490950,76561197993080284,Really clever main game mechanic. But the probabilities in the game are broken (e.g. how likely it's to get exhaustion that you HAVE to rely on luck to pass even easy modes).,1,0,0,0.5,1643
+490950,76561198379684351,"Que jogo gostoso de se jogar! 
+A tensão de caminhar pela nevasca se acumula a cada turno que passa, e o gerenciamento de todos os recursos que você tem começa a ficar cada vez mais dificil conforme você vai se aprofundando na nevasca!
+
+Um ótimo jogo de cartas com gerenciamento de recursos que não fica monótono conforme você vai abrindo novos cenários e novas customizações para o modo normal, o jogo com certeza vale a pena e o valor de compra!",1,0,1,0.523809552192688,560
+490950,76561198000313700,"Eine ziemliche Genre Perle hast du hier entdeckt, lieber Leser. 
+Ich könnte einfach sagen, los kaufs dir, das Ding taugt was. Und ja, stimmt auch total, so simpel könnte mans halten.
+Aber wenn du´s genau wissen willst, es geht darum, dass dieses Spiel wirklich dezent aussieht und viel bietet. Du wirst dem ganzen ein paar Minuten geben müssen, um auf Dich zu wirken. Die Grafik und der Sound vermitteln die trostlose, einsame Atmosphäre perfekt und nehmen Dich mit auf eine hoffnungslose Reise durch verschneite Einöden. 
+
+Da kommt´s dann hart auf hart, im Kampf Mensch gegen Natur bist Du haushoch unterlegen. Die Kälte kriecht Dir in die Glieder, Du wehrst Dich nach Kräften, kämpfst Dich voran und stapfst trotzig dem drohenden Kältetod entgegen. Einen Fuß setzt Du stoisch vor den anderen, eine Karte nach der anderen legst Du aus, nur um Dich ein paar wenige Schritte voran zu schleppen, nur ein wenig weiter noch, bevor die Große Dunkelheit Dich umfängt. Wenn die Nahrung knapp wird, weißt Du, bald ist es aus. Kannst Du noch ein kleines Feuer entfachen, um Dich zu wärmen? Ein paar Minuten reichen schon, dann kannst Du sicher weiter laufen. Nur.....ein....paar......Augenblicke......aus....ruhen.....
+
+Und das ist der Haken: die Ressourcen sind wirklich unverschämt knapp und Genre typisch ists nicht gerade leicht, zu überleben.
+Du wirst oft, ziemlich oft das Zeitliche segnen. Aber das Spiel motiviert, immer nochmal zu beginnen, mit ein paar neuen Karten und mehr Vorwissen um die Funktionsweise der Welt. 
+Und ehrlicherweise muss man auch sagen, so unendlich viel neu macht das Spiel nicht, aber es macht eben alles bekannte sehr richtig, wirkt ausgewogen und stimmig.
+Und Du hast ja hier drauf geklickt, weils Dich irgendwie angesprochen hat und wenn du mit nem Deck voller Karten was anfangen kannst, greif ruhig zu. 
+Der Preis stimmt mehr als gut und es ist mal ein erfrischend neues Szenario (erfrischend, verstehste? Wegen der Kälte und so... naja, lies lieber nicht weiter, spiel lieber los, die Kälte besiegt sich schließlich nicht von allein und auf die globale Erwärmung brauchst Du nicht hoffen, die braucht sicher noch drei oder vier Jahre bis überall Sahara ist. )
+Viel Spaß also.... ;-)
+
+
+
+
+
+
+Und hey, wenn´s Dir gefallen hat, ne Runde von mir zu lesen, dann klick hier
+https://store.steampowered.com/curator/41622336/
+und da gibts mehr von mir auf meiner Curator Seite. Schmökern for free: Also stell Dir nen Tee bereit und viel Spaß beim lesen...",1,0,6,0.6074326038360596,52
+490950,76561198037629057,"This game have very nice concept and style. Works very well as a singleplayer card game. There is a lot of content for some casual gameplay.
+
+This game sadly have many bugs and whole concept is kind of unbalanced.",1,0,1,0.523809552192688,1102
+490950,76561198271998650,"I don't like strategy/survival games generally because I find them tedious and frustratingly complex. This game is different. While it is quite simple in concept, it kept me engaged over many play throughs balancing challenge, atmosphere, and length quite well. It's the perfect kind of casual but engaging game, and I'm excited to keep playing and unlock more and more. Though I do recommend playing the demo first since it's available and a great test to see if you'll like this game.
+
+Pros:
+- The bits of story attached to the cards and intro I really enjoyed. 
+- The art/atmospheric design: it is simple, but really well done in it's simplicity. It feels harsh and threatening and gets more so as the Frost gets closer.
+- The harshness extends beyond the art/atmosphere into both the brutal randomness of the cards/deck and the lack of direction on how to unlock things further.
+- Easy is still very much easy, but in a way that feels very rewarding when you've at some point had at least one very harsh round and got past it. Also if you get stuck it's easy to restart from the menu pulled up by escape, or just let yourself die and start over from the main menu.
+- Custom mode lets you choose the difficulty by changing various options.
+
+Cons: 
+- There's no guidance on how to unlock cards or scenarios, but I do think it's designed to be that way, as it adds to the eerie harsh environment of the game.
+- It fits the environment and theme but the brutal randomness might not be for you.
+- While most of the icon/cards are pretty straight forward to figure out they would benefit from a description. For example, there's a speech bubble icon that I'm not entirely sure how to get or what it represents. 
+- It can be confusing how the number of your resources change and how to figure out if you change them to get what you need. The game could benefited from more guidance on how the game plays out and how various cards work/work together. Though, it feels like it might intentional to add to the mystery, difficulty, and harshness.
+- Due to the above-mentioned cons, there's a good argument for the game feeling like and early access or rushed/unfinished version. It doesn't bother me as it adds to the atmospheric harshness and the games not super expensive, but it's worth noting.",1,0,0,0.5,102
+490950,76561198401694277,"ドミニオン系カードゲーム。
+全カード開放までやりました。
+後半解除されるカードの効果が大きいので、周回を重ねていくとだんだん難易度が大きくなります。
+一人用カードゲームが好きな人には刺さると思います。",1,0,0,0.5,954
+490950,76561198443929838,"Decyzje i poświęcenia, ryzyko i losowość. Och, i jeszcze tryb ciemny by nie dostać na dokładkę ślepoty śnieżnej.",1,0,0,0.45618051290512085,113
+490950,76561198012210619,"wasn't sure about this, but I actually love it. Somehow Frost is simultaneously chill and casual, as well as difficult and unforgiving, and I really like the blend.",1,0,2,0.5,641
+490950,76561198024938189,"I keep coming back to this game - mostly on mobile/tablet. If you know what a deck-building game is (like Dominion, Ascension), this is a solitaire deck-builder that unlocks complexity over multiple plays. If that doesn't mean much to you, just know that it is not like a collectible card battler like the popular games, Hearthstone or physical Pokemon card game. Building and shaping the deck of cards you play with happens during the game (not between matches). So you are always deciding the costs of using up or trading cards while you try to survive the trip.
+
+The theme is surprisingly strong. Individual faces on each person in your tribe can actually cause you to hesitate: Do I damage the tribe leader or sacrifice this face looking at me? The cannibalism card is just -- I almost never use it. I know it's just cards but the simple pervasive theme and mood just works on me and raises the game above a math problem or puzzle and makes it feel like a survival story.
+
+Why it's not perfect:
+The interface has had issues in the past and it is improved but it takes some getting used to. It would be nice if it was clearer how it worked and it can feel a bit clunky instead of intuitive, at first. On the plus side of this, it is smooth and quick once you get accustomed. 
+
+It can feel a bit punishing, at first, because you may not realize how terrible your choices have been when you first begin. It's not always the randomness causing you to lose. ;)
+
+An unfair randomness does creep into the odd game that can be frustrating -- especially when not many cards are unlocked/collected and temperature starts affecting how many cards you draw. However, if you can accept that some play just won't be fair or even possible, the decisions and different approaches to take are a fun mental ride. Also, after you play a bunch of solitaire games, you may begin to realize that it really has to be difficult and present impossible scenarios or it becomes quickly unsatisfying.
+
+In my experience, running up against a brick wall did get me to try different approaches, and thanks to the additional cards earned, the complexity and depth of the game increases as you play over and over, so it keeps you learning for a long time.
+
+I've had the game for years, and I must really like it because I keep going back for more. Recommended!",1,0,0,0.5,638
+490950,76561198094319835,Great card game that teaches you how to cannibalize on strangers to feed your family.,1,0,0,0.5,241
+490950,76561198022966154,"Disclaimer: This game is at first glance pretty bland and more of a ""try not to die"" - marathon. BUT between games unlocks new cards and scenarios to play around with, and not all of them are beneficial.
+
+After a few hours the game really started to open up with more and more conditions to consider like body temperature, mental health and loyalty from the recruited survivors in your deck. The visual style is gorgeous and coherent throughout along with sounds made to make you feel the isolation and eerieness of being lost in a sacred harsh environment. Also never before has cannibalism been so useful. A thing to note also is that the game is heavily RNG-based which I usually would have a big problem with but since the setting is literally lost in the snow doing whatever it takes to survive it makes so much sense that you sometimes can send out 5 survivors without getting back that one piece of food in order to survive or that you sometimes even lose half said crew in the snow. The pricetag is great to 7 euros as a base price even with a free demo makes this game an easy recommend.",1,0,0,0.5,1432
+490950,76561198870475166,"7/10
+
+Loved the art, music and atmosphere.
+Not really a fan of the gameplay.
+
+Almost 20 hours in, I barely won the game in hard difficulty.
+This game is so hard, mainly because of bad luck.
+And there is impossible difficulty...",1,0,0,0.47413790225982666,1143
+490950,76561197972908629,"This is a fun game, but honestly it's just a little TOO hard.  I play on easy mode and I've won maybe 3 out of 100 games or so.",1,0,2,0.5370919704437256,829
+490950,76561198073895598,"Frost peut paraître simple en apparence mais est en réalité très complet. L'équilibrage est parfait, le jeu est complexe sans être pour autant frustrant. Les 9 scénarios poussent à jouer différemment et à ajuster ses techniques. Attention, c'est très addictif.",1,0,0,0.5,2491
+490950,76561198004306150,"Enjoyed this game on Nintendo Switch, but kept having bug that prevents game from saving.  This version does not have that problem.  Also this version costs about half as much.",1,0,2,0.548872172832489,1204
+490950,76561198003943149,"It's so simplistic and it got repetitive way too fast for me. Roll the dice to try and get the resource you want.. yay.
+",0,0,4,0.48305651545524597,37
+490950,76561198191976577,"구글플레이에서 5500원에 팝니다.
+
+그거보다 쌀때 구매를 결정하세요",1,0,0,0.5,35
+490950,76561198037708209,A fun card game that gets harder the more you play and finish the game,1,0,0,0.4346793293952942,733
+490950,76561198308565517,Best Solitaire card game on steam. feels like a really brutal arctic scavengers. Card are really thematic and gameplay is intuitive,1,0,1,0.5205479264259338,219
+490950,76561198002868815,Great game made well.  It appears simple at first but there is a good depth of variety to the gameplay.,1,0,1,0.5,1629
+490950,76561198121261963,"Great game. The description mentions Dominion and Ascension as inspiration, but I have to say the game would fit the Oniverse perfectly.
+
+It's a neat solo game with enough rules to be interesting but not enough to be convoluted. Your moves matter, and yet the game is quick and to the point. And you have so many costumization options that you can make the game your own. I really like it.",1,0,1,0.5,125
+490950,76561198029985509,"An addictive, cerebral, deck building game, in the same vein as Dominion ( the card game ) but much more complex.
+
+Navigate the frozen landscape, gathering resources such as wood ( to start fires ) and food ( to eat and trade ), while fending off attacks from wolves and cannibals. Don't stay in one place for too long, otherwise frostbite will end your expedition.
+
+It took me 3 hours just to finish the ""easy"" scenario ( which unlocks campaigns ).
+
+Don't be dissuaded by the abstract art style; this game is 100% brain work.",1,0,1,0.4901960790157318,173
+490950,76561198354405644,"Simple but elegant resource management game, with good challenges and new cards each time.
+We all need more great card games like this.",1,0,1,0.5,39
+490950,76561198004991309,Frost is an interesting deckbuilder that is enjoyable but ultimately doesn't deepen that much as you unlock additional cards and events.,1,0,0,0.5,610
+490950,76561197999618921,"I really enjoyed this game.  I really enjoy card games in general but this is one of the better card based games I have played in a bit.  I did not find this game to be super deep but for a game under ten dollar game I feel it has accomplished everything that it set out to do.
+
+Since it's a card game, there are a lot of random elements in the game but the designers have given you a few ways to mitigate some of the randomness.  I feel this game has allowed me to build strategies and execute them.  The game does give you a lot of decision points.  I have yet to unlock all the cards, so this may change if I do, but I feel there's less trying out different builds on cards alone.  There are different characters you can play which should change how you will play the game.  It does sometimes feel that you do get screwed by bad luck but I have long ago accepted that in card games.  
+
+The atmosphere in this game gives the feeling of desperation and panic as things start to go worse and worse.  There is a sense of discovery as you play through the game. 
+
+My biggest complaint of the game is the slow sense of progression in the sense of unlocking new characters and cards.  
+
+Overall, I highly recommend this game if you are looking for a solo deckbuilding game of exploring a desolate wasteland.",1,0,1,0.5258620381355286,563
+490950,76561198095751718,"Слишком много рандома, но при этом невероятно интересная.",1,0,1,0.5032680034637451,443
+490950,76561197985727392,"A simple, single-player, meditative and *very* atmospheric deck builder. I like it a lot.",1,0,0,0.5,240
+490950,76561198165236215,本质生存类策略RPG，把冒险、收集、资源管理等要素做在了卡牌系统里，配合带有一定随机性的抽卡系统以及浓（省）缩（钱）的交互方式。不知道为什么属于那种我觉得概念上很有意思但实际玩了一下就不想玩的……大概还是值得体验一下的吧,1,0,6,0.5563591122627258,8
+490950,76561198002852156,Fantastic card game with great atmosphere,1,0,1,0.5,2708
+490950,76561198085572077,"I want to be able to have a deck tracker at all times while in this game, it's really annoying to have to remember how much you have. Otherwise, good game.",0,0,0,0.41173529624938965,152
+490950,76561197971362526,"Frost is my favorite take on the deck-building genre yet. Most of these types of games emphasize the acqusition of new cards, where the decision making is all about what you add to your deck. Frost, however, has a ton of ways to remove cards from your deck, and it turns every game into a tense balancing act where your deck can rapidly fluctuate in size in a single turn.
+
+The gameplay is simple enough: You have to gather resources to pass by region cards. Successful travels will tick up the Frost meter as you get further away from the storm, while stalling out will allow the Frost meter to tick down. Random event cards show up that can threaten or help you out, and special idea cards appear at each location for you to purchase and supplement your deck.
+
+The gameplay is supplemented by the scenarios. Each one introduces a new character who has special abilities, but must also overcome some special scenario, like finding 4 pets by the end of the run, or beating a special enemy encounter. Completing a scenario unlocks that character for the main gameplay mode, but I think the scenarios are really the heart of Frost. They're all unique and enjoyable, and many even find clever ways to integrate storytelling into the card mechanics. For example, to drive home the Tracker's loneliness, you can find the Gathering card during her scenario, but you can never buy it, since she can't generate two survivors in a turn.
+
+The game's presentation is solid. The scratchy art-style looks terrific, and the music is wonderfully moody. The localization is a bit rough in spots, but there's not a lot of text, so it's not a huge issue. I occasionally had a bug where the game would lock up after finishing a run, but it always saved progress successfully, so it was never a dealbreaker.
+
+Overall, Frost is a smart, moody, and innovative take on deck-building games, and is easy to recommend to anyone who enjoys card games.",1,0,2,0.523809552192688,1157
+490950,76561198032358510,"Great deck building game with phenomenal atmosphere and great replayability. Some of the UI is less-than-forgiving but after getting past that, the game plays really well.",1,0,0,0.5,1367
+490950,76561198065863362,"3.5/5 It kind of fun when u have notthing to do.
+",1,0,0,0.5,409
+490950,76561198031445044,"It was like my first night of playing minecraft.  It wowed me the first few games because of the art, sounds (not the music), and gameplay; then it quickly devolved into tedium.  Most of the problem was that types and number of resources in your hand is way too limited, and the idea deck (or the one you use to upgrade the cards in your starter deck) was way too big with too many requirements.  I almost never upgraded any cards because I never had the necessary resources in my hand to upgrade a card at the time they drop on the table.  Instead, it's a race to the end to stay ahead of the Frost.  There are so many things trying to kill you, one inevitably does before you reach the end.  I won during the tutorial before I had unlocked all of the cards, and I haven't won since.  Games can be devilishly cruel, but this is just a card game.  I do expect to win here and there.",0,0,5,0.5181658864021301,413
+490950,76561197995343647,A classy little indie take on the solitaire genre. Worth the cost both for the fun and for the opportunity to support indie folks doing indie things.,1,0,0,0.5,250
+490950,76561198099187028,This was a resource allocation game until I played the FRIGOMANCER.,1,1,0,0.5,1648
+490950,76561197987428828,"Brutal, unkind, hard to win, and deeply enjoyable. Grab the demo, and know it stays hard even as you unlock content.
+
+Taking deckbuilding mechanics, winnowing out the multiplayer competitive elements and using its digital medium fairly well, Frost succeeds in what it sets out to do.
+
+It's not a relaxing game, it's a game where time, people and resources are all going to run out.
+
+The art is plain, scribbly, and weirdly fitting. I can't imagine it looking cleaner and still working this well.
+
+You can't see the precise contents of decks or monitor discard piles of events and such like you could in a physical card game, so there's slightly more pressure on you that something bad might be just around the corner. 
+
+Sources of cards all add to your singular deck, but you don't know the precise odds of a given source giving you something good or bad. Sending someone to scout? You can't do precise mathsy odds calculation of whether they'll die or add fatigue to your deck.
+
+Unlocks mean the game gets broader and deeper. Scenarios challenge you to play under specific conditions for specific goals, and you can also tweak the rules and deck kindness to get an easier or harder game.
+
+There's no scoring; there's just succeeding or dying.",1,0,1,0.5188284516334534,1117
+490950,76561198086494731,Petite pépite dans le genre de jeu Deck Building.,1,0,1,0.5,234
+490950,76561197995244315,A surprisingly addictive survival card game. Highly replayable and some mild story in the form of challenges. Definitely worth the cost.,1,0,1,0.5258620381355286,363
+490950,76561198058406492,"Потрясающий симулятор проигрышей :)
+На первый взгляд, игра проста: три основных ресурса, элементарная цель - дойти до пункта назначения, минималистичная графика... Но что-то в ней есть такое, что заставляет часами пытаться одолеть систему. От случая здесь зависит многое, но и от умения игрока - тоже. А тех фрагментов, что есть, хватает, чтобы выстраивать в голове целый мир, полный историй :)
+",1,0,2,0.5218556523323059,645
+490950,76561198204539103,güzl ama grk yk,1,2,0,0.47413790225982666,31
+490950,76561198145133434,"Bardzo wciągająca i klimatyczna gra karciana z możliwością zdobywania nowych kart, odblokowywania postaci i misji.
+
+Polecam.",1,0,0,0.45618051290512085,1424
+490950,76561198000421925,"Overrated. Doesn't deserve ""very positive"" reviews, is an order of magnitude worse than other computerized card games (e.g. slay the spire, even in though the later is only pre-release).
+
+
+- Ui clunky, hard to understand even with tutorial. 
+- Crashed to a white-screen within 1 hour of play
+- Music is super repetitive
+- Experience is so-so. It's super hard, which is fine, but at least make it easy for me to reset etc.
+- The game tries to be super artsy and it interferes with the gameplay.
+",0,2,10,0.452771931886673,40
+490950,76561198001002569,"For a jaded gamer that values decision making over hamster's work, for a card game (deck building in particular) enthusiast, for a stone age survivalist in all of us it doesn't get any better. You have to learn those icons and what's what but the more I learn this game the more I'm convinced it's almost a simulator in that the theme fits like glove. The white graphics and great music makes it really immersive. Each game adds something and so the replay value is high. 
+
+10/10 My favorite digital deck building game. Meteorfall comes second.",1,0,1,0.5188284516334534,2389
+490950,76561198142343106,"If you like board games, or otherwise like simple yet deep design, this is the game for you. Frost presents simple goals and gives you a host of tools to complete it, leading to deep strategic and tactical decision making.
+
+Only wish that the game had more varied and difficult challenges, so that i could spend more time with the system.
+
+Definitely recommend.",1,0,0,0.5,179
+490950,76561198065584247,Suprising fun and dynamic. Some intresting choices and interplay between cards. Really enjoyable and worth picking up for the price.,1,0,0,0.4813034236431122,597
+490950,76561198079444699,"I started this game optimistically because I enjoy deckbuilders.  I have been enjoying Monster slayers which is also a rougelike deckbuilder.  The problem with this game is twofold.  The main one is that the rules are opaque; starting in the tutorial and continuing throughout.  It is not clear that resources placed into regions to travel through are reshuffled back into your deck. You should be able to track the state of your deck, because this is a computer game.  This adds complexity to your game without increasing depth.  But the worst thing is apparently when you gain random resources, they are not random, they are drawn from another opaque deck, which I only found out by being so frustrated with the game I spent an hour looking through the forums and finding out that this is a ""good thing"" about this game.  I can buy supplies for two food and open 4 fatigues after sending three survivors out and gaining 2 fatigues and a death card. 
+
+
+I have started turns with a full hand of resources, drawn extra cards with fire and ended the turn with more fatigue cards then the cards I started with.  Which I assumed was poor luck so I keep playing only for it to happen again and again.
+
+I should expect when I send out survivors for resources to have a positive EV.  With my current knowledge of the game I would not play it for free.  This is sad because the games aesthetics and general bones seem good, but that just made me stick around longer, making me more upset.",0,0,3,0.5607543587684631,246
+490950,76561197998568769,"6.5/10
+
+I really liked a lot of what Frost was doing. The aesthetic is stylish, and I liked the minimalist sound design with snowy footsteps and tribal chants. The cards are well-designed, and perfectly fit thematically with the narrative. Although I feel that I never won more than 1/3 of the time, I always wanted to set out again for the refuge. I wanted to escape the Frost!
+
+The refuge is found after travelling a certain number of times, perhaps 25 in a basic game. In order to travel, you need to pay the requirements of a location card. Each location card will require either food, wood, survivors, or some combination of the three. Each time you travel, you create distance between yourself and the Frost. Each turn you dawdle, the Frost grows ever closer. At each location, there is an event happening. Sometimes you can draw extra cards by spending food. Other times, you might run into a group of savages that want to kill your survivors. Attackers can be killed with weapons, but can kill one of your survivors or damage your health (you begin with 4 health) if not dealt with.
+
+Instead of paying the cost of the location card, you can also use resources to buy special cards for your deck or send your survivors out to scavenge. These extra cards can help you do things such as get food more efficiently, heal your wounds, or fight adversaries. Survivors can find other people, pets, food, or wood, although sometimes they find nothing or die in the scavenging attempt. Scavenging failures, as well as certain events, can cause your group to become more fatigued. Fatigue cards clog your deck, and must be managed with purchased special cards or periodic rests (in which you skip a turn to remove all fatigue cards from your hand).
+
+This all sounds quite complicated, and this is without even mentioning how temperature can affect hand size or how different playable characters have innate abilities. However, the game introduces you to these new concepts at a carefully measured rate. After each game, you unlock a new card or cards, and new events. Periodically, you'll also unlock new scenarios which you can conquer for extra playable characters. I never felt overwhelmed by the mechanics of the game, although they can be complicated. It can be very satisfying to think your way out of a bad situation by utilizing character abilities or special cards.
+
+My first 8 hours with the game were fantastic. I continued playing until I unlocked all of the cards, and then beat the first four scenarios. However, things became a rough slog afterwards. The remaining scenarios are brutally difficult, and often seem to require a lot of luck. I would often feel that I was in a good position, but would be unable to seal the deal. On one occasion, I only needed one food card to proceed. I sent out six survivors to scavenge, and they all brought back wood. On four occasions, I lost ""The Recruiter"" scenario after travelling 19 times (out of 25). I felt that the difficulty of the events was out of sync with the strength of the cards I could purchase. After unlocking all of the cards, basic games also became much more difficult. One advanced event card in particular, traverse, kept popping up at the beginning of my games. This event causes the location card to remove all resources spent to travel from your deck. At the beginning of the game when you only possess perhaps 2 wood, 2 food, and 2 survivors, this is absolutely debilitating. During my last three hours with Frost, I didn't win a single game!
+
+Barring the possibility that I suddenly lost all the proficiency I had gained during the first 8 hours of play, I think that there is an enormous RNG difficulty curve at the tail end of the game. I absolutely recommend the title, but think that after unlocking all of the cards and seeing all the mechanics, you've seen the best that the title has to offer.",1,0,4,0.5757071375846863,776
+490950,76561197992783558,"Very well-crafted deck building game that can sometimes be a little frustrating.
+
+Cards are well balanced and fit the survival theme nicely. Unlocking more decks and the various play modes provide a nice amount of replayability. Building your deck rewards strategy and planning ahead.
+
+Some game mechanics have RNG thrown in (take this action, have a chance of various outcomes) which adds some unpredictability and further variety, but this can also be a bit frustrating, watching your carefully crafted deck fall to an improbable unlucky streak. 
+
+Still I think the game struck a nice balance of how often such mechanics are used, it didn't get to the point where it felt like the randomness overwhelmed my card selection.
+
+Highly recommended to fans of deck building games.",1,1,0,0.5,1052
+490950,76561197975929928,"A fun deck building card game made with craft and love  that gets very difficult, very quickly.",1,0,0,0.5,9363
+490950,76561198029904609,"Stark, soft, and beautiful, Frost is almost a great game. Its visuals, low-key world-building, atmospheric winter soundtrack, and general design aesthetic are fantastic. Its core gameplay is fun...but only until you scratch beneath the surface and realize that this is Gods Must Be Watching with a nicer face and prettier clothes.
+
+The problem with Frost is that it's heavily, heavily randomized around its most basic mechanic. You have a hand of survivors, you use them to get resources and new survivors, and you spend your resources to keep ahead of the terrible everstorm at your back. Unfortunately, every time you send a survivor out to scavenge, there's a chance they come back with a featureless trash card and there's a chance they outright die. The game's pacing is relentless and requires highly skilled play...but even then, everything you do devolves back into luck.
+
+Do you draw Fatigue cards or resources? Do your survivors die while scavenging? Do you get the right ideas, regions, or card combinations in your hand to be able to pass an obstacle in time? Are there the right cards available in your region?
+
+Playing well helps you hedge your risks, but you can have starting turns where every one of your three survivors dies or draws Fatigue. Deck clog is a nightmare, and the game has a deck resource tracker that you are only allowed to use on easy mode: i.e. not during real play. On top of that, it has a number of mechanics that it doesn't actually show you. The temperature of a region determines how many cards you draw for each hand, but that temperature isn't clearly marked anywhere...except outside of easy mode. New cards and scenarios can be unlocked through play, but how the game decides when it's ready to give you one is utterly incomprehensible.
+
+On top of that, the limited story of the game unfolds through those scenarios--specific challenges with unique deck mechanics and abilities designed to create a slightly different gamefeel--and unfortunately that gamefeel consists of constantly hammering on the restart button.
+
+Let's take the first unlock, The Leader. You start with three survivors, one wood, two food, and four Fatigue. If one of those starting survivors dies, it's game over. You have an ability that lets you spend one food from your hand for a 50% shot at a new survivor. 50% it does nothing and consume the food. And depending on your start location, you'll need to pay a mix of food, wood, and survivors to get to the next location. Wait too long, and the everstorm murders you.
+
+So, to get enough resources to even have a hope of getting ahead of the storm, you need to send those plot-critical survivors scavenging right out of the gate.
+
+Which means in this particular scenario you'll get game-overed at random on the very first card you play about one time out of ten.
+
+And that's only the most blatant way Frost screws you. As you get deeper into your runs and the everstorm gets closer, you'll end up in situations where you need a survivor to draw a single food to pass on to the next region and every survivor you send comes back with a tree. Two turns later, the storm eats you, all your trees are for naught.
+
+Frost *is* fun, despite the fact that you will play perfectly and lose a lot of the time, but it's not quite what it could be.
+
+If you want a Dominions-y CCG with rich story, deep gameplay, and minimal input from the RNG, I highly recommend War of the Omens as a free alternative.
+
+If you're not as particular about that, if you like good art and atmosphere, or if you just want a decent timekill, Frost's developer is definitely still worth supporting. 10$ as an investment in a decent game and the hope of better games to come would not be a bad thing, and maybe they'll lean less on randomization and more on player choice.",1,0,1,0.5324675440788269,349
+490950,76561197973899044,"Ein Super Spiel! 
+Ganz wichtig: man muss sich in die Atmosphäre rein versetzen! Für so nebenbei ist das nichts.
+
+Sehr erwähnenswert ist, das man sein Schwierigkeitsgrad selber einstellen kann (wie viele Regionen man durchwandern muss, um ans Ziel zu gelangen, wie viele Tiere man hat, die euch helfen usw.).",1,0,0,0.5,100
+490950,76561198066090870,"Downloaded the Demo, played, had a lot of fun. 
+Instant buyed the game. 
+I recomend it for all deckbuiling-game-fans and thos who like Cardgames.
+The artstyle looks much better in the game than at the screens, in my opinion!
+
+Keep on the great work :)",1,0,1,0.5363636016845703,156
+490950,76561198113183220,8/8,1,0,0,0.4422999620437622,898
+490950,76561198035874665,"[h1]Certainly not a game for everyone, but if you're intrigued by the theme or the thought of pushing your luck in a hostile card-driven affair, then Frost is a pretty cool pick.[/h1]
+
+Aside from being chromatically challenged, Frost is notable for being a solitaire experience inspired by real world deck-building card games such as Dominion and its subsequent imitators including World of Tanks: Rush and Resident Evil.
+
+The action, such as it is, takes place in the sort of post-apocalyptic setting that author Kurt Vonnegut made popular in his seminal novel Cat's Cradle; a freezing world where tribes must now band together for their very survival. In the game's 'Classic' mode you become a leader who must collect the resources needed to traverse the land in search of a mythical place called the ""Refuge"" whilst also trying your best to outrun the titular snow storm that threatens to consume all.
+
+Every concept is rendered in card form with your own personal deck consisting of resources like Food, Materials, Survivors, and other gubbins such as weapons or even Ideas. Other cards stand in for the Regions that you must cross as well as the special events or obstacles that your tribe will run into along the way.
+
+Also rearing its ugly head here is the time-worn mechanic by where a useless card (in this case representing Fatigue) is routinely dumped into your deck as play progresses. As with The Big Book of Madness, the inclusion of bogus cards makes thematic sense here because it's important for the player to feel pressured.
+
+Nevertheless, I'm generally not a fan of mechanics like these and whilst Frost does offer you the default option of Resting in order to remove Fatigue, I really dislike how it's included in your starting deck. There are times when my first turn is skipped in order to remove Fatigue and that just feels wrong. Fatigue can also be incurred when activating certain cards that grant a random reward. Specialist cards like Supplies, the Gatherer or the Frigomancer are made very unattractive due to this foible and the same applies for when it's time to scavenge.
+
+Scavenging is a necessary evil early on when your tribe lacks the resources required to physically pass into the next Region. By discarding a Survivor card, players run the risk of gaining Fatigue or killing the Survivor (!) for a chance at discovering Food, Materials, or other Survivors. These random draws can be of critical importance and yet Fatigue or fatalities can quickly pile up before you have a chance to really get going. When you consider that Regions and Ideas are also randomly generated, it only makes sense to continue harder games when the first round conditions are beneficial. In short: you can expect to be pressing the 'Restart' button a lot.
+
+Many things are governed by random elements in fact, even down to certain card abilities that have a percentage chance of activating. You can spend time building a Trap, but that doesn't necessarily mean anything tasty is going to fall into it. To a degree this actually makes good thematic sense, but again it's the element of chance here that can make formulating reliable combo chains and other tactics next to impossible. It's this facet of Frost's design that's going to be the most taxing on your patience.
+
+You lose the game when the Frost timer ticks down from eight to zero, and whilst the timer ticks up every time you travel onwards, it's extremely unlikely that your deck will contain the goods needed to do this consistently. One one hand this makes the game remarkably tense and the designer's unsubtle use of creepy music and jarring screen effects only enhance that tension further. Because of the reliance on randomization, however, Frost is a supremely difficult game to get to grips with and that hard time only continues to get harder as new cards and scenarios are unlocked.
+
+Scenario play is more interesting than the Classic mode as in addition to collecting items or seeking out the Refuge, your scenario character will have goals of their own. The Hunter and The Meditator for example have simple objectives, but some like The Shadow and The Skeptic have quite involved missions with fresh patterns of play. Mixing this up further is the addition of character abilities that give each leader their own unique advantages and play styles.
+
+The other thing about Scenarios is that they're hard. Really hard. And it's likely that most players' luck and patience will simply run out before they can achieve victory in each one. Part of the problem here once again revolves around the game's inherent randomness.
+
+The developer has taken care not to label Frost as an actual deck-building game because of the false implication that you're in any way building an engine out of the cards that you collect. Getting the cards you desperately need to make your deck work is a process governed by chance and smoothed over via careful play. You're not so much building a deck as you are managing an ever-changing pool of resources, so there are times when defeat is going to be an inevitable outcome of drawing poorly and falling behind.
+
+What's nice though is that Frost's intense difficulty is built up gradually as the player continues to finish games. By the time your card album is complete, you'll have discovered all sorts of new tools including stacked resources, Charisma checks, and as the result of several free updates; cards for Pets and Weather effects. With this breadth of content comes a sharper learning curve, but the on-screen tooltips and instructional blurbs are usually on point in explaining exactly what you need to know about each of the game's symbols.
+
+Which brings us to Frost's rather wonderful presentation. It's certainly not one for photophobics, mind, but the all-white menus and eerie music do a near perfect job of transporting you into the setting. Also notable is the game's artwork whose roughshod charm resembles the works of Quentin Blake quite nicely. Story threads are limited to whatever awkwardly translated text you see during splash screens, which is a shame, but the overall theme of the ""Frost"" meaning different things to different people is an intriguing one nonetheless.
+
+Despite its light and addictively simple gameplay then, Frost is not really a game for casual players. The real meat is found in the Scenarios and yet the sheer difficulty and trial and error nature of that mode is likely to frustrate those who go in unprepared.
+
+Nevertheless, I'm currently finding this to be an equally difficult game to put down. Whether it's my intense fondness of card games or a hidden masochism that's responsible, I've taken great pleasure in exploring the bleak and uncompromising world that Frost represents.
+
+[url=http://www.celjaded.com/review-frost-digital-card-game/]Read the full review at my blog »[/url]",1,0,3,0.5695363879203796,978
+490950,76561198111157752,"Un excellent jeu de cartes solo aux règles claires et efficaces. Poursuivi par une tempête mortelle, faites traverser la montagne aux survivants en utilisant au mieux les cartes ressources. Addictif !",1,0,1,0.5258620381355286,23
+490950,76561198325087090,"Bellissimo gioco: meccanica interessante, atmosfera suggestiva e varie modalità che ne garantiscono la longevità!",1,0,0,0.5,149
+490950,76561198002560836,"Dude this game came out of the blue a year ago and im really glad i dove in, you have been a loving dev and even though the base game was great, you continuted to pour more and more love into it. I am a greatful fan and look forward to all of your future work ! Great job dude!
+
+
+
+Really fun and stylized deck building game, with a lot of unique mechanics and a cheap price, the Dev has also poured ton of content updates into a already full game, i have nothing but love baby!",1,0,0,0.4550408720970154,176
+490950,76561198024977470,"Do you find yourself pulling out a deck of cards and solitaire when you've got a deck of cards and just need to pass some time?   At the board game store do you peruse the shelves that are marked ""solo games""?  Can you accept a game where most of the time you will not win?
+
+If the answers to these questions are yes, then Frost is an excellent game.
+
+If you require interaction or want a win ratio of 90% when playing a game, this might be one to pass by.
+
+Frost is a solo card game where you take a role (starting cards and possible special abilities) to take your ice age band of hunter gatherers to try to survive.  You manage a deck of resources (food, wood, people), ideas/tools (cannibalism, pick axe, bandages, campsite, etc...) and sometimes pets along with the dreaded fatigue to meet the challenge of the region (you need 2 food and 3 people to travel) and handle events (wolf attack, traders, spirit stone).  You need to race ahead of the frost meter as each turn you don't move, it creeps closer to death.
+
+Its a good game - I've enjoyed it.",1,0,0,0.5,615
+490950,76561197999259031,"Brutal singleplayer deckbuilder with a unique and beautiful art style. It's really its own beast- it doesn't play like your typical deckbuilder, but has its own ebb and flow that I find very satisfying.
+
+Here's the basic game flow- you start with a handful of food and wood, and a couple survivors. You use your survivors to gain more resources, which you'll need to gain idea cards and to pass the area. Ideas are extremely useful and give you better access to resources, thin your deck, or remove negative cards. On the other hand, you only have a limited amount of time total to bypass a certain number of areas, so you can't usually dawdle around and just build a lot of ideas. But if you don't build enough ideas, then you'll be doomed when a particularly difficult area arises. 
+
+Each area also has an encounter- sometimes friendly, sometimes not. Not all encounters are difficult, but they always throw a wrinkle in your plan.
+
+You're always pushed forwards, but additional ideas are unlocked for each turn you stay in an area. It's often a difficult decision- do I stall for a turn or two to gain an excellent card, or do I forge onwards and hope it doesn't matter? The right choice isn't always obvious for a couple of areas, so learning what sorts of threats are likely to be ahead of you matters.
+
+Additionally, more interesting cards and obstacles and areas are unlocked as you play. It's really a fascinating game, and there's nothing quite like it.",1,0,2,0.5660563111305237,277
+490950,76561197972462277,"It's a really nice deck building game. The unlocking occurs at a steady pace and there are multiple scenarios to complete, some hard, some easy. The mechanics are simple, but resource management is quite critical. You can't just gather everything you can get your hands on, you need to craft your deck, keeping just the right balance of combat cards and resources.
+
+The artwork looks simple, but it's quite beautiful. The entire atmosphere of the game is oddly relaxing, like a quiet day in the woods (or, given the theme, a snowy woods).",1,0,0,0.4813034236431122,837
+490950,76561198202851810,"This is a fun little card game. The art style is just haunting enough to keep you on your toes and really think about your choices. It really gives the game a sense of urgency, especially when the frost counter gets really low. That said, I think it could definitely get stale after a while. There are dozens of cards to unlock, but they unlock in random order. My first few games were pretty frustrating as I didn't have a lot of idea cards unlocked that could help me, and I was struggling with the learning curve. Once you figure it out though, it's a lot more fun. I just started so I am still playing on easy difficulty, but it's still not as simple as you might think. I bought it on sale, but I would argue it's worth the full price if card games are your thing.",1,0,2,0.5438839197158813,140
+490950,76561198250784110,"Fascinating and creative card game. I know this style of game and genre can be a tough sell on Steam, but it's still great to see devs trying out new ideas. Well worth checking out if you dig unique and unusual card games!",1,0,0,0.5,997
+490950,76561198059554724,"This is a really great game.
+Really good mix between a rogue-like and a deck building game.",1,0,0,0.5,130
+490950,76561197991992183,"Do you like deckbuilding games like Dominions or Star Realm? If so, you should get this game- even as a solo game, it's well designed and the theme works great with the cardset.
+
+If you don't know whether you would like this game- try the demo! It's a solid example of the game and well worth the time it takes to play it.",1,0,0,0.5,138
+490950,76561198014731458,It is a cool deckbuilding game,1,0,0,0.4740200638771057,817
+490950,76561198040963496,신박한 컨셉의 TCG 생존 게임은 순간 재미있었지만 내 머리론 그 난이도를 극복할 수 없었다,1,1,0,0.4761904776096344,127
+490950,76561198045401832,"Very unique card game. Feels like a real tabletop card game. Pretty tough but you unlock cards and scenarios if your losses are good. Random hands and challenges, so some games may be impossible but the grind is suspenseful as The Frost is chasing you. I am a card game freak and recommend this one highly. 
+
+The game is depressing and too hard to really have fun with it like other card games.
+
+PLAY THE DEMO",1,0,0,0.5,534
+490950,76561198017568860,"Depuis la sortie du jeu sur table Dominion, différents jeux vidéo ont vu le jour mettant en scène un deck (pour les non initiés, un paquet de cartes) qui va contenir différentes ressources et actions que vous allez modifier au gré de l'aventure. A contrario des classiques où l'on affronte un adversaire, dans ce type de jeux, c'est l'environnement que l'on doit vaincre.
+
+Dans Frost, votre objectif principal est de devancer le froid glacial synonyme de mort s'il vous rattrape. Pour ce faire, votre deck va contenir des provisions, du bois, des survivants et des idées que vous achèterez probablement au cours de la partie. Les icônes sont assez parlantes mais il est vivement conseillé de passer par le tutorial avant de lancer votre première partie.
+
+Les cartes sont assez bien équilibrées et les différents scénarios ainsi que les nouvelles cartes qui se rajoutent viennent renouveler le gameplay et ajouter de la durée de vie.
+
+Niveau graphisme on a quelque chose de simple dans des tons de blanc et bleu pour refletter le froid omniprésent dans l'aventure. De même au niveau audio on a quelque chose de très léger mais qui colle parfaitement à l'ambiance du jeu à savoir une tribu qui se bat dans une immensité glacée.
+
+Personnellement, j'apprécie énormément ce type de jeu et de fait Frost a été une excellente surprise. Si vous êtes curieux ou que vous hésitez à l'acheter, je vous invite à essayer la démo et à vous faire votre propre opinion.",1,0,3,0.5406360626220703,1539
+490950,76561198044613800,"Dispite I think this game is excellent, and I find it very nice, I have to write a bad evaluation for it, because there is a very anoying point making I stopped to play it :
+It's not possible to see cards in the deck (and not possible to see discarded card if there are too much, you see only 2 first rows). So it's impossible to planify something and know how many card of each type you have.
+Also, the game need a way to remove some cards from the deck like animals or unwanted cards.",1,0,0,0.5,852
