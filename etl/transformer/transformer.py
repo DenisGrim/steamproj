@@ -23,6 +23,8 @@ class Handler(FileSystemEventHandler):
 
     def on_closed(self, event):
         if event.src_path.endswith("reviews.csv"):
+            if file in self.processed:
+                return
             file = event.src_path
             try:
                 self.process_file(file)
@@ -38,15 +40,13 @@ class Handler(FileSystemEventHandler):
 
 
     def process_file(self, file):
-       if file in self.processed:
-           return
-       print("ready: ", file)
-       df = pd.read_csv(file)
-       self.append_review_length(df, file)
-       self.convert_recommend(df, file)
-
-       l.db_copy_reviews(file)
-       self.add_embed_to_game(df)
+        print("ready: ", file)
+        df = pd.read_csv(file)
+        self.append_review_length(df, file)
+        self.convert_recommend(df, file)
+        
+        l.db_copy_reviews(file)
+        self.add_embed_to_game(df)
 
 
     def append_review_length(self, df, file):
