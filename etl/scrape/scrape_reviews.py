@@ -24,6 +24,8 @@ headers = headers = {
     "Priority": "u=0, i"
 }
 
+SCRIPT_DIR = Path(__file__).resolve().parent
+in_docker = os.getenv("RUNNING_IN_DOCKER") == "1"
 
 def get_reviews(app_id, cursor = "*"):
     html_url = f"https://store.steampowered.com/appreviews/{app_id}?json=1"
@@ -91,10 +93,12 @@ def write_review_file(app_id, data, tmp_path = None):
         print(f"reviews for {app_id} don't exist!")
         return
     
-    base = Path(tmp_path) if tmp_path is not None else Path("mydata")
+    base = SCRIPT_DIR / ".." / "mydata"
     path = base / f"{filename}.csv"
-    # TODO figure out how I can use path here so it works in docker and for tests. 
-    with open(f"/mydata/{filename}.csv", "w", newline="", encoding="utf-8") as f:
+
+    if in_docker:
+        path = f"/mydata/{filename}.csv"
+    with open(path, "w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
         writer.writerow(["app_id", "user_id", "review", "does_recommend", "funny",
                 "helpful", "weight", "playtime_at_review"])  # header
@@ -114,25 +118,28 @@ def write_review_file(app_id, data, tmp_path = None):
 
 
 def main():
-    # remove file signalling observer is ready
-    os.remove("/mydata/setup-complete")
 
-    data = pd.read_csv ("/mydata/appid_queue.csv")
+    path = SCRIPT_DIR / ".." / "mydata" / "appid_queue.csv"
+    if in_docker:
+        # remove file signalling observer is ready
+        os.remove("/mydata/setup-complete")
+        path = "/mydata/appid_queue.csv"
+
+    data = pd.read_csv(path)
     for app_id in data["app_id"].unique():
         response = get_reviews(app_id)
-        response = parser(response)
 
         # handle rate limitation
-        if response["success"] == 0:
+        if response == "":
             for i in range(2,6):
                 delay = i * i * 5
                 print(f"rate limit. Retrying {app_id} in {delay}")
                 time.sleep(delay)
                 response = get_reviews(app_id)
-                if response["success"] == 1:
+                if response != "":
                     break
 
-
+        response = parser(response)
         write_review_file(app_id, response)
         time.sleep(random.uniform(0.8, 2.0))
 
