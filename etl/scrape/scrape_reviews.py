@@ -82,7 +82,15 @@ def broken_reviews(data):
 
 def write_review_file(app_id, data, tmp_path = None):
     filename = f"{app_id}_reviews"
+
+    # handle broken files
+    broken_review_log = SCRIPT_DIR / ".." / "broken_reviews.csv"
+    if in_docker:
+        broken_review_log = "/broken_reviews.csv"
     if broken_reviews(data):
+        with open(broken_review_log, "a") as f:
+            f.write(app_id + "\n")
+        print("broken review json: " + app_id)
         return
 
     # remove all reviews with no review-text (review text is in ["review"])
