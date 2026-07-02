@@ -130,13 +130,13 @@ def main():
         response = get_reviews(app_id)
 
         # handle rate limitation
-        if response == "":
+        if not response:
             for i in range(2,6):
                 delay = i * i * 5
                 print(f"rate limit. Retrying {app_id} in {delay}")
                 time.sleep(delay)
                 response = get_reviews(app_id)
-                if response != "":
+                if response:
                     break
 
         response = parser(response)
