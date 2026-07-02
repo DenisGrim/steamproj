@@ -89,8 +89,8 @@ def write_review_file(app_id, data, tmp_path = None):
         broken_review_log = "/broken_reviews.csv"
     if broken_reviews(data):
         with open(broken_review_log, "a") as f:
-            f.write(app_id + "\n")
-        print("broken review json: " + app_id)
+            f.write(str(app_id) + "\n")
+        print("broken review json: " + str(app_id))
         return
 
     # remove all reviews with no review-text (review text is in ["review"])
